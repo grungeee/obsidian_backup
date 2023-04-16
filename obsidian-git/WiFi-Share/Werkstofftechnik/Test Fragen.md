@@ -1,3 +1,6 @@
+> [!missing]
+> Eine Seite fehlt!
+
 - s. 97
 	1. Welche Hauptgruppen werden bei den [[Fertigungsverfahren]] unterschieden? 
 	2. Beschreiben Sie je ein Verfahren einer Hauptgruppe.
