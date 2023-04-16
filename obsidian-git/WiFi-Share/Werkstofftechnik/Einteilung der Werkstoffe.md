@@ -1,0 +1,32 @@
+
+- Metalle
+	- Eisen-Werkstoffe
+		- [[Stähle]]
+			-  Unlegierter Baustahl
+			- Werkzeugstahl
+			- Vergütungsstahl
+		- [[Gusswerkstoffe]]
+			- Gusseisen
+			- Temperguss
+			- Stahlguss
+	- [[NE-Metalle]]
+		-  [[Schwermetalle]](ρ>5kg/dm³)
+			- Kupfer
+			- Zink
+			- Blei
+		- [[Leichtmetalle]] (ρ<5kg/dm³)
+			- Aluminium
+			- Magnesium
+			- Titan
+- Nichtmetalle
+	- [[Künstiche Nichtmetallwerkstoffe]]
+		-  Kunstoffe
+			- Glas
+			- Keramik
+		- [[Naturwerkstoffe]]
+			- Granitstein
+			- Graphit
+			- Holz
+- [[Verbundwerkstoffe]]
+	- [[Verstärkte Kunstoffe]]
+	- [[Hartmetalle]]
