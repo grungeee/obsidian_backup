@@ -11,12 +11,8 @@
             "id": "5647f8ec6d8c22d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test from pc.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,9 +81,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test from pc.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test from pc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test from pc.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +140,38 @@
   },
   "active": "5647f8ec6d8c22d1",
   "lastOpenFiles": [
-    "test from pc.md"
+    "obsidian-git/test from pc.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Verstärkte Kunstoffe.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Verbundwerkstoffe.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Unterschied zwischen Vorgang und Verfahren.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Test Fragen.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Stähle.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Sintern.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Schwermetalle.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Scherschneiden.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Naturwerkstoffe.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/NE-Metalle.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Mechanische Presse.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Maschinenhämmer.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Maschinen zum Umformen.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Leichtmetalle.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Künstiche Nichtmetallwerkstoffe.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Hydraulische Presse.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Herstellung der Werkstoffe.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Hauptpunkte.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Hartmetalle.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Gusswerkstoffe.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Energie & Hilfsmittel.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
+    "Werkstofftechnik/test.md",
+    "Werkstofftechnik",
+    "test from pc.md",
+    "obsidian-git/WiFi-Share/Werkstofftechnik",
+    "obsidian-git/WiFi-Share",
+    "obsidian-git"
   ]
 }
