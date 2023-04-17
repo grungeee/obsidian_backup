@@ -11,8 +11,12 @@
             "id": "819399ca664250e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md"
+          }
         }
       },
       {
@@ -141,7 +149,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d0b465a6212e8ccf",
+  "active": "819399ca664250e2",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Künstiche Nichtmetallwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Verbundwerkstoffe.md",
