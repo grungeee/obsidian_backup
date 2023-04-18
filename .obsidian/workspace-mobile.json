@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "899d78b9b3bab366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -152,6 +165,7 @@
   "active": "819399ca664250e2",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Unterschied zwischen Vorgang und Verfahren.md",
     "WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Maschinen zum Umformen.md",
@@ -159,7 +173,6 @@
     "WiFi-Share/Werkstofftechnik/Stähle.md",
     "WiFi-Share/Werkstofftechnik/Künstiche Nichtmetallwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Verbundwerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Energie & Hilfsmittel.md",
     "WiFi-Share/Werkstofftechnik/Verstärkte Kunstoffe.md",
     "WiFi-Share/Werkstofftechnik/Leichtmetalle.md",
