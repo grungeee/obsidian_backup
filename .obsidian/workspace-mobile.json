@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+            "file": "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+            "file": "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md"
+            "file": "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md"
           }
         }
       },
@@ -162,10 +163,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "819399ca664250e2",
+  "active": "899d78b9b3bab366",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
     "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+    "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
+    "WiFi-Share/Made by Luca.md",
+    "/WiFi-Share/Werkstofftechnik/Test Fragen.md",
+    "/WiFi-Share/Made by Luca.md",
     "WiFi-Share/Werkstofftechnik/Unterschied zwischen Vorgang und Verfahren.md",
     "WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Maschinen zum Umformen.md",
@@ -192,9 +196,6 @@
     "WiFi-Share",
     "WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
-    "/WiFi-Share/Werkstofftechnik/Verstärkte Kunstoffe.md",
-    "/WiFi-Share/Werkstofftechnik/Verbundwerkstoffe.md",
-    "/WiFi-Share/Werkstofftechnik/Unterschied zwischen Vorgang und Verfahren.md",
     "/WiFi-Share/Werkstofftechnik/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "/WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
