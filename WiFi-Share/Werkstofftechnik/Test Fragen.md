@@ -90,10 +90,9 @@
 	5. Wie wirkt sich die Vakuumbehandlung auf die Qualität des Stahles aus?
 	6. Welche Vorteile hat der Strangguss gegenüber dem Blockguss?
 - s. 355
-	Nach welchen Unterscheidungsmerkmalen werden die Stähle eingeteilt?
-
-1. Wodurch unterscheiden sich die Edelstähle von den Qualitätsstählen?
-2. Welche Hauptgüteklassen unterscheidet man bei den Stählen?
-3. ﻿﻿﻿Nennen Sie mindestens vier zu den Baustählen gehörende Stahlgruppen.
-4. ﻿﻿Aus welchen Teilen besteht die Bezeichnung eines Stahlerzeugnisses?
-5. ﻿﻿Nennen Sie je einen Kurznamen eines unlegierten Vergütungsstahls, eines legierten Einsatzstahls, eines Automatenstahls und eines Warmarbeitsstahls.
+	1. Nach welchen Unterscheidungsmerkmalen werden die Stähle eingeteilt?
+	2. Wodurch unterscheiden sich die Edelstähle von den Qualitätsstählen?
+	3. Welche Hauptgüteklassen unterscheidet man bei den Stählen?
+	4. ﻿﻿﻿Nennen Sie mindestens vier zu den Baustählen gehörende Stahlgruppen.
+	5. ﻿﻿Aus welchen Teilen besteht die Bezeichnung eines Stahlerzeugnisses?
+	6. ﻿﻿Nennen Sie je einen Kurznamen eines unlegierten Vergütungsstahls, eines legierten Einsatzstahls, eines Automatenstahls und eines Warmarbeitsstahls.
