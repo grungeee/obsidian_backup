@@ -11,8 +11,12 @@
             "id": "a86dc2d013061cbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Untitled/test sfsdafasdfasdfas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WiFi-Share/Untitled/test sfsdafasdfasdfas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WiFi-Share/Untitled/test sfsdafasdfasdfas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WiFi-Share/Untitled/test sfsdafasdfasdfas.md"
+              }
             }
           }
         ]
@@ -137,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a86dc2d013061cbb",
+  "active": "95810e679cb66366",
   "lastOpenFiles": [
+    "WiFi-Share/Untitled/test sfsdafasdfasdfas.md",
+    "testing",
+    "WiFi-Share/Untitled",
     "test",
     "WiFi-Share/Werkstofftechnik/Maschinen zum Umformen.md",
     "WiFi-Share/Werkstofftechnik/Mechanische Presse.md",
@@ -182,9 +193,6 @@
     "obsidian-git/WiFi-Share/Werkstofftechnik/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "obsidian-git/WiFi-Share/Werkstofftechnik",
     "obsidian-git/WiFi-Share",
-    "obsidian-git",
-    "obsidian_backup/test_by_myodyssey",
-    "obsidian_backup/WiFi-Share/Werkstofftechnik",
     "Fragen.canvas"
   ]
 }
