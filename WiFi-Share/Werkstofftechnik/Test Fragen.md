@@ -70,7 +70,9 @@
 	3. Was kann man aus dem **Eisen-Kohlenstoff-Zustandsdiagramm** ablesen?
 	4. Welche Gefügebestandteile kann man für einen Stahl mit 0,4% C aus dem Fe-C-Diagramm ablesen?
 	5. Wie verändert sich das Gefüge von Stahl met 1% Kohlenstoff beim Erwärmen von Raumtemperatur (20C) auf 1000C?
-	6. Welche Kristallgitterform hat Stahl unter 723C und welche über 723C?
+	6. Welche Kristallgitterform hat Stahl unter 7
+
+23C und welche über 723C?
 - s. 344
 	1. Was zeigt das Gefüge eines Metalls?
 	2. Wie sind die Metalle im atomaren Größenbereich aufgebaut?
