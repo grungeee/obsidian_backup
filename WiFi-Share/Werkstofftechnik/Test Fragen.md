@@ -2,7 +2,8 @@
 
 - s. 97
 	1. Welche Hauptgruppen werden bei den [[Fertigungsverfahren]] unterschieden? 
-	2. Beschreiben Sie je ein Verfahren einer Hauptgruppe.
+	- 
+	3. Beschreiben Sie je ein Verfahren einer Hauptgruppe.
 - s. 103 
 	1. Aus welchen Gründen werden Werkstücke durch Gießen hergestellt?
 	2. Warum sind die Modellmaße größer als die Maße des herzustellenden Gussstücks?
