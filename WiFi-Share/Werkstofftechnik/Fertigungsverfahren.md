@@ -6,7 +6,7 @@
 		- **ionisiert** - Galvanoplastik
 - Umformen
 	- [[Unterschied zwischen Vorgang und Verfahren|Vorgänge]]
-		Druckumformee Zugdruckumformen, Zugumformen, Biegeumformen, Schubumformen
+		Druckumformen Zugdruckumformen, Zugumformen, Biegeumformen, Schubumformen
 	- [[Unterschied zwischen Vorgang und Verfahren|Verfahren]] 
 		- Walzen 
 		- Gesenkformen
