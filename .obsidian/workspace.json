@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a61e95de73d26e2c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-04-20 20.02.46.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.02.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.02.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md"
+                "file": "Excalidraw/Drawing 2023-04-20 20.02.46.excalidraw.md"
               }
             }
           }
@@ -157,14 +167,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9fb5c5d527a4837",
+  "active": "a61e95de73d26e2c",
   "lastOpenFiles": [
+    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+    "Excalidraw/Drawing 2023-04-20 20.02.46.excalidraw.md",
+    "Excalidraw",
     "Pasted image 20230420200149.png",
     "WiFi-Share/Schweißen/Untitled.md",
-    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "WiFi-Share/Technisches Zeichenen",
     "WiFi-Share/Werkstofftechnik/Test Fragen.md",
     "WiFi-Share/Schweißen",
@@ -204,10 +217,8 @@
     "git-share/WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "git-share/WiFi-Share/Werkstofftechnik",
     "git-share/WiFi-Share",
-    "git-share",
     "obsidian-git/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
-    "obsidian-git/WiFi-Share/Werkstofftechnik/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "Fragen.canvas"
   ]
 }
