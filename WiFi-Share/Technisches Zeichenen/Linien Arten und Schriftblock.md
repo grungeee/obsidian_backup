@@ -1,1 +1,2 @@
-[[Linienarten]]
+
+![[Linienarten]]
