@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4b0e5382915b9edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c04d3b4a98e993ed",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md"
+                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md"
               }
             }
           }
@@ -173,9 +185,10 @@
   },
   "active": "95810e679cb66366",
   "lastOpenFiles": [
+    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+    "WiFi-Share/Technisches Zeichenen/Untitled.md",
     "WiFi-Share/Werkstofftechnik/Pictures",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
-    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Excalidraw/Linienarten.md",
     "Excalidraw",
     "Pasted image 20230420200149.png",
@@ -216,7 +229,6 @@
     "git-share/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "git-share/WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "git-share/WiFi-Share/Werkstofftechnik",
-    "git-share/WiFi-Share",
     "obsidian-git/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "Fragen.canvas"
