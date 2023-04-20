@@ -11,8 +11,12 @@
             "id": "7a7baf0edfc3f457",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/test/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "WiFi-Share/test/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "WiFi-Share/test/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,11 +113,12 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "WiFi-Share/test/Untitled.md"
+          }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -128,6 +135,7 @@
   },
   "active": "e9fac327666863f7",
   "lastOpenFiles": [
+    "WiFi-Share/test/Untitled.md",
     "WiFi-Share/test",
     "WiFi-Share",
     "WiFi-Share/Werkstofftechnik/Verbundwerkstoffe.md",
