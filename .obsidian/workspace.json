@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md"
+                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md"
               }
             }
           }
@@ -203,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06537403b0ab72cd",
+  "active": "4b0e5382915b9edd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "WiFi-Share/Technisches Zeichenen/Ansichten.md",
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
