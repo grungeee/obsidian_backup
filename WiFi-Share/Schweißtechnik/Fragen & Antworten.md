@@ -7,18 +7,17 @@
 - Mit einer EN ISO 9606 -1 Werkstückdicke von 2,5mm ist ein Bereich von 2,5mm- 5mm abgedeckt. Mit 5,0mm ist ein Bereich von 3mm - 10mm abgedeckt.
 - Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbadsicherung verwendet.
 - Eine Schweißerprüfung nach EN ISo 9606 - 1ist wie folgt Gültig
-> [!attention] Mehrere Punkte zusammengefassen
+> [!attention] Mehrere Punkte zusammenfassen
 
-- Bestätigung der Gültigkeit
-Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
-D
-Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der SchweißSaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch
-vird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
-Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
-Verlängerung der Qualifikation
-Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
-Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
-a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
-b ) Alle 2 Jahre müssen zwei Schweißnähte, die in den letzten 6 Monaten der Gültigkeit geschweißt
-rden, mittels Durchstrahlungsprüfung. Ultraschallprüfung oder zerstörender Prüfung geprüft
+### Bestätigung der Gültigkeit
+- Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
+- Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wo ird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
+- Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
+#### Verlängerung der Qualifikation
+- Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
+- Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
+	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
+	b ) Alle 2 Jahre müssen zwei Schweißnähte, die in den letzten 6 Monaten der Gültigkeit geschweißt werden, mittels Durchstrahlungsprüfung. Ultraschallprüfung oder zerstörender Prüfung geprüft
 d dokumentiert werden. Die Schweißnähte müssen die Bewertungsbedingungen für Unregelmäßigkeiten erfüllen, die in Abschnitt 7 der EN ISO 9606-1 festgelegt sind. Die geprüfte Schweißnaht muss die ursprünglichen Prüfbedingungen reproduzieren, ausgenommen für die Dicke und den Rohraußendurchmesser. Dies Prüfungen verlängerm die Schweißer Prüfungsbescheinigung für weitere 2 Jahre.
+
+
