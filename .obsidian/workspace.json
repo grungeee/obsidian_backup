@@ -35,11 +35,9 @@
             "id": "4b0e5382915b9edd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/zeichenarten.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md"
               }
             }
           },
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/zeichenarten.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/zeichenarten.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/zeichenarten.md"
+                "file": "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md"
               }
             }
           }
@@ -185,9 +183,10 @@
   },
   "active": "4b0e5382915b9edd",
   "lastOpenFiles": [
-    "Pasted image 20230420201903.jpg",
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "WiFi-Share/Technisches Zeichenen/zeichenarten.md",
+    "Pasted image 20230420201936.jpg",
+    "Pasted image 20230420201903.jpg",
     "WiFi-Share/Werkstofftechnik/Pictures",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
     "Excalidraw/Linienarten.md",
@@ -229,8 +228,6 @@
     "git-share/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "git-share/WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "git-share/WiFi-Share/Werkstofftechnik",
-    "obsidian-git/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
-    "04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "Fragen.canvas"
   ]
 }
