@@ -11,12 +11,8 @@
             "id": "7a7baf0edfc3f457",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/test/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WiFi-Share/test/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "WiFi-Share/test/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "WiFi-Share/test/Untitled.md"
-          }
+          "state": {}
         }
       }
     ]
@@ -135,6 +127,8 @@
   },
   "active": "e9fac327666863f7",
   "lastOpenFiles": [
+    "Schweißtechnik/Fragen & Antworten.md",
+    "Schweißtechnik",
     "WiFi-Share/test/Untitled.md",
     "WiFi-Share/test",
     "WiFi-Share",
@@ -164,7 +158,6 @@
     "WiFi-Share/Werkstofftechnik/Hartmetalle.md",
     "WiFi-Share/Werkstofftechnik/Sintern.md",
     "WiFi-Share/Werkstofftechnik/Schwermetalle.md",
-    "WiFi-Share/Werkstofftechnik/Herstellung der Werkstoffe.md",
     "WiFi-Share/Technisches Zeichenen",
     "WiFi-Share/Werkstofftechnik/Pictures/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
