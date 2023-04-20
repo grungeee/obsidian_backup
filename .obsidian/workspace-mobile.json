@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "812eef7d805d6684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Made by Nikita.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1,
@@ -165,10 +177,11 @@
   },
   "active": "899d78b9b3bab366",
   "lastOpenFiles": [
+    "Made by Nikita.md",
+    "WiFi-Share/Made by Luca.md",
     "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
     "/WiFi-Share/Werkstofftechnik/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Test Fragen.md",
-    "WiFi-Share/Made by Luca.md",
     "/WiFi-Share/Made by Luca.md",
     "WiFi-Share/Werkstofftechnik/Unterschied zwischen Vorgang und Verfahren.md",
     "WiFi-Share/Werkstofftechnik/Einteilung der Werkstoffe.md",
@@ -191,7 +204,6 @@
     "WiFi-Share/Werkstofftechnik/Hydraulische Presse.md",
     "WiFi-Share/Werkstofftechnik/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/Schwermetalle.md",
-    "WiFi-Share/Werkstofftechnik/Gusswerkstoffe.md",
     "WiFi-Share/Werkstofftechnik",
     "WiFi-Share",
     "WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
