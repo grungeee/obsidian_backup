@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md"
+                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c04d3b4a98e993ed",
+  "active": "4b0e5382915b9edd",
   "lastOpenFiles": [
-    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
+    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "WiFi-Share/Technisches Zeichenen/zeichenarten.md",
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
