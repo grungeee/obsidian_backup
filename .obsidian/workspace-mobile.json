@@ -19,8 +19,12 @@
             "id": "6b342ef28c098c91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md"
+          }
         }
       }
     ]
@@ -134,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b342ef28c098c91",
+  "active": "e9fac327666863f7",
   "lastOpenFiles": [
     "Untitled.md",
     "WiFi-Share/test/Untitled.md",
