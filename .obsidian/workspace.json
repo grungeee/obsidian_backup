@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+                "file": "antworten.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
+                "file": "antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
+                "file": "antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md"
+                "file": "antworten.md"
               }
             }
           }
@@ -183,13 +183,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f801995ba7b0e40a",
+  "active": "4b0e5382915b9edd",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+    "antworten.md",
     "WiFi-Share/Technisches Zeichenen/Ansichten.md",
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+    "Excalidraw/Drawing 2023-04-20 20.44.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.44.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
@@ -201,7 +205,6 @@
     "Pasted image 20230420200149.png",
     "WiFi-Share/Schweißen/Untitled.md",
     "WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/Werkstofftechnik/Test Fragen.md",
     "WiFi-Share/Schweißen",
     "WiFi-Share/Made by Nikita.md",
     "WiFi-Share/Werkstofftechnik/Hauptpunkte.md",
@@ -215,9 +218,6 @@
     "WiFi-Share/Werkstofftechnik/Mechanische Presse.md",
     "WiFi-Share/Werkstofftechnik/NE-Metalle.md",
     "WiFi-Share/Made by Luca.md",
-    "WiFi-Share/Werkstofftechnik/Maschinen zum Umformen.md",
-    "WiFi-Share/Werkstofftechnik/Naturwerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Verstärkte Kunstoffe.md",
     "testing",
     "WiFi-Share/Schweißen",
     "test",
