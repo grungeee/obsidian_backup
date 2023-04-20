@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+                "file": "WiFi-Share/Werkstofftechnik/antworten.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,17 +32,18 @@
             }
           },
           {
-            "id": "f801995ba7b0e40a",
+            "id": "589ba83ae9b510d4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md"
+                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/antworten.md"
+              }
             }
           }
         ]
@@ -167,15 +172,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95810e679cb66366",
+  "active": "a86dc2d013061cbb",
   "lastOpenFiles": [
+    "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "WiFi-Share/Werkstofftechnik/antworten.md",
     "antworten.md",
     "WiFi-Share/Werkstofftechnik/Test Fragen.md",
-    "WiFi-Share/Technisches Zeichenen/Ansichten.md",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
-    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Excalidraw/Drawing 2023-04-20 20.44.42.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.44.38.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
