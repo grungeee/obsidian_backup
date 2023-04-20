@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bd8276f2b8bd23e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md"
+                "file": "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md"
               }
             }
           }
@@ -173,10 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b0e5382915b9edd",
+  "active": "9bd8276f2b8bd23e",
   "lastOpenFiles": [
-    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
+    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
@@ -207,7 +218,6 @@
     "WiFi-Share/Werkstofftechnik/Verstärkte Kunstoffe.md",
     "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
     "WiFi-Share/Werkstofftechnik/Leichtmetalle.md",
-    "WiFi-Share/Werkstofftechnik/Scherschneiden.md",
     "testing",
     "WiFi-Share/Schweißen",
     "test",
