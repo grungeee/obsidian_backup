@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Beschriftung.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Beschriftung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Beschriftung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Untitled.md"
+                "file": "WiFi-Share/Technisches Zeichenen/Beschriftung.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95810e679cb66366",
+  "active": "4b0e5382915b9edd",
   "lastOpenFiles": [
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
-    "WiFi-Share/Technisches Zeichenen/Untitled.md",
+    "WiFi-Share/Technisches Zeichenen/Beschriftung.md",
     "WiFi-Share/Werkstofftechnik/Pictures",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
     "Excalidraw/Linienarten.md",
