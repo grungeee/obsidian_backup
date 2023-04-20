@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6b342ef28c098c91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +134,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a7baf0edfc3f457",
+  "active": "6b342ef28c098c91",
   "lastOpenFiles": [
     "Untitled.md",
     "WiFi-Share/test/Untitled.md",
