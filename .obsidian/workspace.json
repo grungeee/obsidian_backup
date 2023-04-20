@@ -44,17 +44,17 @@
             }
           },
           {
-            "id": "67f4360d86ad12c4",
+            "id": "f801995ba7b0e40a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md"
+                "file": "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md"
               }
             }
           }
@@ -183,10 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b0e5382915b9edd",
+  "active": "f801995ba7b0e40a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
     "WiFi-Share/Technisches Zeichenen/Ansichten.md",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
@@ -217,7 +218,6 @@
     "WiFi-Share/Werkstofftechnik/Maschinen zum Umformen.md",
     "WiFi-Share/Werkstofftechnik/Naturwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Verstärkte Kunstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
     "testing",
     "WiFi-Share/Schweißen",
     "test",
