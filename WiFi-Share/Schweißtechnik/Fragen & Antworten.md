@@ -47,7 +47,7 @@
 	- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
 	- Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
-- Dürfen die Gasflas
+- Dürfen die Gasflaschen mi
 	- Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
 	- Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt.
 	- Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
