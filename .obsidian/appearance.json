@@ -1,9 +1,5 @@
 {
   "accentColor": "",
   "cssTheme": "Obsidianite",
-  "baseFontSize": 17,
-  "enabledCssSnippets": [
-    "S - Folder Styles",
-    "S - Checkboxes"
-  ]
+  "baseFontSize": 18
 }

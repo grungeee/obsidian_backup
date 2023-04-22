@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4ee7f8740f9ee8",
+        "id": "a4c289968464c493",
         "type": "tabs",
         "children": [
           {
-            "id": "f997ec2ca04c8897",
+            "id": "adb35e46724ee498",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -152,21 +151,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f997ec2ca04c8897",
+  "active": "95810e679cb66366",
   "lastOpenFiles": [
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
-    "Untitled",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
-    "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images",
-    "WiFi-Share/Technisches Zeichenen/📁 Images/Linien Arten und Schriftblock.md",
-    "WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
-    "WiFi-Share/Technisches Zeichenen/📁 Images",
-    "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
-    "WiFi-Share/Schweißtechnik/📁 Images",
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Technisches Zeichenen/Ansichten.md",
     "WiFi-Share/Schweißtechnik",
     "WiFi-Share/Werkstofftechnik/Test Fragen.md",
@@ -196,10 +184,21 @@
     "WiFi-Share/Werkstofftechnik/Künstiche Nichtmetallwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Hartmetalle.md",
     "WiFi-Share/Werkstofftechnik/Verbundwerkstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Energie & Hilfsmittel.md",
+    "WiFi-Share/Werkstofftechnik/Sintern.md",
+    "WiFi-Share/Werkstofftechnik/Mechanische Presse.md",
     "testing",
+    "WiFi-Share/Schweißen",
+    "test",
     "WiFi-Share/Werkstofftechnik/Pictures/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
+    "WiFi-Share/Werkstofftechnik",
+    "WiFi-Share",
+    "obsidian-git/WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
+    "git-share/WiFi-Share/Werkstofftechnik/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
+    "git-share/WiFi-Share/Werkstofftechnik/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
+    "git-share/WiFi-Share/Werkstofftechnik/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "Fragen.canvas"
   ]
 }
