@@ -51,8 +51,11 @@
 	- Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
 - ?
 	- Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
+- 
 	- Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
+- 
 	- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
+- 
 	- Schweißnahtfehler
 - ?
 - Beim Schutzgasschweilßen wird odie Schweißnaht o
