@@ -8,6 +8,8 @@ cards-deck: WiFi-Share::Schweißtechnik
 | qestion2  | answer2 |
 
 START
+Obsidian-To-Anki
 question3
 ---
 answer3
+END

@@ -163,13 +163,14 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "18d2e6f208e111a9",
   "lastOpenFiles": [
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Schweißtechnik/Anki Deck test.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
     "Untitled",
     "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
