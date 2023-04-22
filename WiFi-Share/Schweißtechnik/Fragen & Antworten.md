@@ -23,7 +23,7 @@
 	c) Die Qualifikationen eines Schweißßers für eine Bescheinigung sind so lange gültig, wie der Nachweis nach 9.2 der EN ISo 9606-1 bestätigt ist und unter der Voraussetzung, dass folgende Bedingungen ertulIt Sina.
 - Der Schweißer arbeitet für den gleichen Hersteller, für den er oder sie qualifiziert ist und der für die Fertigung des Produktes verantwortlich ist.
 Das Qualitätsprogramm des Herstellers wurde nach ISo 3834-2 oder ISo 3834-3 verfiziert
-DerHerstellerhatdokumentiert,dassder, SchweißnähteeinwandfreierQualitätaufGrundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende
+Der Hersteller hatdokumentiert, dass der, SchweißnähteeinwandfreierQualitätaufGrundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende
 Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
 
 ### Unfallverhütung
