@@ -35,7 +35,6 @@
 
 - [?] Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
 - Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
-- [!] 
 - [?] 
 - Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - [?] 
