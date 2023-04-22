@@ -6,6 +6,6 @@ Question::Answer
 ^1682186951235
 
 question1 #card
-answer1 #card
+ans
 ^1682187045235
 
