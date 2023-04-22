@@ -13,6 +13,7 @@
 - Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
 - Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wo ird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
 - Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
+
 #### Verlängerung der Qualifikation
 - Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
 - Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
