@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,7 +151,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adb35e46724ee498",
+  "active": "55a53e52faeb7bb3",
   "lastOpenFiles": [
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
