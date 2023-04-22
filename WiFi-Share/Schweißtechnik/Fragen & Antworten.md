@@ -1,3 +1,4 @@
+# Schwei  
 ### EN ISO 9606 -1
 - In der EN ISO 9606 - 1 kennzeichnet die Verfahrensnummer 135 das MAG- Schweißen
 - Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ssnb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
