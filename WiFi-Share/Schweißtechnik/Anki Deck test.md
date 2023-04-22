@@ -10,9 +10,13 @@ cards-deck: WiFi-Share::Schweißtechnik
 START
 TARGET DECK: Obsidian-To-Anki
 question3
--------
-answer3
-qestion1---
+---
+a---nswer3
+qestion1
+
 answer1 |
-| qestion2  | answer2 |
+---
+question2
+---
+answer2 |
 END
