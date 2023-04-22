@@ -43,8 +43,8 @@
 	- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
 - Wofür braucht man die Atumschutygeräte beim Schweißen
 	- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
-- Was muss bei Wartungsarbeiten an einmen 
-- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
+- Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden_
+	- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 
 
