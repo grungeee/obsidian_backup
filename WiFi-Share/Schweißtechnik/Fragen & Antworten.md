@@ -58,10 +58,8 @@
 - ?
 ### Schweißnahtfehler
 
-- Beim Schutzgasschweilßen wird odie Schweißnaht o
 - ?
-	- gegen Luftzutritt geschützt.
-- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
+- Beim Schutzgasschweilßen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
 - Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 
 
