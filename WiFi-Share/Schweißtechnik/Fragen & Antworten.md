@@ -36,6 +36,7 @@
 >[!question] Frage
 
 Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
+
 >[!check] Antwort 
 
 Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
