@@ -35,11 +35,14 @@
 
 - Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
 	- Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
-- 
-- Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
-- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
-- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt (erden.
-- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
+- ?
+	- Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
+- ?
+	- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
+- ?
+	- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
+- ?
+	- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 
