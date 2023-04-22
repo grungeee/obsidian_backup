@@ -7,7 +7,6 @@ cards-deck: WiFi-Share::Schweißtechnik
 | qestion1 | answer1 |
 | qestion2  | answer2 |
 
----
 question3
-answer3
 ---
+answer3
