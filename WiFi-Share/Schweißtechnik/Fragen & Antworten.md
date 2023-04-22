@@ -55,10 +55,9 @@
 	- Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
 - 
 	- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
-- 
-	- Schweißnahtfehler
 - ?
 - Beim Schutzgasschweilßen wird odie Schweißnaht o
+- 
 - gegen Luftzutritt geschützt.
 - Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
