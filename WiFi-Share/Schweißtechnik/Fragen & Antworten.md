@@ -32,6 +32,8 @@
 
 - [!] Die Antwort ist Falsch 
 - Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
+
+- [?] 
 - Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslősen.
 - Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
@@ -63,12 +65,12 @@
 - Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
 - Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.100°-200° ist als Vorwärmtemperatur anzusehen.
-- cO2 kann zum MAG-Schweilßen verwendet werden. Zum MAG-Schweißen wird ein aktives Gas verwendet. Zum MIG-Schweißen wird ein inertes Gas verwendet.
+- CO2 kann zum MAG-Schweilßen verwendet werden. Zum MAG-Schweißen wird ein aktives Gas verwendet. Zum MIG-Schweißen wird ein inertes Gas verwendet.
 - Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10- 15 /min empfohlen. (Drahtdurchmesser mal 10-15)
 
 
-- ### Allgemeines / Werkstoffkunde
+### Allgemeines / Werkstoffkunde
 - Ein Stumpfstoß mit einer Wanddicke von mm,ist mit einer V-Fuge m it 30° Flankenwinkel vorzubereiten.
 - Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
 - Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
