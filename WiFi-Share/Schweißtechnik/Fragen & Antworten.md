@@ -45,25 +45,35 @@
 - - -
 - ?
 	- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
+- - -
 - Wofür braucht man die Atumschutygeräte beim Schweißen
 	- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
+- - -
 - Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden_
 	- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
+- - -
 - Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
 	- Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
+- - -
 - Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet transportiert werden?
 	- Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
+- - -
 - ?
 	- Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
+- - -
 - Wie sollten Gasflaschen richtig gelagert und transportiert werden?
 	- Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
+- - -
 - ?
 	- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
+- - -
 - ?
 ### Schweißnahtfehler
 
+- - -
 - ?
 	- Beim Schutzgasschweilßen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
+- - -
 - ?
 	- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - ?
