@@ -41,7 +41,7 @@
 	- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
 - ?
 	- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
-- Wofür braucht man die Atumschutygeräte beim S
+- Wofür braucht man die Atumschutygeräte beim Schweißen
 	- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
