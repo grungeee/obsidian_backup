@@ -18,7 +18,6 @@
 - Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
 - Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
 	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
-	b ) Alle 2 Jahre müssen zwei Schweißnähte, die in den letzten 6 Monaten der Gültigkeit geschweißt werden, mittels Durchstrahlungsprüfung. Ultraschallprüfung oder zerstörender Prüfung geprüft
-	d) dokumentiert werden. Die Schweißnähte müssen die Bewertungsbedingungen für Unregelmäßigkeiten erfüllen, die in Abschnitt 7 der EN ISO 9606-1 festgelegt sind. Die geprüfte Schweißnaht muss die ursprünglichen Prüfbedingungen reproduzieren, ausgenommen für die Dicke und den Rohraußendurchmesser. Dies Prüfungen verlängerm die Schweißer Prüfungsbescheinigung für weitere 2 Jahre.
+	b ) Alle 2 Jahre müssen zwei Schweißnähte, die in den letzten 6 Monaten der Gültigkeit geschweißt werden, mittels Durchstrahlungsprüfung. Ultraschallprüfung oder zerstörender Prüfung geprüft und dokumentiert werden. Die Schweißnähte müssen die Bewertungsbedingungen für Unregelmäßigkeiten erfüllen, die in Abschnitt 7 der EN ISO 9606-1 festgelegt sind. Die geprüfte Schweißnaht muss die ursprünglichen Prüfbedingungen reproduzieren, ausgenommen für die Dicke und den Rohraußendurchmesser. Dies Prüfungen verlängerm die Schweißer Prüfungsbescheinigung für weitere 2 Jahre.
 
 
