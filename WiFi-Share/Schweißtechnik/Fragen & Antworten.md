@@ -30,10 +30,7 @@
 
 ### Unfallverhütung
 
->[!] 
->
-- 
-- 
+>[!fail] Die Antwort ist falsch
 - Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
 
 - [?] Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
