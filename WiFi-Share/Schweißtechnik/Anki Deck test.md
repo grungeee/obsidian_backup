@@ -2,8 +2,7 @@
 cards-deck: WiFi-Share::Schweißtechnik
 ---
 
-| questions:: | answers |
-^1682195579767
+| questions | answers |
 | --------- | ------- |
-| qestion1  | answer1 |
+| qestion1 #card  | answer1 |
 | qestion2  | answer2 |
