@@ -33,7 +33,7 @@
 >[!fail] Die Antwort ist falsch
 - Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
 
-- [?] Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
+>[!question] Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
 - Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - [?] 
 - Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
