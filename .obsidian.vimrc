@@ -1,7 +1,7 @@
-" Have j and k navigate visual lines rather than logical ones
-nmap jk <Esc>
-nmap kj <Esc>
+imap jk <Esc>
+imap kj <Esc>
 
+" Have j and k navigate visual lines rather than logical ones
 nmap j gj
 nmap k gk
 " I like using H and L for beginning/end of line
