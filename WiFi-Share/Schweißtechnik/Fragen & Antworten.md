@@ -30,9 +30,8 @@
 
 ### Unfallverhütung
 
-- [ ] Die antwort ist Falsch
+- [!] Die antwort ist Falsch
 - Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
-  1. [?] 
 - Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslősen.
 - Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
