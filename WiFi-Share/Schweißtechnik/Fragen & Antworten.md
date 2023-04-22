@@ -26,4 +26,28 @@ Das Qualitätsprogramm des Herstellers wurde nach ISo 3834-2 oder ISo 3834-3 ver
 DerHerstellerhatdokumentiert,dassder, SchweißnähteeinwandfreierQualitätaufGrundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende
 Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
 
+Unfallverhütung
+h
+Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendet werden dürfen), werden
+mit dem Kennbuchstaben S oder K gekennzeichnet.
+Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslősen.
+Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
+UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
+Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt (erden.
+Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
+Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
+Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
+
+Unfallverhütung
+wb
+Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
+Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt.
+Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
+Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
+Schweißnahtfehler
+Be
+eim SchutzgasSschweilßen wird odie Schweißnaht o
+gegen Luftzutritt geschützt.
+Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
+Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 
