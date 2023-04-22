@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c289968464c493",
+        "id": "8e68db619d74b0e6",
         "type": "tabs",
         "children": [
           {
-            "id": "a86dc2d013061cbb",
+            "id": "b617be25b435d4f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9fb5c5d527a4837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "589ba83ae9b510d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Ansichten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,14 +143,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55a53e52faeb7bb3",
+  "active": "b617be25b435d4f4",
   "lastOpenFiles": [
+    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+    "WiFi-Share/Technisches Zeichenen/Ansichten.md",
     "WiFi-Share/Schweißtechnik",
     "WiFi-Share/Werkstofftechnik/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Antworten.md",
-    "WiFi-Share/Technisches Zeichenen/Ansichten.md",
-    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "antworten.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
