@@ -59,11 +59,13 @@
 ### Schweißnahtfehler
 
 - ?
-- Beim Schutzgasschweilßen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
-- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
+	- Beim Schutzgasschweilßen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
+- ?
+	- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
+- ?
+	- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 
 
-### Schweißnahtfehler
 - Eine nicht eríasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
 - Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
 - Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
