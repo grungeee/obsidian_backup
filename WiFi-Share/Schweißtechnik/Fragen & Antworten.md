@@ -68,9 +68,10 @@
 
 -  Was ist der gefährlichste Fehler beim schweißen?
 	- Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
-- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
--
-- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
+- Was ist bei einer Kehlnaht nich erwünscht?
+	- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
+- __
+	- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
 - Um der Härtneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgewärmt.
 - Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
