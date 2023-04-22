@@ -12,5 +12,6 @@
   "obsidian-pandoc",
   "flashcards-obsidian",
   "table-editor-obsidian",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-to-anki-plugin"
 ]
