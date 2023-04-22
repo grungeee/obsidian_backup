@@ -3,7 +3,7 @@
   "cssTheme": "Obsidianite",
   "baseFontSize": 18,
   "enabledCssSnippets": [
-    "S - Checkboxes",
-    "S - Folder Styles"
+    "S - Folder Styles",
+    "S - Checkboxes"
   ]
 }
