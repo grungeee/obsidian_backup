@@ -92,5 +92,7 @@
 - Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
 - Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
 - s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
+>[!]missing] 
+>
 
 ![[Pasted image 20230422165150.png]]
