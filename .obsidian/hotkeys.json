@@ -24,5 +24,14 @@
       ],
       "key": "E"
     }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
