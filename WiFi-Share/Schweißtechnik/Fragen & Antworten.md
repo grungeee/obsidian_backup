@@ -29,56 +29,57 @@
 		- **nm** - nix Bad
 
 ### Unfallverhütung
-- [ ] schweißßstromquellen die für arbeiten in kesseln und engen räumen geeignet sind (unter erhöhter elektrischen gefährdung verwendet werden dürfen), werden
-- [ ] mit dem kennbuchstaben s oder k gekennzeichnet.
-- [ ] beim trennschleifen kann der funkenregen in bis zu 10 m brände auslősen.
-- [ ] bei schneid- und schweilarbeiten in feuer- und explosionsgefährdeten räumen müssen vor beginn der arbeiten alle gefahrengüter entfernt werden.
-- [ ] uv-strahlen können auf unbedeckten körperteilen verbrennungen verursachen.
-- [ ] da der schweißrauch eine gesundheitsgefährdung darstellt muss er abgesaugt (erden.
-- [ ] atemschutzgeräte bieten vor sauerstoffmangel einen schutz.
-- [ ] bei wartungsarbeiten an einem schweißgerät muss immer der netzstecker gezogen werden.
-- [ ] wechselstrom, kann bei durchströmen des menschlichen körpers schon ab 35 ma herzkammerflimmern auslösen.
+
+- Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendet werden dürfen), werden
+- mit dem Kennbuchstaben S oder K gekennzeichnet.
+- Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslősen.
+- Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
+- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
+- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt (erden.
+- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
+- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
+- Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 
 
-Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
-Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt.
-Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
-Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
-Schweißnahtfehler
-Be
-eim SchutzgasSschweilßen wird odie Schweißnaht o
-gegen Luftzutritt geschützt.
-Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
-Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
+- Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
+- Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt.
+- Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
+- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
+- Schweißnahtfehler
+- Be
+- eim SchutzgasSschweilßen wird odie Schweißnaht o
+- gegen Luftzutritt geschützt.
+- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
+- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 
 
 ### Schweißnahtfehler
-Eine nicht eríasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
-Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
-Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
-Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
-Um der Härtneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgewärmt.
-Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
-Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
+- Eine nicht eríasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
+- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
+- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
+- Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
+- Um der Härtneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgewärmt.
+- Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
+- Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
-Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.100°-200° ist als Vorwärmtemperatur anzusehen.
-cO2 kann zum MAG-Schweilßen verwendet werden. Zum MAG-Schweißen wird ein aktives Gas verwendet. Zum MIG-Schweißen wird ein inertes Gas verwendet.
-Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
-Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10- 15 /min empfohlen. (Drahtdurchmesser mal 10-15)
+- Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.100°-200° ist als Vorwärmtemperatur anzusehen.
+- cO2 kann zum MAG-Schweilßen verwendet werden. Zum MAG-Schweißen wird ein aktives Gas verwendet. Zum MIG-Schweißen wird ein inertes Gas verwendet.
+- Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
+- Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10- 15 /min empfohlen. (Drahtdurchmesser mal 10-15)
 
 
-### Allgemeines / Werkstoffkunde
-Ein Stumpfstoß mit einer Wanddicke von mm,ist mit einer V-Fuge m it 30° Flankenwinkel vorzubereiten.
-Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
-Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
-Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
-Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
-Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. Den Werkstoff S355N bezeichnet man als einen
-Ffeinkornbaustahl.
+- ### Allgemeines / Werkstoffkunde
+- Ein Stumpfstoß mit einer Wanddicke von mm,ist mit einer V-Fuge m it 30° Flankenwinkel vorzubereiten.
+- Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
+- Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
+- Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
+- Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
+- Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. Den Werkstoff S355N bezeichnet man als einen
+- Ffeinkornbaustahl.
 
-Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
-Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
-Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
-s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
+- Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
+- Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
+- Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
+- s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
 
 ![[Pasted image 20230422165150.png]]
