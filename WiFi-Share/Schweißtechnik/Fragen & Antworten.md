@@ -59,14 +59,13 @@ Um der Härtneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgew�
 Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
 Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
-### Schweißnahtfehler
 Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.100°-200° ist als Vorwärmtemperatur anzusehen.
 cO2 kann zum MAG-Schweilßen verwendet werden. Zum MAG-Schweißen wird ein aktives Gas verwendet. Zum MIG-Schweißen wird ein inertes Gas verwendet.
 Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10- 15 /min empfohlen. (Drahtdurchmesser mal 10-15)
 
 
-Allgemeines / Werkstoffkunde
+### Allgemeines / Werkstoffkunde
 Ein Stumpfstoß mit einer Wanddicke von mm,ist mit einer V-Fuge m it 30° Flankenwinkel vorzubereiten.
 Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
 Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
@@ -75,8 +74,6 @@ Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Hef
 Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. Den Werkstoff S355N bezeichnet man als einen
 Ffeinkornbaustahl.
 
-Allgemeines / Werkstoffkunde
-K=
 Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
 Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
 Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
