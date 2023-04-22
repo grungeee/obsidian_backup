@@ -66,7 +66,8 @@
 	- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 
 
-- Eine nicht eríasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
+-  Was ist der gefährlichste Fehler beim K
+	- Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
 - Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
 - Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
