@@ -47,18 +47,18 @@
 	- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
 	- Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
-- Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet
+- Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet transportiert werden?
 	- Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
-- ?
+- 
 	- Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
 - 
 	- Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
 - 
 	- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
 - ?
-- Beim Schutzgasschweilßen wird odie Schweißnaht o
+	- Beim Schutzgasschweilßen wird odie Schweißnaht o
 - 
-- gegen Luftzutritt geschützt.
+	- gegen Luftzutritt geschützt.
 - Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 
