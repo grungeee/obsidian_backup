@@ -26,18 +26,18 @@
 	- Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität auf Grundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende
 	- Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
 		- **mb** - mit Bad
-		- ****
+		- **nm** - nix Bad
 
 ### Unfallverhütung
-Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendet werden dürfen), werden
-mit dem Kennbuchstaben S oder K gekennzeichnet.
-Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslősen.
-Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
-UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
-Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt (erden.
-Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
-Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
-Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
+- [ ] schweißßstromquellen die für arbeiten in kesseln und engen räumen geeignet sind (unter erhöhter elektrischen gefährdung verwendet werden dürfen), werden
+- [ ] mit dem kennbuchstaben s oder k gekennzeichnet.
+- [ ] beim trennschleifen kann der funkenregen in bis zu 10 m brände auslősen.
+- [ ] bei schneid- und schweilarbeiten in feuer- und explosionsgefährdeten räumen müssen vor beginn der arbeiten alle gefahrengüter entfernt werden.
+- [ ] uv-strahlen können auf unbedeckten körperteilen verbrennungen verursachen.
+- [ ] da der schweißrauch eine gesundheitsgefährdung darstellt muss er abgesaugt (erden.
+- [ ] atemschutzgeräte bieten vor sauerstoffmangel einen schutz.
+- [ ] bei wartungsarbeiten an einem schweißgerät muss immer der netzstecker gezogen werden.
+- [ ] wechselstrom, kann bei durchströmen des menschlichen körpers schon ab 35 ma herzkammerflimmern auslösen.
 
 
 Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
