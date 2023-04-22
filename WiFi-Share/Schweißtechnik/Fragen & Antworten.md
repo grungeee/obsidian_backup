@@ -70,7 +70,7 @@
 	- Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
 - Was ist bei einer Kehlnaht nich erwünscht?
 	- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
-- Wie kann man Porenentstehung beim Schweißen vermeiden?
+- Wie kann man Porenbildung in einer Schweißnaht vermeiden?
 	- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
 - Um der Härtneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgewärmt.
