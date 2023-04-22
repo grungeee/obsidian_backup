@@ -153,11 +153,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
