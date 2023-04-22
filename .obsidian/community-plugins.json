@@ -11,5 +11,6 @@
   "oz-image-plugin",
   "obsidian-pandoc",
   "flashcards-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-vimrc-support"
 ]
