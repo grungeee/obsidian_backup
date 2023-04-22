@@ -2,5 +2,12 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "vimMode": true,
-  "livePreview": true
+  "livePreview": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
