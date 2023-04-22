@@ -45,7 +45,8 @@
 	- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden_
 	- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
-- Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
+- Was sind die Auswirkungen von  Wechselstrom auf den menschlichen Körper?
+	- Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 
 
 - Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
