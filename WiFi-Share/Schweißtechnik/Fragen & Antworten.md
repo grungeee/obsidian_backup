@@ -33,18 +33,25 @@
 >[!fail] Die Antwort ist falsch
 - Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
 
+- - -
 - Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
 	- Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
+- - -
 - ?
 	- Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
+- - -
 - ?
 	- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
+- - -
 - ?
 	- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
+- - -
 - Wofür braucht man die Atumschutygeräte beim Schweißen
 	- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
+- - -
 - Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden_
 	- Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
+- - -
 - Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
 	- Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 - Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet transportiert werden?
