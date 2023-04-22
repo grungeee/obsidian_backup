@@ -72,7 +72,8 @@
 	- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
 - Wie kann man Porenbildung in einer Schweißnaht vermeiden?
 	- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
-- Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
+- Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
+	- Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
 - Um der Härtneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgewärmt.
 - Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
 - Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
