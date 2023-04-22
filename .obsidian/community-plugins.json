@@ -2,5 +2,13 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-admonition",
-  "obsidian-stille"
+  "obsidian-stille",
+  "obsidian-outliner",
+  "obsidian-minimal-settings",
+  "obsidian-tasks-plugin",
+  "obsidian-style-settings",
+  "mysnippets-plugin",
+  "oz-image-plugin",
+  "obsidian-pandoc",
+  "flashcards-obsidian"
 ]
