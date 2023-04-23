@@ -4,8 +4,8 @@
 - In der EN ISO 9606 - 1 kennzeichnet die Verfahrensnummer 135 das MAG- Schweißen
 	Welches Schweißverfahren wird durch die Verfahrensnummer 135 in der EN ISO 9606-1 gekennzeichnet?
 - - -
-- Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ssnb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
-	Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutzgasschweißen steigend in Stumpfnaht schweißen?
+- Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutzgasschweißen steigend in Stumpfnaht schweißen?
+Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ssnb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
 - - -
 - Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
 	Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
@@ -29,15 +29,23 @@
 ### Bestätigung der Gültigkeit
 - - -
 - Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
+	Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
 - - -
 - Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wo ird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
+	Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen?
+	Was wird bestätigt, um die Gültigkeit der Schweißer-Prüfungsbescheinigung gemäß deiner Antwort um einen weiteren Zeitraum von 6 Monaten zu verlängern?
 - - -
 - Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
+	Welcher Unterabschnitt in der EN ISO 9606-1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut deiner Antwort?
 - - -
 
 #### Verlängerung der Qualifikation
 - - -
 - Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
+	Wer ist gemäß deiner Antwort für die Verlängerung der Qualifikation eines Schweißers verantwortlich?
+	Wer darf die Verlängerung der Qualifikation eines Schweißers durchführen, wie es in deiner Antwort beschrieben wird?
+	Welche Instanz, gemäß deiner Antwort, ist dafür zuständig, die Verlängerung der Qualifikation eines Schweißers zu überprüfen und durchzuführen?
+	Welche Maßnahme ist erforderlich, um die Qualifikation eines Schweißers gemäß deiner Antwort zu verlängern?
 - - -
 - Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
 	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
@@ -89,7 +97,7 @@
 - ?
 	- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
 - - -
-
+- ?
 ### Schweißnahtfehler
 
 - - -
@@ -99,7 +107,7 @@
 - ?
 	- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
-- Wozu dient der Schweißfolgenplan
+- ?
 	- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
 
@@ -109,8 +117,8 @@
 - - -
 - Was ist bei einer Kehlnaht nich erwünscht?
 	- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
-- - -
 - Wie kann man Porenbildung in einer Schweißnaht vermeiden?
+- - -
 	- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - - -
 - Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
@@ -136,31 +144,41 @@
 ### Allgemeines / Werkstoffkunde
 
 - - -
-- Ein Stumpfstoß mit einer Wanddicke von mm,ist mit einer V-Fuge m it 30° Flankenwinkel vorzubereiten.
+- Ein Stumpfstoß mit einer Wanddicke von +3 mm,ist mit einer V-Fuge mit 30° Flankenwinkel vorzubereiten.
+	Ab welcher Wanddicke muss ein mit einer V-Fuge vorbereited werden und mit welchen Flankenwinkel?
 - - -
 - Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
+	Womit lässt sich eine Wurzel im allgemeinen gut ausarbeiten?
 - - -
 - Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
+	Was lässt sich durch Schweißerfahrung vermeiden? 
 - - -
 - Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
+	Wie heißt die Spannung die an Klemmen herrscht wenn kein Lichtbogen brennt? 
 - - -
 - Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
+	Muss die Vorwärmung eines vorzuwärmenden Werkstücks vor dem Heftvorgang erfolgen? 
 - - -
-- Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. Den Werkstoff S355N bezeichnet man als einen
-- Ffeinkornbaustahl.
-
+- Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. 
+	Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
+---
+- Den Werkstoff S355N bezeichnet man als einen Feinkornbaustahl.
+	Als was bezeichnet man den Werkstoff S355N? 
+- - - 
 - Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
+	Wie entstehen beim MAG-Schweißen geringe Schlackenmengen?
 - - -
 - Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
+	Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
 - - -
 - Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
+	Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?
 - - -
 - s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
+	Was bedeutet die Bezeichnung des Stahls s235JRG2?
 
 
 >[!missing] 
 >Schweißpositionen
 
-![[Pasted image 20230422165150.png]]
-
-
+![[WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png]]
