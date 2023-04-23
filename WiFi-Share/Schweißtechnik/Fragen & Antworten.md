@@ -89,7 +89,7 @@
 - ?
 	- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
 - - -
-- ?
+
 ### Schweißnahtfehler
 
 - - -
