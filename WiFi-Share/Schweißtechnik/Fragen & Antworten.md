@@ -162,3 +162,5 @@
 >Schweißpositionen
 
 ![[Pasted image 20230422165150.png]]
+
+
