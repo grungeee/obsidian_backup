@@ -27,7 +27,7 @@ Wie ist die Gültigkeit einer Schweißerprüfung nach EN ISO 9606-1 geregelt?
 
 ### Bestätigung der Gültigkeit
 - - -
-Ab wann gilt das Schweisserzertifikat?
+Ab wann gilt das Schweißerzertifikat?
 - Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
 - - -
 - Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wo ird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
