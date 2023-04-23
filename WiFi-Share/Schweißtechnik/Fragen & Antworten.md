@@ -10,24 +10,24 @@
 - Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
 	 Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
 - - -
-	Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet?
-- Die Blech-Prüfstückdicke ist in der EN ISO 9606 -1 mit dem Kennbuchstaben t gekennzeichnet.
+- Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet?
+	Die Blech-Prüfstückdicke ist in der EN ISO 9606 -1 mit dem Kennbuchstaben t gekennzeichnet.
 - - -
-- Eine quergeschweißte Naht ist in der EN ISO 9606 -1 mit den Kennbuchstaben PC gekennzeichnet.
-	Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet?
+- Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet?
+	Eine quergeschweißte Naht ist in der EN ISO 9606 -1 mit den Kennbuchstaben PC gekennzeichnet.
 - - -
-- Mit einer EN ISO 9606 -1 Werkstückdicke von 2,5mm ist ein Bereich von 2,5mm- 5mm abgedeckt. Mit 5,0mm ist ein Bereich von 3mm - 10mm abgedeckt.
-	Welchen Bereich von Werkstückdicken deckt eine EN ISO 9606-1 Prüfung mit einer Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
+Welchen Bereich von Werkstückdicken deckt eine EN ISO 9606-1 Prüfung mit einer Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
+	Mit einer EN ISO 9606 -1 Werkstückdicke von 2,5mm ist ein Bereich von 2,5mm- 5mm abgedeckt. Mit 5,0mm ist ein Bereich von 3mm - 10mm abgedeckt.
 - - -
-- Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbadsicherung verwendet.
-	Wofür werden die Buchstaben "mb" in einer EN ISO 9606-1 Schweißerprüfung verwendet?
+Wofür werden die Buchstaben "mb" in einer EN ISO 9606-1 Schweißerprüfung verwendet?
+	Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbadsicherung verwendet.
 - - -
-- Eine Schweißerprüfung nach EN ISo 9606 -1ist wie folgt Gültig
-	Wie ist die Gültigkeit einer Schweißerprüfung nach EN ISO 9606-1 geregelt?
-> [!attention] Mehrere Punkte zusammenfassen
+Wie ist die Gültigkeit einer Schweißerprüfung nach EN ISO 9606-1 geregelt?
+	Eine Schweißerprüfung nach EN ISo 9606 -1ist wie folgt Gültig
 
 ### Bestätigung der Gültigkeit
 - - -
+Ab wann gilt der Sch
 - Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
 - - -
 - Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wo ird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
