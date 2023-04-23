@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-stille:Toggle Stille": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
