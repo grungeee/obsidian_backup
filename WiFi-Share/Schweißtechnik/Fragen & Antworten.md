@@ -99,7 +99,7 @@
 - ?
 	- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
-- ?
+- Wozu dient der Schweißfolgenplan
 	- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
 
