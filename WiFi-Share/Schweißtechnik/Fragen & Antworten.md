@@ -109,8 +109,7 @@
 - - -
 - Was ist bei einer Kehlnaht nich erwünscht?
 	- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
-- Wie kann man Porenbildung in einer Schweißnaht vermeiden?
-- - -
+- Wie kann man Porenbildung in einer Schweißnaht verr
 	- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - - -
 - Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
