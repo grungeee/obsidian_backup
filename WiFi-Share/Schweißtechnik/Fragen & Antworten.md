@@ -191,3 +191,5 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 >Schweißpositionen
 
 ![[WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png]]
+
+
