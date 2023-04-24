@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f286c5120b8499c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Home.md"
+                "file": "Obsidian Git.md"
               }
             }
           }
@@ -178,14 +190,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18d2e6f208e111a9",
+  "active": "f286c5120b8499c2",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "Obsidian Git.md",
     "WiFi-Share/Werkstofftechnik/Maschinenhämmer.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stähle.md",
-    "🏡 Home.md",
     "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten 2.md",
@@ -218,7 +231,6 @@
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
     "WiFi-Share/Werkstofftechnik/Pictures",
-    "Excalidraw/Linienarten.md",
     "Excalidraw",
     "Pasted image 20230420200149.png",
     "WiFi-Share/Technisches Zeichenen",
