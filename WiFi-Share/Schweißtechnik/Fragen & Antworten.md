@@ -135,7 +135,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 *- Warum wird der Stahl vorgewärmt?*
 - Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
 - - -
-- Welche auswirkung hat Kohlenstoff bei usachgemäßten
+*- Welche auswirkung hat Kohlenstoff beim unsachgemäßen Schweißen*
 - Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
 - - -
