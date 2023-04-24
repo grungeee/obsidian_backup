@@ -25,6 +25,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - - -
 - Wie ist die Gültigkeit einer Schweißerprüfung nach EN ISO 9606-1 geregelt?
 - Eine Schweißerprüfung nach EN ISo 9606 -1ist wie folgt Gültig
+- - -
 
 ### Bestätigung der Gültigkeit
 - - -
