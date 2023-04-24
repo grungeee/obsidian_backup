@@ -1,0 +1,11 @@
+{
+  "checkbox@@check-color": true,
+  "checkbox@@check-bg": true,
+  "checkbox@@check-strike": false,
+  "checkbox@@chst-imp": false,
+  "checkbox@@check-text": false,
+  "checkbox@@chck-pad": false,
+  "checkbox@@chst-reg": true,
+  "checkbox@@chst-chk": true,
+  "minimal-advanced@@cursor": "default"
+}
