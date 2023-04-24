@@ -1,7 +1,7 @@
 
 # 01 Start here
-Obsidian-Git Documentation
-Topics
+## Obsidian-Git Documentation
+### Topics
 Installation
 Getting Started
 Authentication
