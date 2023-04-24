@@ -28,6 +28,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - - -
 
 ### Bestätigung der Gültigkeit
+
 - - -
 - Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
 - Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung
