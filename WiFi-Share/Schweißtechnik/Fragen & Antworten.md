@@ -144,7 +144,10 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
   Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.150°-200° ist als Vorwärmtemperatur anzusehen.
 - - -
 - CO2 kann zum MAG-Schweilßen verwendet werden.
--  Zum MAG-Schweißen wird ein aktives Gas verwendet. Zum MIG-Schweißen wird ein inertes Gas verwendet.
+- - -
+-  Zum MAG-Schweißen wird ein aktives Gas verwendet.
+- - -
+-  Zum MIG-Schweißen wird ein inertes Gas verwendet.
 - - -
 - Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
