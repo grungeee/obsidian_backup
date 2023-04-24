@@ -156,6 +156,7 @@ Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
 - Woher nimmt der Schweißer seine Schweißparameter?
 	- Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
+- Welche Schutzgasmenge wird bei einem 1mm Draht 
 - Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10-15 l/min empfohlen. (Drahtdurchmesser mal 10-15)
 - - -
 
@@ -163,20 +164,20 @@ Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
 ### Allgemeines / Werkstoffkunde
 
 - - -
-- Ein Stumpfstoß mit einer Wanddicke von +3 mm,ist mit einer V-Fuge mit 30° Flankenwinkel vorzubereiten.
 	Ab welcher Wanddicke muss ein mit einer V-Fuge vorbereited werden und mit welchen Flankenwinkel?
+- Ein Stumpfstoß mit einer Wanddicke von +3 mm,ist mit einer V-Fuge mit 30° Flankenwinkel vorzubereiten.
 - - -
-- Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
 	Womit lässt sich eine Wurzel im allgemeinen gut ausarbeiten?
+- Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
 - - -
-- Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
 	Was lässt sich durch Schweißerfahrung vermeiden? 
+- Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
 - - -
-- Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
 	Wie heißt die Spannung die an Klemmen herrscht wenn kein Lichtbogen brennt? 
+- Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
 - - -
-- Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
 	Muss die Vorwärmung eines vorzuwärmenden Werkstücks vor dem Heftvorgang erfolgen? 
+- Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
 - - -
 	Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
 - Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. 
