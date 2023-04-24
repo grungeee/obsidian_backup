@@ -97,7 +97,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Wie sollten Gasflaschen richtig gelagert und transportiert werden?
 	- Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
 - - -
-- ?
+- Welche Maßnahmen sind erforderlich, wenn die Kleidung eines Arbeitskollegen in Brand gerät?
 	- Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
 - - -
 - ?
