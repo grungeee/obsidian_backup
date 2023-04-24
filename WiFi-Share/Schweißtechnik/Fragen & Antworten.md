@@ -148,9 +148,10 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 Welche Art von Gas wird in der Regel beim MAG-Schweißen genutzt?
 	-  Zum MAG-Schweißen wird ein aktives Gas verwendet.
 - - -
-
--  Zum MIG-Schweißen wird ein inertes Gas verwendet.
+Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
+	-  Zum MIG-Schweißen wird ein inertes Gas verwendet.
 - - -
+- Wozu dient die Schwei
 - Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
 - Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10- 15 /min empfohlen. (Drahtdurchmesser mal 10-15)
