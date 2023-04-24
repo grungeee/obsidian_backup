@@ -9,7 +9,7 @@
 - Tips-and-Tricks
 - Common Issues
   >[!warning] Obsidian installation on Linux
-- Please don't use Flatpak or Snap to install Obsidian on Linux. Learn more here
+  >Please don't use Flatpak or Snap to install Obsidian on Linux. Learn more **here**
 
 #### What is Git?
 Git is a version control system. It allows you to keep track of changes to your notes and revert back to previous versions. It also allows you to collaborate with other people on the same files. You can read more about Git here.
