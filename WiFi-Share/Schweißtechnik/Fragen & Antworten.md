@@ -70,8 +70,8 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
 	- Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - - -
-- ?
-	- Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
+-  Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweissarbeiten begonnen wird?
+- Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - - -
 - ?
 	- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
