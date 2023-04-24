@@ -190,11 +190,11 @@ Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
 - Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
 	Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
 - - -
-- Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
 	Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?
+- Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
 - - -
-- s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
-	Was bedeutet die Bezeichnung des Stahls s235JRG2?
+- Was bedeutet die Bezeichnung des Stahls s235JRG2?
+	- s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
 
 
 >[!missing] 
