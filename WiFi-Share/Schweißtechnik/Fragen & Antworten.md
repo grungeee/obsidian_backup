@@ -73,7 +73,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 -  Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweissarbeiten begonnen wird?
 - Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - - -
-- 1.  Welche Schäden können UV-Strahlen auf der Haut und den Augen verursachen?
+- *Welche Schäden können UV-Strahlen auf der Haut und den Augen verursachen?*
 	- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
 - - -
 - ?
