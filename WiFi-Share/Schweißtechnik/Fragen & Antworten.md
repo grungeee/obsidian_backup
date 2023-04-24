@@ -109,10 +109,12 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Ist das Hämmern einer Naht ein geeignetes Verfahren zur Qualitätssicherung einer Schweißnaht?
 	- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
-- ?
+- Wie kann man Verformungen beim Schweißen minimieren?
 	- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
+- Wie kann man Verformungen beim Schweißen minimieren?
 
+- - -
 
 -  Was ist der gefährlichste Fehler beim schweißen?
 	- Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
