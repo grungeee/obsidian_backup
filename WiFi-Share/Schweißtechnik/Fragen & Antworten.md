@@ -156,7 +156,7 @@ Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
 - Woher nimmt der Schweißer seine Schweißparameter?
 	- Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
-- Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10- 15 /min empfohlen. (Drahtdurchmesser mal 10-15)
+- Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10-15 l/min empfohlen. (Drahtdurchmesser mal 10-15)
 - - -
 
 
