@@ -14,7 +14,7 @@
 #### What is Git?
 Git is a version control system. It allows you to keep track of changes to your notes and revert back to previous versions. It also allows you to collaborate with other people on the same files. You can read more about Git here.
 
-#### Git/GitHub is not a syncing service!
+>[!important}Git/GitHub is not a syncing service!
 Git is not meant to share your changes live to the cloud or another person. Meaning it should not be used to work with someone live on the same note. However it's perfect for async collaboration.
 
 You build your history by batching multiple changes into commits. These can then be reverted or checked out. You can view the difference between version of a note via the Version History Diff plugin.
