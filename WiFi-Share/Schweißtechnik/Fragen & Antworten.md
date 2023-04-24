@@ -1,42 +1,44 @@
 # Schweißerprüfung nach EN ISO 9606 -1
-### EN ISO 9606 -1
+### EN ISO 9606
 - - -
+- Welches Schweißverfahren wird durch die Verfahrensnummer 135 in der EN ISO 9606-1 gekennzeichnet?
 - In der EN ISO 9606 - 1 kennzeichnet die Verfahrensnummer 135 das MAG- Schweißen
-	Welches Schweißverfahren wird durch die Verfahrensnummer 135 in der EN ISO 9606-1 gekennzeichnet?
 - - -
 - Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutzgasschweißen steigend in Stumpfnaht schweißen?
 Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ssnb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
 - - -
+- Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
 - Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
-	Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
 - - -
+- Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet?
 - Die Blech-Prüfstückdicke ist in der EN ISO 9606 -1 mit dem Kennbuchstaben t gekennzeichnet.
-	Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet?
 - - -
+- Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet?
 - Eine quergeschweißte Naht ist in der EN ISO 9606 -1 mit den Kennbuchstaben PC gekennzeichnet.
-	Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet?
 - - -
+- Welchen Bereich von Werkstückdicken deckt eine EN ISO 9606-1 Prüfung mit einer
+Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Mit einer EN ISO 9606 -1 Werkstückdicke von 2,5mm ist ein Bereich von 2,5mm- 5mm abgedeckt. Mit 5,0mm ist ein Bereich von 3mm - 10mm abgedeckt.
-	Welchen Bereich von Werkstückdicken deckt eine EN ISO 9606-1 Prüfung mit einer Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - - -
+- Wofür werden die Buchstaben "mb" in einer EN ISO 9606-1 Schweißerprüfung verwendet?
 - Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbadsicherung verwendet.
-	Wofür werden die Buchstaben "mb" in einer EN ISO 9606-1 Schweißerprüfung verwendet?
 - - -
+- Wie ist die Gültigkeit einer Schweißerprüfung nach EN ISO 9606-1 geregelt?
 - Eine Schweißerprüfung nach EN ISo 9606 -1ist wie folgt Gültig
-	Wie ist die Gültigkeit einer Schweißerprüfung nach EN ISO 9606-1 geregelt?
 > [!attention] Mehrere Punkte zusammenfassen
 
 ### Bestätigung der Gültigkeit
 - - -
-- Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
-	Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
+- Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
+- Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung
 - - -
+- Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen?
+   Was wird bestätigt, um die Gültigkeit der Schweißer-Prüfungsbescheinigung gemäß deiner
+   Antwort um einen weiteren Zeitraum von 6 Monaten zu verlängern?
 - Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wo ird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
-	Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen?
-	Was wird bestätigt, um die Gültigkeit der Schweißer-Prüfungsbescheinigung gemäß deiner Antwort um einen weiteren Zeitraum von 6 Monaten zu verlängern?
 - - -
+- Welcher Unterabschnitt in der EN ISO 9606-1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut deiner Antwort?
 - Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
-	Welcher Unterabschnitt in der EN ISO 9606-1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut deiner Antwort?
 - - -
 
 #### Verlängerung der Qualifikation
