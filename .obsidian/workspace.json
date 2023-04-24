@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Werkstofftechnik.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Werkstofftechnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Werkstofftechnik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Home.md"
+                "file": "Werkstofftechnik.md"
               }
             }
           }
@@ -179,8 +179,10 @@
   },
   "active": "f997ec2ca04c8897",
   "lastOpenFiles": [
-    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
+    "WiFi-Share/Werkstofftechnik/Stähle.md",
+    "Werkstofftechnik.md",
     "🏡 Home.md",
+    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten 2.md",
@@ -220,8 +222,6 @@
     "WiFi-Share/Technisches Zeichenen",
     "WiFi-Share/Schweißen",
     "WiFi-Share/Made by Nikita.md",
-    "WiFi-Share/Werkstofftechnik/Hauptpunkte.md",
-    "WiFi-Share/Werkstofftechnik/Hydraulische Presse.md",
     "WiFi-Share/Werkstofftechnik/Pictures/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
