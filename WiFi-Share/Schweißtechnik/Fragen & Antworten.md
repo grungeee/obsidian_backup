@@ -192,7 +192,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 
 ![[WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png]]
 
->[!check] Extra Fragen und Antworte
+>[!check] Extra Fragen und Antworten
 
  #### Die häufigsten Schweißfehler sind:
  - Überhitzung
@@ -200,3 +200,5 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
  - Falscher Schweißdraht
  - Unzureichende Schutzgaszusammensetzung
  - Falsche Schweißgeschwindigkeit
+ - Ungenügendes Vorwärmen
+ - Schweißnahtüberlappung
