@@ -122,13 +122,12 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 	- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
 - - -
 - Wie kann man Porenbildung in einer Schweißnaht vermeiden?
-
 	- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - - -
 - Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
 	- Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
 - - -
-- Um der Härtneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgewärmt.
+- Um der Härteneignung entgegenzuwirken wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
 - Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
 - - -
