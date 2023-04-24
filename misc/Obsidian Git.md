@@ -22,8 +22,8 @@ Git itself only manages a local repository. It becomes really handy in conjuncti
 
 Git is primarily used by developers and thus the command line is sometimes needed. Obsidian-Git is a plugin for Obsidian that allows you to use Git from within Obsidian without always having to use the command line or leaving Obsidian.
 
-Terminology
-Backup
+#### Terminology
+**Backup**
 For simplification, the term "Backup" refers to staging everything -> commiting -> pulling -> pushing.
 
 LINKS TO THIS PAGE
