@@ -178,20 +178,19 @@ Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
 - Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
 	Muss die Vorwärmung eines vorzuwärmenden Werkstücks vor dem Heftvorgang erfolgen? 
 - - -
-- Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. 
 	Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
+- Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. 
 ---
-- Den Werkstoff S355N bezeichnet man als einen Feinkornbaustahl.
 	Als was bezeichnet man den Werkstoff S355N? 
+- Den Werkstoff S355N bezeichnet man als einen Feinkornbaustahl.
 - - - 
-- Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
 	Wie entstehen beim MAG-Schweißen geringe Schlackenmengen?
+- Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
 - - -
 - Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
 	Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
 - - -
-	Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?
-- Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
+- Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
 - - -
 - Was bedeutet die Bezeichnung des Stahls s235JRG2?
 	- s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
