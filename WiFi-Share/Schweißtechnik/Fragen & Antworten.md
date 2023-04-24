@@ -91,7 +91,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet transportiert werden?
 	- Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
 - - -
-- Welchen Nutzen hat der Schutzschirm?  
+- Was ist der Zweck des Schutzschirms?
 	- Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
 - - -
 - Wie sollten Gasflaschen richtig gelagert und transportiert werden?
