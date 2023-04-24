@@ -145,7 +145,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - - -
 - CO2 kann zum MAG-Schweilßen verwendet werden.
 - - -
-- Welches Gas wird typischerweise beim MAG-Schweißen verwendet
+- Welches Gas wird typischerweise beim MAG-Schweißen verwendet?
 -  Zum MAG-Schweißen wird ein aktives Gas verwendet.
 - - -
 -  Zum MIG-Schweißen wird ein inertes Gas verwendet.
