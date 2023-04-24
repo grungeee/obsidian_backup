@@ -129,7 +129,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - - -
 - - -
 - - -
-1.  Warum ist die Vorbereitung von Werkstücken vor dem Schweißen wichtig?
+- 
 - Um der Härteneignung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
 - Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
