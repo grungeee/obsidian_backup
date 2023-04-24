@@ -76,10 +76,10 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - *Welche Schäden können UV-Strahlen auf der Haut und den Augen verursachen?*
 	- UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
 - - -
-- 
+- Waurm muss der Schweißrauch abgesaugt werden?
 	- Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
 - - -
-- Wofür braucht man die Atumschutygeräte beim Schweißen
+- Wofür braucht man die Atumschutzgeräte beim Schweißen
 	- Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - - -
 - Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden_
