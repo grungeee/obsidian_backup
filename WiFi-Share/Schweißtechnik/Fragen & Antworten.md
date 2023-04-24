@@ -112,17 +112,17 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Wie kann man Verformungen beim Schweißen minimieren?
 	- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
-- Wie kann man Verformungen beim Schweißen minimieren?
-
+- Wozu dient der Schweilßfolgeplan?
+- Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
-
 -  Was ist der gefährlichste Fehler beim schweißen?
 	- Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
 - - -
 - Was ist bei einer Kehlnaht nich erwünscht?
 	- Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
-- Wie kann man Porenbildung in einer Schweißnaht vermeiden?
 - - -
+- Wie kann man Porenbildung in einer Schweißnaht vermeiden?
+
 	- Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - - -
 - Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
