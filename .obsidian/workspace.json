@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "file": "🏡 Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Werkstofftechnik.md",
+                "file": "🏡 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Werkstofftechnik.md",
+                "file": "🏡 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Werkstofftechnik.md"
+                "file": "🏡 Home.md"
               }
             }
           }
@@ -177,13 +178,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f997ec2ca04c8897",
+  "active": "18d2e6f208e111a9",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stähle.md",
+    "WiFi-Share/Werkstofftechnik/Maschinenhämmer.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "Werkstofftechnik.md",
+    "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Stähle.md",
     "🏡 Home.md",
     "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten 2.md",
     "WiFi-Share/Schweißtechnik/Anki Deck test.md",
@@ -218,10 +221,8 @@
     "Excalidraw/Linienarten.md",
     "Excalidraw",
     "Pasted image 20230420200149.png",
-    "WiFi-Share/Schweißen/Untitled.md",
     "WiFi-Share/Technisches Zeichenen",
     "WiFi-Share/Schweißen",
-    "WiFi-Share/Made by Nikita.md",
     "WiFi-Share/Werkstofftechnik/Pictures/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
