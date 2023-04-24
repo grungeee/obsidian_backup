@@ -103,7 +103,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 ### Schweißnahtfehler
 
 - - -
-- ?
+- Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
 	- Beim Schutzgasschweilßen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
 - - -
 - ?
