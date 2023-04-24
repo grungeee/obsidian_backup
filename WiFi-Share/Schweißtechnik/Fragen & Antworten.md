@@ -192,4 +192,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 
 ![[WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png]]
 
->!
+>[!check]
+
+ #### Die häufigsten Schweißfehler sind:
+ 
