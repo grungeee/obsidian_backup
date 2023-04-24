@@ -106,7 +106,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
 	- Beim Schutzgasschweißen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
 - - -
-- ist das Hämmern einer Naht kein geeignetes Verfahren zur Qualitätssicherung einer Schweißnaht?
+- Ist das Hämmern einer Naht ein geeignetes Verfahren zur Qualitätssicherung einer Schweißnaht?
 	- Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
 - ?
