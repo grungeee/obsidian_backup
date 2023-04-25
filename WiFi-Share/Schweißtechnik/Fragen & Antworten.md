@@ -1,3 +1,4 @@
+
 # Schweißerprüfung nach EN ISO 9606 -1
 ### EN ISO 9606
 - - -
@@ -31,11 +32,12 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung
 - - -
 - Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen?
-   Was wird bestätigt, um die Gültigkeit der Schweißer-Prüfungsbescheinigung gemäß deiner
-   Antwort um einen weiteren Zeitraum von 6 Monaten zu verlängern?
-- Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden. Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
+- Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden.
 - - -
-- Welcher Unterabschnitt in der EN ISO 9606-1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut deiner Antwort?
+- Wie lange kann die Gültigkeit einer Schweißer-Prüfungsbescheinigung verlängert werden und was sind die Voraussetzungen für die Verlängerung?
+-  Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
+- - -
+- Welcher Unterabschnitt in der EN ISO 9606 -1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut deiner Antwort?
 - Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
 - - -
 
@@ -124,8 +126,6 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
 	- Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
 - - -
-- - -
-- - -
 - Wie kann man der Härteneignung entgegenwirken?
 - Um der Härteneignung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
@@ -140,6 +140,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - **JA** 
   Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.150°-200° ist als Vorwärmtemperatur anzusehen.
 - - -
+- Kann CO2 zum MAG-Schweßen verwendet werden?
 - CO2 kann zum MAG-Schweilßen verwendet werden.
 - - -
 Welche Art von Gas wird in der Regel beim MAG-Schweißen genutzt?
@@ -209,3 +210,4 @@ Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
  - Falsche Schweißgeschwindigkeit
  - Ungenügendes Vorwärmen
  - Schweißnahtüberlappung
+ Schweißnahtüberlappung
