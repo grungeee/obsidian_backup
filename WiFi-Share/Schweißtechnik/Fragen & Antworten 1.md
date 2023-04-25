@@ -33,10 +33,8 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen?
 - Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden.
 - - -
-- Was wird bestätigt, um die Gültigkeit der Schweißer-Prüfungsbescheinigung gemäß deiner.
-   
-   Antwort um einen weiteren Zeitraum von 6 Monaten zu verlängern?
--  Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
+- Was wird bestätigt, um die Gültigkeit der Schweißer-Prüfungsbescheinigung gemäß deiner Antwort um einen weiteren Zeitraum von 6 Monaten zu verlängern?
+-  Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wird die Gültigkeit der Schweißer-jkuPrüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
 - - -
 - Welcher Unterabschnitt in der EN ISO 9606-1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut deiner Antwort?
 - Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
