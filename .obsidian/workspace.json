@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Obsidian Git.md",
-                "mode": "preview",
+                "file": "Technisches Zeichnen.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Obsidian Git.md",
+                "file": "Technisches Zeichnen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Obsidian Git.md",
+                "file": "Technisches Zeichnen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Obsidian Git.md"
+                "file": "Technisches Zeichnen.md"
               }
             }
           }
@@ -192,10 +192,11 @@
   },
   "active": "025379883d703312",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "Technisches Zeichnen.md",
+    "misc/Obsidian Git.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
     "misc",
-    "🏡 Home.md",
-    "misc/Obsidian Git.md",
     "WiFi-Share/Werkstofftechnik/Maschinenhämmer.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
@@ -227,7 +228,6 @@
     "Excalidraw/Drawing 2023-04-20 20.44.38.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
     "WiFi-Share/Werkstofftechnik/Pictures",
