@@ -35,19 +35,23 @@ Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbad
 
 
 - - -
-Wann beginnt die Gültigkeit der Schweißer-Zertifikate?
+Wann beginnt die Gültigkeit der Schweißer-Zertifikate?  #card
+
 
 Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung.
 - - -
-Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen?
+Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen? #card
+
 
 Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden.
 - - -
-Wie lange kann die Gültigkeit einer Schweißer-Prüfungsbescheinigung verlängert werden und was sind die Voraussetzungen für die Verlängerung?
+Wie lange kann die Gültigkeit einer Schweißer-Prüfungsbescheinigung verlängert werden und was sind die Voraussetzungen für die Verlängerung? #card
+
 
 Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
 - - -
-Welcher Unterabschnitt in der EN ISO 9606 -1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut?
+Welcher Unterabschnitt in der EN ISO 9606 -1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut? #card
+
 
 Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
 - - -
@@ -59,6 +63,7 @@ Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlic
 Die Verlängerung der Qualifikation ist durch einen Prüfer/eine Prüfstelle durchzuführen.
 - - -
 > zusammenfassen
+
 
 
 Welche Verfahren gibt es, um die Fähigkeit eines Schweißers zu überprüfen und wie oft soll es geschehen?
@@ -82,7 +87,8 @@ Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität 
 Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
 
 - - -
-Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
+Was sind die Risiken, die mit dem Trennschleifen verbunden sind?  #card
+
 Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - - -
 Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweißarbeiten begonnen wird?
