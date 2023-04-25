@@ -7,7 +7,7 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": "",
+  "pandoc": "C:\\Users\\nikit\\AppData\\Local\\Pandoc\\pandoc.exe",
   "pdflatex": null,
   "outputFolder": null,
   "extraArguments": "",
