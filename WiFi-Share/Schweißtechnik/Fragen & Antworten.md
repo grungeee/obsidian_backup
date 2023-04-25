@@ -89,7 +89,7 @@ Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - - -
 Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweissarbeiten begonnen wird?
 
-Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
+Bei Schneid- und Schweiarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - - -
 Welche Schäden können UV-Strahlen auf unbedeckten Körperteilen verursachen?
 
@@ -140,11 +140,11 @@ Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet
 - - -
 Wie kann man Verformungen beim Schweißen minimieren?
 
-Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
+Durch schweißen nach einem Schweißfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
-Wozu dient der Schweilßfolgeplan?
+Wozu dient der Schweißfolgeplan?
 
-Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
+Durch schweißen nach einem Schweißfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
 Was ist der gefährlichste Fehler beim schweißen?
 
@@ -160,7 +160,7 @@ Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in
 - - -
 Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
 
-Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
+Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweißen verringern.
 - - -
 Wie kann man der Härteneignung entgegenwirken?
 
@@ -182,7 +182,7 @@ Ist bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück d
 - - -
 Kann CO₂ zum MAG-Schweßen verwendet werden?
 
-CO₂ kann zum MAG-Schweilßen verwendet werden.
+CO₂ kann zum MAG-Schweißen verwendet werden.
 - - -
 Welche Art von Gas wird beim MAG-Schweißen genutzt?
 
@@ -249,7 +249,7 @@ Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO₂ be
 - - -
 Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?
 
-Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
+Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweißen --> Inertes Gas
 - - -
 Was bedeutet die Bezeichnung des Stahls s235JRG2?
 
