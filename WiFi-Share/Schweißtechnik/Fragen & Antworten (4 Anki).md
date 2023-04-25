@@ -248,45 +248,55 @@ Ab welcher Wanddicke muss ein mit einer V-Fuge vorbereited werden und mit welche
 
 Ein Stumpfstoß mit einer Wanddicke von +3 mm,ist mit einer V-Fuge mit 30° Flankenwinkel vorzubereiten.
 - - -
-Womit lässt sich eine Wurzel im allgemeinen gut ausarbeiten?
+Womit lässt sich eine Wurzel im allgemeinen gut ausarbeiten? #card
+
 
 Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
 - - -
-Was lässt sich durch Schweißerfahrung vermeiden? 
+Was lässt sich durch Schweißerfahrung vermeiden?  #card
+
 
 Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
 - - -
-Wie heißt die Spannung die an Klemmen herrscht wenn kein Lichtbogen brennt? 
+Wie heißt die Spannung die an Klemmen herrscht wenn kein Lichtbogen brennt?  #card
+
 
 Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
 - - -
-Muss die Vorwärmung eines vorzuwärmenden Werkstücks vor dem Heftvorgang erfolgen? 
+Muss die Vorwärmung eines vorzuwärmenden Werkstücks vor dem Heftvorgang erfolgen?  #card
+
 
 **JA**
 Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
 - - -
-Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
+Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? #card
+
 
 Bei der Stahlbezeichnung **S460**N ist unmittelbar die **Mindeststreckgrenze** abzulesen. 
 --> 460 N/mm².
 - - -
-Als was bezeichnet man den Werkstoff S355N? 
+Als was bezeichnet man den Werkstoff S355N? #card
+
 
 Den Werkstoff S355**N** bezeichnet man als einen Feinkornbaustahl. **N** ---> **Normalisiert**
 - - -
-*Wie entstehen beim MAG-Schweißen die geringen Schlackenmengen?*
+*Wie entstehen beim MAG-Schweißen die geringen Schlackenmengen?* #card
+
 
 Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
 - - -
-Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
+Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen? #card
+
 
 Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO₂ beim MAG-Schweißen. *zB.: Ag*
 - - -
-Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?
+Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen? #card
+
 
 Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweißen --> Inertes Gas
 - - -
-Was bedeutet die Bezeichnung des Stahls s235JRG2?
+Was bedeutet die Bezeichnung des Stahls s235JRG2? #card
+
 
 s235JRG2 ist die Bezeichnung für einen Stahl mit einer **Mindeststreckgrenze** von **Re** von 235 N/mm²
 - - -
