@@ -61,14 +61,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md"
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md"
               }
             }
           }
@@ -205,8 +206,8 @@
   },
   "active": "14a76373f4a134a3",
   "lastOpenFiles": [
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
     "WiFi-Share/Schweißtechnik/Anki Deck test.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
     "🏡 Home.md",
