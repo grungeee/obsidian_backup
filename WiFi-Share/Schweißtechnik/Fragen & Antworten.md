@@ -188,7 +188,7 @@ Kann CO2 zum MAG-Schweßen verwendet werden?
 
 CO2 kann zum MAG-Schweilßen verwendet werden.
 - - -
-Welche Art von Gas wird i beim MAG-Schweißen genutzt?
+Welche Art von Gas wird beim MAG-Schweißen genutzt?
 
 Zum MAG-Schweißen wird ein aktives Gas verwendet.
 - - -
