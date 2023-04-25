@@ -243,7 +243,7 @@ Als was bezeichnet man den Werkstoff S355N?
 
 Den Werkstoff S355**N** bezeichnet man als einen Feinkornbaustahl. **N** ---> **Normalisiert**
 - - -
-Wie entstehen beim MAG-Schweißen geringe Schlackenmengen?
+Wie entstehen beim MAG-Schweißen die geringen Schlackenmengen?
 
 Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
 - - -
