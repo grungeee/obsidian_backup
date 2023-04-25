@@ -58,7 +58,8 @@ Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 96
 
 #### Verlängerung der Qualifikation
 - - -
-Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlich?
+Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlich? #card
+
 
 Die Verlängerung der Qualifikation ist durch einen Prüfer/eine Prüfstelle durchzuführen.
 - - -
@@ -144,11 +145,13 @@ Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den 
 ### Schweißnahtfehler
 
 - - -
-Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
+Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?  #card
+
 
 Beim Schutzgasschweißen wird die Schweißnaht durch einen Schutzgasmantel gegen Luftzutritt geschützt.
 - - -
-Was ist für die Gütesicherung der Schweißnaht nicht geeignet?
+Was ist für die Gütesicherung der Schweißnaht nicht geeignet?  #card
+
 
 Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
