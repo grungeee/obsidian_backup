@@ -230,6 +230,8 @@ Wie heißt die Spannung die an Klemmen herrscht wenn kein Lichtbogen brennt?
 Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
 - - -
 Muss die Vorwärmung eines vorzuwärmenden Werkstücks vor dem Heftvorgang erfolgen? 
+
+**JA**
 Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
 - - -
 Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
