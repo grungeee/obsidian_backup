@@ -61,7 +61,7 @@ Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlic
 
 Die Verlängerung der Qualifikation ist durch einen Prüfer/eine Prüfstelle durchzuführen.
 - - -
-Welche Verfahren gibt es, um die Fähigkeit eines Schweißers zu überprüfen und?
+Welche Verfahren gibt es, um die Fähigkeit eines Schweißers zu überprüfen und wie oft soll es geschehen?
 
 Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
 	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
