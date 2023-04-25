@@ -121,7 +121,7 @@ Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert wer
 - - -
 Was ist der Zweck des Schutzschirms?
 
-Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
+Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt.
 - - -
 Wie sollten Gasflaschen richtig gelagert und transportiert werden?
 
