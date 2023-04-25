@@ -3,7 +3,7 @@
 - - -
 Welches Schweißverfahren wird durch die Verfahrensnummer 135 in der EN ISO 9606-1 gekennzeichnet? #card
 
-In der EN ISO 9606 - 1 kennzeichnet die Verfahrensnummer 135 das MAG- Schweißen
+Verfahrensnummer 135
 - - -
 Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutzgasschweißen steigend in Stumpfnaht schweißen? #card
 
