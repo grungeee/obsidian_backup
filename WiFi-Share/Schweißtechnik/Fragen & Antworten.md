@@ -10,7 +10,7 @@ Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutz
 
 Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ss nb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
 - - -
-Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
+Wie wird der Massivdraht gemäß der EN ISO 9606 -1 gekennzeichnet?
 
 Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
 - - -
