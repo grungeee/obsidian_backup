@@ -75,10 +75,7 @@ Der Schweißer arbeitet für den gleichen Hersteller, für den er oder sie quali
  
 Das Qualitätsprogramm des Herstellers wurde nach ISO 3834-2 oder ISo 3834-3 verfiziert;
  
-Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität auf Grundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende
-	Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
-		**mb** - mit Bad
-		**nm** - nix Bad
+Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität auf Grundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
 
 >[!note]
 <---
