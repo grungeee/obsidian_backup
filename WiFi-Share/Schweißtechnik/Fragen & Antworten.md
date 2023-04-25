@@ -38,7 +38,7 @@ Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbad
 Korrigieren bis ->
 
 - - -
-Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
+Wann beginnt die Gültigkeit der Schweißer-Zertifikate?
 
 Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung
 - - -
