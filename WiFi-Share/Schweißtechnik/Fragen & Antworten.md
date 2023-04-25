@@ -73,7 +73,7 @@ Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfah
  
 Der Schweißer arbeitet für den gleichen Hersteller, für den er oder sie qualifiziert ist und der für die Fertigung des Produktes verantwortlich ist.
  
-Das Qualitätsprogramm des Herstellers wurde nach ISO 3834-2 oder ISo 3834-3 verfiziert;
+Das Qualitätsprogramm des Herstellers wurde nach ISO 3834-2 oder ISO 3834-3 verfiziert;
  
 Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität auf Grundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
 
