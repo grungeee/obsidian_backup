@@ -22,10 +22,10 @@
 	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechtale aus Baustahl (Rₘ = 520 N/mm?) ausgeschnitten.
 	3. Wie können Scherschneidwerkzeuge nach ihrer Führungsart eingeteilt werden?
 	4. Welche Scherschneidwerkzeuge eignen sich zum Herstellen von
-	   1.  Runden Scheiben mit einer Bohrung?
-	   2. Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
-	   3. Werkstücken mit gratfreier Schnittfläche?
-	   4. Werkstücken mit gebogenen Bereichen?
+	5.  Runden Scheiben mit einer Bohrung?
+	6. Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
+	7. Werkstücken mit gratfreier Schnittfläche?
+	8. Werkstücken mit gebogenen Bereichen?
 -   s. 130
 	1.   Welche Aufgabe hat die Vorwärmflamme
 	2.   beim autogenen Brennschneiden?
