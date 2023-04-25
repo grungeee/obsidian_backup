@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -190,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "025379883d703312",
+  "active": "95810e679cb66366",
   "lastOpenFiles": [
     "WiFi-Share/Schweißtechnik/Anki Deck test.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
