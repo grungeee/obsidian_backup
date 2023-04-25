@@ -72,6 +72,7 @@ Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfah
 	b ) Alle 2 Jahre müssen zwei Schweißnähte, die in den letzten 6 Monaten der Gültigkeit geschweißt werden, mittels Durchstrahlungsprüfung. Ultraschallprüfung oder zerstörender Prüfung geprüft und dokumentiert werden. Die Schweißnähte müssen die Bewertungsbedingungen für Unregelmäßigkeiten erfüllen, die in Abschnitt 7 der EN ISO 9606-1 festgelegt sind. Die geprüfte Schweißnaht muss die ursprünglichen Prüfbedingungen reproduzieren, ausgenommen für die Dicke und den Rohraußendurchmesser. Diese Prüfungen verlängerm die Schweißer Prüfungsbescheinigung für weitere 2 Jahre.
 	c) Die Qualifikationen eines Schweißßers für eine Bescheinigung sind so lange gültig, wie der Nachweis nach 9.2 der EN ISo 9606-1 bestätigt ist und unter der Voraussetzung, dass folgende Bedingungen ertulIt Sina.
 	Der Schweißer arbeitet für den gleichen Hersteller, für den er oder sie qualifiziert ist und der für die Fertigung des Produktes verantwortlich ist.
+ 
 	Das Qualitätsprogramm des Herstellers wurde nach ISo 3834-2 oder ISo 3834-3 verfiziert;
 	Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität auf Grundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende
 	Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
