@@ -171,57 +171,70 @@ Was ist der gefährlichste Fehler beim schweißen? #card
 
 Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
 - - -
-Was ist bei einer Kehlnaht nich erwünscht?
+Was ist bei einer Kehlnaht nich erwünscht? #card
+
 
 Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
 - - -
-Wie kann man Porenbildung in einer Schweißnaht vermeiden?
+Wie kann man Porenbildung in einer Schweißnaht vermeiden? #card
+
 
 Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - - -
-Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
+Wie kann man die Spritzerbildung beim MAG-Schweißen verringern? #card
+
 
 Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweißen verringern.
 - - -
-Wie kann man der Härteneigung entgegenwirken?
+Wie kann man der Härteneigung entgegenwirken? #card
+
 
 Um der Härteneigung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
-Warum wird der Stahl vorgewärmt?
+Warum wird der Stahl vorgewärmt? #card
+
 
 Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
 - - -
-Welche Auswirkung hat Kohlenstoff beim unsachgemäßen Schweißen?
+Welche Auswirkung hat Kohlenstoff beim unsachgemäßen Schweißen? #card
+
 
 Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
 - - -
-Ist bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück die Länge nach der Abkühlung gleich lang wie vor der Erwärmung?
+Ist bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück die Länge nach der Abkühlung gleich lang wie vor der Erwärmung? #card
+
 
 **JA** 
   Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.150°-200° ist als Vorwärmtemperatur anzusehen.
 - - -
-Kann CO₂ zum MAG-Schweßen verwendet werden?
+Kann CO₂ zum MAG-Schweßen verwendet werden? #card
+
 
 CO₂ kann zum MAG-Schweißen verwendet werden.
 - - -
-Welche Art von Gas wird beim MAG-Schweißen genutzt?
+Welche Art von Gas wird beim MAG-Schweißen genutzt? #card
+
 
 Zum MAG-Schweißen wird ein aktives Gas verwendet.
 - - -
-Welche Art von Gas wird beim MIG-Schweißen genutzt?
+Welche Art von Gas wird beim MIG-Schweißen genutzt? #card
+
 
 Zum MIG-Schweißen wird ein inertes Gas verwendet.
 - - -
-Wozu dient die Schweißanweisung?
+Wozu dient die Schweißanweisung? #card
+
 
 Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
-Woher nimmt der Schweißer seine Schweißparameter?
+Woher nimmt der Schweißer seine Schweißparameter? #card
+
 
 Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
-Welche Schutzgasmenge wird bei einem 1mm Draht, bei MAG-Schweißen empfohlen?
+Welche Schutzgasmenge wird bei einem 1mm Draht, bei MAG-Schweißen empfohlen? #card
+
 
 Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10-15 l/min empfohlen. (Drahtdurchmesser mal 10-15)
 - - -
@@ -230,7 +243,8 @@ Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10-15 l/min
 ### Allgemeines / Werkstoffkunde
 
 - - -
-Ab welcher Wanddicke muss ein mit einer V-Fuge vorbereited werden und mit welchen Flankenwinkel?
+Ab welcher Wanddicke muss ein mit einer V-Fuge vorbereited werden und mit welchen Flankenwinkel? #card
+
 
 Ein Stumpfstoß mit einer Wanddicke von +3 mm,ist mit einer V-Fuge mit 30° Flankenwinkel vorzubereiten.
 - - -
