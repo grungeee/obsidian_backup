@@ -91,43 +91,53 @@ Was sind die Risiken, die mit dem Trennschleifen verbunden sind?  #card
 
 Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - - -
-Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweißarbeiten begonnen wird?
+Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweißarbeiten begonnen wird? #card
+
 
 Bei Schneid- und Schweißarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - - -
-Welche Schäden können UV-Strahlen auf unbedeckten Körperteilen verursachen?
+Welche Schäden können UV-Strahlen auf unbedeckten Körperteilen verursachen?  #card
+
 
 UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
 - - -
-Waurm muss der Schweißrauch abgesaugt werden?
+Waurm muss der Schweißrauch abgesaugt werden?  #card
+
 
 Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
 - - -
-Wofür braucht man die Atumschutzgeräte beim Schweißen?
+Wofür braucht man die Atumschutzgeräte beim Schweißen?  #card
+
 
 Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - - -
-Was muss bei Wartungsarbeiten an einmem Schweißgerät immer beachtet werden?
+Was muss bei Wartungsarbeiten an einmem Schweißgerät immer beachtet werden?  #card
+
 
 Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - - -
-Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
+Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?  #card
+
 
 Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 - - -
-Dürfen die Gasflaschen mit Hilfe von Lastenhebemagnet transportiert werden?
+Dürfen die Gasflaschen mit Hilfe von Lastenhebemagnet transportiert werden?  #card
+
 
 Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
 - - -
-Was ist der Zweck des Schutzschirms?
+Was ist der Zweck des Schutzschirms?  #card
+
 
 Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt.
 - - -
-Wie sollten Gasflaschen richtig gelagert und transportiert werden?
+Wie sollten Gasflaschen richtig gelagert und transportiert werden?  #card
+
 
 Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
 - - -
-Welche Maßnahmen sind erforderlich, wenn die Kleidung eines Arbeitskollegen in Brand gerät?
+Welche Maßnahmen sind erforderlich, wenn die Kleidung eines Arbeitskollegen in Brand gerät?  #card
+
 
 Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
 - - -
