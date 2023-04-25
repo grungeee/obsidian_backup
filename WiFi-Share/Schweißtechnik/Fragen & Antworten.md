@@ -61,6 +61,8 @@ Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle dur
 Wie oft muss die Fähigkeit des Schweßers überprüft werden? 
 
 a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
+B
+
 
 Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
 	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
