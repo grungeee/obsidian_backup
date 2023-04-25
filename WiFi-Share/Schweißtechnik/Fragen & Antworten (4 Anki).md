@@ -9,24 +9,24 @@ Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutz
 
 Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ss nb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
 - - -
-Wie wird der Massivdraht gemäß der EN ISO 9606 -1 gekennzeichnet?
+Wie wird der Massivdraht gemäß der EN ISO 9606 -1 gekennzeichnet? #card
 
 Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
 - - -
-Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet?
+Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet? #card
 
 Die Blech-Prüfstückdicke ist in der EN ISO 9606 -1 mit dem Kennbuchstaben t gekennzeichnet.
 - - -
-Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet?
+Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet? #card
 
 Eine quergeschweißte Naht ist in der EN ISO 9606 -1 mit den Kennbuchstaben PC gekennzeichnet.
 - - -
-Welchen Bereich von Werkstückdicken deckt eine EN ISO 9606-1 Prüfung mit einer
-Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
+Welchen Bereich von Werkstückdicken deckt eine EN ISO 9606-1 Prüfung mit einer 
+Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm? #card
 
 Mit einer EN ISO 9606 -1 Werkstückdicke von 2,5mm ist ein Bereich von 2,5mm- 5mm abgedeckt. Mit 5,0mm ist ein Bereich von 3mm - 10mm abgedeckt.
 - - -
-Wofür werden die Buchstaben "mb" in einer EN ISO 9606-1 Schweißerprüfung verwendet?
+Wofür werden die Buchstaben "mb" in einer EN ISO 9606-1 Schweißerprüfung verwendet? #card
 
 Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbadsicherung verwendet.
 - - -
