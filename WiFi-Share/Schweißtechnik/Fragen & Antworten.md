@@ -55,9 +55,11 @@ Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 96
 #### Verlängerung der Qualifikation
 - - -
 Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlich?
+
 Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
 - - -
 Wer darf die Verlängerung der Qualifikation eines Schweißers durchführen, wie es in deiner Antwort beschrieben wird?
+
 Welche Instanz, gemäß deiner Antwort, ist dafür zuständig, die Verlängerung der Qualifikation eines Schweißers zu überprüfen und durchzuführen?
 Welche Maßnahme ist erforderlich, um die Qualifikation eines Schweißers gemäß deiner Antwort zu verlängern?
 - - -
