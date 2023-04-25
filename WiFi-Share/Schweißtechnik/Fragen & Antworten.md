@@ -87,9 +87,9 @@ Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet s
 Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
 Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - - -
-Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweissarbeiten begonnen wird?
+Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweißarbeiten begonnen wird?
 
-Bei Schneid- und Schweiarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
+Bei Schneid- und Schweißarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - - -
 Welche Schäden können UV-Strahlen auf unbedeckten Körperteilen verursachen?
 
