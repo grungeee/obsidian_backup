@@ -67,7 +67,8 @@ Die Verlängerung der Qualifikation ist durch einen Prüfer/eine Prüfstelle dur
 
 
 
-Welche Verfahren gibt es, um die Fähigkeit eines Schweißers zu überprüfen und wie oft soll es geschehen?
+Welche Verfahren gibt es, um die Fähigkeit eines Schweißers zu überprüfen und wie oft soll es geschehen? #card
+
 
 Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
 	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
@@ -155,15 +156,18 @@ Was ist für die Gütesicherung der Schweißnaht nicht geeignet?  #card
 
 Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
-Wie kann man Verformungen beim Schweißen minimieren?
+Wie kann man Verformungen beim Schweißen minimieren? #card
+
 
 Durch schweißen nach einem Schweißfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
-Wozu dient der Schweißfolgeplan?
+Wozu dient der Schweißfolgeplan? #card
+
 
 Durch schweißen nach einem Schweißfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
-Was ist der gefährlichste Fehler beim schweißen?
+Was ist der gefährlichste Fehler beim schweißen? #card
+
 
 Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
 - - -
