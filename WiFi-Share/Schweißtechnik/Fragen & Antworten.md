@@ -257,7 +257,7 @@ Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gas
 - - -
 Was bedeutet die Bezeichnung des Stahls s235JRG2?
 
-s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
+s235JRG2 ist die Bezeichnung für einen Stahl mit einer **Mindeststreckgrenze** von **Re** von 235 N/mm2
 - - -
 
 >[!missing] 
