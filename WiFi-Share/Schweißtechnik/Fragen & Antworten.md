@@ -15,16 +15,20 @@ Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
 Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
 - - -
 Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet?
+
 Die Blech-Prüfstückdicke ist in der EN ISO 9606 -1 mit dem Kennbuchstaben t gekennzeichnet.
 - - -
 Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet?
+
 Eine quergeschweißte Naht ist in der EN ISO 9606 -1 mit den Kennbuchstaben PC gekennzeichnet.
 - - -
 Welchen Bereich von Werkstückdicken deckt eine EN ISO 9606-1 Prüfung mit einer
 Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
+
 Mit einer EN ISO 9606 -1 Werkstückdicke von 2,5mm ist ein Bereich von 2,5mm- 5mm abgedeckt. Mit 5,0mm ist ein Bereich von 3mm - 10mm abgedeckt.
 - - -
 Wofür werden die Buchstaben "mb" in einer EN ISO 9606-1 Schweißerprüfung verwendet?
+
 Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbadsicherung verwendet.
 - - -
 
@@ -32,15 +36,19 @@ Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbad
 
 - - -
 Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
+
 Die Gültigkeit der Schweißer Zertifikate beginnt mit dem Datum der Prüfung
 - - -
 Wie oft muss die Qualifikation des Schweißers für einen Schweißprozess bestätigt werden und wer kann diese Bestätigung vornehmen?
+
 Die Qualifikation des Schweißers für einen Schweißprozess müssen alle 6 Monate von der Schweißaufsichtsperson oder dem Prüfer/der Prüfstelle bestätigt werden.
 - - -
 Wie lange kann die Gültigkeit einer Schweißer-Prüfungsbescheinigung verlängert werden und was sind die Voraussetzungen für die Verlängerung?
- Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
+
+Es muss bestätigt werden, dass der Schweißer innerhalb des ursprünglichen Geltungsbereiches geschweißt hat und dadurch wird die Gültigkeit der Schweißer-Prüfungsbescheinigung für einen weiteren Zeitraum von 6 Monaten verlängert.
 - - -
 Welcher Unterabschnitt in der EN ISO 9606 -1 regelt die Wahlmöglichkeiten zur Verlängerung der Schweißer-Prüfbescheinigung laut deiner Antwort?
+
 Dieser Unterabschnitt gilt für alle Wahlmöglichkeiten der in 9.3 der EN ISo 9606-1 festgelegten Verlängerung der Schweißer- Prüfbescheinigung.
 - - -
 
