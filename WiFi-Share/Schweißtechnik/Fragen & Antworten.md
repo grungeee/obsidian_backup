@@ -270,4 +270,3 @@ s235JRG2 ist die Bezeichnung für einen Stahl mit einer **Mindeststreckgrenze** 
  - Falsche Schweißgeschwindigkeit
  - Ungenügendes Vorwärmen
  - Schweißnahtüberlappung
- - Schweißnahtüberlappung
