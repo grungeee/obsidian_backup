@@ -35,7 +35,7 @@ Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbad
 ### Bestätigung der Gültigkeit
 
 >[!note]
-Korregieren bis ->
+Korrigieren bis ->
 
 - - -
 Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
@@ -77,6 +77,9 @@ Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfah
 	Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
 		**mb** - mit Bad
 		**nm** - nix Bad
+
+>[!note]
+<---
 
 ### Unfallverhütung
 
