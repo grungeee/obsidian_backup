@@ -236,12 +236,12 @@ Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Hef
 - - -
 Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
 
-Bei der Stahlbezeichnung **S460N** ist unmittelbar die **Mindeststreckgrenze** abzulesen. 
+Bei der Stahlbezeichnung **S460**N ist unmittelbar die **Mindeststreckgrenze** abzulesen. 
 --> 460N/mm².
 - - -
 Als was bezeichnet man den Werkstoff S355N? 
 
-Den Werkstoff S355N bezeichnet man als einen Feinkornbaustahl.
+Den Werkstoff S355**N** bezeichnet man als einen Feinkornbaustahl.
 - - -
 Wie entstehen beim MAG-Schweißen geringe Schlackenmengen?
 
