@@ -162,7 +162,7 @@ Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
 
 Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweißen verringern.
 - - -
-Wie kann man der Härteneignung entgegenwirken?
+Wie kann man der Härteneigung entgegenwirken?
 
 Um der Härteneigung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
@@ -170,7 +170,7 @@ Warum wird der Stahl vorgewärmt?
 
 Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
 - - -
-Welche auswirkung hat Kohlenstoff beim unsachgemäßen Schweißen?
+Welche Auswirkung hat Kohlenstoff beim unsachgemäßen Schweißen?
 
 Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
