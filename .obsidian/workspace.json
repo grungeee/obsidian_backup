@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.md"
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md"
               }
             }
           }
@@ -204,11 +205,11 @@
   },
   "active": "025379883d703312",
   "lastOpenFiles": [
+    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
-    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
     "🏡 Home.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
     "WiFi-Share/Schweißtechnik/~$agen & Antworten.docx",
