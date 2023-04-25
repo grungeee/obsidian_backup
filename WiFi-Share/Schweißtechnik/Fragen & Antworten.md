@@ -142,50 +142,50 @@ Ist bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück d
 - - -
 Kann CO2 zum MAG-Schweßen verwendet werden?
 CO2 kann zum MAG-Schweilßen verwendet werden.
-- -
+- - -
 Welche Art von Gas wird in der Regel beim MAG-Schweißen genutzt?
 	 Zum MAG-Schweißen wird ein aktives Gas verwendet.
-- -
+- - -
 Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
 	 Zum MIG-Schweißen wird ein inertes Gas verwendet.
-- -
+- - -
 Wozu dient die Schweißanweisung?
 	Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 Woher nimmt der Schweißer seine Schweißparameter?
 	Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
-- -
+- - -
 Welche Schutzgasmenge wird bei einem 1mm Draht, bei MAG-Schweißen empfohlen?
 	Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10-15 l/min empfohlen. (Drahtdurchmesser mal 10-15)
-- -
+- - -
 
 
 ### Allgemeines / Werkstoffkunde
 
-- -
+- - -
 	Ab welcher Wanddicke muss ein mit einer V-Fuge vorbereited werden und mit welchen Flankenwinkel?
 Ein Stumpfstoß mit einer Wanddicke von +3 mm,ist mit einer V-Fuge mit 30° Flankenwinkel vorzubereiten.
-- -
+- - -
 	Womit lässt sich eine Wurzel im allgemeinen gut ausarbeiten?
 Mit einem Fugenhobel oder einem Winkelschleifer, lässt sich eine Wurzel im allgemeinem gut ausarbeiten.
-- -
+- - -
 	Was lässt sich durch Schweißerfahrung vermeiden? 
 Durch einen erfahrenen Schweißer lassen sich im Allgemeinen das Gegenschweißen und Ausarbeiten einer Wurzel vermeiden.
-- -
+- - -
 	Wie heißt die Spannung die an Klemmen herrscht wenn kein Lichtbogen brennt? 
 Die Leerlaufspannung ist die Spannung die an den Klemmen herrscht wenn kein Lichtbogen brennt.
-- -
+- - -
 	Muss die Vorwärmung eines vorzuwärmenden Werkstücks vor dem Heftvorgang erfolgen? 
 Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Heftvorgang erfolgen.
-- -
+- - -
 	Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
 Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. 
----
+- - -
 	Als was bezeichnet man den Werkstoff S355N? 
 Den Werkstoff S355N bezeichnet man als einen Feinkornbaustahl.
-- - 
+- - -
 	Wie entstehen beim MAG-Schweißen geringe Schlackenmengen?
 Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
-- -
+- -  P
 Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
 	Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
 - -
