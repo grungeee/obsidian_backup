@@ -192,17 +192,20 @@ Welche Art von Gas wird beim MAG-Schweißen genutzt?
 
 Zum MAG-Schweißen wird ein aktives Gas verwendet.
 - - -
-Welche Art von Gas wird ibeim MIG-Schweißen genutzt?
+Welche Art von Gas wird beim MIG-Schweißen genutzt?
 
 Zum MIG-Schweißen wird ein inertes Gas verwendet.
 - - -
 Wozu dient die Schweißanweisung?
+
 Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
 Woher nimmt der Schweißer seine Schweißparameter?
+
 Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
 - - -
 Welche Schutzgasmenge wird bei einem 1mm Draht, bei MAG-Schweißen empfohlen?
+
 Bei einem 1mm Draht wird beim MAG-Schweißen eine Schutzgasmenge von 10-15 l/min empfohlen. (Drahtdurchmesser mal 10-15)
 - - -
 
