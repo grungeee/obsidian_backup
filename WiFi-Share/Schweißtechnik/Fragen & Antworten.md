@@ -259,7 +259,6 @@ s235JRG2 ist die Bezeichnung für einen Stahl mit einer **Mindeststreckgrenze** 
 >[!missing]
 >Schweißpositionen
 
-![[WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png]]
 
 >[!check] Extra Fragen und Antworten
 
