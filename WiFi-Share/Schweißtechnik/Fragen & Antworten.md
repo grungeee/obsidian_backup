@@ -58,7 +58,7 @@ Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlic
 
 Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
 - - -
-Wer darf die Verlängerung der Qualifikation eines Schweißers durchführen, wie es in deiner Antwort beschrieben wird?
+Wer darf die Verlängerung der Qualifikation eines Schweißers durchführen?
 
 Welche Instanz, gemäß deiner Antwort, ist dafür zuständig, die Verlängerung der Qualifikation eines Schweißers zu überprüfen und durchzuführen?
 Welche Maßnahme ist erforderlich, um die Qualifikation eines Schweißers gemäß deiner Antwort zu verlängern?
