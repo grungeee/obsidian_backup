@@ -324,9 +324,7 @@ MAG-Schweißen? #card
 Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit
 der Gase. MAG-Schweißen --\> Aktives Gas MIG-Schweißen --\> Inertes Gas
 
-Was bedeutet die Bezeichnung des Stahls
-
-S 235 JR G2? #card
+Was bedeutet die Bezeichnung des Stahls **S 235 JR** G2? #card
 
 s235JRG2 ist die Bezeichnung für einen Stahl mit einer
 **Mindeststreckgrenze** von **Re** von 235 N/mm²
@@ -347,7 +345,6 @@ s235JRG2 ist die Bezeichnung für einen Stahl mit einer
 
 - PG: Fallposition
 
-<img src="media/image1.png" style="width:0.25in;height:0.25in" />
 
 Extra Fragen und Antworten
 
