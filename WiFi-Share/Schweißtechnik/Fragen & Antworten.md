@@ -111,7 +111,7 @@ Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
 
 Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 - - -
-Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet transportiert werden?
+Dürfen die Gasflaschen mit Hilfe von Lastenhebemagnet transportiert werden?
 
 Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
 - - -
@@ -132,9 +132,9 @@ Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den 
 - - -
 Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
 
-Beim Schutzgasschweißen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
+Beim Schutzgasschweißen wird die Schweißnaht durch einen Schutzgasmantel gegen Luftzutritt geschützt.
 - - -
-Was ist für die Gütesicherung der Schweißnaht nicht geigenet?
+Was ist für die Gütesicherung der Schweißnaht nicht geeigenet?
 
 Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
