@@ -58,11 +58,6 @@ Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlic
 
 Die Verlängerung der Qualifikation ist durch einen Prüfer eine Prüfstelle durchzuführen.
 - - -
-Wer darf die Verlängerung der Qualifikation eines Schweißers durchführen?
-
-Welche Instanz, gemäß deiner Antwort, ist dafür zuständig, die Verlängerung der Qualifikation eines Schweißers zu überprüfen und durchzuführen?
-Welche Maßnahme ist erforderlich, um die Qualifikation eines Schweißers gemäß deiner Antwort zu verlängern?
-- - -
 Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
 	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
 	b ) Alle 2 Jahre müssen zwei Schweißnähte, die in den letzten 6 Monaten der Gültigkeit geschweißt werden, mittels Durchstrahlungsprüfung. Ultraschallprüfung oder zerstörender Prüfung geprüft und dokumentiert werden. Die Schweißnähte müssen die Bewertungsbedingungen für Unregelmäßigkeiten erfüllen, die in Abschnitt 7 der EN ISO 9606-1 festgelegt sind. Die geprüfte Schweißnaht muss die ursprünglichen Prüfbedingungen reproduzieren, ausgenommen für die Dicke und den Rohraußendurchmesser. Diese Prüfungen verlängerm die Schweißer Prüfungsbescheinigung für weitere 2 Jahre.
