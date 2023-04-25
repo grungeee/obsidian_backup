@@ -79,7 +79,7 @@ Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität 
 
 ### Unfallverhütung
 
->[!fail] Die Antwort ist falsch
+- - -
 ? FRAGE
 Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
 
