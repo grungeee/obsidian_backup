@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "18d2e6f208e111a9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf"
               }
             }
           },
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf"
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md"
               }
             }
           }
@@ -188,12 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18d2e6f208e111a9",
+  "active": "b011c1e5e4aef4b0",
   "lastOpenFiles": [
+    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
     "🏡 Home.md",
     "WiFi-Share/Schweißtechnik/FragenAntworten.docx.html",
     "WiFi-Share/Schweißtechnik/Fragen & Antowrten_converted.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
     "WiFi-Share/Schweißtechnik/Anki Deck test.md",
@@ -201,7 +193,6 @@
     "WiFi-Share/Schweißtechnik/Fragen & Antworten 1.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
     "WiFi-Share/Schweißtechnik/~$agen & Antworten.docx",
-    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "misc/Obsidian Git.md",
     "misc",
@@ -228,7 +219,6 @@
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "antworten.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.44.42.excalidraw.md",
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
     "Pasted image 20230420200149.png",
