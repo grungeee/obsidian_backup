@@ -236,7 +236,7 @@ Beim Heften eines vorzuwärmenden Werkstückes, muss die Vorwärmung vor dem Hef
 - - -
 Was kann bei der Stahlbezeichnung S460N unmittelbar abgelesen werden? 
 
-Bei der Stahlbezeichnung S46ON ist unmittelbar die Mindeststreckgrenze abzulesen. --> 460Nmm2. 
+Bei der Stahlbezeichnung **S460N** ist unmittelbar die **Mindeststreckgrenze** abzulesen. --> 460Nmm2. 
 - - -
 Als was bezeichnet man den Werkstoff S355N? 
 
