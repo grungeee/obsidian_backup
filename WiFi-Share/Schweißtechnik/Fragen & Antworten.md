@@ -3,12 +3,15 @@
 ### EN ISO 9606
 - - -
 Welches Schweißverfahren wird durch die Verfahrensnummer 135 in der EN ISO 9606-1 gekennzeichnet? 
+
 In der EN ISO 9606 - 1 kennzeichnet die Verfahrensnummer 135 das MAG- Schweißen
 - - -
-Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutzgasschweißen steigend in Stumpfnaht schweißen
+Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutzgasschweißen steigend in Stumpfnaht schweißen?
+
 Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ss nb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
 - - -
 Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
+
 Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
 - - -
 Wie wird die Blech-Prüfstückdicke in der EN ISO 9606-1 gekennzeichnet?
@@ -185,15 +188,15 @@ Den Werkstoff S355N bezeichnet man als einen Feinkornbaustahl.
 - - -
 	Wie entstehen beim MAG-Schweißen geringe Schlackenmengen?
 Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-Schweißen die geringen Schlackenmengen.
-- -  P
+- - -
 Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
 	Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
-- -
+- - -
 Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?Zwischen MAG- und MIG-Verfahren gibt es keine generelle Austauschbarkeit der Gase. MAG-Schweißen --> Aktives Gas MIG-Schweilßen --> Inertes Gas
-- -
+- - -
 Was bedeutet die Bezeichnung des Stahls s235JRG2?
 	s235JRG2 ist die Bezeichnung für einen Stahl mit einer Mindeststreckgrenze von Re von 235 N/mm2
-
+- - -
 
 >[!missing] 
 >Schweißpositionen
