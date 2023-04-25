@@ -249,7 +249,7 @@ Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-S
 - - -
 Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
 
-Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen.
+Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen. zvb
 - - -
 Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?
 
