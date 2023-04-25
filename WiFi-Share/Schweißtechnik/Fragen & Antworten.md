@@ -151,6 +151,7 @@ Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
 - - -
 Ist bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück die Länge nach der Abkühlung gleich lang wie vor der Erwärmung?
+
 **JA** 
   Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.150°-200° ist als Vorwärmtemperatur anzusehen.
 - - -
@@ -158,10 +159,10 @@ Kann CO2 zum MAG-Schweßen verwendet werden?
 CO2 kann zum MAG-Schweilßen verwendet werden.
 - - -
 Welche Art von Gas wird in der Regel beim MAG-Schweißen genutzt?
-	 Zum MAG-Schweißen wird ein aktives Gas verwendet.
+ Zum MAG-Schweißen wird ein aktives Gas verwendet.
 - - -
 Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
-	 Zum MIG-Schweißen wird ein inertes Gas verwendet.
+ Zum MIG-Schweißen wird ein inertes Gas verwendet.
 - - -
 Wozu dient die Schweißanweisung?
 	Aus der Schweißanweisung nimmt der Schweißßer seine Schweißparameter.
