@@ -329,7 +329,7 @@ S 235 JR G2?
 s235JRG2 ist die Bezeichnung für einen Stahl mit einer
 **Mindeststreckgrenze** von **Re** von 235 N/mm²
 
-\#### Schweißpositionen
+#### Schweißpositionen
 
 -   PA: Wannenposition
 
