@@ -184,9 +184,9 @@ Ist bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück d
 **JA** 
   Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.150°-200° ist als Vorwärmtemperatur anzusehen.
 - - -
-Kann CO2 zum MAG-Schweßen verwendet werden?
+Kann CO₂ zum MAG-Schweßen verwendet werden?
 
-CO2 kann zum MAG-Schweilßen verwendet werden.
+CO₂ kann zum MAG-Schweilßen verwendet werden.
 - - -
 Welche Art von Gas wird beim MAG-Schweißen genutzt?
 
@@ -249,7 +249,7 @@ Durch Verbindung von Sauerstoff mit den Legierungselementen entstehen beim MAG-S
 - - -
 Was führt zu geringeren Spritzerbildungen beim MAG-Schweißen?
 
-Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO2 beim MAG-Schweißen. *zB.: Ag*
+Mischgase führen zu geringeren Spritzerbildungen als das verwenden von CO₂ beim MAG-Schweißen. *zB.: Ag*
 - - -
 Besteht eine generelle Austauschbarkeit der Gase beim MIG- und MAG-Schweißen?
 
