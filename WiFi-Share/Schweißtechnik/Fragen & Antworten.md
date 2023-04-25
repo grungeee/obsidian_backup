@@ -34,6 +34,7 @@ Die Buchstaben mb werden in einer EN ISo 9606 -1 für Schweißen mit Schweißbad
 
 ### Bestätigung der Gültigkeit
 
+
 - - -
 Wann beginnt die Gültigkeit der Schweißer-Zertifikate gemäß deiner Antwort?
 
