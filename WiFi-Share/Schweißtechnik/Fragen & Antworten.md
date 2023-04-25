@@ -81,43 +81,43 @@ Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet s
 
 - - -
 Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
-	Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
+Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - - -
- Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweissarbeiten begonnen wird?
+Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweissarbeiten begonnen wird?
 Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - - -
 Welche Schäden können UV-Strahlen auf unbedeckten Körperteilen verursachen?
-	UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
+UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
 - - -
 Waurm muss der Schweißrauch abgesaugt werden?
-	Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
+Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
 - - -
 Wofür braucht man die Atumschutzgeräte beim Schweißen?
-	Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
+Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - - -
 Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden_
-	Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
+Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - - -
 Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
-	Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
+Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 - - -
 Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet transportiert werden?
-	Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
+Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
 - - -
 Was ist der Zweck des Schutzschirms?
-	Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
+Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
 - - -
 Wie sollten Gasflaschen richtig gelagert und transportiert werden?
-	Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
+Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
 - - -
 Welche Maßnahmen sind erforderlich, wenn die Kleidung eines Arbeitskollegen in Brand gerät?
-	Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
+Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
 - - -
 ### Schweißnahtfehler
 
 - - -
 Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
-	Beim Schutzgasschweißen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
+Beim Schutzgasschweißen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
 - - -
 Was ist für die Gütesicherung der Schweißnaht nicht geigenet?
 	Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
