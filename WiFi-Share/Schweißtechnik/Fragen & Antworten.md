@@ -130,7 +130,7 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Wie kann man der Härteneignung entgegenwirken?
 - Um der Härteneignung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
-*- Warum wird der Stahl vorgewärmt?*
+- Warum wird der Stahl vorgewärmt?
 - Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
 - - -
 - Welche Auswirkung hat Kohlenstoff beim unsachgemäßen Schweißen?
