@@ -92,18 +92,23 @@ Was sind die Risiken, die mit dem Trennschleifen verbunden sind?
 Beim Trennschleifen kann der Funkenregen in bis zu 10 m Brände auslösen.
 - - -
 Welche Sicherheitsvorkehrungen sollten getroffen werden, bevor mit Schneid- und Schweissarbeiten begonnen wird?
+
 Bei Schneid- und Schweilarbeiten in feuer- und explosionsgefährdeten Räumen müssen vor Beginn der Arbeiten alle Gefahrengüter entfernt werden.
 - - -
 Welche Schäden können UV-Strahlen auf unbedeckten Körperteilen verursachen?
+
 UV-Strahlen können auf unbedeckten Körperteilen Verbrennungen verursachen.
 - - -
 Waurm muss der Schweißrauch abgesaugt werden?
+
 Da der Schweißrauch eine Gesundheitsgefährdung darstellt muss er abgesaugt werden.
 - - -
 Wofür braucht man die Atumschutzgeräte beim Schweißen?
+
 Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - - -
 Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden_
+
 Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - - -
 Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
