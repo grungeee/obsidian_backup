@@ -103,7 +103,7 @@ Wofür braucht man die Atumschutzgeräte beim Schweißen?
 
 Atemschutzgeräte bieten vor Sauerstoffmangel einen Schutz.
 - - -
-Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden?
+Was muss bei Wartungsarbeiten an einmem Schweißgerät immer beachtet werden?
 
 Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - - -
