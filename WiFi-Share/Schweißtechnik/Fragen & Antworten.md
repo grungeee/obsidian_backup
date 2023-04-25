@@ -127,8 +127,6 @@ Werkstückdicke von 2,5mm ab? Und mit einer Werkstückdicke von 5,0mm?
 - Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
 	- Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
 - - -
-- - -
-- - -
 - Wie kann man der Härteneignung entgegenwirken?
 - Um der Härteneignung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
