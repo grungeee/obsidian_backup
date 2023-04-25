@@ -1,5 +1,8 @@
 imap jk <Esc>
 imap kj <Esc>
+imap JK <Esc>
+imap KJ <Esc>
+
 
 " Have j and k navigate visual lines rather than logical ones
 nmap j gj
