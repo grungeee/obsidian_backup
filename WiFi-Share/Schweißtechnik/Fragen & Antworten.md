@@ -164,7 +164,7 @@ Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schwe
 - - -
 Wie kann man der Härteneignung entgegenwirken?
 
-Um der Härteneignung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
+Um der Härteneigung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
 - - -
 Warum wird der Stahl vorgewärmt?
 
