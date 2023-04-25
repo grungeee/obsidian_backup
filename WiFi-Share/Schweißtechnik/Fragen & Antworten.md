@@ -112,18 +112,23 @@ Was muss bei Wartungsarbeiten an einmem Schweijßgerät immer beachtet werden?
 Bei Wartungsarbeiten an einem Schweißgerät muss immer der Netzstecker gezogen werden.
 - - -
 Was sind die Auswirkungen von Wechselstrom auf den menschlichen Körper?
+
 Wechselstrom, kann bei durchströmen des menschlichen Körpers schon ab 35 mA Herzkammerflimmern auslösen.
 - - -
 Dürfen die Gasflaschen mit Hilfe von Latenhebemagnet transportiert werden?
+
 Mit einem Lastenhebemagnet dürfen auf keinen Fall Gasflaschen transportiert werden.
 - - -
 Was ist der Zweck des Schutzschirms?
+
 Durch Schutzschirme wird beim Lichtbogenschweißen die Umgebung gegen gefährliche Strahlen geschützt
 - - -
 Wie sollten Gasflaschen richtig gelagert und transportiert werden?
+
 Bei Transport von Gasflaschen ist immer die Schutzkappe aufzuschrauben.
 - - -
 Welche Maßnahmen sind erforderlich, wenn die Kleidung eines Arbeitskollegen in Brand gerät?
+
 Sollte die Kleidung eines Arbeitskollegen in Brand geraten, muss dieser von den Füßen aufwärts mit einem Feuerlöscher gelöscht werden.
 - - -
 ### Schweißnahtfehler
