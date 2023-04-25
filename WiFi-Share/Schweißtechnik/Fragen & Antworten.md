@@ -257,7 +257,7 @@ Was bedeutet die Bezeichnung des Stahls s235JRG2?
 s235JRG2 ist die Bezeichnung für einen Stahl mit einer **Mindeststreckgrenze** von **Re** von 235 N/mm²
 - - -
 
->[!missing] 
+>[!missing]
 >Schweißpositionen
 
 ![[WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png]]
