@@ -113,33 +113,33 @@ Wie kann man Verformungen beim Schweißen minimieren?
 - - -
 Wozu dient der Schweilßfolgeplan?
 Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
-- -
+- - -
  Was ist der gefährlichste Fehler beim schweißen?
 	Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
-- -
+- - -
 Was ist bei einer Kehlnaht nich erwünscht?
 	Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
-- -
+- - -
 Wie kann man Porenbildung in einer Schweißnaht vermeiden?
 	Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
-- -
+- - -
 Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
 	Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
-- -
+- - -
 Wie kann man der Härteneignung entgegenwirken?
 Um der Härteneignung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
-- -
+- - -
 Warum wird der Stahl vorgewärmt?
 Wenn man mit einer kritischen Gefügeänderung beim Schweißen eines Stahls rechnen muss, ist dieser vorzuwärmen.
-- -
+- - -
 Welche auswirkung hat Kohlenstoff beim unsachgemäßen Schweißen?
 Kohlenstoff bewirkt bei einer unsachgemäßen Schweißung Aufhärtungen.
 
-- -
+- - -
 Ist bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück die Länge nach der Abkühlung gleich lang wie vor der Erwärmung?
 **JA** 
   Bei einem in der Dehnung nicht behindertem, örtlich erwärmten Werkstück, ist die Länge nach der Abkühlung gleich lang wie vor der Erwärmung.150°-200° ist als Vorwärmtemperatur anzusehen.
-- -
+- - -
 Kann CO2 zum MAG-Schweßen verwendet werden?
 CO2 kann zum MAG-Schweilßen verwendet werden.
 - -
