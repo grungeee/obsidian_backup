@@ -1,4 +1,16 @@
 [
   "obsidian-git",
-  "obsidian-admonition"
+  "obsidian-excalidraw-plugin",
+  "obsidian-admonition",
+  "obsidian-stille",
+  "obsidian-outliner",
+  "obsidian-minimal-settings",
+  "obsidian-tasks-plugin",
+  "obsidian-style-settings",
+  "mysnippets-plugin",
+  "oz-image-plugin",
+  "obsidian-pandoc",
+  "flashcards-obsidian",
+  "table-editor-obsidian",
+  "obsidian-vimrc-support"
 ]

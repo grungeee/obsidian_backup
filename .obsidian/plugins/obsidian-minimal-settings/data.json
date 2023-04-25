@@ -9,7 +9,11 @@
   "lineWidth": 40,
   "lineWidthWide": 50,
   "maxWidth": 88,
+<<<<<<< HEAD
   "textNormal": 16,
+=======
+  "textNormal": 18,
+>>>>>>> kohai
   "textSmall": 13,
   "imgGrid": false,
   "imgWidth": "img-default-width",
