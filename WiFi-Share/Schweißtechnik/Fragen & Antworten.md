@@ -134,7 +134,7 @@ Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
 
 Beim Schutzgasschweißen wird die Schweißnaht durch einen Schutzgasmantel gegen Luftzutritt geschützt.
 - - -
-Was ist für die Gütesicherung der Schweißnaht nicht geeigenet?
+Was ist für die Gütesicherung der Schweißnaht nicht geeignet?
 
 Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
