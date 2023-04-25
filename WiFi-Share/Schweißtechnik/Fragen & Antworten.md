@@ -120,25 +120,25 @@ Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
 Beim Schutzgasschweißen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
 - - -
 Was ist für die Gütesicherung der Schweißnaht nicht geigenet?
-	Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
+Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
 Wie kann man Verformungen beim Schweißen minimieren?
-	Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
+Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
 Wozu dient der Schweilßfolgeplan?
 Durch schweißen nach einem Schweilßfolgeplan kann man, Schrumpfungen, Verformungen und Spannungen in einem Werkstück gering halten.
 - - -
  Was ist der gefährlichste Fehler beim schweißen?
-	Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
+Eine nicht erfasste Wurzel ist bei Kehlnähten einer der gefährlichsten Fehler.
 - - -
 Was ist bei einer Kehlnaht nich erwünscht?
-	Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
+Bei einer Kehlnaht (T-Stoß) ist eine Wölbnaht nicht erwünscht.
 - - -
 Wie kann man Porenbildung in einer Schweißnaht vermeiden?
-	Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
+Durch richtige Schutzgaseinstellung und Fernhalten von Zugluft kann man Poren in einer Schweißnaht vermeiden.
 - - -
 Wie kann man die Spritzerbildung beim MAG-Schweißen verringern?
-	Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
+Durch richtige Parametereinstellung kann man die Spritzerbildung beim MAG- Schweilßen verringern.
 - - -
 Wie kann man der Härteneignung entgegenwirken?
 Um der Härteneignung entgegenzuwirken, wird ein Werkstoff beim Schweißen vorgewärmt.
