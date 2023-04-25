@@ -84,6 +84,7 @@ Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfah
 ### Unfallverhütung
 
 >[!fail] Die Antwort ist falsch
+? FRAGE
 Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
 
 - - -
