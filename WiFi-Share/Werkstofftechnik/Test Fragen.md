@@ -22,33 +22,33 @@
 	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechtale aus Baustahl (Rₘ = 520 N/mm?) ausgeschnitten.
 	3. Wie können Scherschneidwerkzeuge nach ihrer Führungsart eingeteilt werden?
 	4. Welche Scherschneidwerkzeuge eignen sich zum Herstellen von
-	   -  Runden Scheiben mit einer Bohrung?
-	   - Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
-	   - Werkstücken mit gratfreier Schnittfläche?
-	   - Werkstücken mit gebogenen Bereichen?
+	   1.  Runden Scheiben mit einer Bohrung?
+	   2. Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
+	   3. Werkstücken mit gratfreier Schnittfläche?
+	   4. Werkstücken mit gebogenen Bereichen?
 -   s. 130
-	-   Welche Aufgabe hat die Vorwärmflamme
-	-   beim autogenen Brennschneiden?
-	-   2 Welche Strahlschneidverfahren eignen sich
-	-   für das Trennen von unlegiertem Stahl?
-	-   3 Woran erkennt man die richtige Schneidgeschwindigkeit beim autogenen Brennschneiden?
-	-   4 Mit welchen Schneidverfahren können die folgenden Werkstoffe geschnitten werden: Nichtrostender Stahl, AlCuMg3, Schaumstoffe, Keramik?
-	-   5 Welche Sicherheitsregeln müssen beim PlasmaSchmelzschneiden eingehalten werden?
+	1.   Welche Aufgabe hat die Vorwärmflamme
+	2.   beim autogenen Brennschneiden?
+	3.   Welche Strahlschneidverfahren eignen sich
+	4.   für das Trennen von unlegiertem Stahl?
+	5.   Woran erkennt man die richtige Schneidgeschwindigkeit beim autogenen Brennschneiden?
+	6.   Mit welchen Schneidverfahren können die folgenden Werkstoffe geschnitten werden: Nichtrostender Stahl, AlCuMg3, Schaumstoffe, Keramik?
+	7.   Welche Sicherheitsregeln müssen beim PlasmaSchmelzschneiden eingehalten werden?
 -   s. 135
-	-   Welcher Winkel beeinflusst hauptsächlich die Spanbildung?
-	-   Welche Forderungen müssen beim Anreißen beachtet werden?
-	-   Nach welchem Prinzip arbeitet der digitale Höhenanreißer?
-	-  In welche Richtung muss das Sägeblatt & Weshalb werden Feilen gespannt werden?
-	-   Wodurch erreicht man das Freischneiden von Sägeblättern?
-	-   Welche Arbeitsregeln müssen beim Sägen beachtet werden?
-	-   Für welche Sägearbeiten ist die Stichsäge geeignet?
-	-   Weshalb werden Feilen kreuzhiebig gehauen?
-	-   Welche Unterschiede bestehen zwischen gehauenen und gefrästen Feilen?
+	1.   Welcher Winkel beeinflusst hauptsächlich die Spanbildung?
+	2.   Welche Forderungen müssen beim Anreißen beachtet werden?
+	3.   Nach welchem Prinzip arbeitet der digitale Höhenanreißer?
+	4.  In welche Richtung muss das Sägeblatt & Weshalb werden Feilen gespannt werden?
+	5.   Wodurch erreicht man das Freischneiden von Sägeblättern?
+	6.   Welche Arbeitsregeln müssen beim Sägen beachtet werden?
+	7.   Für welche Sägearbeiten ist die Stichsäge geeignet?
+	8.   Weshalb werden Feilen kreuzhiebig gehauen?
+	9.   Welche Unterschiede bestehen zwischen gehauenen und gefrästen Feilen?
 -   s. 139
-	-   Warum ist die Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM?
-	-  Worin unterscheiden sich die HIM-Sorten P20 und K20, sowie die Sorten PO1 und P50?
-	-   Welche Vorteile hat Mischkeramik gegenüber Oxidkeramik?
-	-   In velthen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
+	1.   Warum ist die Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM?
+	2.  Worin unterscheiden sich die HIM-Sorten P20 und K20, sowie die Sorten PO1 und P50?
+	3.   Welche Vorteile hat Mischkeramik gegenüber Oxidkeramik?
+	4.   In velthen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
 - s. 142
 	1. Wozu enthalten Emulsionen Zusaetze?
 	2. Welche gesundheitlichen Probleme koennen bei unsachgemaessem Umgagng mit Kuehlschmierstoffen auftreten?
