@@ -15,6 +15,7 @@ Mit einer EN ISo 9606-1 135 P BW FM1 S s8,0 PF ss nb darf man ein Blech
 
 Wie wird der Massivdraht gemäß der EN ISO 9606 -1 gekennzeichnet?
 
+
 Mit dem Kennbuchstaben **S**
 
 Wie wird die Prüfstückdicke in der EN ISO 9606-1 bei Stumpfnähten und
