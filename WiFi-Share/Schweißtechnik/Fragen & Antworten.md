@@ -119,8 +119,7 @@ Welche Maßnahmen sind erforderlich, wenn die Kleidung eines Arbeitskollegen in 
 Welche Funktion hat der Schutzgasmantel beim Schutzgasschweißen?
 	Beim Schutzgasschweißen wird odie Schweißnaht durch einen Schutzgasmantel gegn Luftzutritt geschützt.
 - - -
-Ist s Hämmern einer Naht ein geeignetes Verfahren zur Qualitätssicherung einer Schweißnaht?
-Was ist nicht für die Gütesicherung der schweißnaht nicht g
+Was ist für die Gütesicherung der Schweißnaht nicht geigenet?
 	Das Hämmern einer Naht ist nicht zur Gütesicherung einer Schweißnaht geeignet.
 - - -
 Wie kann man Verformungen beim Schweißen minimieren?
