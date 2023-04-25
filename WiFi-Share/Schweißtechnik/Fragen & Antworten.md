@@ -192,7 +192,7 @@ Welche Art von Gas wird beim MAG-Schweißen genutzt?
 
 Zum MAG-Schweißen wird ein aktives Gas verwendet.
 - - -
-Welche Art von Gas wird in der Regel beim MIG-Schweißen genutzt?
+Welche Art von Gas wird ibeim MIG-Schweißen genutzt?
 
 Zum MIG-Schweißen wird ein inertes Gas verwendet.
 - - -
