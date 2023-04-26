@@ -23,6 +23,7 @@ s. 121
 3. Schraubenschlüssel, Scheren, Kurbelwellen, Pleulstangen
 4. Halten weniger aus sind effizienter in der Produktion. 
 5. Zähigkeit, für plastische Verformbarkeit
+>[Warning]
 s. 126
 1. 
 
