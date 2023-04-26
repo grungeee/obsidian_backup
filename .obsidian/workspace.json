@@ -54,21 +54,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "96fd3b695f3fe3fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scherschneidwerkzeuge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scherschneidwerkzeuge.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scherschneidwerkzeuge.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scherschneidwerkzeuge.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
               }
             }
           }
@@ -212,11 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96fd3b695f3fe3fe",
+  "active": "e96a613a7c71c461",
   "lastOpenFiles": [
+    "Scherschneidwerkzeuge.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "Scherschneidwerkzeuge.md",
     "Gesenkschmieden.md",
     "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
