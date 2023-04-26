@@ -18,18 +18,19 @@ s. 103
 	Gießen & Erstaren : Schlackenverschlüsse, Gashohlräume (blasen), Lunker,
 	 Steigerungen, Gussspannungen.
 s. 121
-1.  Vom Material
-2. Massenproduktion
-3. Schraubenschlüssel, Scheren, Kurbelwellen, Pleulstangen
-4. Halten weniger aus sind effizienter in der Produktion. 
-5. Zähigkeit, für plastische Verformbarkeit
+	1.  Vom Material
+	2. Massenproduktion
+	3. Schraubenschlüssel, Scheren, Kurbelwellen, Pleulstangen
+	4. Halten weniger aus sind effizienter in der Produktion. 
+	5. Zähigkeit, für plastische Verformbarkeit
+
 >[!warning]
 ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 
-s. 126
-1. Beim Scherschneiden wird das Material entlang einer vorgegebenen Scherlinie durch zwei Schneiden getrennt. Die Schneiden bewegen sich relativ zueinander in einer scherenden Bewegung und erzeugen so eine plastische Verformung des Materials. Dabei entsteht eine Scherzone, in der sich das Material verformt und schließlich bricht.
-2. Tabelle ablesen (FM S. 123) -> Schneidspalt *u* 0,04mm
-3. [[Scherschneidwerkzeuge]] können nach ihrer Führungsart in zwei Gruppen eingeteilt werden: 
-	- Frei geführte Scherschneidwerkzeuge
-	- Führungsgelagerte Scherschneidwerkzeuge
-4. 
+- s. 126
+	1. Beim Scherschneiden wird das Material entlang einer vorgegebenen Scherlinie durch zwei Schneiden getrennt. Die Schneiden bewegen sich relativ zueinander in einer scherenden Bewegung und erzeugen so eine plastische Verformung des Materials. Dabei entsteht eine Scherzone, in der sich das Material verformt und schließlich bricht.
+	2. Tabelle ablesen (FM S. 123) -> Schneidspalt *u* 0,04mm
+	3. [[Scherschneidwerkzeuge]] können nach ihrer Führungsart in zwei Gruppen eingeteilt werden: 
+		- Frei geführte Scherschneidwerkzeuge
+		- Führungsgelagerte Scherschneidwerkzeuge
+	4. 
