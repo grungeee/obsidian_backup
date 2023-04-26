@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "Strahlschneidverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "Strahlschneidverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
+                "file": "Strahlschneidverfahren.md"
               }
             }
           }
@@ -212,16 +212,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a540aa01195aa5ce",
+  "active": "9107b5023d51b197",
   "lastOpenFiles": [
-    "Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+    "Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+    "🏡 Home.md",
+    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "Vorwärmflamme.md",
     "Scherschneidwerkzeuge.md",
     "Gesenkschmieden.md",
-    "🏡 Home.md",
-    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "Rₘ.md",
     "GitHub Troubleshooting.md",
     "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
