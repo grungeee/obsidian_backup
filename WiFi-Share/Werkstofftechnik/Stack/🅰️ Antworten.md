@@ -36,4 +36,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	4. Folgende [[Scherschneidwerkzeuge]] eingen sich zum Herstellen von:
 		- Lochstanzer und Stanzwerkzeuge *mit kreisförmigen Schnedkanten* 
 		- Stanzwerkzeuge mit präzisen Schneidkanten oder auch Tafelscheren
-		- 
+		- Scheren mit scharfen Schneidkanten oder auch Laserschneidmaschinen
