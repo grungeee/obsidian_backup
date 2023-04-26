@@ -11,7 +11,7 @@ imap JK <Esc>
 imap KJ <Esc>
 
 " I guess this is a variable
-exmap surround_wiki surround [[]]
+exmap surround_wiki surround [[ ]]
 map <Space>sw :surround_wiki
 
 " 1. unbound <Space>
