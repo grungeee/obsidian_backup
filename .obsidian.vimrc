@@ -5,10 +5,18 @@
 " 2. leader = <Space> so no need to make one
 unmap <Space>
 
+" jk to Escape
 imap jk <Esc>
 imap kj <Esc>
 imap JK <Esc>
 imap KJ <Esc>
+
+
+" df to alt + Enter -> Follow the link under cursor
+imap fd <Esc>
+imap df <Esc>
+imap FD <Esc>
+imap DF <Esc>
 
 " I guess this is a variable
 exmap surround_wiki surround [[ ]]
