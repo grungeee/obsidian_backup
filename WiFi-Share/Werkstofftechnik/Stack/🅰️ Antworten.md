@@ -29,7 +29,6 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 s. 126
 1. Beim Scherschneiden wird das Material entlang einer vorgegebenen Scherlinie durch zwei Schneiden getrennt. Die Schneiden bewegen sich relativ zueinander in einer scherenden Bewegung und erzeugen so eine plastische Verformung des Materials. Dabei entsteht eine Scherzone, in der sich das Material verformt und schließlich bricht.
 2. Tabelle ablesen (FM S. 123) -> Schneidspalt *u* 0,04mm
-3. Scherschneidwerkzeuge können nach ihrer Führungsart in zwei Gruppen eingeteilt werden: 
-Scherschneidwerkzeuge können nach ihrer Führungsart in zwei Gruppen eingeteilt werden: 
-Frei geführte Scherschneidwerkzeuge
-Führungsgelagerte Scherschneidwerkzeuge
+3. [[Scherschneidwerkzeuge]] können nach ihrer Führungsart in zwei Gruppen eingeteilt werden: 
+	- Frei geführte Scherschneidwerkzeuge
+	- Führungsgelagerte Scherschneidwerkzeuge

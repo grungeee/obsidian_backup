@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "485ff7c54f7dfa9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scherschneidwerkzeuge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+                "file": "Scherschneidwerkzeuge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+                "file": "Scherschneidwerkzeuge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
+                "file": "Scherschneidwerkzeuge.md"
               }
             }
           }
@@ -200,10 +212,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e96a613a7c71c461",
+  "active": "485ff7c54f7dfa9c",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+    "Scherschneidwerkzeuge.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "Gesenkschmieden.md",
     "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
@@ -238,7 +251,6 @@
     "WiFi-Share/Werkstofftechnik/📁 Images/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images",
-    "WiFi-Share/Technisches Zeichenen/📁 Images/Linien Arten und Schriftblock.md",
     "WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
     "WiFi-Share/Schweißtechnik/📁 Images",
