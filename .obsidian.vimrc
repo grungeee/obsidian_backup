@@ -14,7 +14,7 @@ imap KJ <Esc>
 
 " df to alt + Enter -> Follow the link under cursor
 imap fd <ALT><CR>
-imap df <ALT-CR>
+imap df <A-CR>
 imap FD <ALT-CR>
 imap DF <ALT-CR>
 
