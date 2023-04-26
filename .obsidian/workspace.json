@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trennen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,7 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9107b5023d51b197",
+  "active": "77781cbd830c241f",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "Strahlschneidverfahren.md",
