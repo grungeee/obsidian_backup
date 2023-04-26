@@ -31,8 +31,8 @@ Wie wird die Prüfstückdicke in der EN ISO 9606-1 bei Stumpfnähten und
 Kehlnähten gekennzeichnet? #card
 
 Die Prüfstückdicke ist bei Stumpfnähten in der EN ISO 9606 -1 mit dem
-Kennbuchstaben t gekennzeichnet und bei Kehlnähten mit dem
-Kennbuchstaben s gekennzeichnet.
+Kennbuchstaben s gekennzeichnet und bei Kehlnähten mit dem
+Kennbuchstaben t gekennzeichnet.
 ^1682454679087
 
 Wie wird eine quergeschweißte Naht in der EN ISO 9606-1 gekennzeichnet? #card
