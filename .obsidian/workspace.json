@@ -51,24 +51,12 @@
               "state": {
                 "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1b5fe3d949d01cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gesenkschmieden.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gesenkschmieden.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +141,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gesenkschmieden.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "fcb8f6d58c3f3b56",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -176,12 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gesenkschmieden.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -204,11 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b5fe3d949d01cb0",
+  "active": "e96a613a7c71c461",
   "lastOpenFiles": [
+    "Gesenkschmieden.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "Gesenkschmieden.md",
     "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "Rₘ.md",
