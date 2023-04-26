@@ -13,7 +13,7 @@
 	8. Welcher Fehler können beim Einformen, Gießen und Erstarren on Gussstücken auftreten?
 - s. 121 
 	1. Wovon hängt die Schmiedetemperatur ab? 
-	2. Welche Vorteile hat das Gesenkschmieden?
+	2. Welche Vorteile hat das [[Gesenkschmieden?]]
 	3. Nennen Sie einige typische Werkstücke, die durch Gesenkschmieden hergestellt werden.
 	4. Wodurch unterscheiden sich Gewinde, die durch Gewindeformen hergestellt wurden, von geschnittenen Gewinden? 
 	5. Welche Eigenschaften müssen Werkstoffe haben, die sich zum Fließpressen eignen?
