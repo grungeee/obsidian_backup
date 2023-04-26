@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d46176b17feb14f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rₘ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e96a613a7c71c461",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "Rₘ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "Rₘ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
+                "file": "Rₘ.md"
               }
             }
           }
@@ -192,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a540aa01195aa5ce",
+  "active": "d46176b17feb14f3",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+    "Rₘ.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "🏡 Home.md",
     "GitHub Troubleshooting.md",
@@ -233,7 +246,6 @@
     "WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
     "WiFi-Share/Schweißtechnik/📁 Images",
-    "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
     "Pasted image 20230420200149.png",
