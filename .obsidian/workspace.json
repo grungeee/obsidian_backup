@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c564e1a1e429a173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Troubleshooting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1672cfb72c6afd12",
             "type": "leaf",
             "state": {
@@ -56,6 +68,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "GitHub Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "GitHub Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Home.md"
+                "file": "GitHub Troubleshooting.md"
               }
             }
           }
@@ -191,12 +204,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "353368cca5b42241",
+  "active": "c564e1a1e429a173",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "GitHub Troubleshooting.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
     "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
@@ -232,7 +246,6 @@
     "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
     "WiFi-Share/Schweißtechnik/📁 Images",
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
-    "WiFi-Share/Technisches Zeichenen/Ansichten.md",
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
     "Pasted image 20230420200149.png",
