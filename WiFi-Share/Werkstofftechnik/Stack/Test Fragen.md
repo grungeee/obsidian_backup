@@ -8,7 +8,7 @@
 	3. Wozu benötigt man beim Gießen Kerne?
 	4. Wodurch unterscheiden sich maschinengefomte Gussstücke von handgeformten? 
 	5. Wie werden die Formen für das Vakuumformen hergestellt? 
-	6. Welches Gießverfahren eignet sich zur Herstellung dünnwandiger Werkstücke aus NE-Metallen bei großen Stückzahlen? 
+	6. Welches Gießverfahren eignet sich zur Herstell ung dünnwandiger Werkstücke aus NE-Metallen bei großen Stückzahlen? 
 	7. Wie werden die Gussstücke durch Feingießen hergestellt? 
 	8. Welcher Fehler können beim Einformen, Gießen und Erstarren on Gussstücken auftreten?
 - s. 121 
