@@ -35,6 +35,7 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- Führungsgelagerte Scherschneidwerkzeuge
 	4. Folgende [[Scherschneidwerkzeuge]] eingen sich zum Herstellen von:
 		- Lochstanzer und Stanzwerkzeuge mit *kreisförmigen Schnedkanten* 
-		- Stanzwerkzeuge mit präzisen Schneidkanten oder auch Tafelscheren
+		- Stanzwerkzeuge mit *präzisen Schneidkanten* oder auch Tafelscheren
 		- Scheren mit scharfen Schneidkanten oder auch Laserschneidmaschinen
 		- Scheren mit *gekrümmten Schneidkanten*, wie beispielsweise eine **Rundschere** oder auch eine **Schlagschere** mit Rundmesser
+- s. 13
