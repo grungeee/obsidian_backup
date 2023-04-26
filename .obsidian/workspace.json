@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "c564e1a1e429a173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1672cfb72c6afd12",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub Troubleshooting.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
               }
             }
           }
@@ -204,12 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c564e1a1e429a173",
+  "active": "a540aa01195aa5ce",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "🏡 Home.md",
     "GitHub Troubleshooting.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
