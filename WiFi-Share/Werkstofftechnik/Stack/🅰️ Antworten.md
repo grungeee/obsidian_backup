@@ -33,4 +33,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	3. [[Scherschneidwerkzeuge]] können nach ihrer Führungsart in zwei Gruppen eingeteilt werden: 
 		- Frei geführte Scherschneidwerkzeuge
 		- Führungsgelagerte Scherschneidwerkzeuge
-	4. Scherschneidwerkzeuge eingen sich zum Herstellen von
+	4. FolgeScherschneidwerkzeuge eingen sich zum Herstellen von
