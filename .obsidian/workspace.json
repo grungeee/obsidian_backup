@@ -68,6 +68,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Strahlschneidverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "Strahlschneidverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Home.md"
+                "file": "Strahlschneidverfahren.md"
               }
             }
           }
@@ -211,13 +212,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "353368cca5b42241",
+  "active": "9107b5023d51b197",
   "lastOpenFiles": [
+    "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-    "🏡 Home.md",
     "Vorwärmflamme.md",
     "Scherschneidwerkzeuge.md",
     "Gesenkschmieden.md",
