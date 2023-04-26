@@ -13,10 +13,10 @@ imap KJ <Esc>
 
 
 " df to alt + Enter -> Follow the link under cursor
-imap fd <Alt><Enter>
-imap df <Alt><Enter>
-imap FD <Alt><Enter>
-imap DF <Alt><Enter>
+imap fd <A-Enter>
+imap df <A-Enter>
+imap FD <A-Enter>
+imap DF <A-Enter>
 
 " I guess this is a variable
 exmap surround_wiki surround [[ ]]
