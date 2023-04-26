@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "6d0ac39b850aee7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vorwärmflamme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e96a613a7c71c461",
             "type": "leaf",
             "state": {
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorwärmflamme.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorwärmflamme.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vorwärmflamme.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
               }
             }
           }
@@ -212,7 +200,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d0ac39b850aee7c",
+  "active": "e96a613a7c71c461",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "Vorwärmflamme.md",
