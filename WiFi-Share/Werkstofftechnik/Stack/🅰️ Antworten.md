@@ -17,7 +17,7 @@ s. 103
 	8. Einformen : schülpen ,versetzter Guss.
 	Gießen & Erstaren : Schlackenverschlüsse, Gashohlräume (blasen), Lunker,
 	 Steigerungen, Gussspannungen.
-s. 121
+- s. 121
 	1.  Vom Material
 	2. Massenproduktion
 	3. Schraubenschlüssel, Scheren, Kurbelwellen, Pleulstangen
