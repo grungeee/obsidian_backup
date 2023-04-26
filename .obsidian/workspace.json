@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -105,7 +104,7 @@
               "state": {
                 "file": "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -153,8 +152,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4aae2f4a15c21b1c",
+  "active": "353368cca5b42241",
   "lastOpenFiles": [
+    "🏡 Home.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "antworten.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
@@ -168,7 +171,6 @@
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
     "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
-    "🏡 Home.md",
     "WiFi-Share/Schweißtechnik/FragenAntworten.docx.html",
     "WiFi-Share/Schweißtechnik/Fragen & Antowrten_converted.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
@@ -177,7 +179,6 @@
     "misc/Obsidian Git.md",
     "misc",
     "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten 2.md",
@@ -193,8 +194,6 @@
     "WiFi-Share/Technisches Zeichenen/Linien Arten und Schriftblock.md",
     "WiFi-Share/Technisches Zeichenen/Ansichten.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "WiFi-Share/Werkstofftechnik/Antworten.md",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
     "Pasted image 20230420200149.png",
