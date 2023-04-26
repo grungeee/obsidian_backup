@@ -37,3 +37,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- Lochstanzer und Stanzwerkzeuge *mit kreisförmigen Schnedkanten* 
 		- Stanzwerkzeuge mit präzisen Schneidkanten oder auch Tafelscheren
 		- Scheren mit scharfen Schneidkanten oder auch Laserschneidmaschinen
+		- Scheren mit *gekrümmten Schneidkanten*, wie beispielsweise eine Rundschere oder auch eine Schlagschere mit Rundmesser
