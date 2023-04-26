@@ -39,4 +39,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- Scheren mit scharfen Schneidkanten oder auch Laserschneidmaschinen
 		- Scheren mit *gekrümmten Schneidkanten*, wie beispielsweise eine **Rundschere** oder auch eine **Schlagschere** mit Rundmesser
 - s. 130
-	1. Werkstück *vor dem Schneidprozess* auf eine *ausreichend hohe Temperatur* zu *erwärmen*. Dadurch wird das Material weicher und somit leichter schneidbar. 
+	1. vor dem Schneidprozess ausreichend hohe Temperatur erreichen. Dadurch wird das Material weicher und somit leichter schneidbar. 
