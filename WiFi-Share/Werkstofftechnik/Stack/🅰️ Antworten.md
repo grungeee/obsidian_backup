@@ -23,8 +23,10 @@ s. 121
 3. Schraubenschlüssel, Scheren, Kurbelwellen, Pleulstangen
 4. Halten weniger aus sind effizienter in der Produktion. 
 5. Zähigkeit, für plastische Verformbarkeit
->[Warning]
+>[!warning]
+ab hier beginnt viel GPT -> Proofreaden!
+
 s. 126
-1. 
+1. Beim Scherschneiden wird das Material entlang einer vorgegebenen Scherlinie durch zwei Schneiden getrennt. Die Schneiden bewegen sich relativ zueinander in einer scherenden Bewegung und erzeugen so eine plastische Verformung des Materials. Dabei entsteht eine Scherzone, in der sich das Material verformt und schließlich bricht.
 
 
