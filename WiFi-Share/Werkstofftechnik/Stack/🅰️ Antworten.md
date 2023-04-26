@@ -38,6 +38,7 @@ s. 126
   -   Schrauben und Muttern
   -   Werkzeuge und Werkzeugkomponenten
   -   Hubschrauberrotoren und andere luftfahrttechnische Bauteile
-Diese Liste ist jedoch nicht abschließend, da Gesenkschmieden eine vielseitige Fertigungsmethode ist und viele verschiedene Werkstücke herstellen kann.
+	Diese Liste ist jedoch nicht abschließend, da Gesenkschmieden eine vielseitige Fertigungsmethode ist und viele verschiedene Werkstücke herstellen kann.
+4. 
 
 
