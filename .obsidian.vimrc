@@ -1,7 +1,25 @@
+" My settings
+
+
+" 1. unbound <Space>
+" 2. leader = <Space> so no need to make one
+unmap <Space>
+
 imap jk <Esc>
 imap kj <Esc>
 imap JK <Esc>
 imap KJ <Esc>
+
+" I guess this is a variable
+exmap surround_wiki surround [[]]
+map <Space>sw :surround_wiki
+
+" 1. unbound <Space>
+" 2. leader = <Space> so no need to make one
+unmap <Space>
+
+
+" ------------
 
 
 " Have j and k navigate visual lines rather than logical ones
