@@ -30,10 +30,10 @@ s. 126
 1. Beim Scherschneiden wird das Material entlang einer vorgegebenen Scherlinie durch zwei Schneiden getrennt. Die Schneiden bewegen sich relativ zueinander in einer scherenden Bewegung und erzeugen so eine plastische Verformung des Materials. Dabei entsteht eine Scherzone, in der sich das Material verformt und schließlich bricht.
 2. Tabelle ablesen (FM S. 123) -> Schneidspalt *u* 0,04mm
 3.  Durch [[Gesenkschmieden]] können viele Arten von Werkstücken hergestellt werden, von kleinen bis hin zu großen Bauteilen. Hier sind einige typische Beispiele:
-  Kurbelwellen und Pleuelstangen für Verbrennungsmotoren
--   Zahnräder und Getriebeteile
--   Flansche und Rohrverbindungen
--   Radnaben und Achsschenkel für Fahrzeuge
+  - Kurbelwellen und Pleuelstangen für Verbrennungsmotoren
+  - Zahnräder und Getriebeteile
+  - Flansche und Rohrverbindungen
+  - Radnaben und Achsschenkel für Fahrzeuge
 -   Hydraulikkomponenten wie Kolben und Zylinder
 -   Schrauben und Muttern
 -   Werkzeuge und Werkzeugkomponenten
