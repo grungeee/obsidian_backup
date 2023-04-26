@@ -1,6 +1,6 @@
 ### Fächer
 - [[Schweißtechnik]]
-- [[Fertigungsverfahren]]
+- [[Werkstofftechnik]]
 - [[Technisches Zeichnen]]
 
 #### Off Topic
