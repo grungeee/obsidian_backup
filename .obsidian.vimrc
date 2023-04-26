@@ -16,7 +16,6 @@ map <Space>sw :surround_wiki
 
 " 1. unbound <Space>
 " 2. leader = <Space> so no need to make one
-unmap <Space>
 
 
 " ------------
