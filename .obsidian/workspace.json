@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+                "file": "🏡 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+                "file": "🏡 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
+                "file": "🏡 Home.md"
               }
             }
           }
@@ -192,11 +191,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e96a613a7c71c461",
+  "active": "353368cca5b42241",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
