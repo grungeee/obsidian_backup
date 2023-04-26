@@ -1,4 +1,4 @@
-Für das *Trennen* von *unlegiertem Stahl* eignen sich hauptsächlich zwei Strahlschneidverfahren: das Plasmaschneiden und das Brennschneiden mit Sauerstoff.
+Für das *Trennen* von *unlegiertem Stahl* eignen sich hauptsächlich zwei Strahlschneidverfahren: das [[Plasmaschneiden]] und das [[Brennschneiden]] *mit Sauerstoff*.
 
 Beim Plasmaschneiden wird ein Plasmastrahl durch einen Düsenkopf auf das Werkstück gerichtet, der das Material durch die hohe Hitze schmilzt und wegbläst. Das Plasmaschneiden ist für Materialdicken von etwa 0,5 bis 50 mm geeignet und kann eine sehr hohe Schnittgeschwindigkeit erreichen.
 
