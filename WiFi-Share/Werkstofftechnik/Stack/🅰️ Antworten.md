@@ -32,3 +32,4 @@ s. 126
 3. [[Scherschneidwerkzeuge]] können nach ihrer Führungsart in zwei Gruppen eingeteilt werden: 
 	- Frei geführte Scherschneidwerkzeuge
 	- Führungsgelagerte Scherschneidwerkzeuge
+4. 
