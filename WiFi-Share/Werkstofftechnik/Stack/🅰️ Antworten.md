@@ -35,3 +35,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- Führungsgelagerte Scherschneidwerkzeuge
 	4. Folgende [[Scherschneidwerkzeuge]] eingen sich zum Herstellen von:
 		- Lochstanzer und Stanzwerkzeuge *mit kreisförmigen Schnedkanten* 
+		- 
