@@ -28,7 +28,7 @@
 		- Werkstücken mit gebogenen Bereichen?
 -   s. 130
 	1.   Welche Aufgabe hat die [[Vorwärmflamme]] beim autogenen Brennschneiden?
-	2.   Welche Strahlschneidverfahren eignen sich für das [[Trennen von unlegiertem Stahl]]?
+	2.   Welche [[Strahlschneidverfahren]] eignen sich für das Trennen von unlegiertem Stahl?
 	3.   Woran erkennt man die richtige Schneidgeschwindigkeit beim autogenen Brennschneiden?
 	4.   Mit welchen Schneidverfahren können die folgenden Werkstoffe geschnitten werden: Nichtrostender Stahl, AlCuMg3, Schaumstoffe, Keramik?
 	5.   Welche Sicherheitsregeln müssen beim PlasmaSchmelzschneiden eingehalten werden?
