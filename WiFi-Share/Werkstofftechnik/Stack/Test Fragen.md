@@ -19,7 +19,7 @@
 	5. Welche Eigenschaften müssen Werkstoffe haben, die sich zum Fließpressen eignen?
 -   s. 126
 	1. Wie verläuft der Trennvorgang beim Scherschneiden?
-	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechtale aus Baustahl (Rₘ = 520 N/mm?) ausgeschnitten.
+	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechtale aus Baustahl (Rₘ = 520 N/mm?) ausgeschnitten. Wie gro
 	3. Wie können Scherschneidwerkzeuge nach ihrer Führungsart eingeteilt werden?
 	4. Welche Scherschneidwerkzeuge eignen sich zum Herstellen von
 	5.  Runden Scheiben mit einer Bohrung?
