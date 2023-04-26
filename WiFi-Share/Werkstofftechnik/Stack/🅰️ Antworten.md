@@ -34,4 +34,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- Frei geführte Scherschneidwerkzeuge
 		- Führungsgelagerte Scherschneidwerkzeuge
 	4. Folgende [[Scherschneidwerkzeuge]] eingen sich zum Herstellen von:
-		- Lochstanzer und Stanz
+		- Lochstanzer und Stanzwerkzeuge *mit * 
