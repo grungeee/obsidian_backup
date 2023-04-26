@@ -5,4 +5,4 @@
 
 #### Off Topic
 - [[Obsidian Git]]
-- [[GitHub Troubleshooting]]
+- [[GitHub Troubleshootig]]
