@@ -54,21 +54,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "485ff7c54f7dfa9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scherschneidwerkzeuge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scherschneidwerkzeuge.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scherschneidwerkzeuge.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scherschneidwerkzeuge.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
               }
             }
           }
@@ -212,7 +200,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "485ff7c54f7dfa9c",
+  "active": "a540aa01195aa5ce",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "Scherschneidwerkzeuge.md",

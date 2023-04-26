@@ -21,11 +21,10 @@
 	1. Wie verläuft der Trennvorgang beim Scherschneiden?
 	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechteile aus Baustahl ([[Rₘ]] = 520 N/mm²?) ausgeschnitten. Wie groß muss der Schneidspalt des Werkzeuges sein?
 	3. Wie können Scherschneidwerkzeuge nach ihrer Führungsart eingeteilt werden?
-	4. Welche Scherschneidwerkzeuge eignen sich zum Herstellen von
-	5.  Runden Scheiben mit einer Bohrung?
-	6. Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
-	7. Werkstücken mit gratfreier Schnittfläche?
-	8. Werkstücken mit gebogenen Bereichen?
+	4. Welche Scherschneidwerkzeuge eignen sich zum Herstellen von Runden Scheiben mit einer Bohrung?
+	5. Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
+	6. Werkstücken mit gratfreier Schnittfläche?
+	7. Werkstücken mit gebogenen Bereichen?
 -   s. 130
 	1.   Welche Aufgabe hat die Vorwärmflamme
 	2.   beim autogenen Brennschneiden?
