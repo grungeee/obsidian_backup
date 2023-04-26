@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,10 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "353368cca5b42241",
+  "active": "4aae2f4a15c21b1c",
   "lastOpenFiles": [
-    "antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+    "antworten.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
