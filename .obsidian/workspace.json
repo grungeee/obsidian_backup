@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "353368cca5b42241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Obsidian Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1672cfb72c6afd12",
             "type": "leaf",
             "state": {
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Obsidian Git.md",
+                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Obsidian Git.md",
+                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Obsidian Git.md"
+                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md"
               }
             }
           }
@@ -212,8 +200,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "353368cca5b42241",
+  "active": "1672cfb72c6afd12",
   "lastOpenFiles": [
+    "misc/Obsidian Git.md",
     "🏡 Home.md",
     "Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
@@ -243,7 +232,6 @@
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
     "WiFi-Share/Schweißtechnik/~$agen & Antworten.docx",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-    "misc/Obsidian Git.md",
     "misc",
     "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
     "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
