@@ -45,4 +45,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- [[Plasmaschneiden]]
 		- [[Wasserstrahlschneiden]]
 		- [[Laserstrahlschneiden:]]
- Als **Faustregel** gilt, dass die [[Schneidgeschwindigkeit]] bei [[Brennschneiden]] so gewählt werden sollte, dass die Flammenlänge der Brennschneiddüse etwa die *doppelte Dicke des zu schneidenden Materials* beträgt
+	3.  Als **Faustregel** gilt, dass die [[Schneidgeschwindigkeit]] bei [[Brennschneiden]] so gewählt werden sollte, dass die Flammenlänge der Brennschneiddüse etwa die *doppelte Dicke des zu schneidenden Materials* beträgt.
