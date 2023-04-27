@@ -6,6 +6,13 @@
         "Mod"
       ],
       "key": ";"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ";"
     }
   ],
   "app:toggle-right-sidebar": [
