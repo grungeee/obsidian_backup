@@ -45,4 +45,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- [[Plasmaschneiden]]
 		- [[Wasserstrahlschneiden]]
 		- [[Laserstrahlschneiden:]]
-	3. 
+	3. Die richtige [[Schneidgeschwindigkeit]] bei [[Brennschneiden]]
