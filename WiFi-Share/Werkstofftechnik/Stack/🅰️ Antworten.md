@@ -45,4 +45,3 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- [[Plasmaschneiden]]
 		- [[Wasserstrahlschneiden]]
 		- [[Laserstrahlschneiden:]] 
-	1.
