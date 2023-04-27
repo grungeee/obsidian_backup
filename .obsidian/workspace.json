@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schneidgeschwindigkeit.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schneidgeschwindigkeit.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schneidgeschwindigkeit.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
               }
             }
           }
@@ -201,10 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cced156373afdd2",
+  "active": "e96a613a7c71c461",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "Schneidgeschwindigkeit.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
