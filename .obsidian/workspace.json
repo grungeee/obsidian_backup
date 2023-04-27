@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "🏡 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "🏡 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md"
+                "file": "🏡 Home.md"
               }
             }
           }
@@ -212,10 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1672cfb72c6afd12",
+  "active": "353368cca5b42241",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+    "🏡 Home.md",
     "Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
