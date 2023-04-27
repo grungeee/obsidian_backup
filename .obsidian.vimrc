@@ -14,7 +14,8 @@ imap KJ <Esc>
 
 " df to alt + Enter -> Follow the link under cursor
 " noremap fd <C-O><M-CR>
-noremap fd <M-CR>
+" noremap fd <M-CR>
+map <F2> :execute "normal! i\<C-v>\<CR>\<Esc>"<CR>
 map df <A-CR>
 map FD <A-CR>
 map DF <A-CR>
