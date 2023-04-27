@@ -13,7 +13,7 @@ imap KJ <Esc>
 
 
 " df to alt + Enter -> Follow the link under cursor
-map fd <A-CR>
+map fd <M-CR>
 map df <A-CR>
 map FD <A-CR>
 map DF <A-CR>
