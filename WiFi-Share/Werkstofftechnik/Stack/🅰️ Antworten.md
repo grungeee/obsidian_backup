@@ -41,5 +41,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 - s. 130
 	1. Vor dem Schneidprozess ausreichend hohe Temperatur erreichen. ---> Material weicher und leichter schneidbar. 
 	2. Für das [[Trennen]] von *unlegiertem [[Stahl]]* eignen sich hauptsächlich zwei Strahlschneidverfahren: das [[Plasmaschneiden]] und das [[Brennschneiden]] *mit Sauerstoff*
-	3. 
-	4. -[[Autogenes Brennschneiden]]
+	3.  [[Strahlschneidverfahren]], die sich f
+	   - [[Autogenes Brennschneiden]]
