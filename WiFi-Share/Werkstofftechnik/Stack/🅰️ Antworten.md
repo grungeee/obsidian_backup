@@ -40,7 +40,7 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- Scheren mit *gekrümmten Schneidkanten*, wie beispielsweise eine **Rundschere** oder auch eine **Schlagschere** mit Rundmesser
 - s. 130
 	1. Vor dem Schneidprozess ausreichend hohe Temperatur erreichen. ---> Material weicher und leichter schneidbar. 
-	3.  [[Strahlschneidverfahren]], die sich fuers Trennen von unleg. Stahl eignen:
+	2.  [[Strahlschneidverfahren]], die sich fuers Trennen von unleg. Stahl eignen:
 		- [[Autogenes Brennschneiden]]
 		- [[Plasmaschneiden]]
 		- [[Wasserstrahlschneiden]]
