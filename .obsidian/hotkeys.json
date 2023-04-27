@@ -18,10 +18,10 @@
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "'"
+      "key": ";"
     }
   ]
 }
