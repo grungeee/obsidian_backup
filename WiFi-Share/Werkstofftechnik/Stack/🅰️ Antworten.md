@@ -43,4 +43,6 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	2. Für das [[Trennen]] von *unlegiertem [[Stahl]]* eignen sich hauptsächlich zwei Strahlschneidverfahren: das [[Plasmaschneiden]] und das [[Brennschneiden]] *mit Sauerstoff*
 	3.  [[Strahlschneidverfahren]], die sich fuers Trennen von unleg. Stahl eignen:
 		- [[Autogenes Brennschneiden]]
-		- 
+		- [[Plasmaschneiden]]
+		- [[Wasserstrahlschneiden]]
+		- [[Laserstrahlschneiden:]]
