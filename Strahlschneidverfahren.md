@@ -5,7 +5,7 @@ Es gibt mehrere Strahlschneidverfahren, die für das Trennen von unlegiertem Sta
 3.  [[Wasserstrahlschneiden]]: Hierbei wird ein Hochdruck-Wasserstrahl verwendet, um das Material zu schneiden. Der Wasserstrahl wird mit einer Geschwindigkeit von bis zu 1000 m/s durch das Material gespritzt und schneidet es durch die Krafteinwirkung.
 4.  [[Laserstrahlschneiden:]] Hierbei wird ein Laserstrahl verwendet, um das Material zu schneiden. Der Laserstrahl schmilzt das Material und schneidet es mit hoher Präzision durch die Krafteinwirkung.
 
-Für das Trennen von unlegiertem Stahl sind alle diese Strahlschneidverfahren geeignet. Die Wahl des Verfahrens hängt jedoch von verschiedenen Faktoren ab, wie z.B. der Materialdicke, der gewünschten Schnittqualität und der Verfügbarkeit von Ausrüstungen. In jedem Fall sollten die Betriebsanleitungen und Sicherheitsvorschriften für das ausgewählte Verfahren sorgfältig befolgt werden.
+Für das Trennen von unlegiertem Stahl sind alle diese Strahlschneidverfahren geeignet. Die Wahl des Verfahrens hängt jedoch von verschiedenen Faktoren ab, wie z.B. der *Materialdicke*, der *gewünschten Schnittqualität* und der Verfügbarkeit von Ausrüstungen. In jedem Fall sollten die Betriebsanleitungen und Sicherheitsvorschriften für das ausgewählte Verfahren sorgfältig befolgt werden.
 
 
 Für das [[Trennen]] von *unlegiertem [[Stahl]]* eignen sich hauptsächlich zwei Strahlschneidverfahren: das [[Plasmaschneiden]] und das [[Brennschneiden]] *mit Sauerstoff*.
