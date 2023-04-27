@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "misc/Obsidian Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strahlschneidverfahren.md",
+                "file": "misc/Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strahlschneidverfahren.md",
+                "file": "misc/Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strahlschneidverfahren.md"
+                "file": "misc/Obsidian Git.md"
               }
             }
           }
@@ -212,11 +211,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9107b5023d51b197",
+  "active": "353368cca5b42241",
   "lastOpenFiles": [
     "🏡 Home.md",
-    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "Strahlschneidverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "Vorwärmflamme.md",
