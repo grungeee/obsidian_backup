@@ -12,20 +12,22 @@ imap JK <Esc>
 imap KJ <Esc>
 
 
+
+" > none are working
 " df to alt + Enter -> Follow the link under cursor
 " noremap fd <C-O><M-CR>
 " noremap fd <M-CR>
-map <F24> :execute "normal! i\<C-v>\<CR>\<Esc>"<CR>
-map df <A-CR>
-map FD <A-CR>
-map DF <A-CR>
+" map <F24> :execute "normal! i\<C-v>\<CR>\<Esc>"<CR>
+" map df <A-CR>
+" map FD <A-CR>
+" map DF <A-CR>
 
+" 1. unbound <Space>
+" 2. leader = <Space> so no need to make one
 " I guess this is a variable
 exmap surround_wiki surround [[ ]]
 map <Space>sw :surround_wiki
 
-" 1. unbound <Space>
-" 2. leader = <Space> so no need to make one
 
 
 " ------------
