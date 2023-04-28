@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
               }
             }
           }
@@ -166,10 +167,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97f2ae20f62fef01",
+  "active": "6a4a1bf5e5aa47e7",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "GitHub Troubleshooting.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
