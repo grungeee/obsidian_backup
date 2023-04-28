@@ -60,4 +60,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	9. Gehauene Feilen und gefräste Feilen unterscheiden sich in ihrer Herstellungsmethode, ihrem Einsatzbereich und ihrer Oberflächenqualität.
 -   s. 139
 	1. HSS (High-Speed Steel) ist ein Werkstoff, der bei hohen Geschwindigkeiten betrieben werden kann, aber im Vergleich zu HM (Hartmetall) eine geringere Härte und Verschleißfestigkeit aufweist. Aus diesem Grund ist die maximale Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM.
-	2. Insgesamt sind die Unterschiede zwischen HIM-Sorten in Bezug auf ihre Legierungsbestandteile und ihre spezifischen Eigenschaften wie Härte, Verschleißfestigkeit und Zähigkeit zu finden. Die Wahl der geeigneten HIM-Sorte hängt von den Anforderungen der jeweiligen Anwendung ab.
+	2. Die Unterschiede der HIM-Sorten in Bezug auf ihre Legierungsbestandteile und ihre spezifischen Eigenschaften wie Härte, Verschleißfestigkeit und Zähigkeit zu finden. Die Wahl der geeigneten HIM-Sorte hängt von den Anforderungen der jeweiligen Anwendung ab.
