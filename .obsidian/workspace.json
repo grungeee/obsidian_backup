@@ -11,8 +11,12 @@
             "id": "97f2ae20f62fef01",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
+              }
             }
           }
         ],
@@ -145,8 +153,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95810e679cb66366",
+  "active": "97f2ae20f62fef01",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
@@ -159,11 +169,9 @@
     "🏡 Home.md",
     "misc/Obsidian Git.md",
     "misc",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
     "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
