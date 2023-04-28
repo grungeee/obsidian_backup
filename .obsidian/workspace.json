@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub Troubleshooting.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "97f2ae20f62fef01",
   "lastOpenFiles": [
+    "GitHub Troubleshooting.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
@@ -195,7 +196,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
     "WiFi-Share/Werkstofftechnik/Stack/Maschinen zum Umformen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Leichtmetalle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Künstiche Nichtmetallwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
     "Untitled",
