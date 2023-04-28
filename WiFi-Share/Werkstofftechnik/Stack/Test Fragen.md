@@ -33,7 +33,7 @@
 	4.   Mit welchen Schneidverfahren können die folgenden Werkstoffe geschnitten werden: Nichtrostender Stahl, AlCuMg3, Schaumstoffe, Keramik?
 	5.   Welche Sicherheitsregeln müssen beim PlasmaSchmelzschneiden eingehalten werden?
 -   s. 135
-	1.   Welcher Winkel beeinflusst hauptsächlich die Spanbildung?""
+	1.   Welcher Winkel beeinflusst hauptsächlich die Spanbildung?
 	2.   Welche Forderungen müssen beim Anreißen beachtet werden?
 	3.   Nach welchem Prinzip arbeitet der digitale Höhenanreißer?
 	4.  In welche Richtung muss das Sägeblatt & Weshalb werden Feilen gespannt werden?
