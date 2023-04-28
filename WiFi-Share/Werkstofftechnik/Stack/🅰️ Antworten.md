@@ -49,4 +49,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		1. naaah
 		2. Bei richtiger [[Schneidgeschwindigkeit]] entsteht eine Schnittfuge mit senkrechten Schittmarkierunge
 -  s. 135 
-	- 
+	1.  
