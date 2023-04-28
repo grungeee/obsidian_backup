@@ -55,4 +55,6 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	4. ?
 	5. Das Freischneiden von Sägeblättern bedeutet, dass man das Sägeblatt von Rückständen wie Harz, Schmutz oder Holzfasern befreit, die sich während des Schneidvorgangs auf dem Blatt ablagern und die Sägeleistung beeinträchtigen können.
 	6. Beim Sägen ist der Sägegriff fest zu umfassen und der Sägeschnitt mit mäßigem Druck auszuführen! Beim Sägen ist das Sägeblatt auf seiner ganzen Länge einzusetzen! Das Sägen muss ruhig und gleichmäßig erfolgen! Bei der Rückwärtsbewegung des Sägeblattes darf kein Druck ausgeübt werden!
-	7. 
+	7. Die Stichsäge ist eine vielseitige und handliche Säge, die für eine Vielzahl von Sägearbeiten geeignet ist, darunter das Ausschneiden von Löchern, Kurven oder Formen in Holz-, Metall- und Kunststoffplatten, Gehrungsschnitte, Kurvenschnitte, Feinschnitte und Plattenzuschnitte.
+	8. Feilen werden kreuzhiebig gehauen, um eine bessere Oberflächenqualität und eine schnellere Materialabtragung zu erzielen.
+	9. Gehauene Feilen und gefräste Feilen unterscheiden sich in ihrer Herstellungsmethode, ihrem Einsatzbereich und ihrer Oberflächenqualität.
