@@ -53,4 +53,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	2. Der Hauptunterschied zwischen den beiden Sorten liegt in ihrem Kohlenstoffgehalt.
 	3. Höhere Bruchzähigkeit, Höhere Verschleißfestigkeit, Höhere Hitzebeständigkeit, Bessere chemische Beständigkeit, Einfachere Bearbeitbarkeit
 	4. ?
-	5. 
+	5. Das Freischneiden von Sägeblättern bedeutet, dass man das Sägeblatt von Rückständen wie Harz, Schmutz oder Holzfasern befreit, die sich während des Schneidvorgangs auf dem Blatt ablagern und die Sägeleistung beeinträchtigen können.
+	6. 
