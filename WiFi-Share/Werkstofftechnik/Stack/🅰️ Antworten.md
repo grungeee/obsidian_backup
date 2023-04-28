@@ -58,3 +58,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	7. Die Stichsäge ist eine vielseitige und handliche Säge, die für eine Vielzahl von Sägearbeiten geeignet ist, darunter das Ausschneiden von Löchern, Kurven oder Formen in Holz-, Metall- und Kunststoffplatten, Gehrungsschnitte, Kurvenschnitte, Feinschnitte und Plattenzuschnitte.
 	8. Feilen werden kreuzhiebig gehauen, um eine bessere Oberflächenqualität und eine schnellere Materialabtragung zu erzielen.
 	9. Gehauene Feilen und gefräste Feilen unterscheiden sich in ihrer Herstellungsmethode, ihrem Einsatzbereich und ihrer Oberflächenqualität.
+-   s. 139
+	1. HSS (High-Speed Steel) ist ein Werkstoff, der bei hohen Geschwindigkeiten betrieben werden kann, aber im Vergleich zu HM (Hartmetall) eine geringere Härte und Verschleißfestigkeit aufweist. Aus diesem Grund ist die maximale Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM.
