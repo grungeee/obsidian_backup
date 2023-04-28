@@ -50,4 +50,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		2. Bei richtiger [[Schneidgeschwindigkeit]] entsteht eine Schnittfuge mit senkrechten Schittmarkierunge
 -  s. 135 
 	1.  Der Spanwinkel
-	2. 
+	2. Der Hauptunterschied zwischen den beiden Sorten liegt in ihrem Kohlenstoffgehalt.
+	3. 
