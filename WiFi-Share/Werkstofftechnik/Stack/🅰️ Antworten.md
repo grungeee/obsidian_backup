@@ -60,3 +60,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	9. Gehauene Feilen und gefräste Feilen unterscheiden sich in ihrer Herstellungsmethode, ihrem Einsatzbereich und ihrer Oberflächenqualität.
 -   s. 139
 	1. HSS (High-Speed Steel) ist ein Werkstoff, der bei hohen Geschwindigkeiten betrieben werden kann, aber im Vergleich zu HM (Hartmetall) eine geringere Härte und Verschleißfestigkeit aufweist. Aus diesem Grund ist die maximale Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM.
+	2. 
