@@ -8,7 +8,7 @@ Related:
 - 2 Arten von Kühlschmierstoffen:
 	- reine Schneidoele
 	- wassermischbare Kühlschmierstoffe
--   
+-  [[Emulsion]]
 
 ### Additive:
 #### [[Emulgatoren]]
