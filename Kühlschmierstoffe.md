@@ -3,15 +3,14 @@
 Related:
 [[Spanende Fertigung mit Werkzeugmaschinen]]
 -- -
-> Kuehlschmierstoffe senken die Tempertaur von Werkzeug, Werkstueck und Maschine. Sie erhoen die Standzeit der Werkzeuge und die Oberflaechenguete der Werkstuecke.
+> [[Kühlschmierstoffe]] senken die Tempertaur von Werkzeug, Werkstueck und Maschine. Sie erhoen die Standzeit der Werkzeuge und die Oberflaechenguete der Werkstuecke.
 
-Kuehlschmie
 
 ### Additive:
 #### [[Emulgatoren]]
 Emulgatoren sind notwendig, damit sich das Oel in kleinen Toepfchen im Wasswer verteilen kann. Damit ds Wasser nicht zu korrosion fuehrt, muss der Kuehlschmierstoff **Korrosionschutzmittel** enthalten.
 #### [[Konserviereungsstoffe]]
-Wassermischbare Kuehlscvhmirstoffe koennen besonders bei hohen Temperaturen und bei starker Verschmutzung von Bakterien und Pilzen befallen werden. Zur Vermeidung werden Konservierungsstoffe zugesetz
+Wassermischbare Kühlschmierstoffe koennen besonders bei hohen Temperaturen und bei starker Verschmutzung von Bakterien und Pilzen befallen werden. Zur Vermeidung werden Konservierungsstoffe zugesetz
 
 
 > [!gpt] 
