@@ -64,3 +64,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	4. Bei der Bearbeitung von Materialien mit hoher Härte, geringer Wärmeleitfähigkeit, geringer Reaktionsfreudigkeit und bei Anwendungen, die eine hohe Präzision erfordern.
 - s. 142
 	1. Wozu enthalten Emulsionen Zusaetze? -> Auswahl des [[Kuehlschmeirstoffe|Kuehlschmeirstoffes]]   
+	   
