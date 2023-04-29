@@ -65,4 +65,3 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	3. Hohe Festigkeit und Härte, Hohe Zähigkeit, Geringere Bruchempfindlichkeit, Bessere thermische Stabilität, Geringere Herstellungskosten
 	4. Bei der Bearbeitung von Materialien mit hoher Härte, geringer Wärmeleitfähigkeit, geringer Reaktionsfreudigkeit und bei Anwendungen, die eine hohe Präzision erfordern.
 - s. 142 
-	1. 
