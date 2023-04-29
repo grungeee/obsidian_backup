@@ -66,4 +66,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 1. Wozu enthalten Emulsionen Zusaetze? -> Auswahl des [[Kühlschmierstoffe|Kühlschmierstoffes]]
     [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
 2. Unsachgemaesster Umgang mit [[Kühlschmierstoffe|KSS]] kann die *Haut entfetten* und *Allergien ausloesen*.
-3. aöaoöææsaaeæ æ aoe ö ueueu 
+3. aöaoöææsaaeæ æ aoe ö ue
