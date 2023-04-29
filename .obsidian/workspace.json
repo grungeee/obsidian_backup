@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "e96a613a7c71c461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8b06b8f11c45f742",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -211,7 +199,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95810e679cb66366",
+  "active": "8b06b8f11c45f742",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
