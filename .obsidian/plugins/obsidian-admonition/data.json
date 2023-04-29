@@ -1,5 +1,18 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "gpt": {
+      "type": "gpt",
+      "color": "16, 163, 127",
+      "icon": {
+        "name": "robot",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "GPT",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.2.3",
