@@ -5,3 +5,5 @@ Emulgatoren sind notwendig, damit sich das Oel in kleinen Toepfchen im Wasswer v
 #### [[Konserviereungsstoffe]]
 Wassermischbare Kuehlscvhmirstoffe koennen besonders bei hohen Temperaturen und bei starker Verschmutzung von Bakterien und Pilzen befallen werden. Zur Vermeidung werden Konservierungsstoffe zugesetz
 
+
+> 
