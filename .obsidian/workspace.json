@@ -87,8 +87,8 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -200,7 +200,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e96a613a7c71c461",
+  "active": "77781cbd830c241f",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
