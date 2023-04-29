@@ -45,7 +45,7 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- [[Plasmaschneiden]]
 		- [[Wasserstrahlschneiden]]
 		- [[Laserstrahlschneiden:]]
-		2. Bei richtiger [[Schneidgeschwindigkeit]] bei [[Brennschneiden]] entsteht eine Schnittfuge mit senkrechten Schittmarkierungen.
+	3. Bei richtiger [[Schneidgeschwindigkeit]] bei [[Brennschneiden]] entsteht eine Schnittfuge mit senkrechten Schittmarkierungen.
 -  s. 135 
 	1.  Der Spanwinkel
 	2. Der Hauptunterschied zwischen den beiden Sorten liegt in ihrem Kohlenstoffgehalt.
