@@ -65,3 +65,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 - s. 142
 1. Wozu enthalten Emulsionen Zusaetze? -> Auswahl des [[Kühlschmierstoffe|Kühlschmierstoffes]]
    
+   
