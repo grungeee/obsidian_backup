@@ -1,3 +1,4 @@
 > Kuehlschmierstoffe senken die Tempertaur von Werkzeug, Werkstueck und Maschine. Sie erhoen die Standzeit der Werkzeuge und die Oberflaechenguete der Werkstuecke.
 
-### Emulga
+### Emulgatoren
+Emulgatoren sind not
