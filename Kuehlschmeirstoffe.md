@@ -1,1 +1,1 @@
-> Kuehlschmierstoffe senken die Tempertaur von Werkzeug, Werkstueck und Mas
+> Kuehlschmierstoffe senken die Tempertaur von Werkzeug, Werkstueck und Maschine> Sie erhoen die 
