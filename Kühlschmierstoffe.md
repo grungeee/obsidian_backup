@@ -13,6 +13,7 @@ Related:
 			- Die Verwendungsdauer von Emulsionen ist gegenueber Schnedioelen geringer, da sie anfaelliger gegen Baktereienbefall sind.
 			- [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
 
+
 ### Additive:
 #### [[Emulgatoren]]
 Emulgatoren sind notwendig, damit sich das Oel in kleinen Troepfchen im Wasswer verteilen kann. Damit ds Wasser nicht zu korrosion fuehrt, muss der Kuehlschmierstoff **Korrosionschutzmittel** enthalten.
