@@ -1,4 +1,1 @@
 Die richtige **Schneidgeschwindigkeit** beim autogenen Brennschneiden hängt von verschiedenen Faktoren ab, wie z.B. der Dicke des zu schneidenden Materials, der Größe der Brennschneiddüse und der Brenngasart. Eine zu hohe Schneidgeschwindigkeit kann zu unsauberem Schnitt, Verzunderung oder Verzug führen, während eine zu niedrige Schneidgeschwindigkeit zu einer ungleichmäßigen Schnittqualität und zu einem erhöhten Gasverbrauch führen kann.
-
-> 
-Als **Faustregel** gilt, dass die Schneidgeschwindigkeit so gewählt werden sollte, dass die Flammenlänge der Brennschneiddüse etwa die doppelte Dicke des zu schneidenden Materials beträgt
