@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +199,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b06b8f11c45f742",
+  "active": "95810e679cb66366",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
