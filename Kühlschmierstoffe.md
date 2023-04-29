@@ -13,7 +13,8 @@ Related:
 			- Die Verwendungsdauer von Emulsionen ist gegenueber Schnedioelen geringer, da sie anfaelliger gegen Baktereienbefall sind.
 			- [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
 #### Auswahl des Kuehlschmierstoffes
-- ****
+- **Emulsion**: Kuehlwirkung ueberweigt gegenueber Schmierwirung
+- **S**
 
 ### Additive:
 #### [[Emulgatoren]]
