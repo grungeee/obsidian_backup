@@ -14,7 +14,7 @@ Related:
 			- [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
 #### Auswahl des Kuehlschmierstoffes
 - **Emulsion**: Kuehlwirkung ueberweigt gegenueber Schmierwirung
-- **S**
+- **Schneidoel**
 
 ### Additive:
 #### [[Emulgatoren]]
