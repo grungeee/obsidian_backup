@@ -21,11 +21,11 @@ Related:
 Emulgatoren sind notwendig, damit sich das Oel in kleinen Troepfchen im Wasswer verteilen kann. Damit ds Wasser nicht zu korrosion fuehrt, muss der Kuehlschmierstoff **Korrosionschutzmittel** enthalten.
 -> Verhindert die Trennung von Oel und Wasser
 #### Korrosionsschutzmittel
-Verhinderung von Korrosion am Werkstueck, Werkszeug 
+Verhinderung von Korrosion am Werkstueck, Werkszeug und an der Machine
 #### [[Konserviereungsstoffe]] (Biozide)
 Wassermischbare Kühlschmierstoffe koennen besonders bei hohen Temperaturen und bei starker Verschmutzung von Bakterien und Pilzen befallen werden. Zur Vermeidung werden Konservierungsstoffe zugesetz
 #### Hochdruck-Zusaetze
-- 
+Verhinderung des Verschweissens von Metallen bei hohen Druecken
 
 
 > [!gpt] 
