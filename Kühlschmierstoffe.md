@@ -9,7 +9,7 @@ Related:
 	- reine Schneidoele
 	- wassermischbare Kühlschmierstoffe
 -  [[Emulsion]] ist eine Mischung aus zwei Fluessigketen.
-	- Damit das Oel moeglichst fein im Wasser verteilt, muss es unter staendigem Umruhren dem Wasswe zu
+	- Damit das Oel moeglichst fein im Wasser verteilt, muss es unter staendigem Umruhren dem Wasswe zugegeben werden
 	- Die Verwendungsdauer von Emulsionen ist gegenueber Schnedioelen geringer, da sie anfaelliger gegen Baktereienbefall sind.
 
 ### Additive:
