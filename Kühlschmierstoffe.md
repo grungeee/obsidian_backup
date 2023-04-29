@@ -27,6 +27,7 @@ Wassermischbare Kühlschmierstoffe koennen besonders bei hohen Temperaturen und 
 #### Hochdruck-Zusaetze
 Verhinderung des Verschweissens von Metallen bei hohen Druecken
 
+#####
 
 > [!gpt] 
 
