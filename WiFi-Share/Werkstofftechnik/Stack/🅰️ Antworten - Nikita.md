@@ -45,9 +45,7 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 		- [[Plasmaschneiden]]
 		- [[Wasserstrahlschneiden]]
 		- [[Laserstrahlschneiden:]]
-	3.  Als **Faustregel** gilt, dass die [[Schneidgeschwindigkeit]] bei [[Brennschneiden]] so gewählt werden sollte, dass die Flammenlänge der Brennschneiddüse etwa die *doppelte Dicke des zu schneidenden Materials* beträgt.
-		1. naaah
-		2. Bei richtiger [[Schneidgeschwindigkeit]] bei [[Brennschneiden]] entsteht eine Schnittfuge mit senkrechten Schittmarkierungen
+		2. Bei richtiger [[Schneidgeschwindigkeit]] bei [[Brennschneiden]] entsteht eine Schnittfuge mit senkrechten Schittmarkierungen.
 -  s. 135 
 	1.  Der Spanwinkel
 	2. Der Hauptunterschied zwischen den beiden Sorten liegt in ihrem Kohlenstoffgehalt.
