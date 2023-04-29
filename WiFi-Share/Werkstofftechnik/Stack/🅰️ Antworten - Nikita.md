@@ -65,5 +65,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 - s. 142
 1. Wozu enthalten Emulsionen Zusaetze? -> Auswahl des [[Kühlschmierstoffe|Kühlschmierstoffes]]
     [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
-2. Bei unsachgemäßem Umgang mit Kühlschmierstoffen können gesundheitliche Probleme wie Hautreizungen, Augenreizungen, allergische Reaktionen und Umweltbelastu
+2. Bei unsachgemäßem Umgang mit Kühlschmierstoffen können gesundheitliche Probleme wie Hautreizungen, Augenreizungen, allergische Reaktionen und Umweltbelastungen.
    
