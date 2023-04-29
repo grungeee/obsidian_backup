@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -201,6 +200,8 @@
   },
   "active": "1672cfb72c6afd12",
   "lastOpenFiles": [
+    "misc/ChatGPT_logo_black.svg",
+    "misc/ChatGPT_logo_white.svg",
     "Kuehlschmeirstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
@@ -230,7 +231,6 @@
     "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
     "WiFi-Share/Schweißtechnik/FragenAntworten.docx.html",
-    "WiFi-Share/Schweißtechnik/Fragen & Antowrten_converted.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
     "WiFi-Share/Schweißtechnik/~$agen & Antworten.docx",
     "misc",
@@ -246,7 +246,6 @@
     "Pasted image 20230420200149.png",
     "WiFi-Share/Werkstofftechnik/Pictures/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/Pictures/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
-    "WiFi-Share/Werkstofftechnik/Pictures/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "Fragen.canvas"
   ]
 }
