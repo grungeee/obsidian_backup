@@ -11,7 +11,7 @@ Related:
 		-  [[Emulsion]] ist eine Mischung aus zwei Fluessigketen.
 			- Damit das Oel moeglichst fein im Wasser verteilt, muss es unter staendigem Umruhren dem Wasser zugegeben werden.
 			- Die Verwendungsdauer von Emulsionen ist gegenueber Schnedioelen geringer, da sie anfaelliger gegen Baktereienbefall sind.
-			- [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleib*
+			- [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
 
 ### Additive:
 #### [[Emulgatoren]]
