@@ -62,4 +62,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	 - PO1 und P50: PO1 enthält höhere Anteile an Chrom und Wolfram als P50, was zu einer höheren Härte und Verschleißfestigkeit führt. P50 hingegen enthält höhere Anteile an Molybdän und Vanadium, was zu einer höheren Zähigkeit und Bruchfestigkeit führt. Daher sind PO1-Werkzeuge ideal für Anwendungen, bei denen hohe Härte und Verschleißfestigkeit erforderlich sind, während P50-Werkzeuge für Anwendungen geeignet sind, bei denen hohe Belastbarkeit und Zähigkeit erforderlich sind.
 	3. Hohe Festigkeit und Härte, Hohe Zähigkeit, Geringere Bruchempfindlichkeit, Bessere thermische Stabilität, Geringere Herstellungskosten
 	4. Bei der Bearbeitung von Materialien mit hoher Härte, geringer Wärmeleitfähigkeit, geringer Reaktionsfreudigkeit und bei Anwendungen, die eine hohe Präzision erfordern.
-- s. 142 Auswah 
+- s. 142
+	- 
