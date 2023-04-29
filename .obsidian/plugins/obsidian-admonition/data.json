@@ -10,7 +10,8 @@
       "command": false,
       "title": "GPT",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
