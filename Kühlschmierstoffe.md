@@ -15,7 +15,7 @@ Related:
 ### Additive:
 #### [[Emulgatoren]]
 Emulgatoren sind notwendig, damit sich das Oel in kleinen Troepfchen im Wasswer verteilen kann. Damit ds Wasser nicht zu korrosion fuehrt, muss der Kuehlschmierstoff **Korrosionschutzmittel** enthalten.
--> Verhindert die Trennung von OE
+-> Verhindert die Trennung von Oel und Wasser
 #### [[Konserviereungsstoffe]]
 Wassermischbare Kühlschmierstoffe koennen besonders bei hohen Temperaturen und bei starker Verschmutzung von Bakterien und Pilzen befallen werden. Zur Vermeidung werden Konservierungsstoffe zugesetz
 
