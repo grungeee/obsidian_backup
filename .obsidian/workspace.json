@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "Kühlschmierstoffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "file": "Kühlschmierstoffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
+                "file": "Kühlschmierstoffe.md"
               }
             }
           }
@@ -187,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b934f68662022edd",
+  "active": "9d06406ed97d4b99",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
     "Kühlschmierstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "misc/ChatGPT_logo_black.svg",
