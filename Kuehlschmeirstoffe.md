@@ -1,1 +1,1 @@
-Kuehlschmierstoffe senken 
+Kuehlschmierstoffe senken
