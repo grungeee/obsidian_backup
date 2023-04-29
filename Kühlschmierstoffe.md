@@ -9,7 +9,7 @@ Related:
 	- reine Schneidoele
 	- wassermischbare Kühlschmierstoffe
 -  [[Emulsion]] ist eine Mischung aus zwei Fluessigketen.
-	- Die Verwendungsdauer von Emulsionen ist gegenueber Schnedi
+	- Die Verwendungsdauer von Emulsionen ist gegenueber Schnedioelen geringer
 
 ### Additive:
 #### [[Emulgatoren]]
