@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ea3a4c7a4bee86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuehlschmeirstoffe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+                "file": "Kuehlschmeirstoffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+                "file": "Kuehlschmeirstoffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md"
+                "file": "Kuehlschmeirstoffe.md"
               }
             }
           }
@@ -188,10 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b06b8f11c45f742",
+  "active": "9ea3a4c7a4bee86d",
   "lastOpenFiles": [
-    "Kuehlschmeirstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+    "Kuehlschmeirstoffe.md",
     "Schneidgeschwindigkeit.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
