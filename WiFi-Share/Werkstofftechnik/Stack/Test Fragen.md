@@ -46,7 +46,7 @@
 	1.   Warum ist die Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM?
 	2.  Worin unterscheiden sich die HIM-Sorten P20 und K20, sowie die Sorten PO1 und P50?
 	3.   Welche Vorteile hat Mischkeramik gegenüber Oxidkeramik?
-	4.   In welchen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
+1.   In velthen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
 - s. 142
 	1. Wozu enthalten Emulsionen Zusaetze?
 	2. Welche gesundheitlichen Probleme koennen bei unsachgemaessem Umgagng mit Kuehlschmierstoffen auftreten?
