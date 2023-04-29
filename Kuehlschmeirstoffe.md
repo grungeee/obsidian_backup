@@ -1,1 +1,1 @@
-> Kuehlschmierstoffe senken die t
+> Kuehlschmierstoffe senken die Tempertaur
