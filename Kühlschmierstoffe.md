@@ -18,7 +18,11 @@ Wassermischbare Kühlschmierstoffe koennen besonders bei hohen Temperaturen und 
 
 > [!gpt] 
 
+Emulsionen enthalten Zusätze, um ihre Leistung und Eigenschaften zu verbessern. Diese Zusätze dienen verschiedenen Zwecken, wie zum Beispiel der Verbesserung der Schmierfähigkeit, Kühlwirkung, Korrosionsschutz, Stabilität, Benetzungsfähigkeit und biologischen Beständigkeit.
+
 [[Emulsionen]] enthalten Zusätze, um ihre *Stabilität* und *Wirksamkeit* zu verbessern. Diese **Zusätze** können [[Emulgatoren]] sein, die dazu beitragen, dass sich die **Emulsion** *nicht aufspaltet*, oder auch [[Stabilisatoren,]] die dazu beitragen, dass die **Emulsion** ihre *Eigenschaften* über eine *längere Zeit behält*. Zudem können weitere Zusätze wie [[Konservierungsstoffe]]. 
+
+Emulsionen enthalten Zusätze, um ihre Eigenschaften zu verbessern oder anzupassen. Beispiele für solche Zusätze sind Emulgatoren zur Stabilisierung der Emulsion, Korrosionsschutzmittel zum Schutz von Metalloberflächen, Tenside zur Verbesserung der Benetzungsfähigkeit und Schmiermittel zur Reduzierung von Reibung und Verschleiß.
 
 Emulsionen enthalten Zusätze, um ihre **Schmiereigenschaften** und **Kühlwirkung** zu verbessern. Dazu können beispielsweise [[Schmiermittel]] oder [[Kühlmittel]] zugefügt werden, die die **Reibung** zwischen Werkzeug und Werkstück *verringern* und somit die **Spanbildung** beim Zerspanen von Metallen *erleichtern*. Zusätzlich können Emulgatoren und Stabilisatoren hinzugefügt werden, um die Emulsion stabil zu halten und eine gleichmäßige Verteilung der Zusätze zu gewährleisten.
 
