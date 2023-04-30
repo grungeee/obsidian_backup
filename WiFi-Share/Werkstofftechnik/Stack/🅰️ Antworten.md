@@ -75,4 +75,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 - s. 181
 	1. Erhöhte Werkzeugbeanspruchung, Schwingungen, Verformung des Werkstücks, Hitzeeinwirkung, Verringerte Spanabfuhr
 	2. Erhöhte Produktivität, Verbesserte Oberflächenqualität, Reduzierte Schnittkräfte, Verlängerte Werkzeugstandzeit, Geringere Wärmeentwicklung
-	3. 
+	3. ?
+	4. 
