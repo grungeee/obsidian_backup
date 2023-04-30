@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md"
               }
             }
           }
@@ -190,8 +189,8 @@
   },
   "active": "5a56f6e06cee20b2",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "Scherschneidwerkzeuge.md",
     "Kühlschmierstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
