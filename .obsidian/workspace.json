@@ -32,25 +32,13 @@
             }
           },
           {
-            "id": "9d78d859e3cb4078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d06406ed97d4b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md"
               }
             }
           }
@@ -199,14 +187,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d78d859e3cb4078",
+  "active": "9d06406ed97d4b99",
   "lastOpenFiles": [
+    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
+    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
+    "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
+    "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
+    "WiFi-Share/WiFi-Share/Technisches Zeichenen",
+    "WiFi-Share/WiFi-Share",
+    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images",
+    "Wifi-share/WiFi-Share/Technisches Zeichenen",
+    "Wifi-share/WiFi-Share",
+    "WiFi-Share/Technisches Zeichenen/Fragen & Antworten Technisch Zeichnen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
-    "WiFi-Share/Technisches Zeichenen/Fragen & Antworten Technisch Zeichnen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
     "WiFi-Share/Werkstofftechnik/Stack/Kühlschmierstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
@@ -228,21 +224,13 @@
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
     "WiFi-Share/Werkstofftechnik/Stack",
-    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
-    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
     "WiFi-Share/Schweißtechnik/FragenAntworten.docx.html",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.html",
-    "WiFi-Share/Schweißtechnik/~$agen & Antworten.docx",
-    "misc",
     "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images",
-    "WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
-    "WiFi-Share/Schweißtechnik/📁 Images",
     "Pasted image 20230420201936.jpg",
     "Pasted image 20230420201903.jpg",
     "Pasted image 20230420200149.png",
