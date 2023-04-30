@@ -73,4 +73,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	1. Art der Steuerung, Größe, Art der Spindel, Anzahl der Achsen, Besondere Funktionen
 	2. Programmierbare Pinole, Z-Achse, Y-Achse, Rotierender Werkzeugkopf, Werkzeugwechsler
 - s. 181
-	1. Erhöhte Werkzeugbeanspruchung, Schwingungen, Verformung des Werkstücks, Hitzeeinwirkung
+	1. Erhöhte Werkzeugbeanspruchung, Schwingungen, Verformung des Werkstücks, Hitzeeinwirkung, Verringerte Spanabfuhr
+	2. 
