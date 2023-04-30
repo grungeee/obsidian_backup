@@ -70,3 +70,10 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	2. Unsachgemässter Umgang mit [[Kühlschmierstoffe|KSS]] kann die *Haut entfetten* und *Allergien auslösen*.
 	3. Bei [[Trockenbearbeitung]] soll der Schneidstoff **Beschichtet** sein, dadurch werden der *Abrieb* und die *Wärmebelastung verringert*
 - s. 179
+	1. Art der Steuerung, Größe, Art der Spindel, Anzahl der Achsen, Besondere Funktionen
+	2. Programmierbare Pinole, Z-Achse, Y-Achse, Rotierender Werkzeugkopf, Werkzeugwechsler
+- s. 181
+	1. Erhöhte Werkzeugbeanspruchung, Schwingungen, Verformung des Werkstücks, Hitzeeinwirkung, Verringerte Spanabfuhr
+	2. Erhöhte Produktivität, Verbesserte Oberflächenqualität, Reduzierte Schnittkräfte, Verlängerte Werkzeugstandzeit, Geringere Wärmeentwicklung
+	3. ?
+	4. 
