@@ -46,12 +46,11 @@
 	1.   Warum ist die Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM?
 	2.  Worin unterscheiden sich die HIM-Sorten P20 und K20, sowie die Sorten PO1 und P50?
 	3.   Welche Vorteile hat Mischkeramik gegenüber Oxidkeramik?
-1.   In velthen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
+	4.   In velthen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
 - s. 142
 	1. Wozu enthalten Emulsionen Zusaetze?
 	2. Welche gesundheitlichen Probleme koennen bei unsachgemaessem Umgagng mit Kuehlschmierstoffen auftreten?
 	3. Welche Anforderung wird bei der Trockenbearbeitung an den Schneidstoff gestellt?
- 
 - s. 179
 	1. Nach welchen Merkmalen können Drehmaschinen eingeteilt werden? 
 	2. Welcher Einrichtungen muss eine CNC-Drehmaschine zum außermittigen Bohren besitzen?
@@ -66,9 +65,7 @@
 	3. Was kann man aus dem **Eisen-Kohlenstoff-Zustandsdiagramm** ablesen?
 	4. Welche Gefügebestandteile kann man für einen Stahl mit 0,4% C aus dem Fe-C-Diagramm ablesen?
 	5. Wie verändert sich das Gefüge von Stahl met 1% Kohlenstoff beim Erwärmen von Raumtemperatur (20C) auf 1000C?
-	6. Welche Kristallgitterform hat Stahl unter 7
-
-23C und welche über 723C?
+	6. Welche Kristallgitterform hat Stahl unter 723C und welche über 723C?
 - s. 344
 	1. Was zeigt das Gefüge eines Metalls?
 	2. Wie sind die Metalle im atomaren Größenbereich aufgebaut?
