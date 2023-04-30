@@ -71,4 +71,4 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	3. Bei [[Trockenbearbeitung]] soll der Schneidstoff **Beschichtet** sein, dadurch werden der *Abrieb* und die *Wärmebelastung verringert*
 - s. 179
 	1. Art der Steuerung, Größe, Art der Spindel, Anzahl der Achsen, Besondere Funktionen
-	2. 
+	2. Programmierbare Pinole, Z-Achse, Y-Achse, Rotierender Werkzeugkopf, Werkzeugwechsler
