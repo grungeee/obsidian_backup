@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "bd4a31da89641795",
+            "id": "9f9d554188dd6851",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,10 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd4a31da89641795",
+  "active": "9f9d554188dd6851",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
     "conflict-files-obsidian-git.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+    "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
     "🏡 Home.md",
     "misc/Obsidian Git.md",
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
@@ -204,7 +205,6 @@
     "Wifi-share/WiFi-Share/Technisches Zeichenen",
     "Wifi-share/WiFi-Share",
     "WiFi-Share/Technisches Zeichenen/Fragen & Antworten Technisch Zeichnen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
     "WiFi-Share/Werkstofftechnik/Stack/Kühlschmierstoffe.md",
