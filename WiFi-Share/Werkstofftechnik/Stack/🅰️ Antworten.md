@@ -77,4 +77,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	2. Erhöhte Produktivität, Verbesserte Oberflächenqualität, Reduzierte Schnittkräfte, Verlängerte Werkzeugstandzeit, Geringere Wärmeentwicklung
 	3. ?
 	4. ?
-1. 
+-  s. 373
+	1. 
