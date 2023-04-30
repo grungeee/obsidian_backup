@@ -11,8 +11,12 @@
             "id": "91495d12fbcc49e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md"
+              }
             }
           }
         ]
@@ -143,5 +151,7 @@
     }
   },
   "active": "91495d12fbcc49e2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md"
+  ]
 }
