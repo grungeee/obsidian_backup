@@ -65,4 +65,8 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 	3. Hohe Festigkeit und Härte, Hohe Zähigkeit, Geringere Bruchempfindlichkeit, Bessere thermische Stabilität, Geringere Herstellungskosten
 	4. Bei der Bearbeitung von Materialien mit hoher Härte, geringer Wärmeleitfähigkeit, geringer Reaktionsfreudigkeit und bei Anwendungen, die eine hohe Präzision erfordern.
 - s. 142 
-	1. 
+	1. Wozu enthalten Emulsionen Zusaetze? -> Auswahl des [[Kühlschmierstoffe|Kühlschmierstoffes]]
+	    [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
+	2. Unsachgemässter Umgang mit [[Kühlschmierstoffe|KSS]] kann die *Haut entfetten* und *Allergien ausloesen*.
+	3. Bei [[Trockenbearbeitung]] soll das Schneidstoff **Beschichtet** sein, dadurch werden der *Abtrieb* und die *Wärmebelastung verringert*
+	- s. 179
