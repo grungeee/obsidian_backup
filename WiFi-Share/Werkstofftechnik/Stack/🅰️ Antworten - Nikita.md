@@ -66,5 +66,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 1. Wozu enthalten Emulsionen Zusaetze? -> Auswahl des [[Kühlschmierstoffe|Kühlschmierstoffes]]
     [[Emulsionen]] enthalten immer **Zusaetze**, damit ihre *Eigenschaften erhalten bleiben* 
 2. Unsachgemässter Umgang mit [[Kühlschmierstoffe|KSS]] kann die *Haut entfetten* und *Allergien ausloesen*.
-3. Bei [[Trockenbearbeitung]] soll der Schneidstoff **Beschichtet** sein, dadurch werden der *Abtrieb* und die *Wärmebelastung verringert*
+3. Bei [[Trockenbearbeitung]] soll der Schneidstoff **Beschichtet** sein, dadurch werden der *Abrieb* und die *Wärmebelastung verringert*
 - s. 179
