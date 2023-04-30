@@ -54,7 +54,7 @@
  
 - s. 179
 	1. Nach welchen Merkmalen können Drehmaschinen eingeteilt werden? 
-	2. Welcher Einrichtungen muss eine CNC-Drehmaschine zum außermittigen Bohren besitzen?
+	2. Welche Einrichtungen muss eine CNC-Drehmaschine zum außermittigen Bohren besitzen?
 - s. 181
 	1. Welche Wirkungen ergeben sich aus dem unterbrochenen Schnitt beim Fräsen?
 	2. Warum sollte eine möglichst große Schnittgeschwindigkeit gewählt werden? 
