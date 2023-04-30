@@ -80,4 +80,5 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 -  s. 373
 	1. Eisen mit einem Kohlenstoffgehalt von 0,8% bildet bei bestimmten Temperaturen unterschiedliche Gefüge aus. Bei Temperaturen über 724°C bildet sich Austenit, ein kubisch-flächenzentriertes Gefüge, aus. Bei Temperaturen unterhalb von 724°C kann sich Martensit, Ferrit oder Zementit bilden, je nachdem wie schnell das Eisen abgekühlt wird.
 	2. ?
-	3. 
+	3. Schmelzpunkte, Phasenübergänge, Gefügestrukturen, Kohlenstoffgehalt, Wärmebehandlung
+	4. 
