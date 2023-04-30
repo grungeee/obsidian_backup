@@ -17,7 +17,7 @@
 	3. Nennen Sie einige typische Werkstücke, die durch Gesenkschmieden hergestellt werden.
 	4. Wodurch unterscheiden sich Gewinde, die durch Gewindeformen hergestellt wurden, von geschnittenen Gewinden? 
 	5. Welche Eigenschaften müssen Werkstoffe haben, die sich zum Fließpressen eignen?
--   s. 126
+- s. 126
 	1. Wie verläuft der Trennvorgang beim Scherschneiden?
 	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechteile aus Baustahl ([[Rₘ]] = 520 N/mm²?) ausgeschnitten. Wie groß muss der Schneidspalt des Werkzeuges sein?
 	3. Wie können [[Scherschneidwerkzeuge]] nach ihrer Führungsart eingeteilt werden?
@@ -26,13 +26,13 @@
 		- Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
 		- Werkstücken mit gratfreier Schnittfläche?
 		- Werkstücken mit gebogenen Bereichen?
--   s. 130
+- s. 130
 	1.   Welche Aufgabe hat die [[Vorwärmflamme]] beim autogenen Brennschneiden?
 	2.   Welche [[Strahlschneidverfahren]] eignen sich für das Trennen von unlegiertem Stahl?
 	3.   Woran erkennt man die richtige Schneidgeschwindigkeit beim autogenen Brennschneiden?
 	4.   Mit welchen Schneidverfahren können die folgenden Werkstoffe geschnitten werden: Nichtrostender Stahl, AlCuMg3, Schaumstoffe, Keramik?
 	5.   Welche Sicherheitsregeln müssen beim PlasmaSchmelzschneiden eingehalten werden?
--   s. 135
+- s. 135
 	1.   Welcher Winkel beeinflusst hauptsächlich die Spanbildung?
 	2.   Welche Forderungen müssen beim Anreißen beachtet werden?
 	3.   Nach welchem Prinzip arbeitet der digitale Höhenanreißer?
@@ -42,7 +42,7 @@
 	7.   Für welche Sägearbeiten ist die Stichsäge geeignet?
 	8.   Weshalb werden Feilen kreuzhiebig gehauen?
 	9.   Welche Unterschiede bestehen zwischen gehauenen und gefrästen Feilen?
--   s. 139
+- s. 139
 	1.   Warum ist die Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM?
 	2.  Worin unterscheiden sich die HIM-Sorten P20 und K20, sowie die Sorten PO1 und P50?
 	3.   Welche Vorteile hat Mischkeramik gegenüber Oxidkeramik?
