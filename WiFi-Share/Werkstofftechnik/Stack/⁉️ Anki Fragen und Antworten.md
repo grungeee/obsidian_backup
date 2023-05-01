@@ -12,7 +12,7 @@ Beschreiben Sie je ein Verfahren einer Hauptgruppe. #card
  - Ändern der stoffe : Härten wo ein stahl durch das 4A prinzip gehärtet wird und somit die begebenheit festigen.
 - Trennen : Fräßen, wo die form von stählen durch fräßen & schleifen gewünscht abgepasst werden.
 
-### s.93
+### s. 122
 Aus welchen Gründen werden Werkstücke durch Gießen hergestellt? #card
 Wenn man es nicht anders Herstellen kann oder man besondere Eigenschaften im guss haben möchte.
 
