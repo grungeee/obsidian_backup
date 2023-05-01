@@ -11,8 +11,12 @@
             "id": "91495d12fbcc49e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md"
+              }
             }
           }
         ]
@@ -142,8 +150,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce59fa14b9173cc1",
+  "active": "91495d12fbcc49e2",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca.md",
     "WiFi-Share/Werkstofftechnik/Stack/Hartmetalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
@@ -169,7 +178,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Maschinen zum Umformen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
     "misc/ChatGPT_logo_white.svg",
     "misc/ChatGPT_logo_black.svg"
   ]
