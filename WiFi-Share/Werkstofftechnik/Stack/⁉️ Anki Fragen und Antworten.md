@@ -13,6 +13,7 @@ Beschreiben Sie je ein Verfahren einer Hauptgruppe. #card
 
  
 Aus welchen Gründen werden Werkstücke durch Gießen hergestellt? #card
+
 Wenn man es nicht anders Herstellen kann oder man besondere Eigenschaften im guss haben möchte.
 
 Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks?
