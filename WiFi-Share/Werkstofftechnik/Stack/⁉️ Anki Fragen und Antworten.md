@@ -4,7 +4,7 @@
 	2. Beschreiben Sie je ein Verfahren einer Hauptgruppe.
 - s. 103 
 	1. Aus welchen Gründen werden Werkstücke durch Gießen hergestellt?
-	2. Warum sind die Modellmaße größer als die Maße des herzustellenden Gussstücks?
+	2. Warum sind die Mdellmaße größer als die Maße des herzustellenden Gussstücks?
 	3. Wozu benötigt man beim Gießen Kerne?
 	4. Wodurch unterscheiden sich maschinengefomte Gussstücke von handgeformten? 
 	5. Wie werden die Formen für das Vakuumformen hergestellt? 
