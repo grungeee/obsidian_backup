@@ -12,7 +12,7 @@ Beschreiben Sie je ein Verfahren einer Hauptgruppe. #card
 - Trennen : Fräßen, wo die form von stählen durch fräßen & schleifen gewünscht abgepasst werden.
 
  
-Aus welchen Gründen werden Werkstücke durch Gießen hergestellt? #carde
+Aus welchen Gründen werden Werkstücke durch Gießen hergestellt? #card
 Wenn man es nicht anders Herstellen kann oder man besondere Eigenschaften im guss haben möchte.
 
 Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks?
