@@ -25,6 +25,7 @@ Wie werden die Formen für das Vakuumformen hergestellt?
 Welches Gießverfahren eignet sich zur Herstellung dünnwandiger Werkstücke aus NE-Metallen bei großen Stückzahlen? 
 Wie werden die Gussstücke durch Feingießen hergestellt? 
 Welcher Fehler können beim Einformen, Gießen und Erstarren on Gussstücken auftreten?
+
  
 - s. 121 
 	1. Wovon hängt die Schmiedetemperatur ab? 
