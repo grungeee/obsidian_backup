@@ -2,6 +2,7 @@
 	1. Welche Hauptgruppen werden bei den [[Fertigungsverfahren]] unterschieden? 
 	1. Urformen, Umformen, Trennen, Fügen, Beschichten, & ändern der Stoffeigenschaften.
 	2. Beschreiben Sie je ein Verfahren einer Hauptgruppe.
+ 
 - s. 103 
 	1. Aus welchen Gründen werden Werkstücke durch Gießen hergestellt?
 	2. Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks?
