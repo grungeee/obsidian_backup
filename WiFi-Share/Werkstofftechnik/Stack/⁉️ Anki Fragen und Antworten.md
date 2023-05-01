@@ -2,7 +2,8 @@ Welche Hauptgruppen werden bei den [[Fertigungsverfahren]] unterschieden?
 Urformen, Umformen, Trennen, Fügen, Beschichten, & ändern der Stoffeigenschaften.
 
 Beschreiben Sie je ein Verfahren einer Hauptgruppe.
-	2. Urform : Gießen,ein beispiel das Sandgießen wird meist von hand eingegoßen. 
+
+Urform : Gießen,ein beispiel das Sandgießen wird meist von hand eingegoßen. 
 		- Umformen : Längen, weiten wo Stähle mit formen gezogen werden.
 		-  Fügen : Verschrauben, wo stähle mit zugabe verbunden werden können.
 		 - Beschichten : Lackieren, wo Stähle mit Lackierung eingegoßen wird, gehört somit zum vergrößern.
