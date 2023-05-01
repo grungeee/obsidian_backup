@@ -12,14 +12,15 @@ Beschreiben Sie je ein Verfahren einer Hauptgruppe. #card
 - Trennen : Fräßen, wo die form von stählen durch fräßen & schleifen gewünscht abgepasst werden.
 
  
-	Aus welchen Gründen werden Werkstücke durch Gießen hergestellt?
-	Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks?
-	Wozu benötigt man beim Gießen Kerne?
-	Wodurch unterscheiden sich maschinengefomte Gussstücke von handgeformten? 
-	Wie werden die Formen für das Vakuumformen hergestellt? 
-	Welches Gießverfahren eignet sich zur Herstellung dünnwandiger Werkstücke aus NE-Metallen bei großen Stückzahlen? 
-	Wie werden die Gussstücke durch Feingießen hergestellt? 
-	Welcher Fehler können beim Einformen, Gießen und Erstarren on Gussstücken auftreten?
+Aus welchen Gründen werden Werkstücke durch Gießen hergestellt?
+
+Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks?
+Wozu benötigt man beim Gießen Kerne?
+Wodurch unterscheiden sich maschinengefomte Gussstücke von handgeformten? 
+Wie werden die Formen für das Vakuumformen hergestellt? 
+Welches Gießverfahren eignet sich zur Herstellung dünnwandiger Werkstücke aus NE-Metallen bei großen Stückzahlen? 
+Wie werden die Gussstücke durch Feingießen hergestellt? 
+Welcher Fehler können beim Einformen, Gießen und Erstarren on Gussstücken auftreten?
  
 - s. 121 
 	1. Wovon hängt die Schmiedetemperatur ab? 
