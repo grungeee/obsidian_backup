@@ -1,4 +1,5 @@
-Welche Hauptgruppen werden bei den [[Fertigungsverfahren]] unterschieden? 
+Welche Hauptgruppen werden bei den [[Fertigungsverfahren]] unterschieden? #
+
 Urformen, Umformen, Trennen, Fügen, Beschichten, & ändern der Stoffeigenschaften.
 
 Beschreiben Sie je ein Verfahren einer Hauptgruppe.
