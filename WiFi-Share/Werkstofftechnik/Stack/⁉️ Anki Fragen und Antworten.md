@@ -18,7 +18,7 @@ Aus welchen Gründen werden Werkstücke durch Gießen hergestellt? #card
 Wenn man es nicht anders Herstellen kann oder man besondere Eigenschaften im guss haben möchte.
 
 Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks?
-1. Weil sie beim Abkühlen schrumpfen.
+Weil sie beim Abkühlen schrumpfen.
 
 Wozu benötigt man beim Gießen Kerne?
 Wodurch unterscheiden sich maschinengefomte Gussstücke von handgeformten? 
