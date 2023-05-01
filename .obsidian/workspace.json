@@ -175,6 +175,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
       "flashcards-obsidian:Generate flashcards": false,
