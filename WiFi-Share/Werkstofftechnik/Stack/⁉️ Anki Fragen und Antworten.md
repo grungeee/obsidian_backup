@@ -20,7 +20,7 @@ Wenn man es nicht anders Herstellen kann oder man besondere Eigenschaften im gus
 Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks?
 Weil sie beim Abkühlen schrumpfen.
 
-Wozu benötigt man beim Gießen Kerne?
+Wozu benötigt man beim Gießen Kerne? #card
 Wodurch unterscheiden sich maschinengefomte Gussstücke von handgeformten? 
 Wie werden die Formen für das Vakuumformen hergestellt? 
 Welches Gießverfahren eignet sich zur Herstellung dünnwandiger Werkstücke aus NE-Metallen bei großen Stückzahlen? 
