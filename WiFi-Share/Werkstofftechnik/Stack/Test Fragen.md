@@ -1,4 +1,4 @@
- [[Antworten]]
+ [[🅰️ Antworten]]
 - s. 97
 	1. Welche Hauptgruppen werden bei den [[Fertigungsverfahren]] unterschieden? 
 	2. Beschreiben Sie je ein Verfahren einer Hauptgruppe.
@@ -13,27 +13,25 @@
 	8. Welcher Fehler können beim Einformen, Gießen und Erstarren on Gussstücken auftreten?
 - s. 121 
 	1. Wovon hängt die Schmiedetemperatur ab? 
-	2. Welche Vorteile hat das Gesenkschmieden?
+	2. Welche Vorteile hat das [[Gesenkschmieden]]?
 	3. Nennen Sie einige typische Werkstücke, die durch Gesenkschmieden hergestellt werden.
 	4. Wodurch unterscheiden sich Gewinde, die durch Gewindeformen hergestellt wurden, von geschnittenen Gewinden? 
 	5. Welche Eigenschaften müssen Werkstoffe haben, die sich zum Fließpressen eignen?
 -   s. 126
 	1. Wie verläuft der Trennvorgang beim Scherschneiden?
-	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechtale aus Baustahl (Rₘ = 520 N/mm?) ausgeschnitten.
-	3. Wie können Scherschneidwerkzeuge nach ihrer Führungsart eingeteilt werden?
-	4. Welche Scherschneidwerkzeuge eignen sich zum Herstellen von
-	5.  Runden Scheiben mit einer Bohrung?
-	6. Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
-	7. Werkstücken mit gratfreier Schnittfläche?
-	8. Werkstücken mit gebogenen Bereichen?
+	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechteile aus Baustahl ([[Rₘ]] = 520 N/mm²?) ausgeschnitten. Wie groß muss der Schneidspalt des Werkzeuges sein?
+	3. Wie können [[Scherschneidwerkzeuge]] nach ihrer Führungsart eingeteilt werden?
+	4. Welche [[Scherschneidwerkzeuge]] eignen sich zum Herstellen von:
+		-  Runden Scheiben mit einer Bohrung?
+		- Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
+		- Werkstücken mit gratfreier Schnittfläche?
+		- Werkstücken mit gebogenen Bereichen?
 -   s. 130
-	1.   Welche Aufgabe hat die Vorwärmflamme
-	2.   beim autogenen Brennschneiden?
-	3.   Welche Strahlschneidverfahren eignen sich
-	4.   für das Trennen von unlegiertem Stahl?
-	5.   Woran erkennt man die richtige Schneidgeschwindigkeit beim autogenen Brennschneiden?
-	6.   Mit welchen Schneidverfahren können die folgenden Werkstoffe geschnitten werden: Nichtrostender Stahl, AlCuMg3, Schaumstoffe, Keramik?
-	7.   Welche Sicherheitsregeln müssen beim PlasmaSchmelzschneiden eingehalten werden?
+	1.   Welche Aufgabe hat die [[Vorwärmflamme]] beim autogenen Brennschneiden?
+	2.   Welche [[Strahlschneidverfahren]] eignen sich für das Trennen von unlegiertem Stahl?
+	3.   Woran erkennt man die richtige Schneidgeschwindigkeit beim autogenen Brennschneiden?
+	4.   Mit welchen Schneidverfahren können die folgenden Werkstoffe geschnitten werden: Nichtrostender Stahl, AlCuMg3, Schaumstoffe, Keramik?
+	5.   Welche Sicherheitsregeln müssen beim PlasmaSchmelzschneiden eingehalten werden?
 -   s. 135
 	1.   Welcher Winkel beeinflusst hauptsächlich die Spanbildung?
 	2.   Welche Forderungen müssen beim Anreißen beachtet werden?
@@ -48,7 +46,7 @@
 	1.   Warum ist die Schnittgeschwindigkeit beim Einsatz von HSS niedriger als bei HM?
 	2.  Worin unterscheiden sich die HIM-Sorten P20 und K20, sowie die Sorten PO1 und P50?
 	3.   Welche Vorteile hat Mischkeramik gegenüber Oxidkeramik?
-	4.   In velthen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
+1.   In velthen Fällen ist die Verändung von Diamant als Schneidstof vorteilhaft?
 - s. 142
 	1. Wozu enthalten Emulsionen Zusaetze?
 	2. Welche gesundheitlichen Probleme koennen bei unsachgemaessem Umgagng mit Kuehlschmierstoffen auftreten?
@@ -56,7 +54,7 @@
  
 - s. 179
 	1. Nach welchen Merkmalen können Drehmaschinen eingeteilt werden? 
-	2. Welcher Einrichtungen muss eine CNC-Drehmaschine zum außermittigen Bohren besitzen?
+	2. Welche Einrichtungen muss eine CNC-Drehmaschine zum außermittigen Bohren besitzen?
 - s. 181
 	1. Welche Wirkungen ergeben sich aus dem unterbrochenen Schnitt beim Fräsen?
 	2. Warum sollte eine möglichst große Schnittgeschwindigkeit gewählt werden? 

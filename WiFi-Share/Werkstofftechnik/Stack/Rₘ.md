@@ -1,0 +1,4 @@
+>Zugfestigkeit
+
+---
+-> [[Spannungs-Dehnungs-Diagramm]]

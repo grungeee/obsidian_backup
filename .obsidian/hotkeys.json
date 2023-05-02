@@ -1,20 +1,20 @@
 {
-  "app:toggle-left-sidebar": [
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": ";"
     }
   ],
-  "app:toggle-right-sidebar": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "'"
+      "key": "A"
     }
   ]
 }

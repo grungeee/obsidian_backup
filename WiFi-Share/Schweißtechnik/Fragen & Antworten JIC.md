@@ -1,4 +1,3 @@
-
 # Schweißerprüfung nach EN ISO 9606 -1
 ### EN ISO 9606
 - - -
@@ -10,7 +9,7 @@ Mit welcher EN ISO 9606-1 Prüfungsnummer darf man ein 10mm Blech mittels Schutz
 
 Mit einer EN ISo 9606-1 135 P BWFM 1Ss8,0 PF ss nb darf man ein Blech 10mm Stumpfnaht steigend mittels Schutzgasschweißen schweißen
 - - -
-Wie wird der Massivdraht gemäß der EN ISO 9606-1 gekennzeichnet?
+Wie wird der Massivdraht gemäß der EN ISO 9606 -1 gekennzeichnet?
 
 Der Massivdraht ist in der EN ISO 9606 -1 mit dem Kennbuchstaben S gekennzeichnet.
 - - -
@@ -61,32 +60,26 @@ Wer ist für die Verlängerung der Qualifikation eines Schweißers verantwortlic
 
 Die Verlängerung der Qualifikation ist durch einen Prüfer/eine Prüfstelle durchzuführen.
 - - -
-Wie oft muss die Fähigkeit des Schweßers überprüft werden? 
-
-a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
+> zusammenfassen
 
 
+Welche Verfahren gibt es, um die Fähigkeit eines Schweißers zu überprüfen und wie oft soll es geschehen?
 
 Die Fähigkeit des Schweißers muss regelmäßig nach einem der folgenden Verfahren überprüft werden.
 	a) Der Schweißer muss die Prüfung alle 3 Jahre wiederholen.
 	b ) Alle 2 Jahre müssen zwei Schweißnähte, die in den letzten 6 Monaten der Gültigkeit geschweißt werden, mittels Durchstrahlungsprüfung. Ultraschallprüfung oder zerstörender Prüfung geprüft und dokumentiert werden. Die Schweißnähte müssen die Bewertungsbedingungen für Unregelmäßigkeiten erfüllen, die in Abschnitt 7 der EN ISO 9606-1 festgelegt sind. Die geprüfte Schweißnaht muss die ursprünglichen Prüfbedingungen reproduzieren, ausgenommen für die Dicke und den Rohraußendurchmesser. Diese Prüfungen verlängerm die Schweißer Prüfungsbescheinigung für weitere 2 Jahre.
-	c) Die Qualifikationen eines Schweißßers für eine Bescheinigung sind so lange gültig, wie der Nachweis nach 9.2 der EN ISo 9606-1 bestätigt ist und unter der Voraussetzung, dass folgende Bedingungen ertulIt Sina.
+	c) Die Qualifikationen eines Schweißßers für eine Bescheinigung sind so lange gültig, wie der Nachweis nach 9.2 der EN ISO 9606 -1 bestätigt ist und unter der Voraussetzung, dass folgende Bedingungen erfüllt sind.
  
 Der Schweißer arbeitet für den gleichen Hersteller, für den er oder sie qualifiziert ist und der für die Fertigung des Produktes verantwortlich ist.
  
-Das Qualitätsprogramm des Herstellers wurde nach ISo 3834-2 oder ISo 3834-3 verfiziert;
+Das Qualitätsprogramm des Herstellers wurde nach ISO 3834 -2 oder ISO 3834 -3 verfiziert;
  
-Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität auf Grundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende
-	Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
-		**mb** - mit Bad
-		**nm** - nix Bad
+Der Hersteller hat dokumentiert, dass der Schweißnähteeinwandfreier Qualität auf Grundlage Anwendungsnormen hergestellt hat; die untersuchten Schweißnähte müssen folgende Bedingungen bestätigen; Schweißposition, Nahtart /FW BW), mit Schweißbadsicherung (mb) oder ohne Schweißbadsicherung (nb).
 
->[!note]
-<---
 
 ### Unfallverhütung
 
->[!fail] Die Antwort ist falsch
+- - -
 ? FRAGE
 Schweißßstromquellen die für Arbeiten in Kesseln und engen Räumen geeignet sind (unter erhöhter elektrischen Gefährdung verwendetwerden dürfen), werden mit dem Kennbuchstaben S oder K gekennzeichnet. 
 
@@ -263,7 +256,7 @@ Was bedeutet die Bezeichnung des Stahls s235JRG2?
 s235JRG2 ist die Bezeichnung für einen Stahl mit einer **Mindeststreckgrenze** von **Re** von 235 N/mm²
 - - -
 
->[!missing] 
+>[!missing]
 >Schweißpositionen
 
 ![[WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png]]

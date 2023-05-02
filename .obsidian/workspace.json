@@ -1,39 +1,48 @@
 {
   "main": {
-    "id": "e9f925dca952538d",
+    "id": "cdcd665c8d2780a7",
     "type": "split",
     "children": [
       {
-        "id": "93cbd505947c4791",
+        "id": "9a848982a3315b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "91495d12fbcc49e2",
+            "id": "c556d6bbd6d581c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "27e854595f5f5840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3d1545bc89ef8d8b",
+    "id": "f87ac9a4b20a31e9",
     "type": "split",
     "children": [
       {
-        "id": "1886498df7fb3f09",
+        "id": "1af92d00fdb0c2e4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce59fa14b9173cc1",
+            "id": "52de2277c34927ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +52,7 @@
             }
           },
           {
-            "id": "28023e1832fdcdf4",
+            "id": "3dc76898902d95b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +67,7 @@
             }
           },
           {
-            "id": "4d2239bd86efcf37",
+            "id": "c74201f36f7f2d4f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "01e909fe1fe125e9",
+    "id": "ed494257bde5a6fa",
     "type": "split",
     "children": [
       {
-        "id": "d74df55025c77946",
+        "id": "12ba74e6d3e87530",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5775a5e0402369",
+            "id": "5f9b14da404720e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +106,19 @@
             }
           },
           {
-            "id": "c22d3a92b347a886",
+            "id": "c00054576dffc8b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "53778006f9bdbc41",
+            "id": "3c7c8a11cefd3757",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +129,12 @@
             }
           },
           {
-            "id": "fd859cf6bea301e1",
+            "id": "bf5b15f2d500d793",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Test Fragen.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -150,8 +159,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91495d12fbcc49e2",
+  "active": "27e854595f5f5840",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Fertigungsverfahren.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
