@@ -12,7 +12,7 @@ Beschreiben Sie je ein Verfahren einer Hauptgruppe. #card
  - Ändern der stoffe : Härten wo ein stahl durch das 4A prinzip gehärtet wird und somit die begebenheit festigen.
 - Trennen : Fräßen, wo die form von stählen durch fräßen & schleifen gewünscht abgepasst werden.
 
-### s. 122
+### s. 103
 
 Aus welchen Gründen werden Werkstücke durch Gießen hergestellt? #card
 Wenn man es nicht anders Herstellen kann oder man besondere Eigenschaften im guss haben möchte.
@@ -21,28 +21,49 @@ Warum sind die Moellmaße größer als die Maße des herzustellenden Gussstücks
 Weil sie beim Abkühlen schrumpfen.
 
 Wozu benötigt man beim Gießen Kerne? #card
+Für die Hohlräume oder Hinterschneidung eines Gussstücks.
+
 Wodurch unterscheiden sich maschinengefomte Gussstücke von handgeformten? 
+	4. Von der maschine ist das Gussstück maßgenauer a
 Wie werden die Formen für das Vakuumformen hergestellt? 
+	5. Beim Vakuumformen wird binderfreier Sand verwendet, und kleine bohrungen.
 Welches Gießverfahren eignet sich zur Herstellung dünnwandiger Werkstücke aus NE-Metallen bei großen Stückzahlen? 
+	6. Feingießen.
 Wie werden die Gussstücke durch Feingießen hergestellt? 
+	7. Durch hoher formtemparatur kann durch feingießen komplexe & Großflächige gussstücke maßgenau gefertigt werden.
 Welcher Fehler können beim Einformen, Gießen und Erstarren on Gussstücken auftreten?
+	8. Einformen : schülpen ,versetzter Guss.
+	Gießen & Erstaren : Schlackenverschlüsse, Gashohlräume (blasen), Lunker, Steigerungen, Gussspannungen.
+
 
  
-- s. 121 
+### s. 121 
+
+
 	1. Wovon hängt die Schmiedetemperatur ab? 
+1.  Vom Material
 	2. Welche Vorteile hat das [[Gesenkschmieden]]?
+2. Massenproduktion
 	3. Nennen Sie einige typische Werkstücke, die durch Gesenkschmieden hergestellt werden.
+3. Schraubenschlüssel, Scheren, Kurbelwellen, Pleulstangen
 	4. Wodurch unterscheiden sich Gewinde, die durch Gewindeformen hergestellt wurden, von geschnittenen Gewinden? 
+4. Halten weniger aus sind effizienter in der Produktion. 
 	5. Welche Eigenschaften müssen Werkstoffe haben, die sich zum Fließpressen eignen?
--   s. 126
-	1. Wie verläuft der Trennvorgang beim Scherschneiden?
-	2. Für die Halterung von Lichtmaschinen in Kraftfahrzeugen werden 1 mm dicke Blechteile aus Baustahl ([[Rₘ]] = 520 N/mm²?) ausgeschnitten. Wie groß muss der Schneidspalt des Werkzeuges sein?
-	3. Wie können [[Scherschneidwerkzeuge]] nach ihrer Führungsart eingeteilt werden?
-	4. Welche [[Scherschneidwerkzeuge]] eignen sich zum Herstellen von:
-		-  Runden Scheiben mit einer Bohrung?
-		- Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
-		- Werkstücken mit gratfreier Schnittfläche?
-		- Werkstücken mit gebogenen Bereichen?
+5. Zähigkeit, für plastische Verformbarkeit
+ 
+### s. 126
+ 
+1. Wie verläuft der Trennvorgang beim Scherschneiden?
+	1. Beim Scherschneiden wird das Material entlang einer vorgegebenen Scherlinie durch zwei Schneiden getrennt. Die Schneiden bewegen sich relativ zueinander in einer scherenden Bewegung und erzeugen so eine plastische Verformung des Materials. Dabei entsteht eine Scherzone, in der sich das Material verformt und schließlich bricht.
+3. Wie können [[Scherschneidwerkzeuge]] nach ihrer Führungsart eingeteilt werden?
+		- Frei geführte Scherschneidwerkzeuge
+		- Führungsgelagerte Scherschneidwerkzeuge
+4. Welche [[Scherschneidwerkzeuge]] eignen sich zum Herstellen von:
+	-  Runden Scheiben mit einer Bohrung?
+	- Werkstücken, bei denen die Außenkontur genau zur Bohrung liegen muss?
+	- Werkstücken mit gratfreier Schnittfläche?
+	- Werkstücken mit gebogenen Bereichen?
+  
 -   s. 130
 	1.   Welche Aufgabe hat die [[Vorwärmflamme]] beim autogenen Brennschneiden?
 	2.   Welche [[Strahlschneidverfahren]] eignen sich für das Trennen von unlegiertem Stahl?
