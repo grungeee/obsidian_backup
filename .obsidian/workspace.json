@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md"
               }
             }
           }
@@ -152,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60e39377e75456ec",
+  "active": "6278b981f6c603db",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "misc/ChatGPT_logo_black.svg",
     "misc/ChatGPT_logo_white.svg",
     "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
