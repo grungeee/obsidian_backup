@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1bf0e3a64ed046c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -63,6 +74,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a85ba5b718c9b11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -162,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d06406ed97d4b99",
+  "active": "1bf0e3a64ed046c4",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
     "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
