@@ -11,9 +11,11 @@
             "id": "9d06406ed97d4b99",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Linienarten.md"
+                "file": "WiFi-Share/Schweißtechnik/Anki Deck test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linienarten.md",
+                "file": "WiFi-Share/Schweißtechnik/Anki Deck test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linienarten.md",
+                "file": "WiFi-Share/Schweißtechnik/Anki Deck test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linienarten.md"
+                "file": "WiFi-Share/Schweißtechnik/Anki Deck test.md"
               }
             }
           }
@@ -170,32 +172,32 @@
   },
   "active": "9d06406ed97d4b99",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
-    "WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
-    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
-    "Excalidraw/Drawing 2023-04-20 20.44.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
-    "🏡 Home.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Gusswerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Maschinen zum Umformen.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
+    "WiFi-Share/Technisches Zeichenen/📁 Images/Linien Arten und Schriftblock.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Künstiche Nichtmetallwerkstoffe.md",
+    "Excalidraw/Drawing 2023-04-20 20.44.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
+    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
-    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
-    "WiFi-Share/TEST.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Hartmetalle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Hauptpunkte.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Hydraulische Presse.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Herstellung der Werkstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
+    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
+    "🏡 Home.md",
+    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.44.38.excalidraw.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Mechanische Presse.md",
     "misc/ChatGPT_logo_black.svg",
     "misc/ChatGPT_logo_white.svg",
     "WiFi-Share/Werkstofftechnik/Stack",
