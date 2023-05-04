@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "🏡 Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "🏡 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "🏡 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "🏡 Home.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "5afbed9f8441c1da",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
@@ -204,7 +204,6 @@
     "WiFi-Share/Schweißtechnik/📁 Images",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
     "WiFi-Share/Werkstofftechnik",
-    "WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/Schweißtechnik"
+    "WiFi-Share/Technisches Zeichenen"
   ]
 }
