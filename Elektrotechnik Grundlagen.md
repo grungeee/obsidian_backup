@@ -15,4 +15,6 @@
 	- Das Wasserstoffatom ist das kleinste Atom. Sein Kern ist ein Proton,  um das ein Elektron kreist. Bei kupferatomen besteht der Kern aus 29 Protonen und 35 Neutronen.
 
 ### Die Elektrische Ladung
-- Protonen und Elektronen sidn Träger lektrischer Ladung (Ladungs)
+- Protonen und Elektronen sidn Träger lektrischer Ladung (Ladungsträger).
+- Neutronen haben keine Ladung und sind elektrisch neutral. Die beiden Ladungen habein eine unterschiedliche Wirkung und werden dahere unterschiedlich bezeichent.
+- 
