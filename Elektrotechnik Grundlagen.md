@@ -20,4 +20,5 @@
 >**Protonen** sind elektrisch *positiv* geladen.
 >**Elektronen** sind elektrisch *negativ* geladen.
 
-> **Eleme**
+> **Elementarladung**  
+>Elektronen
