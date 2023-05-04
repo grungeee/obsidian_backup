@@ -1,2 +1,2 @@
 ### Der Stromkreis
-![[s]]
+![[Stromkreis_BSP.excalidraw]]
