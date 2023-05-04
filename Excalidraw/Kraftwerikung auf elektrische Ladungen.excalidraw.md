@@ -950,6 +950,42 @@ tags: [excalidraw]
 					49.20570115391604
 				]
 			]
+		},
+		{
+			"id": "MzK9WOAD",
+			"type": "text",
+			"x": -158.49656063992177,
+			"y": -372.64938758515694,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1969251594,
+			"version": 39,
+			"versionNonce": 803960138,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1683213652405,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
