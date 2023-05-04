@@ -29,7 +29,9 @@
 ![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
 
 ### Elekrische Leiter und Nichtleiter
-
-- Bei manchen Stoffen, können sich einige Elektronen *frei* zwischen Atomen bwegen, diese Elektronen, die an keinen Atomkern gebunden sind, nennt man **freie Elektronen**.
--  **Elektrische Leiter** sind Werkstoffe mit *vielen freien Elektronen*.
-- **Leiterwerkstoffe** sind *Kupfer, Aluminium, Silber, Stahl, Kohlenstoff*
+- #### Leiter
+	- Bei manchen Stoffen, können sich einige Elektronen *frei* zwischen Atomen bwegen, diese Elektronen, die an keinen Atomkern gebunden sind, nennt man **freie Elektronen**.
+	-  **Elektrische Leiter** sind Werkstoffe mit *vielen freien Elektronen*.
+	- **Leiterwerkstoffe** sind *Kupfer, Aluminium, Silber, Stahl, Kohlenstoff*
+- #### Nichtleiter 
+	- 
