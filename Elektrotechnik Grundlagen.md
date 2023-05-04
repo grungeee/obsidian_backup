@@ -20,5 +20,4 @@
 >**Protonen** sind elektrisch *positiv* geladen.
 >**Elektronen** sind elektrisch *negativ* geladen.
 
->**Elementarladung** 
->Elektronen und Protonen tragen die kleinstmögliche elektrische Ladung. Man nennt sie Elementarladung
+>Elektronen und Protonen tragen die *kleinstmögliche elektrische Ladung*. Man nennt sie **Elementarladung**.
