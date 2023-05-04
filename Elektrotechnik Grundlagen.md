@@ -7,4 +7,4 @@
 
 ### Der Atomaufbau
 - Der Atomkern besteht aus Protonen und Neutronen.
-- D
+- Die verschedenen Gr
