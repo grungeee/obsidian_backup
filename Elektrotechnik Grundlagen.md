@@ -7,4 +7,4 @@
 
 ### Der Atomaufbau
 - Der Atomkern besteht aus Protonen und Neutronen.
-- Die verschedenen Grundstoffe (chemischen Elemente) unterscheden sich d
+- Die verschedenen Grundstoffe (chemischen Elemente) unterscheden sich durch die Anza 
