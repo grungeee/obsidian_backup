@@ -22,7 +22,7 @@
 
 >Elektronen und Protonen tragen die *kleinstmögliche elektrische Ladung*. Man nennt sie **Elementarladung**.
 
- #### Kraftwerikungen zwischen elektrischen Ladungen:
+ #### Kraftwerikung auf elektrische Ladungen:
  - **Ungleichnamige** Ladungen *ziehen* einenader an.
  - **Gleichnamige** Ladungen *stoßen* einander ab.
  
