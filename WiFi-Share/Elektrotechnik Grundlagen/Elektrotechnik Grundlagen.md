@@ -40,4 +40,4 @@
 	- 
 	  
 ### Das geladene Atom (Ion)
-- **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elekttronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und ermöglischen dort einen Stromfluss.
+- **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elekttronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglischen* dort einen *Stromfluss*.
