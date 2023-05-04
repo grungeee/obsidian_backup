@@ -1,4 +1,4 @@
-### Elektrische 
+### Elektrische Ladungsträger
 ### Der Stromkreis
 ![[Stromkreis_BSP.excalidraw]]
 
