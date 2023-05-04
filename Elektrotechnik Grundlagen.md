@@ -1,2 +1,2 @@
 ### Der Stromkreis
-![[Elektrotechnik Grundlagen]]
+![[s]]
