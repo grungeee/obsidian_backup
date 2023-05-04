@@ -11,9 +11,9 @@
             "id": "0e6960316b37e9fe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
               }
             }
           }
@@ -91,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
+              }
             }
           }
         ]
@@ -157,6 +161,9 @@
   },
   "active": "0e6960316b37e9fe",
   "lastOpenFiles": [
+    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
+    "Stromkreis_BSP.excalidraw.png.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
@@ -170,9 +177,7 @@
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Excalidraw/Drawing 2023-05-04 23.24.40.excalidraw.md",
     "Excalidraw/n.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Fertigungsverfahen.md",
@@ -198,7 +203,6 @@
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
     "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "misc",
     "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images"

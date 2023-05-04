@@ -1,6 +1,6 @@
 ## Elektrische Ladungsträger
 ### Der Stromkreis
-![[Stromkreis_BSP.excalidraw.svg]] 
+![[Stromkreis_BSP.excalidraw.png]] 
 
 - Damit elektrische **Gärente funktionieren** können, müssen sie von elektrischem *Strom durchflossen* werden.
 - Batterie **(-)** → Leitung → Lampe → Leitung → Batterie **(+)** 
