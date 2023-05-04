@@ -1,4 +1,4 @@
 ### Der Stromkreis
 ![[Stromkreis_BSP.excalidraw]]
 
-- Damit Elektrische Ge
+- Damit Elektrische Gärente funktionier
