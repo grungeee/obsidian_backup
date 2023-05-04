@@ -34,4 +34,4 @@
 	-  **Elektrische Leiter** sind Werkstoffe mit *vielen freien Elektronen*.
 	- **Leiterwerkstoffe** sind *Kupfer, Aluminium, Silber, Stahl, Kohlenstoff*
 - #### Nichtleiter
-	- Nichtleiter oder Isolatoren sind Werkstoffe, in denen nur sehr wenige freie 
+	- Nichtleiter oder Isolatoren sind Werkstoffe, in denen nur sehr wenige freie Elektroenen vorhanden sind. Man benützt sie, um elektrische Leitungen voneinander zu trennen oder vor Berührung zu schützen. Nichtleter sind Kunststoffe
