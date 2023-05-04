@@ -17,6 +17,7 @@
 ### Die Elektrische Ladung
 - **P**rotonen und **E**lektronen sind Träger elektrischer Ladung (*Ladungsträger*).
 - **N**eutronen haben **keine Ladung** und sind *elektrisch neutral*. Die beiden Ladungen habein eine unterschiedliche Wirkung und werden dahere unterschiedlich bezeichent.
+
 >**Protonen** sind elektrisch *positiv* geladen.
 >**Elektronen** sind elektrisch *negativ* geladen.
 
@@ -25,4 +26,4 @@
  #### Kraftwerikung auf elektrische Ladungen:
  - **Ungleichnamige** Ladungen *ziehen* einenader an. 
  - **Gleichnamige** Ladungen *stoßen* einander ab.
- 
+![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
