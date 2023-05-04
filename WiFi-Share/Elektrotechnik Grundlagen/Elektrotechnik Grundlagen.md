@@ -1,4 +1,4 @@
-### Elektrische Ladungsträger
+## Elektrische Ladungsträger
 ### Der Stromkreis
 ![[Stromkreis_BSP.excalidraw]]
 - Damit elektrische **Gärente funktionieren** können, müssen sie von elektrischem *Strom durchflossen* werden.
@@ -39,4 +39,5 @@
 - #### Halbleiter
 	- 
 	  
-### Das 
+### Das geladene Atom (Ion)
+- Ionen sind eleketrisch geleaden Atome. Sie entstehen, we
