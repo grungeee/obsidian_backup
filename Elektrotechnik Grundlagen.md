@@ -17,4 +17,5 @@
 ### Die Elektrische Ladung
 - Protonen und Elektronen sidn Träger lektrischer Ladung (Ladungsträger).
 - Neutronen haben keine Ladung und sind elektrisch neutral. Die beiden Ladungen habein eine unterschiedliche Wirkung und werden dahere unterschiedlich bezeichent.
-- 
+  >Protonen sind elektrisch *positiv* geladen
+  >Elektronen sind elektrisch 
