@@ -1309,6 +1309,34 @@ Schaltzeichen: ^BSMuiuQY
 			"originalText": "Schaltzeichen:",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"type": "ellipse",
+			"version": 17,
+			"versionNonce": 1025270018,
+			"isDeleted": true,
+			"id": "jbXgMVQQXVucUFSWUkA9p",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -292.084993181311,
+			"y": -223.76184817850844,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"width": 100,
+			"height": 100,
+			"seed": 1922493506,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1683235018193,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1326,10 +1354,10 @@ Schaltzeichen: ^BSMuiuQY
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 555.1611114407608,
-		"scrollY": 214.15745470534955,
+		"scrollX": 573.084993181311,
+		"scrollY": 334.4507661135847,
 		"zoom": {
-			"value": 2.311378665454691
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

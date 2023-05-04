@@ -942,30 +942,30 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"baseline": 25
 		},
 		{
-			"id": "Q_6st-_073mR-V7SHDhWL",
 			"type": "ellipse",
-			"x": 833.3578813952979,
-			"y": -151.9547087761651,
-			"width": 23.728511058905838,
-			"height": 26.575932385974568,
-			"angle": 0,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 79589890,
+			"isDeleted": true,
+			"id": "OAk8YwZ12Ho5nKxg-ixRP",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 280.0758516499179,
+			"y": -462.801193174221,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"width": 100,
+			"height": 100,
+			"seed": 1922493506,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1829004118,
-			"version": 30,
-			"versionNonce": 1997464534,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1683213912615,
+			"boundElements": [],
+			"updated": 1683234982797,
 			"link": null,
 			"locked": false
 		}
@@ -985,10 +985,10 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 647.2968895256153,
-		"scrollY": 738.646976067466,
+		"scrollX": 363.5605119864457,
+		"scrollY": 570.5426704469483,
 		"zoom": {
-			"value": 0.6809153387574997
+			"value": 1.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

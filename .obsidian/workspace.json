@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5afbed9f8441c1da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e6960316b37e9fe",
             "type": "leaf",
             "state": {
@@ -30,16 +18,29 @@
             }
           },
           {
-            "id": "2e266accb2be787b",
+            "id": "a0be992603b83ed7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "203ff59b16f0f007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,17 +182,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5afbed9f8441c1da",
+  "active": "203ff59b16f0f007",
   "lastOpenFiles": [
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
+    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
+    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
+    "Fertigungsverfahen.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
-    "Fertigungsverfahen.md",
     "🏡 Home.md",
     "publish.css",
     "theme.css",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
-    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "Wifi-share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
@@ -199,7 +203,6 @@
     "WiFi-Share/WiFi-Share",
     "Wifi-share/WiFi-Share/Technisches Zeichenen",
     "Wifi-share/WiFi-Share",
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
@@ -218,7 +221,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Energie & Hilfsmittel.md",
     "misc",
     "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
