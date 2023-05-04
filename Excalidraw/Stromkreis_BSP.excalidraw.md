@@ -14,6 +14,8 @@ tags: [excalidraw]
 
 Battarie ^BLGxKis0
 
+Lampe ^IyWxvFII
+
 %%
 # Drawing
 ```json
@@ -791,8 +793,8 @@ Battarie ^BLGxKis0
 		{
 			"id": "BLGxKis0",
 			"type": "text",
-			"x": -298.6509380542393,
-			"y": -20.822682810465523,
+			"x": -382.1061182240791,
+			"y": -108.4806418377793,
 			"width": 87.73992919921875,
 			"height": 25,
 			"angle": 0,
@@ -806,11 +808,11 @@ Battarie ^BLGxKis0
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2022337994,
-			"version": 9,
-			"versionNonce": 147339466,
+			"version": 283,
+			"versionNonce": 1190063050,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683210331090,
+			"updated": 1683210350828,
 			"link": null,
 			"locked": false,
 			"text": "Battarie",
@@ -822,6 +824,42 @@ Battarie ^BLGxKis0
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "Battarie",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "IyWxvFII",
+			"type": "text",
+			"x": -319.6648323416091,
+			"y": 62.03210037973514,
+			"width": 58.77995300292969,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1234866058,
+			"version": 179,
+			"versionNonce": 1451688278,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683210341447,
+			"link": null,
+			"locked": false,
+			"text": "Lampe",
+			"rawText": "Lampe",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Lampe",
 			"lineHeight": 1.25
 		},
 		{
