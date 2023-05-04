@@ -6,4 +6,4 @@
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
 
 ### Der Atomaufbau
-Der Atomkern besteh a
+Der Atomkern besteht aus 
