@@ -5,4 +5,4 @@
 - Batterie **(-)** → Leitung  → Lampe →  Batterie **(+)** 
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
 
-### Der Auf
+### Der Aufbau 
