@@ -29,4 +29,4 @@
 ![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
 
 ### Elekrische Leiter und Nichtleiter
-- Bei man
+- Bei manchen Stoffen, können sich einige Elektronen frei zwischen
