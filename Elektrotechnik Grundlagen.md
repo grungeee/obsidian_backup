@@ -1,4 +1,4 @@
 ### Der Stromkreis
 ![[Stromkreis_BSP.excalidraw]]
 
-- Damit Elekt
+- Damit Elektrische Ge
