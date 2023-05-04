@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1f4b4516b5e3520",
+            "id": "5afbed9f8441c1da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5afbed9f8441c1da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -170,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1f4b4516b5e3520",
+  "active": "5afbed9f8441c1da",
   "lastOpenFiles": [
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
@@ -179,7 +172,6 @@
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Excalidraw/n.md",
     "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "WiFi-Share/Elektrotechnik Grundlagen",

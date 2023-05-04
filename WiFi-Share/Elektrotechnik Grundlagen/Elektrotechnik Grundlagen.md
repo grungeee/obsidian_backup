@@ -27,3 +27,5 @@
  - **Ungleichnamige** Ladungen *ziehen* einenader an. 
  - **Gleichnamige** Ladungen *stoßen* einander ab.
 ![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
+
+### Elekrische Leiter
