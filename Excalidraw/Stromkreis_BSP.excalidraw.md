@@ -14,7 +14,11 @@ tags: [excalidraw]
 
 Battarie ^BLGxKis0
 
-Lampe ^IyWxvFII
+Glühlampe ^IyWxvFII
+
++ ^9ILlb9w0
+
+- ^oiMebROx
 
 %%
 # Drawing
@@ -831,7 +835,7 @@ Lampe ^IyWxvFII
 			"type": "text",
 			"x": -380.0047287953422,
 			"y": -60.74908195646803,
-			"width": 58.77995300292969,
+			"width": 93.23992919921875,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -844,23 +848,275 @@ Lampe ^IyWxvFII
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1234866058,
-			"version": 226,
-			"versionNonce": 1712907402,
+			"version": 233,
+			"versionNonce": 308332054,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683210381371,
+			"updated": 1683210393550,
 			"link": null,
 			"locked": false,
-			"text": "Lampe",
-			"rawText": "Lampe",
+			"text": "Glühlampe",
+			"rawText": "Glühlampe",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Lampe",
+			"originalText": "Glühlampe",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "line",
+			"version": 181,
+			"versionNonce": 1961539734,
+			"isDeleted": false,
+			"id": "TrjaBgVyCby_jevJVE88I",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -292.95602261556144,
+			"y": -99.88794339524048,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 34,
+			"height": 0.66668701171875,
+			"seed": 1609848589,
+			"groupIds": [
+				"3noWJ6xUMHdN0-lu1145-"
+			],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683210406260,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					34,
+					-0.66668701171875
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 153,
+			"versionNonce": 782975946,
+			"isDeleted": false,
+			"id": "DT_aStbpFLAIUtAACzz6V",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -284.95602261556144,
+			"y": -91.22125638352173,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.6666259765625,
+			"height": 2,
+			"seed": 1340333347,
+			"groupIds": [
+				"3noWJ6xUMHdN0-lu1145-"
+			],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683210406260,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					18.6666259765625,
+					-2
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 166,
+			"versionNonce": 1467168214,
+			"isDeleted": false,
+			"id": "cCec1CQLkShFCOP23tTdA",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -274.95602261556144,
+			"y": -101.22125638352173,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.002006895881209,
+			"height": 27.22513580042869,
+			"seed": 465576995,
+			"groupIds": [
+				"3noWJ6xUMHdN0-lu1145-"
+			],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683210406260,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.002006895881209,
+					-27.22513580042869
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 142,
+			"versionNonce": 1961114250,
+			"isDeleted": false,
+			"id": "j4ak0FgG6np_KY5pfeOfZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -275.6227096272802,
+			"y": -92.55463040695923,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.33331298828125,
+			"height": 24.66668701171875,
+			"seed": 179792675,
+			"groupIds": [
+				"3noWJ6xUMHdN0-lu1145-"
+			],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683210406260,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.33331298828125,
+					24.66668701171875
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 145,
+			"versionNonce": 1719274262,
+			"isDeleted": false,
+			"id": "9ILlb9w0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -269.6227096272802,
+			"y": -124.22131741867798,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13,
+			"height": 25,
+			"seed": 818354509,
+			"groupIds": [
+				"3noWJ6xUMHdN0-lu1145-"
+			],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1683210406260,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "+",
+			"rawText": "",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "+",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 147,
+			"versionNonce": 1582324042,
+			"isDeleted": false,
+			"id": "oiMebROx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -268.2893356038427,
+			"y": -93.55463040695923,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 9,
+			"height": 25,
+			"seed": 540946221,
+			"groupIds": [
+				"3noWJ6xUMHdN0-lu1145-"
+			],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1683210406260,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "-",
+			"rawText": "",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "-",
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"id": "UQMoRaTW",
