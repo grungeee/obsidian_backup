@@ -13,3 +13,5 @@
   → Das **Valenzelektron** ist das *Elektron*, das sich in der *äußersten Schale* des Atoms befindet und für chemische *Reaktionen* und *Bindungen* verantwortlich ist.
 - Good to know, I guess:
 	- Das Wasserstoffatom ist das kleinste Atom. Sein Kern ist ein Proton,  um das ein Elektron kreist. Bei kupferatomen besteht der Kern aus 29 Protonen und 35 Neutronen.
+
+### Die Elektrische Ladung
