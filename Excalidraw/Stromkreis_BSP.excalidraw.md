@@ -1119,6 +1119,211 @@ Glühlampe ^IyWxvFII
 			"baseline": 8
 		},
 		{
+			"type": "ellipse",
+			"version": 431,
+			"versionNonce": 1537617430,
+			"isDeleted": false,
+			"id": "mbYXiWXn7o09GZXW3qXvS",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -282.4864126405025,
+			"y": -67.13030409274855,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 33.7146169328313,
+			"height": 33.7146169328313,
+			"seed": 1080642147,
+			"groupIds": [
+				"FkwR1WzejWEq49ZweS1cj",
+				"mquk_xK-_p80L9lGAPRZX"
+			],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1683210431900,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "line",
+			"version": 354,
+			"versionNonce": 1001121354,
+			"isDeleted": false,
+			"id": "Su68z47QL0r_5BBO9mvUu",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -265.1077119690573,
+			"y": -68.17302486018276,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0.6951683924977985,
+			"height": 18.76897381381587,
+			"seed": 1299267917,
+			"groupIds": [
+				"pw6MD-m17EXu-NFWp3079",
+				"mquk_xK-_p80L9lGAPRZX"
+			],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683210431900,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6951683924977985,
+					-18.76897381381587
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 356,
+			"versionNonce": 304347990,
+			"isDeleted": false,
+			"id": "4Jq2pZlqirzrVgjqEaXqi",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -264.23876738909127,
+			"y": -33.06808705301209,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 18.42138961756697,
+			"seed": 1849165315,
+			"groupIds": [
+				"ujkjH-N8c5d5oEbQA29wF",
+				"mquk_xK-_p80L9lGAPRZX"
+			],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683210431900,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					18.42138961756697
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 70,
+			"versionNonce": 246189322,
+			"isDeleted": false,
+			"id": "AToFGAhZIfVnBZ98NZPpe",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -276.84150141981075,
+			"y": -60.671101806342634,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 21.609153286711432,
+			"height": 22.83694608709274,
+			"seed": 179569494,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1683210431900,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					21.609153286711432,
+					22.83694608709274
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 49,
+			"versionNonce": 1777737878,
+			"isDeleted": false,
+			"id": "T3rmANdZ-o8kob5BEEDjq",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -255.72346525325185,
+			"y": -63.37224596718154,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 19.64468480610128,
+			"height": 25.783648808007925,
+			"seed": 529279946,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1683210431900,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-19.64468480610128,
+					25.783648808007925
+				]
+			]
+		},
+		{
 			"type": "line",
 			"version": 70,
 			"versionNonce": 1473051786,
