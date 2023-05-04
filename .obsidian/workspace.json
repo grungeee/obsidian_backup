@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Home.md"
+                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md"
               }
             }
           }
@@ -183,9 +183,14 @@
   },
   "active": "5afbed9f8441c1da",
   "lastOpenFiles": [
+    "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+    "Fertigungsverfahen.md",
+    "🏡 Home.md",
+    "publish.css",
+    "theme.css",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
-    "🏡 Home.md",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "Wifi-share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
@@ -203,7 +208,6 @@
     "Excalidraw/n.md",
     "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "WiFi-Share/Elektrotechnik Grundlagen",
-    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "misc/ChatGPT_logo_black.svg",
     "misc/ChatGPT_logo_white.svg",
     "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
@@ -215,14 +219,11 @@
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca.md",
     "WiFi-Share/Werkstofftechnik/Stack/Energie & Hilfsmittel.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Hartmetalle.md",
     "misc",
     "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
     "WiFi-Share/Werkstofftechnik/📁 Images/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
     "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
-    "WiFi-Share/Werkstofftechnik/📁 Images",
-    "WiFi-Share/Werkstofftechnik/Stack",
-    "WiFi-Share/Technisches Zeichenen/📁 Images"
+    "WiFi-Share/Werkstofftechnik/📁 Images"
   ]
 }
