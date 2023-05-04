@@ -1,2 +1,2 @@
 ### Der Stromkreis
-Damit elekt
+Damit elektrische Ger
