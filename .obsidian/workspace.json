@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01f581b15f67fce1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Elektrotechnik Grundlagen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,10 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6278b981f6c603db",
+  "active": "01f581b15f67fce1",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "WiFi-Share/Elektrotechnik Grundlagen",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "misc/ChatGPT_logo_black.svg",
