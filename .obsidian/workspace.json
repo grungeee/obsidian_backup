@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "01f581b15f67fce1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a1f4b4516b5e3520",
             "type": "leaf",
             "state": {
@@ -37,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
+                "file": "Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
+                "file": "Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
+                "file": "Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -172,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1f4b4516b5e3520",
+  "active": "6278b981f6c603db",
   "lastOpenFiles": [
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Elektrotechnik Grundlagen.md",
