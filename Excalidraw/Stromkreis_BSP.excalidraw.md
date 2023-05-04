@@ -216,7 +216,7 @@ Glühlampe ^IyWxvFII
 			"y": -66.34801970422268,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 13,
+			"width": 12.5,
 			"height": 25,
 			"seed": 818354509,
 			"groupIds": [
@@ -232,7 +232,7 @@ Glühlampe ^IyWxvFII
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "+",
-			"rawText": "",
+			"rawText": "+",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -256,7 +256,7 @@ Glühlampe ^IyWxvFII
 			"y": -35.68133269250393,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 9,
+			"width": 8.219985961914062,
 			"height": 25,
 			"seed": 540946221,
 			"groupIds": [
@@ -272,7 +272,7 @@ Glühlampe ^IyWxvFII
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "-",
-			"rawText": "",
+			"rawText": "-",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -868,8 +868,8 @@ Glühlampe ^IyWxvFII
 		},
 		{
 			"type": "line",
-			"version": 181,
-			"versionNonce": 1961539734,
+			"version": 247,
+			"versionNonce": 554519894,
 			"isDeleted": false,
 			"id": "TrjaBgVyCby_jevJVE88I",
 			"fillStyle": "hachure",
@@ -878,19 +878,19 @@ Glühlampe ^IyWxvFII
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -292.95602261556144,
-			"y": -99.88794339524048,
+			"x": -275.7063262682504,
+			"y": -95.25229928677325,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 34,
-			"height": 0.66668701171875,
+			"width": 15.14435717317041,
+			"height": 0.29695724200536466,
 			"seed": 1609848589,
 			"groupIds": [
 				"3noWJ6xUMHdN0-lu1145-"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683210406260,
+			"updated": 1683210409260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -904,15 +904,15 @@ Glühlampe ^IyWxvFII
 					0
 				],
 				[
-					34,
-					-0.66668701171875
+					15.14435717317041,
+					-0.29695724200536466
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 153,
-			"versionNonce": 782975946,
+			"version": 219,
+			"versionNonce": 993614602,
 			"isDeleted": false,
 			"id": "DT_aStbpFLAIUtAACzz6V",
 			"fillStyle": "hachure",
@@ -921,19 +921,19 @@ Glühlampe ^IyWxvFII
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -284.95602261556144,
-			"y": -91.22125638352173,
+			"x": -272.1429481098574,
+			"y": -91.39196388637485,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 18.6666259765625,
-			"height": 2,
+			"width": 8.314530911971866,
+			"height": 0.8908445395982595,
 			"seed": 1340333347,
 			"groupIds": [
 				"3noWJ6xUMHdN0-lu1145-"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683210406260,
+			"updated": 1683210409260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -947,15 +947,15 @@ Glühlampe ^IyWxvFII
 					0
 				],
 				[
-					18.6666259765625,
-					-2
+					8.314530911971866,
+					-0.8908445395982595
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 166,
-			"versionNonce": 1467168214,
+			"version": 232,
+			"versionNonce": 870658710,
 			"isDeleted": false,
 			"id": "cCec1CQLkShFCOP23tTdA",
 			"fillStyle": "hachure",
@@ -964,19 +964,19 @@ Glühlampe ^IyWxvFII
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -274.95602261556144,
-			"y": -101.22125638352173,
+			"x": -267.6887254118661,
+			"y": -95.84618658436615,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.002006895881209,
-			"height": 27.22513580042869,
+			"width": 0.4463161859177884,
+			"height": 12.126681783816494,
 			"seed": 465576995,
 			"groupIds": [
 				"3noWJ6xUMHdN0-lu1145-"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683210406260,
+			"updated": 1683210409260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -990,15 +990,15 @@ Glühlampe ^IyWxvFII
 					0
 				],
 				[
-					-1.002006895881209,
-					-27.22513580042869
+					-0.4463161859177884,
+					-12.126681783816494
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 142,
-			"versionNonce": 1961114250,
+			"version": 208,
+			"versionNonce": 1311599050,
 			"isDeleted": false,
 			"id": "j4ak0FgG6np_KY5pfeOfZ",
 			"fillStyle": "hachure",
@@ -1007,19 +1007,19 @@ Glühlampe ^IyWxvFII
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -275.6227096272802,
-			"y": -92.55463040695923,
+			"x": -267.98568265387144,
+			"y": -91.98587837038558,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.33331298828125,
-			"height": 24.66668701171875,
+			"width": 0.5938872975928948,
+			"height": 10.987091717184478,
 			"seed": 179792675,
 			"groupIds": [
 				"3noWJ6xUMHdN0-lu1145-"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683210406260,
+			"updated": 1683210409260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1033,15 +1033,15 @@ Glühlampe ^IyWxvFII
 					0
 				],
 				[
-					-1.33331298828125,
-					24.66668701171875
+					-0.5938872975928948,
+					10.987091717184478
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 145,
-			"versionNonce": 1719274262,
+			"version": 211,
+			"versionNonce": 84832214,
 			"isDeleted": false,
 			"id": "9ILlb9w0",
 			"fillStyle": "hachure",
@@ -1050,12 +1050,12 @@ Glühlampe ^IyWxvFII
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -269.6227096272802,
-			"y": -124.22131741867798,
+			"x": -265.31314903507666,
+			"y": -106.09092597616396,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 13,
-			"height": 25,
+			"width": 5.567778372489122,
+			"height": 11.135556744978244,
 			"seed": 818354509,
 			"groupIds": [
 				"3noWJ6xUMHdN0-lu1145-"
@@ -1064,24 +1064,24 @@ Glühlampe ^IyWxvFII
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683210406260,
+			"updated": 1683210409260,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 8.908445395982595,
 			"fontFamily": 1,
 			"text": "+",
-			"rawText": "",
+			"rawText": "+",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 8
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1582324042,
+			"version": 213,
+			"versionNonce": 1831968906,
 			"isDeleted": false,
 			"id": "oiMebROx",
 			"fillStyle": "hachure",
@@ -1090,12 +1090,12 @@ Glühlampe ^IyWxvFII
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -268.2893356038427,
-			"y": -93.55463040695923,
+			"x": -264.71923455106594,
+			"y": -92.4313006401847,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 9,
-			"height": 25,
+			"width": 3.6613648048727447,
+			"height": 11.135556744978244,
 			"seed": 540946221,
 			"groupIds": [
 				"3noWJ6xUMHdN0-lu1145-"
@@ -1104,55 +1104,19 @@ Glühlampe ^IyWxvFII
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683210406260,
+			"updated": 1683210409260,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 8.908445395982595,
 			"fontFamily": 1,
 			"text": "-",
-			"rawText": "",
+			"rawText": "-",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "-",
 			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"id": "UQMoRaTW",
-			"type": "text",
-			"x": -11.637661803855678,
-			"y": -109.89635661170354,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1035688458,
-			"version": 2,
-			"versionNonce": 298230678,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1683210264832,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"baseline": 8
 		}
 	],
 	"appState": {
