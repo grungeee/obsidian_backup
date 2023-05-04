@@ -28,4 +28,5 @@
  - **Gleichnamige** Ladungen *stoßen* einander ab.
 ![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
 
-### Elekrische Leiter
+### Elekrische Leiter und Nichtleiter
+- In manchen Stoffen, vor allem in Metallen, kreisen nicht alle Elektronen 
