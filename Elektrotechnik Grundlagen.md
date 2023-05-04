@@ -7,6 +7,6 @@
 
 ### Der Atomaufbau
 - Der **Atomkern** besteht aus *Protonen* und *Neutronen*.
-- Die verschedenen Grundstoffe (chemischen Elemente) **unterscheden** sich durch die *Anzahl* der *Protonen* und *Neutronen* im Atomkern.
+- Die verschedenen Grundstoffe (chemischen Elemente) **unterscheden** sich durch die *Anzahl* der *Protonen* und *Neutronen* im *Atomkern*.
 - Die Anzahl der Elektronen, die um den Atomkern kreisen, ist normalerweise glecih groß wie die Anzahl der Protonen im Atomkern.
 - Die  
