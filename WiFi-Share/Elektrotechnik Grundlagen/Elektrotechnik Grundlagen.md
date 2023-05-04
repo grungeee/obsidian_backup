@@ -29,4 +29,4 @@
 ![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
 
 ### Elekrische Leiter und Nichtleiter
-- In manchen Stoffen, vor allem in Metallen, kreisen nicht alle Elektronen 
+- Bei man
