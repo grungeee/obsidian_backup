@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
               }
             }
           }
@@ -169,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e266accb2be787b",
+  "active": "a1f4b4516b5e3520",
   "lastOpenFiles": [
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",

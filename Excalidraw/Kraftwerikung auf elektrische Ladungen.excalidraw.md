@@ -22,8 +22,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 	"elements": [
 		{
 			"type": "ellipse",
-			"version": 388,
-			"versionNonce": 319707850,
+			"version": 391,
+			"versionNonce": 765743626,
 			"isDeleted": false,
 			"id": "4-HSNO5Bt3C7_3_OCLu6u",
 			"fillStyle": "hachure",
@@ -44,14 +44,14 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915119,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 305,
-			"versionNonce": 800132822,
+			"version": 309,
+			"versionNonce": 722021270,
 			"isDeleted": false,
 			"id": "_v9eIvZUZX7yY_IgdXufh",
 			"fillStyle": "hachure",
@@ -62,7 +62,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": -289,
 			"y": -64.2421875,
-			"strokeColor": "#000000",
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 51,
 			"height": 0,
@@ -72,7 +72,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915119,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -93,8 +93,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "line",
-			"version": 515,
-			"versionNonce": 718041482,
+			"version": 519,
+			"versionNonce": 1176600778,
 			"isDeleted": false,
 			"id": "iRCKozo0KX94eCCgAilhw",
 			"fillStyle": "hachure",
@@ -105,7 +105,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": -263.7691222385104,
 			"y": -88.88979356492592,
-			"strokeColor": "#000000",
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 0.2162793660733655,
 			"height": 49.20570115391604,
@@ -115,7 +115,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915119,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -136,8 +136,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "ellipse",
-			"version": 719,
-			"versionNonce": 194298902,
+			"version": 722,
+			"versionNonce": 1196116182,
 			"isDeleted": false,
 			"id": "oV8Hqumdnpeo_t0F8g8II",
 			"fillStyle": "hachure",
@@ -163,14 +163,14 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 					"type": "arrow"
 				}
 			],
-			"updated": 1683213822573,
+			"updated": 1683213915119,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 635,
-			"versionNonce": 941207626,
+			"version": 639,
+			"versionNonce": 478861194,
 			"isDeleted": false,
 			"id": "JfvuVGLB1Vy3i4ZWj3I7x",
 			"fillStyle": "hachure",
@@ -181,7 +181,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": 621.2867554629904,
 			"y": -142.07102902210255,
-			"strokeColor": "#000000",
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 51,
 			"height": 0,
@@ -191,7 +191,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915119,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -212,8 +212,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "line",
-			"version": 845,
-			"versionNonce": 869257558,
+			"version": 849,
+			"versionNonce": 1742192150,
 			"isDeleted": false,
 			"id": "G73soJ3FYu1xDHZl0sufH",
 			"fillStyle": "hachure",
@@ -224,7 +224,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": 646.51763322448,
 			"y": -166.71863508702847,
-			"strokeColor": "#000000",
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 0.2162793660733655,
 			"height": 49.20570115391604,
@@ -234,7 +234,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -255,8 +255,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "ellipse",
-			"version": 712,
-			"versionNonce": 248583946,
+			"version": 715,
+			"versionNonce": 1897616970,
 			"isDeleted": false,
 			"id": "LnLYFjJp8uqYCYiL6rx-c",
 			"fillStyle": "hachure",
@@ -277,14 +277,14 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 516,
-			"versionNonce": 1404515990,
+			"version": 521,
+			"versionNonce": 1101237078,
 			"isDeleted": false,
 			"id": "ZQFLRt-RyrujmhrONlhrM",
 			"fillStyle": "hachure",
@@ -295,7 +295,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": 167.99769989067937,
 			"y": -63.46649888986255,
-			"strokeColor": "#000000",
+			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
 			"width": 51,
 			"height": 0,
@@ -305,7 +305,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -326,8 +326,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "arrow",
-			"version": 436,
-			"versionNonce": 1332585930,
+			"version": 439,
+			"versionNonce": 1152253194,
 			"isDeleted": false,
 			"id": "L4p-HtfWPc2wQ89PfN5UV",
 			"fillStyle": "hachure",
@@ -348,7 +348,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -369,8 +369,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "arrow",
-			"version": 923,
-			"versionNonce": 1677718486,
+			"version": 926,
+			"versionNonce": 587444374,
 			"isDeleted": false,
 			"id": "G7tFZPd8QhFdBH2YAfh0u",
 			"fillStyle": "hachure",
@@ -391,7 +391,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -412,8 +412,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "ellipse",
-			"version": 870,
-			"versionNonce": 1393187978,
+			"version": 873,
+			"versionNonce": 1153289162,
 			"isDeleted": false,
 			"id": "cCtjxR7Z7ETdZVfmyfgBt",
 			"fillStyle": "hachure",
@@ -439,14 +439,14 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 					"type": "arrow"
 				}
 			],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 786,
-			"versionNonce": 2126448918,
+			"version": 792,
+			"versionNonce": 2126373322,
 			"isDeleted": false,
 			"id": "PV2HqEKE2Nh1o70BweRka",
 			"fillStyle": "hachure",
@@ -456,8 +456,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"opacity": 100,
 			"angle": 0,
 			"x": 814.8105640025735,
-			"y": -143.74964278409658,
-			"strokeColor": "#000000",
+			"y": -144.6987832264528,
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 51,
 			"height": 0,
@@ -467,7 +467,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213920569,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -488,8 +488,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "line",
-			"version": 996,
-			"versionNonce": 392313674,
+			"version": 1001,
+			"versionNonce": 1038186454,
 			"isDeleted": false,
 			"id": "-t8VaP-pe9jkuRc3rWNfw",
 			"fillStyle": "hachure",
@@ -500,7 +500,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": 840.0414417640632,
 			"y": -168.3972488490225,
-			"strokeColor": "#000000",
+			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 0.2162793660733655,
 			"height": 49.20570115391604,
@@ -510,7 +510,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213920569,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -531,8 +531,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "arrow",
-			"version": 947,
-			"versionNonce": 862549590,
+			"version": 950,
+			"versionNonce": 750060310,
 			"isDeleted": false,
 			"id": "eE5YRyil2tOgy1CLvP0ci",
 			"fillStyle": "hachure",
@@ -553,7 +553,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -578,8 +578,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "arrow",
-			"version": 462,
-			"versionNonce": 718291466,
+			"version": 465,
+			"versionNonce": 1734402378,
 			"isDeleted": false,
 			"id": "AQWW5dhSfJtqxawIq4_g2",
 			"fillStyle": "hachure",
@@ -600,7 +600,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -625,8 +625,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "ellipse",
-			"version": 784,
-			"versionNonce": 1523858326,
+			"version": 787,
+			"versionNonce": 1687171158,
 			"isDeleted": false,
 			"id": "rt4GOSaWsoyZosYXuElCh",
 			"fillStyle": "hachure",
@@ -652,14 +652,14 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 					"type": "arrow"
 				}
 			],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 700,
-			"versionNonce": 407859402,
+			"version": 704,
+			"versionNonce": 701500694,
 			"isDeleted": false,
 			"id": "TUfJZxDWXu4w6WqnFcXld",
 			"fillStyle": "hachure",
@@ -670,7 +670,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": 623.7655337100863,
 			"y": 23.888277017603855,
-			"strokeColor": "#000000",
+			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
 			"width": 51,
 			"height": 0,
@@ -680,7 +680,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213924430,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -701,8 +701,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "ellipse",
-			"version": 935,
-			"versionNonce": 1798592726,
+			"version": 938,
+			"versionNonce": 1796453782,
 			"isDeleted": false,
 			"id": "mOp8NVgAz1ejF2r0LIcvC",
 			"fillStyle": "hachure",
@@ -728,14 +728,14 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 					"type": "arrow"
 				}
 			],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 851,
-			"versionNonce": 1400555402,
+			"version": 855,
+			"versionNonce": 1572469334,
 			"isDeleted": false,
 			"id": "u8f-G-bsTTrXr-4Rj6tEu",
 			"fillStyle": "hachure",
@@ -746,7 +746,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"angle": 0,
 			"x": 817.2893422496694,
 			"y": 22.209663255609826,
-			"strokeColor": "#000000",
+			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
 			"width": 51,
 			"height": 0,
@@ -756,7 +756,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213927117,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -777,8 +777,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "arrow",
-			"version": 1077,
-			"versionNonce": 1277087254,
+			"version": 1080,
+			"versionNonce": 2037682902,
 			"isDeleted": false,
 			"id": "EHtseBGfW9KzZgv8mo9nS",
 			"fillStyle": "hachure",
@@ -799,7 +799,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -824,8 +824,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "arrow",
-			"version": 592,
-			"versionNonce": 613238346,
+			"version": 595,
+			"versionNonce": 1945316746,
 			"isDeleted": false,
 			"id": "XLuvlktr5AzFasjgwJRV2",
 			"fillStyle": "hachure",
@@ -846,7 +846,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -871,8 +871,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "text",
-			"version": 1192,
-			"versionNonce": 713595734,
+			"version": 1195,
+			"versionNonce": 1514653718,
 			"isDeleted": false,
 			"id": "QS6bLTRx",
 			"fillStyle": "hachure",
@@ -891,7 +891,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683213822573,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -907,8 +907,8 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		},
 		{
 			"type": "text",
-			"version": 1372,
-			"versionNonce": 1474696022,
+			"version": 1375,
+			"versionNonce": 621341770,
 			"isDeleted": false,
 			"id": "4UNpclKt",
 			"fillStyle": "hachure",
@@ -927,7 +927,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683213867881,
+			"updated": 1683213915120,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -940,12 +940,40 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"originalText": "Gleichnamige Ladungen stoßen einander ab",
 			"lineHeight": 1.25,
 			"baseline": 25
+		},
+		{
+			"id": "Q_6st-_073mR-V7SHDhWL",
+			"type": "ellipse",
+			"x": 833.3578813952979,
+			"y": -151.9547087761651,
+			"width": 23.728511058905838,
+			"height": 26.575932385974568,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1829004118,
+			"version": 30,
+			"versionNonce": 1997464534,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1683213912615,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#c92a2a",
+		"currentItemStrokeColor": "#1864ab",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
@@ -957,10 +985,10 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 481.4801293935748,
-		"scrollY": 656.262780934303,
+		"scrollX": 647.2968895256153,
+		"scrollY": 738.646976067466,
 		"zoom": {
-			"value": 0.9548852013221512
+			"value": 0.6809153387574997
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
