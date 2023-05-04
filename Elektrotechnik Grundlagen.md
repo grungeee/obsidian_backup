@@ -9,4 +9,4 @@
 - Der **Atomkern** besteht aus *Protonen* und *Neutronen*.
 - Die verschedenen Grundstoffe (chemischen Elemente) **unterscheden** sich durch die *Anzahl* der *Protonen* und *Neutronen* im *Atomkern*.
 - Die **Anzahl der Elektronen**, die um den **Atomkern** kreisen, ist *normalerweise glecih groß* wie die Anzahl der *Protonen* im Atomkern.
-- Das Wasserstoffatom is
+- Das Wasserstoffatom ist das kleinste Atom. 
