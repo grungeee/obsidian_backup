@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrotechnik Grundlagen.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrotechnik Grundlagen.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrotechnik Grundlagen.md"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
               }
             }
           }
@@ -163,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6278b981f6c603db",
+  "active": "a1f4b4516b5e3520",
   "lastOpenFiles": [
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Elektrotechnik Grundlagen.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "WiFi-Share/Elektrotechnik Grundlagen",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
