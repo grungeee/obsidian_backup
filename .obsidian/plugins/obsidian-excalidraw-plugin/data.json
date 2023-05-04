@@ -1,6 +1,6 @@
 {
   "folder": "Excalidraw",
-  "embedUseExcalidrawFolder": false,
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
@@ -14,7 +14,7 @@
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
-  "displayExportedImageIfAvailable": false,
+  "displayExportedImageIfAvailable": true,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "dynamicStyling": "colorful",
@@ -54,7 +54,7 @@
   "autoexportPNG": false,
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
-  "embedType": "excalidraw",
+  "embedType": "SVG",
   "embedWikiLink": true,
   "syncExcalidraw": true,
   "experimentalFileType": false,
@@ -69,7 +69,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.25",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
     "libraryItems": [
       {
         "status": "published",
@@ -8434,7 +8434,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "1.8.25",
+  "previousRelease": "1.8.26",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",

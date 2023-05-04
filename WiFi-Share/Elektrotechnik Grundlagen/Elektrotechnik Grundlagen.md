@@ -1,7 +1,6 @@
 ## Elektrische Ladungsträger
 ### Der Stromkreis
-![[Stromkreis_BSP.excalidraw.svg]]
-
+![[Stromkreis_BSP.excalidraw.svg]] 
 
 - Damit elektrische **Gärente funktionieren** können, müssen sie von elektrischem *Strom durchflossen* werden.
 - Batterie **(-)** → Leitung → Lampe → Leitung → Batterie **(+)** 
@@ -28,7 +27,7 @@
  #### Kraftwerikung auf elektrische Ladungen:
  - **Ungleichnamige** Ladungen *ziehen* einenader an. 
  - **Gleichnamige** Ladungen *stoßen* einander ab.
-![[Kraftwerikung auf elektrische Ladungen.excalidraw.svg]]
+![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
 
 ### Elekrische Leiter und Nichtleiter
 - #### Leiter
