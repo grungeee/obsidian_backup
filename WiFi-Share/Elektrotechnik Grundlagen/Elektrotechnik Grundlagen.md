@@ -40,4 +40,4 @@
 	- 
 	  
 ### Das geladene Atom (Ion)
-- Ionen sind eleketrisch geleaden Atome. Sie entstehen, wenn Atome in der Elektronenjülle zu viele oder zu wenige Elekttronen haben. Ionen entstehen in Flüssigkeiten udn Gasen und ermöglischen deort einen Stromfluss.
+- **Ionen** sind eleketrisch geleaden Atome. Sie entstehen, wenn Atome in der Elektronenjülle zu viele oder zu wenige Elekttronen haben. Ionen entstehen in Flüssigkeiten udn Gasen und ermöglischen deort einen Stromfluss.
