@@ -38,3 +38,5 @@
 	- Nichtleter sind Kunststoffe, Keramik, Öl, Luft, trockenes Holz.
 - #### Halbleiter
 	- 
+	  
+	  
