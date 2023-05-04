@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6278b981f6c603db",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "a1f4b4516b5e3520",
             "type": "leaf",
             "state": {
@@ -26,8 +16,27 @@
                 "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "5afbed9f8441c1da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e266accb2be787b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6278b981f6c603db",
+  "active": "2e266accb2be787b",
   "lastOpenFiles": [
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
+    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
@@ -169,8 +180,6 @@
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Excalidraw/n.md",
-    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "WiFi-Share/Elektrotechnik Grundlagen",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",

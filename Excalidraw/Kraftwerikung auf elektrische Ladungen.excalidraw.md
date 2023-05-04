@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Ungleichnamige Ladungen ziehen einander an. ^QS6bLTRx
+
 %%
 # Drawing
 ```json
@@ -866,6 +868,42 @@ tags: [excalidraw]
 			]
 		},
 		{
+			"id": "QS6bLTRx",
+			"type": "text",
+			"x": -315.1795251062906,
+			"y": -344.2579361415045,
+			"width": 596.20361328125,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1161224598,
+			"version": 341,
+			"versionNonce": 1326978006,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683213717661,
+			"link": null,
+			"locked": false,
+			"text": "Ungleichnamige Ladungen ziehen einander an.",
+			"rawText": "Ungleichnamige Ladungen ziehen einander an.",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "Ungleichnamige Ladungen ziehen einander an.",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "line",
 			"version": 720,
 			"versionNonce": 870619478,
@@ -999,7 +1037,7 @@ tags: [excalidraw]
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
