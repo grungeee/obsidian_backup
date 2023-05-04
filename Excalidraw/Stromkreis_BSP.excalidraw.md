@@ -20,7 +20,7 @@ Glühlampe ^IyWxvFII
 
 - ^oiMebROx
 
-Legende: ^BSMuiuQY
+Schaltzeichen: ^BSMuiuQY
 
 %%
 # Drawing
@@ -1328,9 +1328,9 @@ Legende: ^BSMuiuQY
 		{
 			"id": "BSMuiuQY",
 			"type": "text",
-			"x": -404.60161844157193,
-			"y": -116.15723155479097,
-			"width": 80.37992858886719,
+			"x": -417.148242858171,
+			"y": -117.45515821857708,
+			"width": 133.77987670898438,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#5f3dc4",
@@ -1343,22 +1343,22 @@ Legende: ^BSMuiuQY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 334474058,
-			"version": 47,
-			"versionNonce": 1135075082,
+			"version": 168,
+			"versionNonce": 1115679114,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683210528464,
+			"updated": 1683210555078,
 			"link": null,
 			"locked": false,
-			"text": "Legende:",
-			"rawText": "Legende:",
+			"text": "Schaltzeichen:",
+			"rawText": "Schaltzeichen:",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Legende:",
+			"originalText": "Schaltzeichen:",
 			"lineHeight": 1.25
 		}
 	],
