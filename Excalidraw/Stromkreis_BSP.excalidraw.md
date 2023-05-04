@@ -12,6 +12,8 @@ tags: [excalidraw]
 
 - ^pKAWr6yA
 
+Battarie ^BLGxKis0
+
 %%
 # Drawing
 ```json
@@ -787,6 +789,42 @@ tags: [excalidraw]
 			"endArrowhead": null
 		},
 		{
+			"id": "BLGxKis0",
+			"type": "text",
+			"x": -298.6509380542393,
+			"y": -20.822682810465523,
+			"width": 87.73992919921875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2022337994,
+			"version": 9,
+			"versionNonce": 147339466,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683210331090,
+			"link": null,
+			"locked": false,
+			"text": "Battarie",
+			"rawText": "Battarie",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Battarie",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "UQMoRaTW",
 			"type": "text",
 			"x": -11.637661803855678,
@@ -838,10 +876,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 323.98815022086603,
-		"scrollY": 142.43670267430997,
+		"scrollX": 412.72636418567504,
+		"scrollY": 168.9753281378256,
 		"zoom": {
-			"value": 4.072348362400473
+			"value": 3.3311293491217873
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
