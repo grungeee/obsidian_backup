@@ -1,4 +1,4 @@
 ### Der Stromkreis
 ![[Stromkreis_BSP.excalidraw]]
 
-- Damit Elektrische Gärente funktionieren können
+- Damit Elektrische Gärente funktionieren können, müss
