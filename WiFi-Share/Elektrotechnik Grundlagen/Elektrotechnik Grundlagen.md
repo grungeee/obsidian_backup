@@ -1,7 +1,7 @@
 ## Elektrische Ladungsträger
 ### Der Stromkreis
-![[Stromkreis_BSP.excalidraw.png]] 
-
+![[Stromkreis_BSP.excalidraw.svg]]
+%%[[Stromkreis_BSP.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Stromkreis_BSP.excalidraw.dark.svg|dark exported image]]%%
 - Damit elektrische **Gärente funktionieren** können, müssen sie von elektrischem *Strom durchflossen* werden.
 - Batterie **(-)** → Leitung → Lampe → Leitung → Batterie **(+)** 
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
@@ -27,8 +27,8 @@
  #### Kraftwerikung auf elektrische Ladungen:
  - **Ungleichnamige** Ladungen *ziehen* einenader an. 
  - **Gleichnamige** Ladungen *stoßen* einander ab.
-![[Kraftwerikung auf elektrische Ladungen.excalidraw]]
-
+![[Kraftwerikung auf elektrische Ladungen.excalidraw.svg]]
+%%[[Kraftwerikung auf elektrische Ladungen.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Kraftwerikung auf elektrische Ladungen.excalidraw.dark.svg|dark exported image]]%%
 ### Elekrische Leiter und Nichtleiter
 - #### Leiter
 	- Bei manchen Stoffen, können sich einige Elektronen *frei* zwischen Atomen bwegen, diese Elektronen, die an keinen Atomkern gebunden sind, nennt man **freie Elektronen**.

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4df7bb5439e196",
+        "id": "8166eab9c29e826f",
         "type": "tabs",
         "children": [
           {
-            "id": "0e6960316b37e9fe",
+            "id": "d3ec5e1d2308de73",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -159,11 +161,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6960316b37e9fe",
+  "active": "d3ec5e1d2308de73",
   "lastOpenFiles": [
-    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
-    "Stromkreis_BSP.excalidraw.png.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Stromkreis_BSP.excalidraw.png.md",
+    "🏡 Home.md",
+    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
@@ -177,17 +182,14 @@
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Excalidraw/Drawing 2023-05-04 23.24.40.excalidraw.md",
     "Excalidraw/n.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Fertigungsverfahen.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
-    "🏡 Home.md",
     "publish.css",
     "theme.css",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
-    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "Wifi-share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen",
