@@ -39,7 +39,7 @@
 	- Nichtleter sind Kunststoffe, Keramik, Öl, Luft, trockenes Holz.
 - #### Halbleiter
 	- Halbleiter sind Materialien, die zwischen Leitern und Nichtleitern liegen. Sie können Strom leiten, aber nicht so gut wie Metalle und können so hergestellt werden, dass sie nur in einer Richtung leiten. Sie sind wichtig in der Elektronikindustrie und können durch Dotierung an spezifische Anwendungen angepasst werden.
->[Bei allen gilt je größer die Entfernung zwischen Valenz und Leitungsband istum so weniger (bis zu gerkeinen) Strom kann geleitet werden.
+>[Leiter, Halbleiter, Nichtleiter | Bei allen gilt je größer die Entfernung zwischen Valenz und Leitungsband istum so weniger (bis zu gerkeinen) Strom kann geleitet werden.]
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
 
