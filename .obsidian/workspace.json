@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
               }
             }
           }
@@ -172,9 +172,10 @@
   },
   "active": "9d06406ed97d4b99",
   "lastOpenFiles": [
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "WiFi-Share/Schweißtechnik/Anki Deck test.md",
     "publish.css",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
     "WiFi-Share/Elektrotechnik Grundlagen",
     "Excalidraw/Stromkreis_BSP.excalidraw.svg",
@@ -207,7 +208,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
     "misc/ChatGPT_logo_black.svg",
     "misc/ChatGPT_logo_white.svg",
     "WiFi-Share/Werkstofftechnik/Stack",
