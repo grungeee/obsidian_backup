@@ -44,3 +44,4 @@
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
 ### Leitwert-G 
 - Der Leitwert (G) ist der Kehrwert (Reziprokwert) des Widerstands. Die Einheit des Leitwerts ist das Siemens (S).
+###
