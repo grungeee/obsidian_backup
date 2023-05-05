@@ -38,7 +38,7 @@
 	- **Nichtleiter** oder **Isolatoren** sind Werkstoffe, in denen nur *sehr wenige freie Elektroenen* vorhanden sind. Man **benützt** sie, um elektrische *Leitungen* voneinander zu *trennen* oder *vor Berührung* zu *schützen*.
 	- Nichtleter sind Kunststoffe, Keramik, Öl, Luft, trockenes Holz.
 - #### Halbleiter
-	- Ein Halbleiter ist ein Material, das Strom
+	- Ein Halbleiter ist ein Material, das Strom leiten kann, aber nicht so gut wie ein
 	  
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
