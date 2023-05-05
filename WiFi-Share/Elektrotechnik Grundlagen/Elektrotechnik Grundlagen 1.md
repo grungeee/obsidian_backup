@@ -42,4 +42,5 @@
 >[[Leiter, Halbleiter, Nichtleiter| Bei allen gilt je größer die Entfernung zwischen Valenz und Leitungsband istum so weniger (bis zu gerkeinen) Strom kann geleitet werden.]]
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
-Leitwert-G Der LeitwertG ist der Kehrwert(Reziprokwert) des Widerstands. Die Einheit des Leitwerts ist das Siemens(S).
+Leitwert-G 
+- Der Leitwert (G) ist der Kehrwert (Reziprokwert) des Widerstands. Die Einheit des Leitwerts ist das Siemens (S).
