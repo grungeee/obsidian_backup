@@ -39,6 +39,7 @@
 	- Nichtleter sind Kunststoffe, Keramik, Öl, Luft, trockenes Holz.
 - #### Halbleiter
 	- Ein Halbleiter ist ein Material, das Strom leiten kann, aber nicht so gut wie ein Metall.
+	- 
 	  
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
