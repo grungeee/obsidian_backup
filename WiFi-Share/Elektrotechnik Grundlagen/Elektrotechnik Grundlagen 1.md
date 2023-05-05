@@ -39,7 +39,7 @@
 	- Nichtleter sind Kunststoffe, Keramik, Öl, Luft, trockenes Holz.
 - #### Halbleiter
 	- Ein Halbleiter ist ein Material, das Strom leiten kann, aber nicht so gut wie ein Metall.
-	- Ein Halbleiter besteht aus Atomen, die zu viele oder zu wenig Elektronen haben. Dadurch koennen Stromflüsse erzergt werden.
+	- Ein Halbleiter besteht aus Atomen, die zu viele oder zu wenig Elektronen haben. Dadurch können Stromflüsse erzergt werden.
 	  
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
