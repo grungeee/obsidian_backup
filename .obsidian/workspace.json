@@ -1,35 +1,40 @@
 {
   "main": {
-    "id": "f7a42a216ed5c3d4",
+    "id": "49e15bd0cb6bbe38",
     "type": "split",
     "children": [
       {
-        "id": "8166eab9c29e826f",
+        "id": "bea695d43d11d3f6",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ec5e1d2308de73",
+            "id": "9d06406ed97d4b99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8c13e5c6dff4ae3e",
+    "id": "df203c93034edbe0",
     "type": "split",
     "children": [
       {
-        "id": "68b169dd7f441838",
+        "id": "074d889b9378c10a",
         "type": "tabs",
         "children": [
           {
-            "id": "60e39377e75456ec",
+            "id": "95810e679cb66366",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +44,7 @@
             }
           },
           {
-            "id": "269f268381c3498f",
+            "id": "77781cbd830c241f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +59,7 @@
             }
           },
           {
-            "id": "be6dac187ed4b866",
+            "id": "668f3b5ce6454f62",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,7 +67,7 @@
             }
           },
           {
-            "id": "33ce6345e9108584",
+            "id": "4a85ba5b718c9b11",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,23 +81,24 @@
     "width": 300
   },
   "right": {
-    "id": "7fd816de0bf2ebab",
+    "id": "984f45fc72837dec",
     "type": "split",
     "children": [
       {
-        "id": "fd75f4c411502f11",
+        "id": "2a7d923fb5c732e8",
         "type": "tabs",
         "children": [
           {
-            "id": "110fff707da06183",
+            "id": "aa0fc47a56523d02",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -100,18 +106,27 @@
             }
           },
           {
-            "id": "ea6697e82ce4a5cf",
+            "id": "4aae2f4a15c21b1c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Untitled.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "43d783699a9eb3cf",
+            "id": "fcb8f6d58c3f3b56",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bb80f4696b0797e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,25 +137,26 @@
             }
           },
           {
-            "id": "4d049259b7458cb8",
+            "id": "55a53e52faeb7bb3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Untitled.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 294.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-stille:Toggle Stille": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
@@ -149,57 +165,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60e39377e75456ec",
+  "active": "9d06406ed97d4b99",
   "lastOpenFiles": [
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Untitled.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "Stromkreis_BSP.excalidraw.png.md",
-    "🏡 Home.md",
-    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
+    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
+    "publish.css",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
+    "WiFi-Share/Elektrotechnik Grundlagen",
     "Excalidraw/Stromkreis_BSP.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.24.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-04 23.24.40.excalidraw.md",
-    "Excalidraw/n.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
-    "Fertigungsverfahen.md",
-    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
-    "publish.css",
-    "theme.css",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/WiFi-Share",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen",
-    "Wifi-share/WiFi-Share",
-    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
-    "WiFi-Share/Elektrotechnik Grundlagen",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.svg",
+    "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
+    "WiFi-Share/Technisches Zeichenen/📁 Images/Linien Arten und Schriftblock.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Künstiche Nichtmetallwerkstoffe.md",
+    "Excalidraw/Drawing 2023-04-20 20.44.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
+    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
+    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Hydraulische Presse.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Herstellung der Werkstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
+    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md",
     "misc/ChatGPT_logo_black.svg",
     "misc/ChatGPT_logo_white.svg",
-    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten JIC.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
-    "misc",
+    "WiFi-Share/Werkstofftechnik/Stack",
+    "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
+    "WiFi-Share/WiFi-Share/Technisches Zeichenen",
+    "WiFi-Share/WiFi-Share",
+    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images",
+    "Wifi-share/WiFi-Share/Technisches Zeichenen",
     "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images"
+    "Fragen.canvas"
   ]
 }
