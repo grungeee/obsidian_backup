@@ -43,4 +43,3 @@
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
 
-Stromstarke = 1 v = 1...5mm/s 1A = 6,25.108 Elektronen durch einen Leiterquerschnitt pro Sekunde. 3 [4090e 1kA = 1.1000A = 1000=10A 1mA = 1:1000A = 0.001A= 10A 14A= 1:1000000A= 0.000001A= 18°A
