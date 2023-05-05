@@ -44,4 +44,5 @@
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
 ### Leitwert-G 
 - Der Leitwert (G) ist der Kehrwert (Reziprokwert) des Widerstands. Die Einheit des Leitwerts ist das Siemens (S).
-### Ohmsches Gese
+### Ohmsches Gesetz
+- Die Stronstärke ist in einen Stromkreis umso größer, je größer die Spannung ist und je kleiner der Widerstand ist.
