@@ -67,7 +67,7 @@ Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 
 ### Elektrischer Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt.
-	-  Mit dem Schleifkont
+	-  Mit dem Schleifkontakt wierd am Widerstansdswert 
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
 
 ## Leitwert-G 
