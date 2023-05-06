@@ -52,9 +52,7 @@ Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Vorau
 >**Elektrischer Strom** ist ein *Fließen von Elektronen* in einem *Leiter*.
 
   
-
-
-
+---
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I*. itc
 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*.
