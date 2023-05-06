@@ -73,7 +73,7 @@ Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 >Das **Formelzeichen** für den Widerstand ist *R* 
 >Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
 
-## Leitwert G 
+## Leitwert
 Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist *das Siemens (S)*.
 
  >Der **Widerstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
