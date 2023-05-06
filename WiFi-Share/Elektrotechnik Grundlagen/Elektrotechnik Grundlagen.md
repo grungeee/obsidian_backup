@@ -66,8 +66,7 @@ Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 **I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
 
 ### Elektrischer Widerstand
-- **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt.
-	-  Mit dem Schleifkontakt wird am Widerstansdswert der gewünschte Widerstand abgegriffen. Eienen Stellwiderstand mit drei Anschlüssen (Widerstandsenden und Schleifer) nennt man Potentiometer.
+- **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
 
 ## Leitwert-G 
