@@ -48,11 +48,11 @@
 
 Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Voraussetzung* für das *Fließen* des elektrischen *Stromes*. Wenn sich diese *freien Elektronen* gemeinsam in die *gleiche Richtung bewegen*, sagt man, es **fließt ein elektrischer Strom**
 
-![[El Strom ist ein Fließen von Elektornen.excalidraw.svg]]
 >**Elektrischer Strom** ist ein *Fließen von Elektronen* in einem *Leiter*.
 
+![[El Strom ist ein Fließen von Elektornen.excalidraw.svg]]
   
----
+-- -
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I*. itc
 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*.
