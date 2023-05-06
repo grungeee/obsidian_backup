@@ -59,3 +59,8 @@ Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Vorau
 
 Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 **I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
+
+### Leitwert-G 
+- Der Leitwert (G) ist der Kehrwert (Reziprokwert) des Widerstands. Die Einheit des Leitwerts ist das Siemens (S).
+### Ohmsches Gesetz
+- Die Stronstärke ist in einen Stromkreis umso größer, je größer die Spannung ist und je kleiner der Widerstand ist.
