@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Leiter, Halbleiter, Nichtleiter.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Leiter, Halbleiter, Nichtleiter.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Leiter, Halbleiter, Nichtleiter.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Leiter, Halbleiter, Nichtleiter.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
               }
             }
           }
@@ -185,9 +185,10 @@
   },
   "active": "582f7eaee54211dd",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/leiter,halbleiter,nichtleiter.png.png",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Leiter, Halbleiter, Nichtleiter.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/leiter,halbleiter,nichtleiter.png",
+    "leiter,halbleiter,nichtleiter.png.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Untitled.md",
     "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
@@ -223,7 +224,6 @@
     "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Hydraulische Presse.md",
     "WiFi-Share/Werkstofftechnik/Stack",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen",
