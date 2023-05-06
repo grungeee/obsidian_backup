@@ -45,3 +45,24 @@
 
 
 ## Elektrischer Strom
+Diefreien Elektronen, die in einem Leiter vorhanden sind, bilden die Voraussetzung für das Fließen des elektrischen Stromes. Wenn sich diese freien Elektronen gemeinsam in die gleiche Richtung bewegen, sagt man, esfließt ein elektrischer Strom
+
+Elektrischer 
+
+  
+
+Strom ist ein Fließen von Elektronen in einem Leiter.
+
+  
+
+  
+
+  
+
+Die Maßeinheit für die Stromstärke ist das Ampere.
+
+>Das Formelzeichen für die elektrische Stromstärke ist I. itc
+
+>Die Einheit der elektrischen Stromstärke ist das Ampere (A).
+
+I = 2 A heißt: Die Stromstärke beträgt 2 Ampereh thx
