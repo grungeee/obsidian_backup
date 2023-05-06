@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Diode.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Diode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Diode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "Diode.md"
               }
             }
           }
@@ -183,8 +183,9 @@
   },
   "active": "74827ddff311807b",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Diode.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "Excalidraw/Schriftblockbreite.excalidraw.md",
     "Excalidraw/das magische Dreieck.excalidraw.md",
     "Excalidraw/Schriftblockbreite.excalidraw.svg",
