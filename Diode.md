@@ -1,4 +1,4 @@
-Dioden sind Halbleiterbauelemente. Eine Diode besteht aus einem Halbleitermaterial, das typischerweise aus Silizium oder Germanium hergestellt wird. Halbleiter haben die Eigenschaft, dass sie bei Raumtemperatur ein begrenztes Maß an Leitfähigkeit aufweisen, das durch die Anwesenheit von freien Elektronen und Löchern im Material verursacht wird.
+Dioden sind **Halbleiterbauelemente**. Eine Diode besteht aus einem Halbleitermaterial, das typischerweise aus *Silizium* oder *Germanium* hergestellt wird. Halbleiter haben die Eigenschaft, dass sie bei Raumtemperatur ein begrenztes Maß an Leitfähigkeit aufweisen, das durch die Anwesenheit von freien Elektronen und Löchern im Material verursacht wird.
 
 In einer Diode werden diese Halbleitermaterialien in einer Weise zusammengefügt, die es ermöglicht, Strom nur in einer Richtung durchzulassen. Diese Richtung ist von der Polarität der Diode abhängig und wird als "Vorwärtsrichtung" bezeichnet. In der "Rückwärtsrichtung" wird der Stromfluss blockiert.
 
