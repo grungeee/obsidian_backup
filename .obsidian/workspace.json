@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
               }
             }
           }
@@ -183,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95810e679cb66366",
+  "active": "493baace7315e63a",
   "lastOpenFiles": [
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Untitled.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack",
@@ -196,7 +197,6 @@
     "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Dotierung.md",
     "Excalidraw/Schriftblockbreite.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
