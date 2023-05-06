@@ -68,4 +68,4 @@ Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **E
  >Der **Wiederstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
  >Der **Leitwert** gibt an, wie gut elektrischer *Strom geleitet* wird.
 ### Ohmsches Gesetz
-Die **Stromstärke** ist in einen Stromkreis umso größer, je größer die Spannung ist und je kleiner der Widerstand ist.
+Die **Stromstärke** ist in einen Stromkreis umso größer, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
