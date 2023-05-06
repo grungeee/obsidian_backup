@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "39a82ce2a3a546d2",
+            "id": "a9eed026a325ce1c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 22.01.04.excalidraw.md"
+                "file": "Excalidraw/das magische Dreieck.excalidraw.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 22.01.04.excalidraw.md",
+                "file": "Excalidraw/das magische Dreieck.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 22.01.04.excalidraw.md",
+                "file": "Excalidraw/das magische Dreieck.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 22.01.04.excalidraw.md"
+                "file": "Excalidraw/das magische Dreieck.excalidraw.md"
               }
             }
           }
@@ -193,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39a82ce2a3a546d2",
+  "active": "a9eed026a325ce1c",
   "lastOpenFiles": [
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "Excalidraw/Drawing 2023-05-06 22.01.04.excalidraw.md",
+    "Excalidraw/das magische Dreieck.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Potentiometer.md",
     "Untitled.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
