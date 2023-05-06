@@ -45,8 +45,6 @@
 
 
 
-
-
 ### Leitwert-G 
 - Der Leitwert (G) ist der Kehrwert (Reziprokwert) des Widerstands. Die Einheit des Leitwerts ist das Siemens (S).
 ### Ohmsches Gesetz
