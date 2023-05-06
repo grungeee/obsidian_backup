@@ -53,10 +53,11 @@ Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Vorau
 
 ![[El Strom ist ein Fließen von Elektornen.excalidraw.svg]]
   
--- -
->Das **Formelzeichen** für die elektrische Stromstärke ist *I*. itc
+### Die Stromstärke
 
+>Das **Formelzeichen** für die elektrische Stromstärke ist *I*. itc
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*.
+
 
 Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 **I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
