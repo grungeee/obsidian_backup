@@ -20,6 +20,8 @@ A ^xx9kMl7P
 
 Ω ^U5lBRpzS
 
+U = R  ^zpBoaQp8
+
 %%
 # Drawing
 ```json
@@ -424,6 +426,42 @@ A ^xx9kMl7P
 			"originalText": "Ω",
 			"lineHeight": 1.25,
 			"baseline": 14
+		},
+		{
+			"id": "zpBoaQp8",
+			"type": "text",
+			"x": -95.14298436341767,
+			"y": -68.1055003919185,
+			"width": 98.25196838378906,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#5f3dc4",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 676432778,
+			"version": 16,
+			"versionNonce": 1169727190,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683403556933,
+			"link": null,
+			"locked": false,
+			"text": "U = R ",
+			"rawText": "U = R ",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 24,
+			"containerId": null,
+			"originalText": "U = R ",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -437,14 +475,14 @@ A ^xx9kMl7P
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 16,
+		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1516.8293532868547,
-		"scrollY": 608.7957664650299,
+		"scrollX": 642.4815825524247,
+		"scrollY": 259.30305334174255,
 		"zoom": {
-			"value": 0.9235055100809966
+			"value": 1.6553167843603829
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
