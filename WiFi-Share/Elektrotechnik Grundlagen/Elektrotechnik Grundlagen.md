@@ -63,7 +63,8 @@ Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 **I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
 
 ### Leitwert-G 
-- Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstands*. Die Einheit des Leitwerts ist das Siemens (S).
+- Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die Einheit des Leitwerts ist das Siemens (S).
  >Der **Wiederstand** gibt an, wie sehr ein elektrischer Stromfluss gehemmt wird.
+ >Der **Leitwert** gibt an, wie gut ein elektrischer Stromfluss gehemmt wird.
 ### Ohmsches Gesetz
 - Die Stronstärke ist in einen Stromkreis umso größer, je größer die Spannung ist und je kleiner der Widerstand ist.
