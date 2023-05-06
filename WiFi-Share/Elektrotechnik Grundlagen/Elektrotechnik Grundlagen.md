@@ -42,7 +42,7 @@
  
 >Bei allen gilt je größer die Entfernung zwischen Valenz und Leitungsband ist, um so weniger (bis zu gerkeinen) Strom kann geleitet werden.
 
-![[leiter,halbleiter,nichtleiter.png |50%}]]
+![[leiter,halbleiter,nichtleiter.png| 100}]]
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
 
