@@ -3807,7 +3807,7 @@
             "containerId": "nk-wNA6IlQI4ejGMqrukk",
             "originalText": "Relay",
             "lineHeight": 1.15,
-            "baseline": 18
+            "baseline": 19
           },
           {
             "type": "line",
@@ -4735,7 +4735,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "created": 1647613198483,
@@ -6063,7 +6063,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -6103,7 +6103,7 @@
             "containerId": null,
             "originalText": "-",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "created": 1647612372037,
@@ -7772,7 +7772,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -7812,7 +7812,7 @@
             "containerId": null,
             "originalText": "-",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -8258,7 +8258,7 @@
             "containerId": null,
             "originalText": "-",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "ellipse",
@@ -8329,7 +8329,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
