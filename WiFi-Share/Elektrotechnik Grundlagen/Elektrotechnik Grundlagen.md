@@ -63,10 +63,6 @@ Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch de
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I* 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
-
-Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
-**I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
-
 ### Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
