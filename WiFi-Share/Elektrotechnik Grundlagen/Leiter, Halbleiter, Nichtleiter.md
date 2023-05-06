@@ -1,1 +1,1 @@
-![[leiter,halbleiter,nichtleiter.png.png]]
+![[leiter,halbleiter,nichtleiter.png]]
