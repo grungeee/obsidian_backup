@@ -20,7 +20,7 @@ A ^xx9kMl7P
 
 Ω ^U5lBRpzS
 
-U = R  ^zpBoaQp8
+U = R × I  ^zpBoaQp8
 
 %%
 # Drawing
@@ -430,9 +430,9 @@ U = R  ^zpBoaQp8
 		{
 			"id": "zpBoaQp8",
 			"type": "text",
-			"x": -95.14298436341767,
+			"x": -93.81942020370514,
 			"y": -68.1055003919185,
-			"width": 98.25196838378906,
+			"width": 153.9999542236328,
 			"height": 35,
 			"angle": 0,
 			"strokeColor": "#5f3dc4",
@@ -445,22 +445,22 @@ U = R  ^zpBoaQp8
 			"groupIds": [],
 			"roundness": null,
 			"seed": 676432778,
-			"version": 16,
-			"versionNonce": 1169727190,
+			"version": 50,
+			"versionNonce": 1747758358,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683403556933,
+			"updated": 1683403676415,
 			"link": null,
 			"locked": false,
-			"text": "U = R ",
-			"rawText": "U = R ",
+			"text": "U = R × I ",
+			"rawText": "U = R × I ",
 			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 24,
 			"containerId": null,
-			"originalText": "U = R ",
+			"originalText": "U = R × I ",
 			"lineHeight": 1.25
 		}
 	],
