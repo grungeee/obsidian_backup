@@ -48,7 +48,7 @@
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. **Ionen entstehen** in *Flüssigkeiten und Gasen* und **ermöglichen** dort einen *Stromfluss*.
 
 
-## Elektrischer Strom
+## Strom
 
 Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Voraussetzung* für das *Fließen* des elektrischen *Stromes*. Wenn sich diese *freien Elektronen* gemeinsam in die *gleiche Richtung bewegen*, sagt man, es **fließt ein elektrischer Strom**
 
@@ -65,7 +65,7 @@ Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch de
 Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 **I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
 
-### Elektrischer Widerstand
+### Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
 
