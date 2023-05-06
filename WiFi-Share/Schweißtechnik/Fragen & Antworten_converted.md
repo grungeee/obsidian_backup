@@ -329,7 +329,7 @@ Was bedeutet die Bezeichnung des Stahls **S 235 JR** G2? #card
 s235JRG2 ist die Bezeichnung für einen Stahl mit einer
 **Mindeststreckgrenze** von **Re** von 235 N/mm²
 
-\#### Schweißpositionen
+#### Schweißpositionen
 
 - PA: Wannenposition
 
@@ -346,7 +346,7 @@ s235JRG2 ist die Bezeichnung für einen Stahl mit einer
 - PG: Fallposition
 
 
-Extra Fragen und Antworten
+### Extra Fragen und Antworten
 
 #### Die häufigsten Schweißfehler sind:
 

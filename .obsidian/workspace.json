@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
-                "mode": "preview",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md"
+                "file": "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md"
               }
             }
           }
@@ -172,9 +172,9 @@
   },
   "active": "114f18e923c1e108",
   "lastOpenFiles": [
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten JIC.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
     "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
     "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
