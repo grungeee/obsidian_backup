@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e3915122cac655b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac1e412979d7688",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/das magische Dreieck.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "62d507c62bc32e20",
             "type": "leaf",
             "state": {
@@ -115,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Potentiometer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Potentiometer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Potentiometer.md"
               }
             }
           }
@@ -192,11 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e3915122cac655b",
+  "active": "62d507c62bc32e20",
   "lastOpenFiles": [
     "Excalidraw/das magische Dreieck.excalidraw.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Potentiometer.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Potentiometer.md",
     "Excalidraw/das magische Dreieck.excalidraw.svg",
     "Untitled.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
