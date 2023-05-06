@@ -81,4 +81,4 @@ Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **E
  
 ### Ohmsches Gesetz
 Die **Stromstärke** ist in einen Stromkreis umso **größer**, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
-![[das magische Dreieck.excalidraw]]
+![[das magische Dreieck.excalidraw.svg]]
