@@ -64,7 +64,9 @@ Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch de
 
 Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 **I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
-###
+
+### Elektrischer Widerstand
+- Veränderbare widerstände (Stellwiderstände) werden als Dreh- oder
 
 ## Leitwert-G 
 Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist *das Siemens (S)*.
