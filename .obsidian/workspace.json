@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Obsidian Git.md",
+                "file": "🏡 Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Obsidian Git.md",
+                "file": "🏡 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Obsidian Git.md",
+                "file": "🏡 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Obsidian Git.md"
+                "file": "🏡 Home.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "3b9507bbedcfc0c8",
   "lastOpenFiles": [
+    "misc/Obsidian Git.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten JIC.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
     "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
@@ -211,7 +212,6 @@
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
-    "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen",
