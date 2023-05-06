@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ac224ba65460108",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -181,10 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ac224ba65460108",
+  "active": "b328639e69ad479b",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.svg",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Leiter, Halbleiter, Nichtleiter.md",
     "Untitled.md",
@@ -221,8 +211,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
     "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
     "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
-    "misc/ChatGPT_logo_black.svg",
     "WiFi-Share/Werkstofftechnik/Stack",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen",
