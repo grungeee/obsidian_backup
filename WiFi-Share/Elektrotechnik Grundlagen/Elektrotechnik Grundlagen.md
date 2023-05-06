@@ -56,7 +56,7 @@ Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Vorau
 
   
 
-Die Maßeinheit für die Stromstärke ist das Ampere.
+Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 
 >Das Formelzeichen für die elektrische Stromstärke ist I. itc
 
