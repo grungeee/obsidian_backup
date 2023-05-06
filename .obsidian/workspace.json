@@ -11,9 +11,11 @@
             "id": "b328639e69ad479b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -168,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95810e679cb66366",
+  "active": "b328639e69ad479b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.svg",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
     "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
     "Excalidraw/Schriftblockbreite.excalidraw.md",
