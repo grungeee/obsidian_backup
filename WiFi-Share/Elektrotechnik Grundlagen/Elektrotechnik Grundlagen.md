@@ -53,9 +53,6 @@ Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Vorau
 
   
 
-  
-
-  
 
 
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I*. itc
