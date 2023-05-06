@@ -1,6 +1,6 @@
 >Dotierung ist ein Prozess der gezielten Verunreinigung von Halbleitermaterialien durch bestimmte Fremdatome, um die elektrischen Eigenschaften des Materials zu ändern. 
 
-Hier sind die wichtigsten Punkte zur Dotierung:
+ ### Hier sind die wichtigsten Punkte zur Dotierung:
 - Dotierung wird typischerweise durch Einbringen von Fremdatomen in ein Halbleitermaterial durchgeführt, das typischerweise aus Silizium oder Germanium besteht.
 - Die eingeführten Fremdatome können eine unterschiedliche Anzahl von Valenzelektronen haben, was zu verschiedenen Arten von Dotierungen führt: n-Dotierung und p-Dotierung.
 - n-Dotierung wird durch Einbringen von Fremdatomen verursacht, die mehr Valenzelektronen haben als das Halbleitermaterial. Dadurch entstehen zusätzliche freie Elektronen im Material, was zu einer höheren Leitfähigkeit führt.
