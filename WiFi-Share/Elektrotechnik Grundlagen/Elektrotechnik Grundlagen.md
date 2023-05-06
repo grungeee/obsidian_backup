@@ -40,9 +40,10 @@
 - #### Halbleiter
 	- Halbleiter sind Materialien, die zwischen Leitern und Nichtleitern liegen. Sie können Strom leiten, aber nicht so gut wie Metalle und können so hergestellt werden, dass sie nur in einer Richtung leiten. Sie sind wichtig in der Elektronikindustrie und können durch Dotierung an spezifische Anwendungen angepasst werden.
  
->Bei allen gilt je größer die Entfernung zwischen Valenz und Leitungsband ist, um so weniger (bis zu gerkeinen) Strom kann geleitet werden.
+>Bei allen gilt je größer die Entfernung zwischen Valenz- und Leitungsband ist, um so weniger (bis zu gerkeinen) Strom kann geleitet werden.
 
 ![[leiter,halbleiter,nichtleiter.png| 400]]
+
 ### Das geladene Atom (Ion)
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. Ionen entstehen in Flüssigkeiten und Gasen und *ermöglichen* dort einen *Stromfluss*.
 
@@ -67,7 +68,7 @@ Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 ### Leitwert-G 
 Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist *das Siemens (S)*.
 
- >Der **Wiederstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
+ >Der **Widerstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
  >Der **Leitwert** gibt an, wie gut elektrischer *Strom geleitet* wird.
  
 ### Ohmsches Gesetz
