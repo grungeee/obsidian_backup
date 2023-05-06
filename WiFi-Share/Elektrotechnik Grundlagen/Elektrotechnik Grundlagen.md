@@ -58,8 +58,8 @@ Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Vorau
   
 ### Die Stromstärke
 Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch den *Leiterquerschnitt fließen*
->Das **Formelzeichen** für die elektrische Stromstärke ist *I*. itc
->Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*.
+>Das **Formelzeichen** für die elektrische Stromstärke ist *I* 
+>Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
 
 Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
@@ -68,6 +68,10 @@ Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 ### Elektrischer Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
+
+
+>Das **Formelzeichen** für den Widerstand ist *R* 
+>Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
 ## Leitwert-G 
 Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist *das Siemens (S)*.
