@@ -22,9 +22,9 @@ A ^xx9kMl7P
 
 U = R × I  ^zpBoaQp8
 
-U = R × I  ^OE14gIEN
+R = U ÷ I  ^OE14gIEN
 
-U = R × I  ^MrY9nABD
+I = U ÷ R ^MrY9nABD
 
 %%
 # Drawing
@@ -469,8 +469,8 @@ U = R × I  ^MrY9nABD
 		},
 		{
 			"type": "text",
-			"version": 364,
-			"versionNonce": 1325431254,
+			"version": 373,
+			"versionNonce": 1537099350,
 			"isDeleted": false,
 			"id": "OE14gIEN",
 			"fillStyle": "hachure",
@@ -483,30 +483,30 @@ U = R × I  ^MrY9nABD
 			"y": -48.745817577522445,
 			"strokeColor": "#5f3dc4",
 			"backgroundColor": "transparent",
-			"width": 197.99996948242188,
+			"width": 212.07595825195312,
 			"height": 45,
 			"seed": 676432778,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683403767216,
+			"updated": 1683403946407,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "U = R × I ",
-			"rawText": "U = R × I ",
+			"text": "R = U ÷ I ",
+			"rawText": "R = U ÷ I ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "U = R × I ",
+			"originalText": "R = U ÷ I ",
 			"lineHeight": 1.25,
 			"baseline": 32
 		},
 		{
 			"type": "text",
-			"version": 295,
-			"versionNonce": 62836502,
+			"version": 307,
+			"versionNonce": 993649290,
 			"isDeleted": false,
 			"id": "MrY9nABD",
 			"fillStyle": "hachure",
@@ -519,23 +519,23 @@ U = R × I  ^MrY9nABD
 			"y": 11.78878819784785,
 			"strokeColor": "#5f3dc4",
 			"backgroundColor": "transparent",
-			"width": 197.99996948242188,
+			"width": 194.07595825195312,
 			"height": 45,
 			"seed": 676432778,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683403856765,
+			"updated": 1683404006445,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "U = R × I ",
-			"rawText": "U = R × I ",
+			"text": "I = U ÷ R",
+			"rawText": "I = U ÷ R",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "U = R × I ",
+			"originalText": "I = U ÷ R",
 			"lineHeight": 1.25,
 			"baseline": 32
 		}
