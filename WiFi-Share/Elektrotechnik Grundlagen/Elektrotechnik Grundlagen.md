@@ -66,7 +66,9 @@ Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 **I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
 
 ### Elektrischer Widerstand
-- Veränderbare widerstände (Stellwiderstände) werden als Dreh- oder
+- **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt.
+	- 
+- Bei veranderlichen Widerst
 
 ## Leitwert-G 
 Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist *das Siemens (S)*.
