@@ -11,22 +11,13 @@
             "id": "b328639e69ad479b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "18a9c85aad4ce443",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18a9c85aad4ce443",
+  "active": "b328639e69ad479b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
     "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.svg",
+    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
     "Excalidraw/Schriftblockbreite.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
@@ -207,7 +199,6 @@
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
     "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
@@ -219,7 +210,6 @@
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Hydraulische Presse.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Herstellung der Werkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen",
