@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "984f45fc72837dec",
@@ -169,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b328639e69ad479b",
+  "active": "95810e679cb66366",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.md",
     "Excalidraw/Drawing 2023-05-06 20.40.49.excalidraw.svg",
