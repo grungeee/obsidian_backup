@@ -1,1 +1,1 @@
-![[Pasted image 20230505213828.png]]
+![[leiter,halbleiter,nichtleiter.png.png]]
