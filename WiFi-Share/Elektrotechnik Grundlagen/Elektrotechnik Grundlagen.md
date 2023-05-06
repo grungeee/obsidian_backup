@@ -56,10 +56,10 @@ Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Vorau
 
   
 
-Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
 
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I*. itc
 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*.
 
-**I = 2 A heißt: Die Stromstärke beträgt 2 Ampereh thx**
+Die Maßeinheit für die **Stromstärke** ist das *Ampere*.
+**I = 2 A** heißt: *Die Stromstärke beträgt 2 Ampere*
