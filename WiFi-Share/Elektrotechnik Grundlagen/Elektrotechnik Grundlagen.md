@@ -45,7 +45,7 @@
 
 
 ## Elektrischer Strom
-Die freien Elektronen, die in einem Leiter vorhanden sind, bilden die Voraussetzung für das Fließen des elektrischen Stromes. Wenn sich diese freien Elektronen gemeinsam in die gleiche Richtung bewegen, sagt man, esfließt ein elektrischer Strom
+Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Voraussetzung* für das *Fließen* des elektrischen *Stromes*. Wenn sich diese freien Elektronen gemeinsam in die gleiche Richtung bewegen, sagt man, es fließt ein elektrischer Strom
 
 Elektrischer 
 
