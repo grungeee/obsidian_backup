@@ -60,7 +60,8 @@
 ![[El Strom ist ein Fließen von Elektornen.excalidraw.svg]]
   
 ### Die Stromstärke
-Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch den *Leiterquerschnitt fließen*
+- Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch den *Leiterquerschnitt fließen*
+
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I* 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
@@ -73,13 +74,13 @@ Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch de
 >Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
 
 ## Leitwert
-Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist das *Siemens (S)*.
+- Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist das *Siemens (S)*.
 
  >Der **Widerstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
  >Der **Leitwert** gibt an, wie gut elektrischer *Strom geleitet* wird.
  
 ### Ohmsches Gesetz
-Die **Stromstärke** ist in einen Stromkreis umso **größer**, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
+- Die **Stromstärke** ist in einen Stromkreis umso **größer**, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
 ![[das magische Dreieck.excalidraw.svg]]
 
 %%[[das magische Dreieck.excalidraw.md|🖋 Edit in Excalidraw]], and the [[das magische Dreieck.excalidraw.dark.svg|dark exported image]]%%
