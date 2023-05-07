@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "14cd9fecf8f14a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peltier-Effekt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a8c3e6fe0bb17e21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seebeck-Effekt.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peltier-Effekt.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peltier-Effekt.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peltier-Effekt.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -213,15 +201,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "14cd9fecf8f14a00",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
-    "Seebeck-Effekt.md",
     "Thermoelektrische Effekte.md",
-    "Peltier-Effekt.md",
+    "Elektromagnetisch Induktion.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Peltier-Effekt.md",
+    "Seebeck-Effekt.md",
     "🏡 Home.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
-    "Elektromagnetisch Induktion.md",
     "Elektrochemische Zellen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
