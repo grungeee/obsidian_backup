@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "349a6e16c82f2d7b",
+        "id": "ef7bf2876f6de5e2",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9f2276106ded57",
+            "id": "0b37ec973bb37bb1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md"
+                "file": "Spannungsquelle.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+                "file": "Spannungsquelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+                "file": "Spannungsquelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md"
+                "file": "Spannungsquelle.md"
               }
             }
           }
@@ -149,13 +151,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ba9f2276106ded57",
+  "active": "0b37ec973bb37bb1",
   "lastOpenFiles": [
     "Spannungsquelle.md",
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "Spannung - nice to know.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
+    "Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
   ]
 }
