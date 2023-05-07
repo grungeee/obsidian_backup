@@ -82,10 +82,6 @@
 - [[Photovoltaischer Effekt]]: Licht
 - [[Elektrostatische Aufladung]] : Reibung
 - [[Piezoelektrischer Effekt]]: Kristallverformung
-- Thermoelemente
-	- Licht
-	- Kristallverformung
-	- Reibung
  
 
 [[Spannung - nice to know]]
