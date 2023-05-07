@@ -75,6 +75,8 @@
 >Das **Formelzeichen** für die elektrische Spannung ist *U* 
 >Die **Einheit** der elektrischen Spannung ist das *Volt (V)*
 
+[[Spannung - nice to know]]
+ 
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
@@ -83,7 +85,6 @@
 >Das **Formelzeichen** für den Widerstand ist *R* 
 >Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
 
-[[Spannung - nice to know]]
 ## Leitwert
 - Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist das *Siemens (S)*.
 
