@@ -66,7 +66,8 @@
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
 ## Spannung
-
+**Spannung** ist die *treibende Kraft* von Strofluss 
+ 
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
