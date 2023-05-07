@@ -31,8 +31,8 @@ Elektronendruckes ^5EebgsLb
 	"elements": [
 		{
 			"type": "line",
-			"version": 308,
-			"versionNonce": 1040345657,
+			"version": 1539,
+			"versionNonce": 1674776697,
 			"isDeleted": false,
 			"id": "fo7-DRCuyFyfeicIAOBtz",
 			"fillStyle": "hachure",
@@ -41,19 +41,19 @@ Elektronendruckes ^5EebgsLb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 329.96522790449444,
-			"y": -154.3377498480596,
+			"x": 289.1183107154103,
+			"y": -88.71408523667088,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 34,
-			"height": 0.66668701171875,
+			"width": 56.53145416771674,
+			"height": 1.108493713152663,
 			"seed": 1609848589,
 			"groupIds": [
 				"azOPQ37RC9q-_tryVdkhx"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683484733382,
+			"updated": 1683484975231,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -67,15 +67,15 @@ Elektronendruckes ^5EebgsLb
 					0
 				],
 				[
-					34,
-					-0.66668701171875
+					56.53145416771674,
+					-1.108493713152663
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 280,
-			"versionNonce": 1767584215,
+			"version": 1511,
+			"versionNonce": 1124011927,
 			"isDeleted": false,
 			"id": "AfwnHMrIwISp4zxF1LRcw",
 			"fillStyle": "hachure",
@@ -84,19 +84,19 @@ Elektronendruckes ^5EebgsLb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 337.96522790449444,
-			"y": -145.67106283634084,
+			"x": 302.41982934310835,
+			"y": -74.30407289582016,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 18.6666259765625,
-			"height": 2,
+			"width": 31.036809142939816,
+			"height": 3.3253796569245138,
 			"seed": 1340333347,
 			"groupIds": [
 				"azOPQ37RC9q-_tryVdkhx"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683484733382,
+			"updated": 1683484975231,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -110,15 +110,15 @@ Elektronendruckes ^5EebgsLb
 					0
 				],
 				[
-					18.6666259765625,
-					-2
+					31.036809142939816,
+					-3.3253796569245138
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 293,
-			"versionNonce": 1384823577,
+			"version": 1524,
+			"versionNonce": 1005361497,
 			"isDeleted": false,
 			"id": "cW_gt6xieP4vkZDYlXur_",
 			"fillStyle": "hachure",
@@ -127,19 +127,19 @@ Elektronendruckes ^5EebgsLb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 347.96522790449444,
-			"y": -155.67106283634084,
+			"x": 319.04672762773095,
+			"y": -90.93097118044273,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.002006895881209,
-			"height": 27.22513580042869,
+			"width": 1.6660266738307261,
+			"height": 45.26695637387643,
 			"seed": 465576995,
 			"groupIds": [
 				"azOPQ37RC9q-_tryVdkhx"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683484733382,
+			"updated": 1683484975231,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -153,15 +153,15 @@ Elektronendruckes ^5EebgsLb
 					0
 				],
 				[
-					-1.002006895881209,
-					-27.22513580042869
+					-1.6660266738307261,
+					-45.26695637387643
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 269,
-			"versionNonce": 2095374071,
+			"version": 1500,
+			"versionNonce": 969344183,
 			"isDeleted": false,
 			"id": "c_8aaZ220Ki2YtNOBPAln",
 			"fillStyle": "hachure",
@@ -170,19 +170,19 @@ Elektronendruckes ^5EebgsLb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 347.2985408927757,
-			"y": -147.00443685977834,
+			"x": 317.9382339145783,
+			"y": -76.52106032212549,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.33331298828125,
-			"height": 24.66668701171875,
+			"width": 2.216885943771851,
+			"height": 41.01304959624683,
 			"seed": 179792675,
 			"groupIds": [
 				"azOPQ37RC9q-_tryVdkhx"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683484733382,
+			"updated": 1683484975231,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -196,15 +196,15 @@ Elektronendruckes ^5EebgsLb
 					0
 				],
 				[
-					-1.33331298828125,
-					24.66668701171875
+					-2.216885943771851,
+					41.01304959624683
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 272,
-			"versionNonce": 1469444089,
+			"version": 1503,
+			"versionNonce": 1839334969,
 			"isDeleted": false,
 			"id": "5Wwmz2cq",
 			"fillStyle": "hachure",
@@ -213,12 +213,12 @@ Elektronendruckes ^5EebgsLb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 353.2985408927757,
-			"y": -178.6711238714971,
+			"x": 327.9143728853518,
+			"y": -129.17293871760813,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 12.5,
-			"height": 25,
+			"width": 20.783622855778212,
+			"height": 41.567245711556424,
 			"seed": 818354509,
 			"groupIds": [
 				"azOPQ37RC9q-_tryVdkhx"
@@ -227,10 +227,10 @@ Elektronendruckes ^5EebgsLb
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683484733382,
+			"updated": 1683484975231,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 33.25379656924514,
 			"fontFamily": 1,
 			"text": "+",
 			"rawText": "+",
@@ -239,12 +239,12 @@ Elektronendruckes ^5EebgsLb
 			"containerId": null,
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 28
 		},
 		{
 			"type": "text",
-			"version": 274,
-			"versionNonce": 150726679,
+			"version": 1505,
+			"versionNonce": 974345687,
 			"isDeleted": false,
 			"id": "Py6VRonz",
 			"fillStyle": "hachure",
@@ -253,12 +253,12 @@ Elektronendruckes ^5EebgsLb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 354.6319149162132,
-			"y": -148.00443685977834,
+			"x": 330.13136031165715,
+			"y": -78.18375015058774,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 8.219985961914062,
-			"height": 25,
+			"width": 13.667287048977052,
+			"height": 41.567245711556424,
 			"seed": 540946221,
 			"groupIds": [
 				"azOPQ37RC9q-_tryVdkhx"
@@ -267,10 +267,10 @@ Elektronendruckes ^5EebgsLb
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683484733382,
+			"updated": 1683484975231,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 33.25379656924514,
 			"fontFamily": 1,
 			"text": "-",
 			"rawText": "-",
@@ -279,13 +279,13 @@ Elektronendruckes ^5EebgsLb
 			"containerId": null,
 			"originalText": "-",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 28
 		},
 		{
 			"id": "IM7LlOhe",
 			"type": "text",
-			"x": 166.13348461664054,
-			"y": -162.6406548264541,
+			"x": 245.23768206760997,
+			"y": -213.49327930179584,
 			"width": 133.77987670898438,
 			"height": 25,
 			"angle": 0,
@@ -299,11 +299,11 @@ Elektronendruckes ^5EebgsLb
 			"groupIds": [],
 			"roundness": null,
 			"seed": 782725337,
-			"version": 278,
-			"versionNonce": 52922585,
+			"version": 1423,
+			"versionNonce": 601282329,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683484733382,
+			"updated": 1683484975231,
 			"link": null,
 			"locked": false,
 			"text": "Schaltzeichen:",
