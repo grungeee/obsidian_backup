@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md"
               }
             }
           }
@@ -187,10 +187,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c277eadfd689660",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
-    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
