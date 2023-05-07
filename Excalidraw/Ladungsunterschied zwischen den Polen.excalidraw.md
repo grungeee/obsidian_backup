@@ -2248,15 +2248,43 @@ Elektronendruckes ^5EebgsLb
 			"originalText": "+ Pol = Elektronenmangel ",
 			"lineHeight": 1.25,
 			"baseline": 17
+		},
+		{
+			"id": "4YmhQAEXGoGXklFbB-WUp",
+			"type": "rectangle",
+			"x": -394.1252114071547,
+			"y": -346.85367035176364,
+			"width": 820.8000640869141,
+			"height": 562.2000350952148,
+			"angle": 0,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1269885879,
+			"version": 212,
+			"versionNonce": 1409182489,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683494370361,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#495057",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 4,
+		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
@@ -2265,12 +2293,12 @@ Elektronendruckes ^5EebgsLb
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 476.03458945891254,
-		"scrollY": 363.8880445888242,
+		"scrollX": 538.1691610198628,
+		"scrollY": 639.8930015168411,
 		"zoom": {
-			"value": 2
+			"value": 1.1039493367676483
 		},
-		"currentItemRoundness": "sharp",
+		"currentItemRoundness": "round",
 		"gridSize": null,
 		"colorPalette": {},
 		"currentStrokeOptions": null,

@@ -2285,6 +2285,34 @@ je Sekunde ^O1dUAbkh
 					14.326452439314568
 				]
 			]
+		},
+		{
+			"id": "WkrE8ApY9x3EwHB1UQuU9",
+			"type": "rectangle",
+			"x": -590.7169780699262,
+			"y": -315.3208390611693,
+			"width": 998.1538586738781,
+			"height": 499.0769293369391,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1326686201,
+			"version": 100,
+			"versionNonce": 1795011383,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683494402863,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -2302,10 +2330,10 @@ je Sekunde ^O1dUAbkh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 754.2824004108054,
-		"scrollY": 394.2518237479574,
+		"scrollX": 596.5727535607115,
+		"scrollY": 346.33045835829466,
 		"zoom": {
-			"value": 1.3999181446949445
+			"value": 1.9500000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
