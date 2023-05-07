@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "098df61cae745951",
+            "id": "2452154bc927d333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -162,11 +162,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "098df61cae745951",
+  "active": "2452154bc927d333",
   "lastOpenFiles": [
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
-    "Spannungsquelle.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Spannungsquelle.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
