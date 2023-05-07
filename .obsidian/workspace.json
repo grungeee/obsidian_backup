@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seebeck-Effekt.md",
+                "file": "Peltier-Effekt.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seebeck-Effekt.md",
+                "file": "Peltier-Effekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seebeck-Effekt.md"
+                "file": "Peltier-Effekt.md"
               }
             }
           }
@@ -213,12 +213,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a8c3e6fe0bb17e21",
+  "active": "14cd9fecf8f14a00",
   "lastOpenFiles": [
+    "Seebeck-Effekt.md",
     "Thermoelektrische Effekte.md",
     "Peltier-Effekt.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "Seebeck-Effekt.md",
     "🏡 Home.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "Elektromagnetisch Induktion.md",
