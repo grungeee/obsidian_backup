@@ -17,6 +17,10 @@ Schaltzeichen: ^IM7LlOhe
 Richtung des
 Elektronendruckes ^5EebgsLb
 
+— Pol = Elektronenüberschuss  ^lTjoIZOk
+
+— Pol = Elektronenüberschuss  ^VJnkHFc6
+
 %%
 # Drawing
 ```json
@@ -2172,6 +2176,78 @@ Elektronendruckes ^5EebgsLb
 			"containerId": null,
 			"originalText": "Richtung des\nElektronendruckes",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "lTjoIZOk",
+			"type": "text",
+			"x": -156.33494334240686,
+			"y": 95.37106915368429,
+			"width": 303.9597473144531,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 526595769,
+			"version": 48,
+			"versionNonce": 1827034935,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683484834024,
+			"link": null,
+			"locked": false,
+			"text": "— Pol = Elektronenüberschuss ",
+			"rawText": "— Pol = Elektronenüberschuss ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 16,
+			"containerId": null,
+			"originalText": "— Pol = Elektronenüberschuss ",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 118,
+			"versionNonce": 1750194391,
+			"isDeleted": false,
+			"id": "VJnkHFc6",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -154.50731615174675,
+			"y": -214.7564251860441,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 303.9597473144531,
+			"height": 25,
+			"seed": 526595769,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683484845477,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "— Pol = Elektronenüberschuss ",
+			"rawText": "— Pol = Elektronenüberschuss ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "— Pol = Elektronenüberschuss ",
+			"lineHeight": 1.25,
+			"baseline": 16
 		}
 	],
 	"appState": {
