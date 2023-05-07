@@ -75,6 +75,9 @@
 >Das **Formelzeichen** für die elektrische Spannung ist *U* 
 >Die **Einheit** der elektrischen Spannung ist das *Volt (V)*
 
+### Erzeugung der Spannung
+
+
 [[Spannung - nice to know]]
  
 ## Widerstand
