@@ -42,21 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "17713e87265e3fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photovoltaischer Effekt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photovoltaischer Effekt.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photovoltaischer Effekt.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photovoltaischer Effekt.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -189,10 +177,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "17713e87265e3fff",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Photovoltaischer Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Elektromagnetische Induktion.md",
     "Thermoelektrische Effekte.md",
     "Peltier-Effekt.md",

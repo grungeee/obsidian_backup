@@ -94,7 +94,7 @@
 
 
 >Das **Formelzeichen** für den Widerstand ist *R* 
->Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
+Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
 
 ## Leitwert
 - Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist das *Siemens (S)*.
