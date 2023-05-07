@@ -9,7 +9,7 @@
 
 #### Stromrichtung
 - *technische* Stromrichtung **(+) → (-)**
-- *echte* Stromrichtung **(-) → (+)**
+- *elektronische* Stromrichtung **(-) → (+)**
 
 [[stromkreis_todo]]
 
