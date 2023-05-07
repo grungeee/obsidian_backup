@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
               }
             }
           }
@@ -175,10 +175,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c277eadfd689660",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
     "🏡 Home.md",
     "Elektrostatische Aufladung.md",
