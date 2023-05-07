@@ -30,6 +30,8 @@ Schalter ^OlBODvge
 
 Technische Richtung ^aorDUuU4
 
+Elktronen Richtung ^VbbUi4OR
+
 %%
 # Drawing
 ```json
@@ -2855,6 +2857,42 @@ Technische Richtung ^aorDUuU4
 					0
 				]
 			]
+		},
+		{
+			"type": "text",
+			"version": 185,
+			"versionNonce": 2016179801,
+			"isDeleted": false,
+			"id": "VbbUi4OR",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -138.09133846768998,
+			"y": 92.78085879439533,
+			"strokeColor": "#5f3dc4",
+			"backgroundColor": "transparent",
+			"width": 143.1679229736328,
+			"height": 20,
+			"seed": 138305719,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683493904013,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 1,
+			"text": "Elktronen Richtung",
+			"rawText": "Elktronen Richtung",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Elktronen Richtung",
+			"lineHeight": 1.25,
+			"baseline": 13
 		}
 	],
 	"appState": {

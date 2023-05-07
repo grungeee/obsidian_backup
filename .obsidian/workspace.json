@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -187,11 +187,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a8c3e6fe0bb17e21",
+  "active": "2c277eadfd689660",
   "lastOpenFiles": [
+    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
