@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Elektrochemische Zellen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Elektrochemische Zellen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Elektrochemische Zellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "Elektrochemische Zellen.md"
               }
             }
           }
@@ -152,8 +152,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3a58f7dbf00d8aac",
+  "active": "d68630a3642a7473",
   "lastOpenFiles": [
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "🏡 Home.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
@@ -162,7 +163,6 @@
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
     "Excalidraw/Schriftblockbreite.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
