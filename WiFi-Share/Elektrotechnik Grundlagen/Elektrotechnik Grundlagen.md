@@ -76,7 +76,7 @@
 >Die **Einheit** der elektrischen Spannung ist das *Volt (V)*
 
 ### Erzeugung der Spannung
-- Chemische Vorgänge
+- [[Elektrochemische Zellen]] Chemische Vorgänge
 - **Elektromagnetische Induktion**:  Magnet & Spule
 - Wärmeeinwirkung
 - Thermoelemente

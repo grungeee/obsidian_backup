@@ -1,0 +1,1 @@
+**Elektrochemische Zellen**: Eine elektrochemische Zelle, wie z.B. eine Batterie oder eine Brennstoffzelle, erzeugt Spannung durch eine chemische Reaktion.
