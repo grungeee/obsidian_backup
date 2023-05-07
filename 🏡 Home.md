@@ -1,7 +1,8 @@
 ### Fächer
 - [[Schweißtechnik]]
 - [[Werkstofftechnik]]
-- [[Wifi-share/WiFi-Share/Technisches Zeichenen/Technisches Zeichnen]]
+- [[Technisches Zeichnen]]
+- [[Elektrotechnik Grundlagen]]
 
 #### Off Topic
 - [[Obsidian Git]]

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bea695d43d11d3f6",
+        "id": "7ae00c59804d839b",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "03e14172bf58fe31",
+=======
+            "id": "3b9507bbedcfc0c8",
+>>>>>>> kohai3
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,32 +24,32 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "9f9d554188dd6851",
+=======
+            "id": "493baace7315e63a",
+>>>>>>> kohai3
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+>>>>>>> kohai3
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d06406ed97d4b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1,
         "stacked": true
+=======
+        "currentTab": 1
+>>>>>>> kohai3
       }
     ],
     "direction": "vertical"
@@ -90,6 +94,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4a85ba5b718c9b11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -111,7 +123,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+>>>>>>> kohai3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +144,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+>>>>>>> kohai3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +179,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md"
+=======
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
+>>>>>>> kohai3
               }
             }
           }
@@ -173,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "obsidian-stille:Toggle Stille": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
@@ -187,6 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "9f9d554188dd6851",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -198,10 +224,56 @@
     "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
     "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
+=======
+  "active": "493baace7315e63a",
+  "lastOpenFiles": [
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Untitled.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack",
+    "🏡 Home.md",
+    "misc/Obsidian Git.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten JIC.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
+    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
+    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
+    "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Dotierung.md",
+    "Excalidraw/Schriftblockbreite.excalidraw.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+    "Excalidraw/das magische Dreieck.excalidraw.md",
+    "Excalidraw/Schriftblockbreite.excalidraw.svg",
+    "Excalidraw/das magische Dreieck.excalidraw.svg",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Potentiometer.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Leiter, Halbleiter, Nichtleiter.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/leiter,halbleiter,nichtleiter.png",
+    "leiter,halbleiter,nichtleiter.png.md",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
+    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
+    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.svg",
+    "pull.md",
+    "conflict-files-obsidian-git.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Pasted image 20230505213720.png",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder",
+    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
+    "publish.css",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
+    "WiFi-Share/Elektrotechnik Grundlagen",
+    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
+    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
+    "WiFi-Share/Werkstofftechnik/Stack",
+>>>>>>> kohai3
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen",
     "WiFi-Share/WiFi-Share",
     "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images",
+<<<<<<< HEAD
     "Wifi-share/WiFi-Share/Technisches Zeichenen",
     "Wifi-share/WiFi-Share",
     "WiFi-Share/Technisches Zeichenen/Fragen & Antworten Technisch Zeichnen.md",
@@ -235,6 +307,8 @@
     "Pasted image 20230420201903.jpg",
     "Pasted image 20230420200149.png",
     "WiFi-Share/Werkstofftechnik/Pictures/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
+=======
+>>>>>>> kohai3
     "Fragen.canvas"
   ]
 }

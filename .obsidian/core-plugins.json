@@ -13,10 +13,11 @@
   "note-composer",
   "command-palette",
   "editor-status",
-  "starred",
+  "bookmarks",
   "markdown-importer",
   "random-note",
   "outline",
   "word-count",
-  "file-recovery"
+  "file-recovery",
+  "publish"
 ]
