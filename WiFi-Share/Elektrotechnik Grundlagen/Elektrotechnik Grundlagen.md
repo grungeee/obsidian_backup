@@ -77,7 +77,7 @@
 
 ### Erzeugung der Spannung
 - Chemische Vorgänge
-- Magnet & Spule
+-Elektromagnetische Induktion  Magnet & Spule
 - Wärmeeinwirkung
 - Thermoelemente
 	- Licht
