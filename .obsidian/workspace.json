@@ -26,7 +26,19 @@
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03da696e732843f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -177,8 +189,9 @@
   },
   "active": "2c277eadfd689660",
   "lastOpenFiles": [
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
@@ -194,7 +207,6 @@
     "Elektrochemische Zellen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
   ]
