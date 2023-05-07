@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermoelektrische Effekte.md",
+                "file": "Seebeck-Effekt.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peltier-Effekt.md",
+                "file": "Seebeck-Effekt.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peltier-Effekt.md",
+                "file": "Seebeck-Effekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peltier-Effekt.md"
+                "file": "Seebeck-Effekt.md"
               }
             }
           }
@@ -213,7 +213,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "14cd9fecf8f14a00",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
     "Thermoelektrische Effekte.md",
     "Peltier-Effekt.md",
