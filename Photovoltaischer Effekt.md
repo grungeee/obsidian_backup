@@ -1,0 +1,1 @@
+Photovoltaischer Effekt
