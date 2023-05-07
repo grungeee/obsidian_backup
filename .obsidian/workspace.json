@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "a8c3e6fe0bb17e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermoelektrische Effekte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d9077d5eaf9342f",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Thermoelektrische Effekte.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "Thermoelektrische Effekte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "Thermoelektrische Effekte.md"
               }
             }
           }
@@ -198,10 +210,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "622d0c225c509011",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
-    "Elektromagnetisch Induktion.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Thermoelektrische Effekte.md",
+    "Elektromagnetisch Induktion.md",
     "Elektrochemische Zellen.md",
     "🏡 Home.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",

@@ -1,0 +1,1 @@
+Dies sind Effekte, bei denen eine Spannung durch die Kombination von zwei unterschiedlichen Materialien erzeugt wird, die bei unterschiedlichen Temperaturen gehalten werden. Der [[Seebeck-Effekt]] und der Peltier-Effekt sind zwei gängige Beispiele für thermoelektrische Effekte.
