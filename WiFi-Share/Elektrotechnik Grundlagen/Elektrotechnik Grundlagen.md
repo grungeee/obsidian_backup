@@ -1,12 +1,12 @@
 ## Elektrische Ladungsträger
-### Der Stromkreis
+### Stromkreis
 ![[Stromkreis_BSP.excalidraw.svg]]
 %%[[Stromkreis_BSP.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Stromkreis_BSP.excalidraw.dark.svg|dark exported image]]%%
 - Damit elektrische **Gärente funktionieren** können, müssen sie von elektrischem *Strom durchflossen* werden.
 - Batterie **(-)** → Leitung → Lampe → Leitung → Batterie **(+)** 
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
 
-### Der Atomaufbau
+### Atomaufbau
 - Der **Atomkern** besteht aus *Protonen* und *Neutronen*.
 - Die verschedenen Grundstoffe (chemischen **Elemente**) **unterscheden** sich durch die *Anzahl* der *Protonen* und *Neutronen* im *Atomkern*.
 - Die **Anzahl der Elektronen**, die um den **Atomkern** kreisen, ist *normalerweise glecih groß* wie die Anzahl der *Protonen* im Atomkern.
@@ -15,7 +15,7 @@
 - Nice to know, I guess:
 	- Das Wasserstoffatom ist das kleinste Atom. Sein Kern ist ein Proton,  um das ein Elektron kreist. Bei kupferatomen besteht der Kern aus 29 Protonen und 35 Neutronen.
 
-### Die Elektrische Ladung
+### Ladung
 - **P**rotonen und **E**lektronen sind Träger elektrischer Ladung (*Ladungsträger*).
 - **N**eutronen haben **keine Ladung** und sind *elektrisch neutral*. Die beiden Ladungen habein eine unterschiedliche Wirkung und werden dahere unterschiedlich bezeichent.
 
@@ -59,7 +59,7 @@
 
 ![[El Strom ist ein Fließen von Elektornen.excalidraw.svg]]
   
-### Die Stromstärke
+### Stromstärke
 - Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch den *Leiterquerschnitt fließen*
 
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I* 
