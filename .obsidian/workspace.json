@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5816103804f2e6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stromkreis_todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "stromkreis_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "stromkreis_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "stromkreis_todo.md"
               }
             }
           }
@@ -162,10 +174,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2452154bc927d333",
+  "active": "5816103804f2e6ca",
   "lastOpenFiles": [
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "stromkreis_todo.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "Spannungsquelle.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "Spannung - nice to know.md",
