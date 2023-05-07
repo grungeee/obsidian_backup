@@ -66,7 +66,8 @@
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
 ## Spannung
-- **Spannung** ist die *treibende Kraft* vom Strofluss.
+- **Spannung** ist die *treibende Kraft* vom Strofluss
+- Wird von **Spannungsquelle** erzeugt
 - 
  
 ## Widerstand
