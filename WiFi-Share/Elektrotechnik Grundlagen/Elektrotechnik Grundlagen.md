@@ -50,7 +50,7 @@
 - **Ionen** sind *eleketrisch geladene* Atome. Sie entstehen, wenn Atome in der **Elektronenhülle** *zu viele oder zu wenige Elektronen* haben. **Ionen entstehen** in *Flüssigkeiten und Gasen* und **ermöglichen** dort einen *Stromfluss*.
 
 
-## Strom
+## Elektr Strom
 
 - Die **freien Elektronen**, die in einem Leiter vorhanden sind, bilden die *Voraussetzung* für das *Fließen* des elektrischen *Stromes*.
 - Wenn sich diese *freien Elektronen* gemeinsam in die *gleiche Richtung bewegen*, sagt man, es **fließt ein elektrischer Strom**
