@@ -17,9 +17,9 @@ Schaltzeichen: ^IM7LlOhe
 Richtung des
 Elektronendruckes ^5EebgsLb
 
-— Pol = Elektronenüberschuss  ^lTjoIZOk
+- Pol = Elektronenüberschuss  ^lTjoIZOk
 
-— Pol = Elektronenüberschuss  ^VJnkHFc6
++ Pol = Elektronenmangel  ^VJnkHFc6
 
 %%
 # Drawing
@@ -2180,9 +2180,9 @@ Elektronendruckes ^5EebgsLb
 		{
 			"id": "lTjoIZOk",
 			"type": "text",
-			"x": -156.33494334240686,
-			"y": 95.37106915368429,
-			"width": 303.9597473144531,
+			"x": -193.4654574679123,
+			"y": 80.84174145014606,
+			"width": 293.9597473144531,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -2195,28 +2195,28 @@ Elektronendruckes ^5EebgsLb
 			"groupIds": [],
 			"roundness": null,
 			"seed": 526595769,
-			"version": 48,
-			"versionNonce": 1827034935,
+			"version": 87,
+			"versionNonce": 243101175,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683484834024,
+			"updated": 1683484882749,
 			"link": null,
 			"locked": false,
-			"text": "— Pol = Elektronenüberschuss ",
-			"rawText": "— Pol = Elektronenüberschuss ",
+			"text": "- Pol = Elektronenüberschuss ",
+			"rawText": "- Pol = Elektronenüberschuss ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 16,
 			"containerId": null,
-			"originalText": "— Pol = Elektronenüberschuss ",
+			"originalText": "- Pol = Elektronenüberschuss ",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 1750194391,
+			"version": 226,
+			"versionNonce": 108558649,
 			"isDeleted": false,
 			"id": "VJnkHFc6",
 			"fillStyle": "hachure",
@@ -2225,27 +2225,27 @@ Elektronendruckes ^5EebgsLb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -154.50731615174675,
-			"y": -214.7564251860441,
+			"x": -194.05932492906265,
+			"y": -196.99836298995115,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 303.9597473144531,
+			"width": 255.97982788085938,
 			"height": 25,
 			"seed": 526595769,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1683484845477,
+			"updated": 1683484899199,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "— Pol = Elektronenüberschuss ",
-			"rawText": "— Pol = Elektronenüberschuss ",
+			"text": "+ Pol = Elektronenmangel ",
+			"rawText": "+ Pol = Elektronenmangel ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "— Pol = Elektronenüberschuss ",
+			"originalText": "+ Pol = Elektronenmangel ",
 			"lineHeight": 1.25,
 			"baseline": 16
 		}
