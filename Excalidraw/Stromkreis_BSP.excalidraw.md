@@ -2629,6 +2629,56 @@ Schalter ^OlBODvge
 					0
 				]
 			]
+		},
+		{
+			"id": "JMaS0JhElmhAO6vLUrmBU",
+			"type": "arrow",
+			"x": -159.35997763765332,
+			"y": -133.35463883486864,
+			"width": 70.39763358278151,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#5f3dc4",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1316988313,
+			"version": 388,
+			"versionNonce": 1604809113,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683492957673,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					41.33532214340926,
+					0
+				],
+				[
+					70.39763358278151,
+					0
+				]
+			],
+			"lastCommittedPoint": [
+				77.99302371214378,
+				0
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -2637,7 +2687,7 @@ Schalter ^OlBODvge
 		"currentItemStrokeColor": "#5f3dc4",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
+		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
@@ -2646,10 +2696,10 @@ Schalter ^OlBODvge
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 547.8322181841992,
-		"scrollY": 360.61959930860746,
+		"scrollX": 449.2617740908642,
+		"scrollY": 331.7199490984665,
 		"zoom": {
-			"value": 1.6874016620314432
+			"value": 2.0179560582346707
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
