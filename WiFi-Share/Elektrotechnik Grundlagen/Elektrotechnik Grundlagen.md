@@ -68,7 +68,7 @@
 ## Spannung
 - **Spannung** ist die *treibende Kraft* des Stromflusses
 - **Spannung** wird von der *Spannungsquelle* erzeugt
-- Eine Spannungsquelle trennt die positiven Ladungsträger (positiven Ionen) und die negativen Ladungsträger (freien Elektronen). Durch diese Trennung der unterschdlichen Ladungen entsteht zwischen den beiden Plilen eine Spannung, die den Ladungsunterscheid zwischen den Polen auszugleichen versucht . Wenn an die Spannungsquelle ein Stromkeries angeschlosssen wierd, übt die Spannung auf die freien Ele
+- Eine Spannungsquelle trennt die positiven Ladungsträger (positiven Ionen) und die negativen Ladungsträger (freien Elektronen). Durch diese Trennung der unterschdlichen Ladungen entsteht zwischen den beiden Plilen eine Spannung, die den Ladungsunterscheid zwischen den Polen auszugleichen versucht . Wenn an die Spannungsquelle ein Stromkeries angeschlosssen wierd, übt die Spannung auf die freien Elektronen eien Kraft aus und die Elektronen werden im Leiter wietergeschoben. Die Spannung versursacht also den elektrischen Strom.
 
 
  >Die elektrische **Spannung** ist die *Ursache* für den elektrischen *Strom*.
