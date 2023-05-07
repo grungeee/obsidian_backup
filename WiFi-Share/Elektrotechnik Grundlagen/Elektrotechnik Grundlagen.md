@@ -79,7 +79,7 @@
 - [[Elektrochemische Zellen]] Chemische Vorgänge
 - [[ Elektromagnetische Induktion]]:  Magnet & Spule
 - [[Thermoelektrische Effekte]]: Wärmeeinwirkung
-- Photovoltaischer Effekt: Licht 
+- [[Photovoltaischer Effekt]]: Licht 
 - Thermoelemente
 	- Licht
 	- Kristallverformung
