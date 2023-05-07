@@ -72,8 +72,8 @@
 
 
  >Die elektrische **Spannung** ist die *Ursache* für den elektrischen *Strom*.
->Das **Formelzeichen** für die Sp ist *U* 
->Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
+>Das **Formelzeichen** für die elektrische Spannung ist *U* 
+>Die **Einheit** der elektrischen Spannung ist das *Ohm (Ω)*
 
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
