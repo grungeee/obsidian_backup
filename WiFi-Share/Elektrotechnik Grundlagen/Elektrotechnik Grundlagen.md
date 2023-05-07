@@ -79,7 +79,7 @@
 - Chemische Vorgänge
 - Magnet & Spule
 - Wärmeeinwirkung
-- 
+- Th
 
 [[Spannung - nice to know]]
  
