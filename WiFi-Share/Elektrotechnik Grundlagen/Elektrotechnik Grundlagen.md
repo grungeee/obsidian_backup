@@ -79,7 +79,8 @@
 - Chemische Vorgänge
 - Magnet & Spule
 - Wärmeeinwirkung
-- Thermoelement
+- Thermoelemente
+	- 
 
 [[Spannung - nice to know]]
  
