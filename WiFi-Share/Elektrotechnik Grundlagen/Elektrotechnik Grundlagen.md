@@ -67,7 +67,7 @@
 
 ## Spannung
 - **Spannung** ist die *treibende Kraft* vom Strofluss
-- **Spannung** wird von **Spannungsquelle** erzeugt
+- **Spannung** wird von der *Spannungsquelle* erzeugt
 - 
  
 ## Widerstand
