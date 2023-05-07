@@ -76,7 +76,10 @@
 >Die **Einheit** der elektrischen Spannung ist das *Volt (V)*
 
 ### Erzeugung der Spannung
-
+- Chemische Vorgänge
+- Magnet & Spule
+- Wärmeeinwirkung
+- 
 
 [[Spannung - nice to know]]
  
