@@ -71,8 +71,8 @@
 - Eine Spannungsquelle trennt die positiven Ladungsträger (positiven Ionen) und die negativen Ladungsträger (freien Elektronen)
 
 
- >Die elektrische Spannung ist die Ursache 
->Das **Formelzeichen** für den Widerstand ist *R* 
+ >Die elektrische **Spannung** ist die *Ursache* für den elektrischen *Strom*.
+>Das **Formelzeichen** für die Sp ist *U* 
 >Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
 
 ## Widerstand
