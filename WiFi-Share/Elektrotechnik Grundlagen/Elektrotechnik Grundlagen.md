@@ -77,10 +77,11 @@
 
 ### Erzeugung der Spannung
 - [[Elektrochemische Zellen]] Chemische Vorgänge
-- [[ Elektromagnetische Induktion]]:  Magnet & Spule
+- [[Elektromagnetische Induktion]]:  Magnet & Spule
 - [[Thermoelektrische Effekte]]: Wärmeeinwirkung
 - [[Photovoltaischer Effekt]]: Licht
 - [[Elektrostatische Aufladung]] : Reibung
+- Piezoelektrischer Effekt:
 - Thermoelemente
 	- Licht
 	- Kristallverformung
