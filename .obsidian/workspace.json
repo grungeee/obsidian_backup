@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrochemische Zellen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrochemische Zellen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrochemische Zellen.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -186,10 +186,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5d6138cdb320bc72",
+  "active": "622d0c225c509011",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Elektrochemische Zellen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "🏡 Home.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",

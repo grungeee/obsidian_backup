@@ -77,7 +77,7 @@
 
 ### Erzeugung der Spannung
 - [[Elektrochemische Zellen]] Chemische Vorgänge
-- **Elektromagnetische Induktion**:  Magnet & Spule
+- Elektromagnetisch:  Magnet & Spule
 - Wärmeeinwirkung
 - Thermoelemente
 	- Licht
