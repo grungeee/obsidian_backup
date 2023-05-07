@@ -11,48 +11,13 @@
             "id": "2452154bc927d333",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏡 Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e156ecd2835bf6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03da696e732843f3",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a8c3e6fe0bb17e21",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md"
+                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
+                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
+                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md"
+                "file": "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md"
               }
             }
           }
@@ -185,19 +150,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a8c3e6fe0bb17e21",
+  "active": "2452154bc927d333",
   "lastOpenFiles": [
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "🏡 Home.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
     "Excalidraw/das magische Dreieck.excalidraw.svg",
     "Excalidraw/das magische Dreieck.excalidraw.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "Excalidraw/Stromkreis_BSP.excalidraw.md",
-    "🏡 Home.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
     "Elektrostatische Aufladung.md",
     "Piezoelektrischer Effekt.md",

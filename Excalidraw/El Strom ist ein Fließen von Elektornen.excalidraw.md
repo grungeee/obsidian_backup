@@ -2318,7 +2318,7 @@ je Sekunde ^O1dUAbkh
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#495057",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
@@ -2330,10 +2330,10 @@ je Sekunde ^O1dUAbkh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 596.5727535607115,
-		"scrollY": 346.33045835829466,
+		"scrollX": 389.59049900185533,
+		"scrollY": 409.4786342234767,
 		"zoom": {
-			"value": 1.9500000000000002
+			"value": 1.6885527160230247
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -18,7 +18,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.25",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
 	"elements": [
 		{
 			"type": "ellipse",
@@ -903,7 +903,7 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"containerId": null,
 			"originalText": "Ungleichnamige Ladungen ziehen einander an",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -939,33 +939,33 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"containerId": null,
 			"originalText": "Gleichnamige Ladungen stoßen einander ab",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
-			"type": "ellipse",
-			"version": 16,
-			"versionNonce": 79589890,
-			"isDeleted": true,
-			"id": "OAk8YwZ12Ho5nKxg-ixRP",
+			"id": "fv1aBfoWdrVXm3yiO3MAp",
+			"type": "rectangle",
+			"x": -396.7041731630966,
+			"y": -453.9367144132283,
+			"width": 1506.208337540377,
+			"height": 632.4267888453751,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": 280.0758516499179,
-			"y": -462.801193174221,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"width": 100,
-			"height": 100,
-			"seed": 1922493506,
 			"groupIds": [],
 			"roundness": {
-				"type": 2
+				"type": 3
 			},
-			"boundElements": [],
-			"updated": 1683234982797,
+			"seed": 324239289,
+			"version": 291,
+			"versionNonce": 707646327,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683494465726,
 			"link": null,
 			"locked": false
 		}
@@ -985,10 +985,10 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 363.5605119864457,
-		"scrollY": 570.5426704469483,
+		"scrollX": 410.27633518269914,
+		"scrollY": 646.7502039089248,
 		"zoom": {
-			"value": 1.1
+			"value": 0.9297519347513613
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
