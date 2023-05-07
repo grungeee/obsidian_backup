@@ -78,7 +78,7 @@
 ### Erzeugung der Spannung
 - [[Elektrochemische Zellen]] Chemische Vorgänge
 - [[ Elektromagnetisch Induktion]]:  Magnet & Spule
-- Wärmeeinwirkung
+- [[Thermoelektrische Effekte]]: Wärmeeinwirkung
 - Thermoelemente
 	- Licht
 	- Kristallverformung
