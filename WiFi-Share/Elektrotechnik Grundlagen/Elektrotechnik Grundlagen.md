@@ -68,12 +68,12 @@
 ## Spannung
 - **Spannung** ist die *treibende Kraft* des Stromflusses
 - **Spannung** wird von der *Spannungsquelle* erzeugt
-- Eine Spannungsquelle trennt die positiven Ladungsträger (positiven Ionen) und die negativen Ladungsträger (freien Elektronen)
+- Eine Spannungsquelle trennt die positiven Ladungsträger (positiven Ionen) und die negativen Ladungsträger (freien Elektronen). Durch diese Trennung der unterschdlichen Ladungen entsteht zwischen den beiden Plil
 
 
  >Die elektrische **Spannung** ist die *Ursache* für den elektrischen *Strom*.
 >Das **Formelzeichen** für die elektrische Spannung ist *U* 
->Die **Einheit** der elektrischen Spannung ist das *Ohm (Ω)*
+>Die **Einheit** der elektrischen Spannung ist das *Volt (V)*
 
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
