@@ -1,84 +1,46 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "f7a42a216ed5c3d4",
+    "id": "72fbfa9f632c5e1d",
     "type": "split",
     "children": [
       {
-        "id": "ec4df7bb5439e196",
+        "id": "28741d5459a70c33",
         "type": "tabs",
         "children": [
           {
-            "id": "6278b981f6c603db",
-=======
-    "id": "49e15bd0cb6bbe38",
-    "type": "split",
-    "children": [
-      {
-        "id": "7ae00c59804d839b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b9507bbedcfc0c8",
->>>>>>> kohai3
+            "id": "e605f4ff2aff664f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
-=======
-                "file": "🏡 Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "493baace7315e63a",
+            "id": "536846f1685a8b83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
->>>>>>> kohai3
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.2.7"
               }
             }
           }
-<<<<<<< HEAD
-        ]
-=======
         ],
         "currentTab": 1
->>>>>>> kohai3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "8c13e5c6dff4ae3e",
+    "id": "3ea98a3c28958ee3",
     "type": "split",
     "children": [
       {
-        "id": "68b169dd7f441838",
+        "id": "d217f3c39149b91a",
         "type": "tabs",
         "children": [
           {
-            "id": "60e39377e75456ec",
-=======
-    "id": "df203c93034edbe0",
-    "type": "split",
-    "children": [
-      {
-        "id": "074d889b9378c10a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95810e679cb66366",
->>>>>>> kohai3
+            "id": "d68630a3642a7473",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,11 +50,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "269f268381c3498f",
-=======
-            "id": "77781cbd830c241f",
->>>>>>> kohai3
+            "id": "7d87ccb8cf42ea22",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,19 +65,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "be6dac187ed4b866",
-=======
-            "id": "668f3b5ce6454f62",
->>>>>>> kohai3
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a85ba5b718c9b11",
+            "id": "7a45efd5134548ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -133,40 +79,23 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "7fd816de0bf2ebab",
+    "id": "2fd2c5f486727da5",
     "type": "split",
     "children": [
       {
-        "id": "fd75f4c411502f11",
+        "id": "414f2234948e2cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "110fff707da06183",
-=======
-    "id": "984f45fc72837dec",
-    "type": "split",
-    "children": [
-      {
-        "id": "2a7d923fb5c732e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa0fc47a56523d02",
->>>>>>> kohai3
+            "id": "8ba0a127c50fa5ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
-=======
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
->>>>>>> kohai3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -174,39 +103,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "ea6697e82ce4a5cf",
-=======
-            "id": "4aae2f4a15c21b1c",
->>>>>>> kohai3
+            "id": "38c6e98a8b6128f8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
-=======
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
->>>>>>> kohai3
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "43d783699a9eb3cf",
-=======
-            "id": "fcb8f6d58c3f3b56",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6bb80f4696b0797e",
->>>>>>> kohai3
+            "id": "57630898cd5a90ce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -217,145 +125,35 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "4d049259b7458cb8",
-=======
-            "id": "55a53e52faeb7bb3",
->>>>>>> kohai3
+            "id": "412d266547488ba9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md"
-=======
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
->>>>>>> kohai3
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-<<<<<<< HEAD
-=======
-      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
->>>>>>> kohai3
+      "flashcards-obsidian:Generate flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "publish:Publish changes...": false
     }
   },
-<<<<<<< HEAD
-  "active": "6278b981f6c603db",
-  "lastOpenFiles": [
-    "🏡 Home.md",
-    "misc/ChatGPT_logo_white.svg",
-    "misc/Obsidian Git.md",
-    "misc/ChatGPT_logo_black.svg",
-    "misc",
-    "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca.md",
-    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
-    "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Mechanische Presse.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Maschinen zum Umformen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Leichtmetalle.md",
-    "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
-    "WiFi-Share/Werkstofftechnik/📁 Images",
-    "WiFi-Share/Werkstofftechnik/Stack",
-    "WiFi-Share/Technisches Zeichenen/📁 Images",
-    "WiFi-Share/Schweißtechnik/📁 Images",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
-    "WiFi-Share/Werkstofftechnik",
-    "WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/Schweißtechnik",
-    "WiFi-Share"
-=======
-  "active": "493baace7315e63a",
-  "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "Untitled.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack",
-    "🏡 Home.md",
-    "misc/Obsidian Git.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten JIC.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
-    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
-    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Dotierung.md",
-    "Excalidraw/Schriftblockbreite.excalidraw.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
-    "Excalidraw/das magische Dreieck.excalidraw.md",
-    "Excalidraw/Schriftblockbreite.excalidraw.svg",
-    "Excalidraw/das magische Dreieck.excalidraw.svg",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Potentiometer.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Leiter, Halbleiter, Nichtleiter.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/leiter,halbleiter,nichtleiter.png",
-    "leiter,halbleiter,nichtleiter.png.md",
-    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
-    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
-    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
-    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.svg",
-    "pull.md",
-    "conflict-files-obsidian-git.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Pasted image 20230505213720.png",
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder",
-    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
-    "publish.css",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
-    "WiFi-Share/Elektrotechnik Grundlagen",
-    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
-    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
-    "WiFi-Share/Werkstofftechnik/Stack",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/WiFi-Share",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images",
-    "Fragen.canvas"
->>>>>>> kohai3
-  ]
+  "active": "536846f1685a8b83",
+  "lastOpenFiles": []
 }
