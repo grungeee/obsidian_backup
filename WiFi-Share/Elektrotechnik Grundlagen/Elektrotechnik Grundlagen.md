@@ -5,6 +5,9 @@
 - Damit elektrische **Gärente funktionieren** können, müssen sie von elektrischem *Strom durchflossen* werden.
 - Batterie **(-)** → Leitung → Lampe → Leitung → Batterie **(+)** 
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
+
+
+
 [[stromkreis_todo]]
 
 ### Atomaufbau

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -177,7 +177,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c277eadfd689660",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
     "🏡 Home.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
