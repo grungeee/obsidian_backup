@@ -80,7 +80,10 @@
 - Magnet & Spule
 - Wärmeeinwirkung
 - Thermoelemente
-	- 
+	- Licht
+	- Kristallverformung
+	- Reibung
+ 
 
 [[Spannung - nice to know]]
  
