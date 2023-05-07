@@ -42,21 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "2e9f8d0bc5d9bda2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Piezoelektrischer Effekt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piezoelektrischer Effekt.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piezoelektrischer Effekt.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piezoelektrischer Effekt.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
               }
             }
           }
@@ -189,8 +177,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2e9f8d0bc5d9bda2",
+  "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
+    "Elektrostatische Aufladung.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Piezoelektrischer Effekt.md",
     "Photovoltaischer Effekt.md",
