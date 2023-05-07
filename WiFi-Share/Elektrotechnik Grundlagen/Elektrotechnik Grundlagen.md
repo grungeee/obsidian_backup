@@ -81,7 +81,7 @@
 - [[Thermoelektrische Effekte]]: Wärmeeinwirkung
 - [[Photovoltaischer Effekt]]: Licht
 - [[Elektrostatische Aufladung]] : Reibung
-- Piezoelektrischer Effekt:
+- Piezoelektrischer Effekt: Kristallverformung
 - Thermoelemente
 	- Licht
 	- Kristallverformung
