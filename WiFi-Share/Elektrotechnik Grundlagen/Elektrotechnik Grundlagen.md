@@ -7,6 +7,8 @@
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
 
 
+#### Stromrichtung
+- 
 
 [[stromkreis_todo]]
 
