@@ -66,7 +66,8 @@
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
 ## Spannung
-**Spannung** ist die *treibende Kraft* von Strofluss 
+- **Spannung** ist die *treibende Kraft* vom Strofluss.
+- 
  
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
