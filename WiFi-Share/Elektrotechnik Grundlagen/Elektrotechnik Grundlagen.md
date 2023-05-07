@@ -79,7 +79,7 @@
 - Chemische Vorgänge
 - Magnet & Spule
 - Wärmeeinwirkung
-- Th
+- Thermoelement
 
 [[Spannung - nice to know]]
  
