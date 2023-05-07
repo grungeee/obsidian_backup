@@ -77,7 +77,8 @@
 ## Spannung
 - **Spannung** ist die *treibende Kraft* des Stromflusses
 - **Spannung** wird von der *Spannungsquelle* erzeugt
-- Eine [[Spannungsquelle]] **erzeugt** eine **Spannung**, indem sie positive und negative *Ladungen* voneinander *trennt*. Wenn ein Stromkreis angeschlossen wird, bewegen sich freie Elektronen durch den Leiter aufgrund der durch die Spannung ausgeübten Kraft, was den elektrischen Strom verursacht.
+- Eine [[Spannungsquelle]] **erzeugt** eine **Spannung**, indem sie positive und negative *Ladungen* voneinander *trennt*. Wenn ein Stromkreis angeschlossen wird, bewegen sich freie Elektronen durch den Leiter aufgrund der durch die Spannung ausgeübten Kraft, was den elektrischen Strom verursacht. 
+	- ❓Potenzialdifferenz ↔ Differenzspannung
 - → Die elektrische **Spannung** ist die *Ursache* für den elektrischen *Strom*.
  
 >Das **Formelzeichen** für die elektrische Spannung ist *U* 
