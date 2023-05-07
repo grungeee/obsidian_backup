@@ -49,7 +49,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md",
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Stromkreis_BSP.excalidraw.md"
+                "file": "Excalidraw/Stromkreis_BSP.excalidraw 1.md"
               }
             }
           }
@@ -189,12 +189,15 @@
   },
   "active": "a8c3e6fe0bb17e21",
   "lastOpenFiles": [
-    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "🏡 Home.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
+    "Excalidraw/das magische Dreieck.excalidraw.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
+    "🏡 Home.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
     "Elektrostatische Aufladung.md",
     "Piezoelektrischer Effekt.md",
@@ -203,11 +206,9 @@
     "Thermoelektrische Effekte.md",
     "Peltier-Effekt.md",
     "Seebeck-Effekt.md",
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "Elektrochemische Zellen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
   ]
 }

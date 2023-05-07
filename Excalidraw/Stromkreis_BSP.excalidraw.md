@@ -1309,12 +1309,40 @@ Schaltzeichen: ^BSMuiuQY
 					-3
 				]
 			]
+		},
+		{
+			"id": "HXes9w_ywJ-Wvwouualqe",
+			"type": "rectangle",
+			"x": -485.5361556167634,
+			"y": -157.56665208330958,
+			"width": 576.6000366210938,
+			"height": 255,
+			"angle": 0,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 504258679,
+			"version": 71,
+			"versionNonce": 333037367,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683494310885,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#5f3dc4",
+		"currentItemStrokeColor": "#495057",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
@@ -1326,8 +1354,8 @@ Schaltzeichen: ^BSMuiuQY
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 685.5207436800923,
-		"scrollY": 211.5201513374406,
+		"scrollX": 680.8455733413728,
+		"scrollY": 328.80103089800684,
 		"zoom": {
 			"value": 2
 		},
