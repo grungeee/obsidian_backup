@@ -65,7 +65,7 @@
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I* 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
-## A
+## Spannung
 
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
