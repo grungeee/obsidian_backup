@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrochemische Zellen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrochemische Zellen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrochemische Zellen.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrochemische Zellen.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md"
               }
             }
           }
@@ -171,14 +171,14 @@
     "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
-    "Elektrostatische Aufladung.md",
-    "Piezoelektrischer Effekt.md",
-    "Photovoltaischer Effekt.md",
-    "Elektromagnetische Induktion.md",
-    "Thermoelektrische Effekte.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrostatische Aufladung.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Piezoelektrischer Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Photovoltaischer Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektromagnetische Induktion.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Thermoelektrische Effekte.md",
     "Peltier-Effekt.md",
-    "Seebeck-Effekt.md",
-    "Elektrochemische Zellen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Seebeck-Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
