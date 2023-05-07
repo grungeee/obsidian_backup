@@ -13,8 +13,15 @@
   "note-composer",
   "command-palette",
   "editor-status",
+<<<<<<< HEAD
   "starred",
+=======
+  "bookmarks",
+  "markdown-importer",
+  "random-note",
+>>>>>>> kohai3
   "outline",
   "word-count",
-  "file-recovery"
+  "file-recovery",
+  "publish"
 ]

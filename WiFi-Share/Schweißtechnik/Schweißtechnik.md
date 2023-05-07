@@ -1,2 +1,2 @@
-- [[Fragen & Antworten Fucked - go to docx]]
-- [[Anki Deck test]]
+- [[Fragen & Antworten JIC|Fragen & Antworten]]
+- [[Fragen & Antworten (4 Anki)|Anki Deck]]
