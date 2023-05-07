@@ -69,7 +69,12 @@
 - **Spannung** ist die *treibende Kraft* des Stromflusses
 - **Spannung** wird von der *Spannungsquelle* erzeugt
 - Eine Spannungsquelle trennt die positiven Ladungsträger (positiven Ionen) und die negativen Ladungsträger (freien Elektronen)
- 
+
+
+ >Die elektrische Spannung ist die Ursache 
+>Das **Formelzeichen** für den Widerstand ist *R* 
+>Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
+
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
