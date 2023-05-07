@@ -68,7 +68,7 @@
 ## Spannung
 - **Spannung** ist die *treibende Kraft* des Stromflusses
 - **Spannung** wird von der *Spannungsquelle* erzeugt
-- Eine Spannungsquelle trennt die
+- Eine Spannungsquelle trennt die positiven Ladungsträger (positiven Ionen) und die negativen Ladungsträger (freien Elektronen)
  
 ## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
