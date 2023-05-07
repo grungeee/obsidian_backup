@@ -14,6 +14,9 @@ tags: [excalidraw]
 
 Schaltzeichen: ^IM7LlOhe
 
+Richtung des
+Elektronendruckes ^5EebgsLb
+
 %%
 # Drawing
 ```json
@@ -2092,6 +2095,83 @@ Schaltzeichen: ^IM7LlOhe
 					0
 				]
 			]
+		},
+		{
+			"id": "jhCtid3tWiGAcVz-isc03",
+			"type": "arrow",
+			"x": -52.20815476582868,
+			"y": -120.95441169198568,
+			"width": 0,
+			"height": 142.87169243540325,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 714319511,
+			"version": 290,
+			"versionNonce": 280017847,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683484763033,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					142.87169243540325
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "5EebgsLb",
+			"type": "text",
+			"x": -10.2344714403647,
+			"y": -76.55927868879547,
+			"width": 172.93983459472656,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 414067927,
+			"version": 66,
+			"versionNonce": 908712409,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1683484800668,
+			"link": null,
+			"locked": false,
+			"text": "Richtung des\nElektronendruckes",
+			"rawText": "Richtung des\nElektronendruckes",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 42,
+			"containerId": null,
+			"originalText": "Richtung des\nElektronendruckes",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2100,9 +2180,9 @@ Schaltzeichen: ^IM7LlOhe
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 2,
+		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 2,
+		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
