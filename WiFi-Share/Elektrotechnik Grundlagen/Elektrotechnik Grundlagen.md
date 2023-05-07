@@ -6,6 +6,7 @@
 - Batterie **(-)** → Leitung → Lampe → Leitung → Batterie **(+)** 
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
 
+
 ### Atomaufbau
 - Der **Atomkern** besteht aus *Protonen* und *Neutronen*.
 - Die verschedenen Grundstoffe (chemischen **Elemente**) **unterscheden** sich durch die *Anzahl* der *Protonen* und *Neutronen* im *Atomkern*.
