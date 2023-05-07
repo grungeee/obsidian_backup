@@ -11,8 +11,10 @@
             "id": "ba9f2276106ded57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md"
+              }
             }
           }
         ]
@@ -145,9 +151,10 @@
   },
   "active": "ba9f2276106ded57",
   "lastOpenFiles": [
-    "Spannung - nice to know.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Spannungsquelle.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Spannung - nice to know.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
   ]
