@@ -11,14 +11,6 @@
             "id": "e605f4ff2aff664f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "536846f1685a8b83",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,6 +151,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "536846f1685a8b83",
-  "lastOpenFiles": []
+  "active": "e605f4ff2aff664f",
+  "lastOpenFiles": [
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+  ]
 }

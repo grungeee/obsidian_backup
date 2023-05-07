@@ -65,7 +65,7 @@
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I* 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
-### Widerstand
+## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
 
@@ -79,7 +79,7 @@
  >Der **Widerstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
  >Der **Leitwert** gibt an, wie gut elektrischer *Strom geleitet* wird.
  
-### Ohmsches Gesetz
+### Ohm'sches Gesetz
 - Die **Stromstärke** ist in einen Stromkreis umso **größer**, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
 ![[das magische Dreieck.excalidraw.svg]]
 
