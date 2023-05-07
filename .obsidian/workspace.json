@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b37ec973bb37bb1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "2452154bc927d333",
             "type": "leaf",
             "state": {
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -156,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seebeck-Effekt.md",
+                "file": "🏡 Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seebeck-Effekt.md",
+                "file": "🏡 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seebeck-Effekt.md"
+                "file": "🏡 Home.md"
               }
             }
           }
@@ -205,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +212,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d2d7c9536e6f0c5e",
+  "active": "2452154bc927d333",
   "lastOpenFiles": [
-    "Thermoelektrische Effekte.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "Seebeck-Effekt.md",
+    "Thermoelektrische Effekte.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "Elektromagnetisch Induktion.md",
     "Elektrochemische Zellen.md",
@@ -234,7 +224,6 @@
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
