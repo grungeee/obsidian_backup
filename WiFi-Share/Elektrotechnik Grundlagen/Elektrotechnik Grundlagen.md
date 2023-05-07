@@ -80,7 +80,7 @@
 - [[ Elektromagnetische Induktion]]:  Magnet & Spule
 - [[Thermoelektrische Effekte]]: Wärmeeinwirkung
 - [[Photovoltaischer Effekt]]: Licht
-- [[Elektrostatische Aufladung]]
+- [[Elektrostatische Aufladung]] : Reibung
 - Thermoelemente
 	- Licht
 	- Kristallverformung
