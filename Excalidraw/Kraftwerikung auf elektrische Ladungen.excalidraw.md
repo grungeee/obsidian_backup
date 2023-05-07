@@ -949,10 +949,10 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 			"width": 1506.208337540377,
 			"height": 632.4267888453751,
 			"angle": 0,
-			"strokeColor": "#1864ab",
+			"strokeColor": "#495057",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
-			"strokeWidth": 4,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
@@ -961,11 +961,11 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 				"type": 3
 			},
 			"seed": 324239289,
-			"version": 291,
-			"versionNonce": 707646327,
+			"version": 293,
+			"versionNonce": 2050116759,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1683494465726,
+			"updated": 1683494472069,
 			"link": null,
 			"locked": false
 		}
@@ -973,10 +973,10 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1864ab",
+		"currentItemStrokeColor": "#495057",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 4,
+		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
@@ -985,10 +985,10 @@ Gleichnamige Ladungen stoßen einander ab ^4UNpclKt
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 410.27633518269914,
-		"scrollY": 646.7502039089248,
+		"scrollX": 462.8844847157119,
+		"scrollY": 706.5120843205771,
 		"zoom": {
-			"value": 0.9297519347513613
+			"value": 0.8797519347513613
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
