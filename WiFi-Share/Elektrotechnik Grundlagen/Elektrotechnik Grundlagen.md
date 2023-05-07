@@ -8,8 +8,8 @@
 
 
 #### Stromrichtung
-- technische Stromrichtung **(+) → (-)**
-- echte Stromrichtung **(+) → (-)**
+- *technische* Stromrichtung **(+) → (-)**
+- *echte* Stromrichtung **(-) → (+)**
 
 [[stromkreis_todo]]
 
