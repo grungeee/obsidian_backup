@@ -72,7 +72,7 @@
 - Ohm'sches Gesetz **98**
 
 ### Elektrowärme und elektrische Leistung 
-- Elektrische Leistung
+- [[Elektrische Leistung P]]
 
 ### Gefahren des elektrischen Stroms
 - Schutzmaßnahmen **99-101**
