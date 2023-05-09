@@ -89,13 +89,13 @@
 - Die Lorenz-Kraft **105**
 
 ### Wechselstrom 
-Elektromagnetische Induktion **104**
-Symmetrie Motor-Generator-Prinzip
-Induktionsspannung
-Der Generator **106**
-Pulsierender Gleichstrom **107**
-Der Transformator
-Effektivwerte **107**
+- Elektromagnetische Induktion **104**
+- Symmetrie Motor-Generator-Prinzip
+- Induktionsspannung
+- Der Generator **106**
+- Pulsierender Gleichstrom **107**
+- Der Transformator
+- Effektivwerte **107**
 
 #### Elektromagnetische Wellen
 - Elektromagnetisches Spektrum
