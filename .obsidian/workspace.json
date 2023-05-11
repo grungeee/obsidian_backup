@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "49e15bd0cb6bbe38",
+    "id": "72fbfa9f632c5e1d",
     "type": "split",
     "children": [
       {
-        "id": "7ae00c59804d839b",
+        "id": "34e41bbaf56584f8",
         "type": "tabs",
         "children": [
           {
-            "id": "3b9507bbedcfc0c8",
+            "id": "3a58f7dbf00d8aac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "493baace7315e63a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "df203c93034edbe0",
+    "id": "3ea98a3c28958ee3",
     "type": "split",
     "children": [
       {
-        "id": "074d889b9378c10a",
+        "id": "d217f3c39149b91a",
         "type": "tabs",
         "children": [
           {
-            "id": "95810e679cb66366",
+            "id": "d68630a3642a7473",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "77781cbd830c241f",
+            "id": "7d87ccb8cf42ea22",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,15 +58,7 @@
             }
           },
           {
-            "id": "668f3b5ce6454f62",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a85ba5b718c9b11",
+            "id": "7a45efd5134548ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,52 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "984f45fc72837dec",
+    "id": "2fd2c5f486727da5",
     "type": "split",
     "children": [
       {
-        "id": "2a7d923fb5c732e8",
+        "id": "414f2234948e2cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0fc47a56523d02",
+            "id": "8ba0a127c50fa5ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4aae2f4a15c21b1c",
+            "id": "38c6e98a8b6128f8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fcb8f6d58c3f3b56",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6bb80f4696b0797e",
+            "id": "57630898cd5a90ce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,87 +120,72 @@
             }
           },
           {
-            "id": "55a53e52faeb7bb3",
+            "id": "412d266547488ba9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "493baace7315e63a",
+  "active": "3a58f7dbf00d8aac",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "Untitled.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack",
-    "🏡 Home.md",
-    "misc/Obsidian Git.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten JIC.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
-    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
-    "WiFi-Share/Schweißtechnik/Schweißtechnik.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Dotierung.md",
-    "Excalidraw/Schriftblockbreite.excalidraw.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen",
+    "🏡 Home.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/das magische Dreieck.excalidraw.md",
-    "Excalidraw/Schriftblockbreite.excalidraw.svg",
-    "Excalidraw/das magische Dreieck.excalidraw.svg",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Potentiometer.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Leiter, Halbleiter, Nichtleiter.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/leiter,halbleiter,nichtleiter.png",
-    "leiter,halbleiter,nichtleiter.png.md",
-    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
     "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
-    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
-    "Excalidraw/Drawing 2023-05-06 20.37.44.excalidraw.svg",
-    "pull.md",
-    "conflict-files-obsidian-git.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Pasted image 20230505213720.png",
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder",
-    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
-    "publish.css",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
-    "WiFi-Share/Elektrotechnik Grundlagen",
-    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
-    "WiFi-Share/Werkstofftechnik/Stack",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/WiFi-Share",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images",
-    "Fragen.canvas"
+    "Excalidraw/Schriftblockbreite.excalidraw.svg",
+    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
+    "Excalidraw/das magische Dreieck.excalidraw.svg",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrostatische Aufladung.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Piezoelektrischer Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Photovoltaischer Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektromagnetische Induktion.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Thermoelektrische Effekte.md",
+    "Peltier-Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Seebeck-Effekt.md"
   ]
 }
