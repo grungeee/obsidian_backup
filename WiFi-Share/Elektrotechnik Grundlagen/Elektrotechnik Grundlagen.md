@@ -99,6 +99,8 @@
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
 
+ >Der **Widerstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
+
 
 >Das **Formelzeichen** für den Widerstand ist *R* 
 >Die **Einheit** des Widerstandes ist das *Ohm (Ω)*
