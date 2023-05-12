@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7c2814adcf6b75e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3a58f7dbf00d8aac",
+  "active": "c7c2814adcf6b75e",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "publish (1).css",
