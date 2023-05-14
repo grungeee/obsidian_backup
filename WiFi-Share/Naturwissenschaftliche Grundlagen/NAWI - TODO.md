@@ -1,4 +1,6 @@
->![][[NAWI - TODO]]
+>[!todo ]
+
+[[NAWI - TODO]]
 ## Tag 1:
 ### Grundlegendes
 - Das Wesen der Physik **5-6**
