@@ -14,7 +14,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
- v \  = \frac{\Delta s}{\Delta t}  s \s1
+ v \  = \frac{\Delta s}{\Delta t} =  {s_{1}} - \frac 
 \end{aligned}&&
 \end{flalign}
 $$
