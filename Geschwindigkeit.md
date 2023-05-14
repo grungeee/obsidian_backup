@@ -15,8 +15,8 @@ $$
 \begin{flalign}
 \begin{aligned}
 v \ = \frac {s}{t}
+\end{aligned}&&
 \end{flalign}
-\end{aligned}
 $$
 
 $$
