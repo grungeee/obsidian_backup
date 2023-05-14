@@ -11,8 +11,14 @@ $$
 \end{flalign}
 $$
 
--
-j
+$$
+\begin{flalign}
+\begin{aligned}
+ v \  = \frac{\Delta s}{\Delta t} = \frac{s_2 - s_1} {s_2 - s_1} \ bzw. v \ = \frac {s}{t}
+\end{aligned}&&
+\end{flalign}
+$$
+
 $$
 \begin{flalign}
 \begin{aligned}
@@ -22,11 +28,3 @@ $$
 $$
 ``` 
 
-$$
-\begin{flalign}
-\begin{aligned}
- v \  = \frac{\Delta s}{\Delta t} = \frac{s_2 - s_1} {s_2 - s_1} \ bzw. v \ = 
-\end{aligned}&&
-\end{flalign}
-$$
-			
