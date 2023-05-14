@@ -11,8 +11,12 @@
             "id": "6ca086adb6c979a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+              }
             }
           }
         ],
@@ -144,29 +152,30 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6ca086adb6c979a7",
+  "active": "03c0ff086aef7e5f",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Die zusätzlichen Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Naturwissenschaftliche Grundlagen (1).md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die zusätzlichen Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Arten der Bewegung.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen (1).md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - TODO.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/SI - System.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Isotope.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Größen und Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Geschwindigkeit v.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/SI - System.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Isotope.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Größen und Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeit v.md",
     "Excalidraw/SI Einheiten.excalidraw.svg",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Die abgeleiteten Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die abgeleiteten Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Leistung P.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "🏡 Home.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
     "Excalidraw/SI Einheiten.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
