@@ -25,7 +25,8 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
- v \  = \frac{\Delta s}{\Delta t} =  s_{2} - {s_{1}} \frac 
+ v \  = \frac{\Delta s}{\Delta t} =  s_{2} - s_{1} \frac s_{2} - s_{1}
 \end{aligned}&&
 \end{flalign}
 $$
+	
