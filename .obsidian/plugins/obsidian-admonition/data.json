@@ -12,6 +12,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "formel": {
+      "type": "formel",
+      "color": "15, 149, 178",
+      "icon": {
+        "type": "obsidian",
+        "name": "formula"
+      },
+      "command": false,
+      "title": "Formel",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
     }
   },
   "syntaxHighlight": false,
@@ -29,7 +42,10 @@
     "other": true,
     "advanced": false
   },
-  "icons": [],
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
