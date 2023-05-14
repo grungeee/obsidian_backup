@@ -6,7 +6,7 @@ AeaEe
 Abgeleitete Einheiten sind Maßeinheiten, die durch Kombination oder Ableitung von [[SI - System|Grundeinheiten]] gebildet werden. 
 
 Ein Beispiel für eine abgeleitete Einheit ist die **Geschwindigkeit**, die sich aus der Division der Länge durch die Zeit ableitet. Die Einheit für Geschwindigkeit ist Meter pro Sekunde (m/s). 
-``` ad-info
+``` ad-info title
  Formel
 ``` 
 
