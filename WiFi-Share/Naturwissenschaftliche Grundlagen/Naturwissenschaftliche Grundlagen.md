@@ -21,9 +21,7 @@
 #### Isotope
 Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **Neutronen** im Atomkern *unterscheidet*, aber die *gleiche Anzahl* von **Protonen** und damit die gleiche Ordnungszahl aufweist.
 
-#### Die abgeleiteten Einheiten
-![[Die abgeleiteten Einheiten]]
-#### ![[Die zusätzlichen Einheiten]]
+#### [[Die abgeleiteten Einheiten]]
 #### Die Vorsätze 
 ## Grundlagen der Kinematik
 ### Arten der Bewegung 
