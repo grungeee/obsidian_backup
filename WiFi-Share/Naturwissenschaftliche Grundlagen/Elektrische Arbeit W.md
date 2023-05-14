@@ -1,3 +1,6 @@
+```ad-info
+title: Formel
+
 
 $$
 \begin{flalign}
@@ -8,4 +11,6 @@ $$
 $$
 
 
+
+```
 ![[Physikalische Arbeit W]]
