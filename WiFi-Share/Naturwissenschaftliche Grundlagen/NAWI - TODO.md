@@ -2,7 +2,7 @@
 ## Tag 1:
 ### Grundlegendes
 - [ ] Das Wesen der Physik **5-6**
-- [ ] Das Internationale Einheitssystem **6**
+- [x] Das Internationale Einheitssystem **6**
 - [ ] Die Basiseinheiten **7**
 - [ ] Die abgeleiteten Einheiten **7**
 - [ ] Die zusätzlichen Einheiten **7**
@@ -23,54 +23,54 @@
 - [ ] Elekronenanordnung der Edelgase **132**
 
 ### Molekulare Stoffe
-- Elektroenpaarbildung **135-136**
-- Eigenschaften von Wasser **138**
-- Wasserstoff - H2 **139**
-- Luft, Wasser, Erde **141 - 143**
+- [ ] Elektroenpaarbildung **135-136**
+- [ ] Eigenschaften von Wasser **138**
+- [ ] Wasserstoff - H2 **139**
+- [ ] Luft, Wasser, Erde **141 - 143**
 
 ### Chemische Elemente 
-- Was sind chemische Elemente
-- Was sind Elemente
-- Chemische Verbindung **118**
-- Synthese / Analyse
-- Chemischer Vorgang
-- Physikalischer Vorgang **111**
-- Chemische Reaktion
-- Chemie und Stoffe: **110**
-- Stoffe als Gegenstand der Chemie **111**
-- Festkörper, Flüssigkeiten und Gase **112**
-- Mischungen und Lösungen **115**
-- Trennung von Mischungen **116**
-- Chemische Verbindungen - Elemente **118**
+- [ ] Was sind chemische Elemente
+- [ ] Was sind Elemente
+- [ ] Chemische Verbindung **118**
+- [ ] Synthese / Analyse
+- [ ] Chemischer Vorgang
+- [ ] Physikalischer Vorgang **111**
+- [ ] Chemische Reaktion
+- [ ] Chemie und Stoffe: **110**
+- [ ] Stoffe als Gegenstand der Chemie **111**
+- [ ] Festkörper, Flüssigkeiten und Gase **112**
+- [ ] Mischungen und Lösungen **115**
+- [ ] Trennung von Mischungen **116**
+- [ ] Chemische Verbindungen - Elemente **118**
 
 ## Tag 2:
 
 ### Wiederholung / Verftiefung
-- Das Internationale Enhaeitssystem. **6**
-- Die Basiseinheiten **7**
-- Die Vorsätze **7**
-- Aufbau der Atome **120**
-- Periodensystem der Elemente **126**
-- Was sind Elemente und Moleküle **136**
+- [ ] Das Internationale Enhaeitssystem. **6**
+- [ ] Die Basiseinheiten **7**
+- [ ] Die Vorsätze **7**
+- [ ] Aufbau der Atome **120**
+- [ ] Periodensystem der Elemente **126**
+- [ ] Was sind Elemente und Moleküle **136**
 
 ### Elektrizität und Magnetismus
-- Einführung **88-89**
-- Elektrische Ladung **90**
-- Elektisches Feld **91**
-- Eigenschaften von Feldlinen **92**
-- Elektrisches Potenzial **93**
-- Elektrischer Durchschlag
-- Elektrische Spannung
-- Spannngsquellen **94**
-- Kondensator **94**
-- Aufladung eines Kondensators 
-- Kapazität eines Kondensators 
-- Anwendungen ???
-- Elektrischer Stromkreis **96**
-- Die elektrische Stromstärke **96**
-- Stromrechnungen
-- Elektrischer Widerstand
-- Ohm'sches Gesetz **98**
+- [ ] Einführung **88-89**
+- [ ] Elektrische Ladung **90**
+- [ ] Elektisches Feld **91**
+- [ ] Eigenschaften von Feldlinen **92**
+- [ ] Elektrisches Potenzial **93**
+- [ ] Elektrischer Durchschlag
+- [ ] Elektrische Spannung
+- [ ] Spannngsquellen **94**
+- [ ] Kondensator **94**
+- [ ] Aufladung eines Kondensators 
+- [ ] Kapazität eines Kondensators 
+- [ ] Anwendungen ???
+- [ ] Elektrischer Stromkreis **96**
+- [ ] Die elektrische Stromstärke **96**
+- [ ] Stromrechnungen
+- [ ] Elektrischer Widerstand
+- [ ] Ohm'sches Gesetz **98**
 
 ### Elektrowärme und elektrische Leistung 
 <<<<<<< HEAD
