@@ -12,6 +12,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "Formel": {
+      "type": "Formel",
+      "color": "15, 149, 178",
+      "icon": {
+        "type": "obsidian",
+        "name": "formula"
+      },
+      "command": false,
+      "title": "Formel",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
     }
   },
   "syntaxHighlight": false,
