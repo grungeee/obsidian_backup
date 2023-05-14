@@ -14,7 +14,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
- v \  = \frac{\Delta s}{\Delta t} = const
+ v \  = \frac{\Delta s}{\Delta t}  s \s1
 \end{aligned}&&
 \end{flalign}
 $$
