@@ -1,28 +1,26 @@
->[!todo ]
-
-[[NAWI - TODO]]
+>[!todo ] [[NAWI - TODO]]
 ## Tag 1:
 ### Grundlegendes
-- Das Wesen der Physik **5-6**
-- Das Internationale Einheitssystem **6**
-- Die Basiseinheiten **7**
-- Die abgeleiteten Einheiten **7**
-- Die zusätzlichen Einheiten **7**
-- Die Vorsätze **7**
+- [ ] Das Wesen der Physik **5-6**
+- [ ] Das Internationale Einheitssystem **6**
+- [ ] Die Basiseinheiten **7**
+- [ ] Die abgeleiteten Einheiten **7**
+- [ ] Die zusätzlichen Einheiten **7**
+- [ ] Die Vorsätze **7**
 
 ### Die Anwendungen des Taschenrechners
-- Der Exponent **8**
-- Übungen **9**
+- [ ] Der Exponent **8**
+- [ ] Übungen **9**
 
 ### Aufbau der Atome
-- Elementarteilchen **120-121**
-- Masse von Atomen **122**
-- Elektronenhülle **124**
+- [ ] Elementarteilchen **120-121**
+- [ ] Masse von Atomen **122**
+- [ ] Elektronenhülle **124**
 
 ### Periodensystem der Elemente
-- Aufbaue des Periodensystem **126-127**
-- Einige Elementfamilien **130**
-- Elekronenanordnung der Edelgase **132**
+- [ ] Aufbaue des Periodensystem **126-127**
+- [ ] Einige Elementfamilien **130**
+- [ ] Elekronenanordnung der Edelgase **132**
 
 ### Molekulare Stoffe
 - Elektroenpaarbildung **135-136**
