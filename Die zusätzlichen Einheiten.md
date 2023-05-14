@@ -1,1 +1,1 @@
-Das sind Einheiten, die nicht in das Schema des SI-S
+Das sind Einheiten, die nicht in das Schema des SI-Systems passen: z.B.: *Minuten*, Stunden
