@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "e9e88636778264ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd3556b7e40a170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cbb9fd3327957db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "73c8df6cb61b5fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca086adb6c979a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e04f99cccdbd2258",
+    "type": "split",
+    "children": [
+      {
+        "id": "c078fc66c25f442c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c0ff086aef7e5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "870ac998cecae73c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4248b5674f28cff2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7ddc52e592c28f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "670d1b383c98b0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6812511c48f4d08c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90bad8dc261c0c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ee463f96743a866",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8269c629c2f88c45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-stille:Toggle Stille": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "5cbb9fd3327957db",
+  "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "Excalidraw/SI Einheiten.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
+    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
+    "Excalidraw/Schriftblockbreite.excalidraw.svg",
+    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
+    "Excalidraw/das magische Dreieck.excalidraw.svg",
+    "Excalidraw/das magische Dreieck.excalidraw.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md"
+  ]
+}
