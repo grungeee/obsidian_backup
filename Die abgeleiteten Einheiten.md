@@ -11,7 +11,7 @@ Ein Beispiel für eine abgeleitete Einheit ist die **Geschwindigkeit**, die sich
 $$
 \begin{flalign}
 \begin{aligned}
- v \ 
+ v \ (m/s)
 \end{aligned}&&
 \end{flalign}
 $$
