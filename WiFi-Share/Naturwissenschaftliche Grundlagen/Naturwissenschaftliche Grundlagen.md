@@ -71,7 +71,6 @@
 
 ### Elementarteilchen
 
-### Masse von Atomen
 
 ### Elektronenhülle
 
