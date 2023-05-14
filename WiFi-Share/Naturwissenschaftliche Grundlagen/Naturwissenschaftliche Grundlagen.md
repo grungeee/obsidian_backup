@@ -9,7 +9,6 @@
 #### Die Vorsätze 
 
 ## Atomaufbau
-
 #### Masse von Atomen
 #### Elektronenhülle
 #### [[Isotope]]
