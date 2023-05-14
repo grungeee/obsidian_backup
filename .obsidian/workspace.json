@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "c7c2814adcf6b75e",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
@@ -174,7 +175,6 @@
     "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Thermoelektrische Effekte.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
