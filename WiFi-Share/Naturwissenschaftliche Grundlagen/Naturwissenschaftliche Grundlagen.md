@@ -1,11 +1,7 @@
 >[!info] [[NAWI - Unterrichtsplan|Unterrichtsplan]]
 
-<<<<<<< HEAD
-
-=======
 ## Grundlegendes
 ### Das Wesen der Physik 
->>>>>>> kohai3
 
 ### SI - System (7 Basiseinheiten)
 
@@ -18,7 +14,6 @@
 | Stromstärke | I             | 1 Ampere    | 1 A   |
 | Stoffmenge  | n             | 1 Mol       | 1 mol |
 | Lichtstärke | Iv            | 1 Candela   | 1 cd  |
-<<<<<<< HEAD
 ### Größen und Einheiten
 ![[SI Einheiten.excalidraw]]
 
@@ -26,7 +21,6 @@
 #### Isotope
 Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **Neutronen** im Atomkern *unterscheidet*, aber die *gleiche Anzahl* von **Protonen** und damit die gleiche Ordnungszahl aufweist.
 
-=======
 #### Die abgeleiteten Einheiten
 #### Die zusätzlichen Einheiten
 #### Die Vorsätze 
