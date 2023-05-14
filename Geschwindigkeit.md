@@ -11,14 +11,8 @@ $$
 \end{flalign}
 $$
 
-$$
-\begin{flalign}
-\begin{aligned}
- v \  = \frac{\Delta s}{\Delta t} =  {s_{1}} - \frac 
-\end{aligned}&&
-\end{flalign}
-$$
-
+-
+j
 $$
 \begin{flalign}
 \begin{aligned}
@@ -27,3 +21,11 @@ $$
 \end{flalign}
 $$
 ``` 
+
+$$
+\begin{flalign}
+\begin{aligned}
+ v \  = \frac{\Delta s}{\Delta t} =  s_{2} - {s_{1}} \frac 
+\end{aligned}&&
+\end{flalign}
+$$
