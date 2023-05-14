@@ -8,6 +8,6 @@
 | Stoffmenge  | n             | 1 Mol       | 1 mol |
 | Lichtstärke | Iv            | 1 Candela   | 1 cd  |
 
->[!info] Syst Basiseinheiten
+>[!info] Système Internationale
+>Das Internationale Einheitensystem mit Basiseinheiten 
 
-éée`è
