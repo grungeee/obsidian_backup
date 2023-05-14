@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73c8df6cb61b5fc6",
+        "id": "fdd3556b7e40a170",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d5c3d35cd9f7e1",
+            "id": "6ca086adb6c979a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,9 +144,31 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "03c0ff086aef7e5f",
+  "active": "6ca086adb6c979a7",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - TODO.md",
+    "Die zusätzlichen Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+    "Die abgeleiteten Einheiten.md",
+    "Geschwindigkeit v.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W (1).md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "🏡 Home.md",
+    "SI - System.md",
+    "Arten der Bewegung.md",
+    "Isotope.md",
+    "Größen und Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+    "Excalidraw/SI Einheiten.excalidraw.svg",
     "Excalidraw/SI Einheiten.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
@@ -164,11 +179,6 @@
     "Excalidraw/Stromkreis_BSP.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Excalidraw/das magische Dreieck.excalidraw.svg",
-    "Excalidraw/das magische Dreieck.excalidraw.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md"
+    "Excalidraw/das magische Dreieck.excalidraw.md"
   ]
 }
