@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die zusätzlichen Einheiten.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Die zusätzlichen Einheiten.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die zusätzlichen Einheiten.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
             }
           }
@@ -196,10 +195,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d1e8efb69cfa261a",
+  "active": "5cbb9fd3327957db",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "Die zusätzlichen Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "Die abgeleiteten Einheiten.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
     "Excalidraw/SI Einheiten.excalidraw.md",
