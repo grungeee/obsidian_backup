@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "72fbfa9f632c5e1d",
+    "id": "e9e88636778264ab",
     "type": "split",
     "children": [
       {
-        "id": "34e41bbaf56584f8",
+        "id": "73c8df6cb61b5fc6",
         "type": "tabs",
         "children": [
           {
-            "id": "3a58f7dbf00d8aac",
+            "id": "d2d5c3d35cd9f7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,35 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c7c2814adcf6b75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3ea98a3c28958ee3",
+    "id": "e04f99cccdbd2258",
     "type": "split",
     "children": [
       {
-        "id": "d217f3c39149b91a",
+        "id": "c078fc66c25f442c",
         "type": "tabs",
         "children": [
           {
-            "id": "d68630a3642a7473",
+            "id": "03c0ff086aef7e5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "7d87ccb8cf42ea22",
+            "id": "870ac998cecae73c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "7a45efd5134548ee",
+            "id": "4248b5674f28cff2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,44 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "2fd2c5f486727da5",
+    "id": "7ddc52e592c28f8c",
     "type": "split",
     "children": [
       {
-        "id": "414f2234948e2cc9",
+        "id": "670d1b383c98b0f1",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba0a127c50fa5ab",
+            "id": "6812511c48f4d08c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "38c6e98a8b6128f8",
+            "id": "90bad8dc261c0c3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "57630898cd5a90ce",
+            "id": "1ee463f96743a866",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "412d266547488ba9",
+            "id": "8269c629c2f88c45",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
             }
           }
@@ -147,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,40 +151,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c7c2814adcf6b75e",
+  "active": "03c0ff086aef7e5f",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "publish (1).css",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Thermoelektrische Effekte.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Seebeck-Effekt.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Piezoelektrischer Effekt.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Photovoltaischer Effekt.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrostatische Aufladung.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektromagnetische Induktion.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen",
-    "🏡 Home.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
-    "Excalidraw/das magische Dreieck.excalidraw.md",
+    "Excalidraw/SI Einheiten.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
     "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
     "Excalidraw/Schriftblockbreite.excalidraw.svg",
-    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
+    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Excalidraw/das magische Dreieck.excalidraw.svg",
-    "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
-    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg"
+    "Excalidraw/das magische Dreieck.excalidraw.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md"
   ]
 }
