@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   "active": "c7c2814adcf6b75e",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "publish (1).css",
     "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
@@ -184,7 +185,6 @@
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrostatische Aufladung.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektromagnetische Induktion.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen",
