@@ -9,8 +9,6 @@ Ein Beispiel für eine abgeleitete Einheit ist die **Geschwindigkeit**, die sich
 ``` ad-info
 title: Formel
  
-``` 
-
 $$
 \begin{flalign}
 \begin{aligned}
@@ -25,6 +23,8 @@ $$
 \end{aligned}&&
 \end{flalign}
 $$
+``` 
+
 
 
 
