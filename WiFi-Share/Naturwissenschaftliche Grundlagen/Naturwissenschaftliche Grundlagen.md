@@ -6,7 +6,8 @@
 ### [[SI - System]] (7 Basiseinheiten)
 
 ### Größen und Einheiten
-![[SI Einheiten.excalidraw.sv]]
+![[SI Einheiten.excalidraw.svg]]
+%%[[SI Einheiten.excalidraw.md|🖋 Edit in Excalidraw]], and the [[SI Einheiten.excalidraw.dark.svg|dark exported image]]%%
 
 #### [[Die abgeleiteten Einheiten]]
 #### Die Vorsätze 
