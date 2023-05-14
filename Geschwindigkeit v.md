@@ -35,3 +35,7 @@ v \  = \frac{\Delta s}{\Delta t} = const
 $$
 ``` 
 
+``` ad-info formel
+
+```
+
