@@ -10,10 +10,19 @@ $$
 \end{aligned}&&
 \end{flalign}
 $$
+
 $$
 \begin{flalign}
 \begin{aligned}
- v \  = \frac{\Delta s}{\Delta t} 
+ v \  = \frac{\Delta s}{\Delta t} = const
+\end{aligned}&&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+ v \  = \frac{\Delta s}{\Delta t} = const
 \end{aligned}&&
 \end{flalign}
 $$
