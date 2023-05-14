@@ -19,8 +19,8 @@
 
 ### Atomaufbau
 
-- Masse von Atomen **122**
-- Elektronenhülle **124**
+#### Masse von Atomen
+#### Elektronenhülle
 #### [[Isotope]]
 #### [[Die abgeleiteten Einheiten]]
 #### Die Vorsätze 
@@ -72,7 +72,6 @@
 ### Elementarteilchen
 
 
-### Elektronenhülle
 
 ### Isotope
 Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **Neutronen** im Atomkern *unterscheidet*, aber die *gleiche Anzahl* von **Protonen** und damit die gleiche Ordnungszahl aufweist.
