@@ -23,7 +23,7 @@
 #### Die Vorsätze 
 
 ## Grundlagen der Kinematik
-### Arten der Bewegung 
+### erten der Bewegung 
 ### Gleichförmige Bewegung 
 ### Beschleunigung 
 ### Rotation 
