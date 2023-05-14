@@ -1,1 +1,3 @@
-Das sind Einheiten von Gößen, die durch Kombination von Grundgrößen entstehen, z.B. Newtn N, Ohm 8Vv0v8V
+Das sind Einheiten von Gößen, die durch Kombination von Grundgrößen entstehen, z.B. Newton N, Ohm Ω 
+- Newton N
+- 
