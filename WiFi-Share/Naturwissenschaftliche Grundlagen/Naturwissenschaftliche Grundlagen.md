@@ -4,12 +4,7 @@
 ### Das Wesen der Physik 
 
 ### [[SI - System]] (7 Basiseinheiten)
-
-### Größen und Einheiten
-
-![[SI Einheiten.excalidraw.svg]]
-%%[[SI Einheiten.excalidraw.md|🖋 Edit in Excalidraw]], and the [[SI Einheiten.excalidraw.dark.svg|dark exported image]]%%
-
+### [[Größen und Einheiten]]
 #### [[Die abgeleiteten Einheiten]]
 #### Die Vorsätze 
 
