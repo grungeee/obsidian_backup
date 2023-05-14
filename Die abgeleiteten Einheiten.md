@@ -1,8 +1,3 @@
-Das sind Einheiten von Gößen, die durch Kombination von Grundgrößen entstehen, z.B. Newton N, Ohm Ω 
-- Newton N
-- [[Elektrotechnik Grundlagen#Widerstand|Ohm Ω]]
-AeaEe
-
 Abgeleitete Einheiten sind Maßeinheiten, die durch Kombination oder Ableitung von [[SI - System|Grundeinheiten]] gebildet werden. 
 
 Ein Beispiel für eine abgeleitete Einheit ist die **Geschwindigkeit**, die sich aus der Division der Länge durch die Zeit ableitet. Die Einheit für Geschwindigkeit ist Meter pro Sekunde (m/s). 
