@@ -1,1 +1,1 @@
->
+Das sind Einheiten von Gößen, die durch Kombination von Grundgrößen entstehen, z.B. Newtn N, Ohm 
