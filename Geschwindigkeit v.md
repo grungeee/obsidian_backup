@@ -1,5 +1,6 @@
 ``` ad-info 
 title: Formel
+icon: 
  
 $$
 \begin{flalign}
