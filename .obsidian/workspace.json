@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "1fa08efdcab75469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb1cc0d52e086808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "921d1c04c37c4ef2",
             "type": "leaf",
             "state": {
@@ -92,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -159,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
+                "file": "Die abgeleiteten Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
+                "file": "Die abgeleiteten Einheiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md"
+                "file": "Die abgeleiteten Einheiten.md"
               }
             }
           }
@@ -225,10 +201,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cb1cc0d52e086808",
+  "active": "921d1c04c37c4ef2",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
     "Die abgeleiteten Einheiten.md",
     "Geschwindigkeit v.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
@@ -259,7 +236,6 @@
     "Excalidraw/Stromkreis_BSP.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
     "Excalidraw/das magische Dreieck.excalidraw.svg",
-    "Excalidraw/das magische Dreieck.excalidraw.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md"
+    "Excalidraw/das magische Dreieck.excalidraw.md"
   ]
 }

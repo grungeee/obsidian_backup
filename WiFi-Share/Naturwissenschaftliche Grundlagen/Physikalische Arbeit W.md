@@ -1,3 +1,5 @@
+``` ad-info
+title: Formel
 
 $$
 \begin{flalign}
@@ -13,3 +15,5 @@ W = F \cdot s && \\
 \end{aligned} &&
 \end{flalign}
 $$
+
+```
