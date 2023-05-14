@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die abgeleiteten Einheiten.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Die abgeleiteten Einheiten.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die abgeleiteten Einheiten.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md"
               }
             }
           }
@@ -184,7 +183,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0383cae78012370b",
+  "active": "6ca086adb6c979a7",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "Die abgeleiteten Einheiten.md",
