@@ -1,5 +1,9 @@
 
-$$ P=\frac{U^2}{R}={I^2}\cdot{R}$$
+\begin{flalign}
+\begin{aligned}
+ P=\frac{U^2}{R}={I^2}\cdot{R}$$
+\end{aligned}&&
+\end{flalign}
 
 
 $$

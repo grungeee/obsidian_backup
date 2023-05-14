@@ -1,5 +1,3 @@
-### Geschwindigkeit v
-
 ``` ad-info 
 title: Formel
  
