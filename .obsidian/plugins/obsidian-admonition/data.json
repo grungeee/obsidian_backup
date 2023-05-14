@@ -29,7 +29,9 @@
     "other": true,
     "advanced": false
   },
-  "icons": [],
+  "icons": [
+    "octicons"
+  ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
