@@ -1,5 +1,6 @@
-``` ad-
-```
+``` ad-info
+title: Foremel
+
 
 $$
 \begin{flalign}
@@ -10,6 +11,7 @@ $$
 $$
 
 
+$$
 \begin{flalign}
 \begin{aligned}
  P = U \cdot I
@@ -28,4 +30,6 @@ $$
 \end{flalign}
 $$
 
+```
 ![[Elektrische Arbeit W]]
+
