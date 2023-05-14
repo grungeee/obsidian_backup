@@ -18,6 +18,9 @@
 ![[SI Einheiten.excalidraw]]
 
 ### Atomaufbau
+
+- Masse von Atomen **122**
+- Elektronenhülle **124**
 #### [[Isotope]]
 #### [[Die abgeleiteten Einheiten]]
 #### Die Vorsätze 
