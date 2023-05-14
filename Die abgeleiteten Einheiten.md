@@ -1,27 +1,6 @@
 Abgeleitete Einheiten sind Maßeinheiten, die durch Kombination oder Ableitung von [[SI - System|Grundeinheiten]] gebildet werden. 
 
 Ein Beispiel für eine abgeleitete Einheit ist die [[Geschwindigkeit]], die sich aus der Division der Länge durch die Zeit ableitet. Die Einheit für Geschwindigkeit ist Meter pro Sekunde (m/s). 
-``` ad-info 
-title: Formel
- 
-$$
-\begin{flalign}
-\begin{aligned}
- v \ (m/s)
-\end{aligned}&&
-\end{flalign}
-$$
-$$
-\begin{flalign}
-\begin{aligned}
- v \  = \frac{\Delta s}{\Delta t} 
-\end{aligned}&&
-\end{flalign}
-$$
-``` 
-
-
-
 
 >Hierbei wird die Grundeinheit Meter für die Länge durch die Grundeinheit Sekunde für die Zeit geteilt.
 

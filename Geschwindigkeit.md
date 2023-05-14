@@ -6,7 +6,7 @@ title: Formel
 $$
 \begin{flalign}
 \begin{aligned}
-[v] \ (m/s)
+v \ (m/s)
 \end{aligned}&&
 \end{flalign}
 $$
