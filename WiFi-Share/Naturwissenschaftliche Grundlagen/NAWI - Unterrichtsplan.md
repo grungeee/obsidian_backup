@@ -72,7 +72,11 @@
 - Ohm'sches Gesetz **98**
 
 ### Elektrowärme und elektrische Leistung 
+<<<<<<< HEAD
 - [[Elektrische Leistung P]]
+=======
+- Elektrische Leistung
+>>>>>>> kohai3
 
 ### Gefahren des elektrischen Stroms
 - Schutzmaßnahmen **99-101**
@@ -89,6 +93,7 @@
 - Die Lorenz-Kraft **105**
 
 ### Wechselstrom 
+<<<<<<< HEAD
 - Elektromagnetische Induktion **104**
 - Symmetrie Motor-Generator-Prinzip
 - Induktionsspannung
@@ -96,6 +101,15 @@
 - Pulsierender Gleichstrom **107**
 - Der Transformator
 - Effektivwerte **107**
+=======
+Elektromagnetische Induktion **104**
+Symmetrie Motor-Generator-Prinzip
+Induktionsspannung
+Der Generator **106**
+Pulsierender Gleichstrom **107**
+Der Transformator
+Effektivwerte **107**
+>>>>>>> kohai3
 
 #### Elektromagnetische Wellen
 - Elektromagnetisches Spektrum

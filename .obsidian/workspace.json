@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+<<<<<<< HEAD
                 "mode": "source",
                 "source": false
               }
@@ -26,13 +27,14 @@
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+=======
+>>>>>>> kohai3
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +100,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+=======
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+>>>>>>> kohai3
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+=======
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+>>>>>>> kohai3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md"
+=======
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+>>>>>>> kohai3
               }
             }
           }
@@ -165,6 +179,7 @@
       "publish:Publish changes...": false
     }
   },
+<<<<<<< HEAD
   "active": "c7c2814adcf6b75e",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
@@ -187,6 +202,19 @@
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
+=======
+  "active": "3a58f7dbf00d8aac",
+  "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrochemische Zellen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
+>>>>>>> kohai3
     "WiFi-Share/Naturwissenschaftliche Grundlagen",
     "🏡 Home.md",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.md",
@@ -197,8 +225,25 @@
     "Excalidraw/Schriftblockbreite.excalidraw.svg",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.md",
+<<<<<<< HEAD
     "Excalidraw/das magische Dreieck.excalidraw.svg",
     "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
     "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg"
+=======
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.md",
+    "Excalidraw/das magische Dreieck.excalidraw.svg",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
+    "Excalidraw/Stromkreis_BSP.excalidraw 1.svg",
+    "Excalidraw/Ladungsunterschied zwischen den Polen.excalidraw.svg",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektrostatische Aufladung.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Piezoelektrischer Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Photovoltaischer Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Elektromagnetische Induktion.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Thermoelektrische Effekte.md",
+    "Peltier-Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Seebeck-Effekt.md"
+>>>>>>> kohai3
   ]
 }
