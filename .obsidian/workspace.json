@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f211835f497da7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SI - System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e14b1f4321ecf8c0",
             "type": "leaf",
             "state": {
@@ -216,8 +228,9 @@
   },
   "active": "507a83571ba23a6f",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
+    "SI - System.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
     "Arten der Bewegung.md",
     "Isotope.md",
     "Die abgeleiteten Einheiten.md",

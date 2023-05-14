@@ -3,10 +3,10 @@
 ## Grundlegendes
 ### Das Wesen der Physik 
 
-### SI - System (7 Basiseinheiten)
+### [[SI - System]] (7 Basiseinheiten)
 
 ### Größen und Einheiten
-![[SI Einheiten.excalidraw]]
+![[SI Einheiten.excalidraw.sv]]
 
 #### [[Die abgeleiteten Einheiten]]
 #### Die Vorsätze 
