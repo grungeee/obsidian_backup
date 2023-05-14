@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Die abgeleiteten Einheiten.md",
-                "mode": "preview",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die abgeleiteten Einheiten.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Die abgeleiteten Einheiten.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die abgeleiteten Einheiten.md"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md"
               }
             }
           }
@@ -191,8 +191,13 @@
   },
   "active": "00345c558d149fc6",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
     "Die abgeleiteten Einheiten.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca (1).md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "Die zusätzlichen Einheiten.md",
