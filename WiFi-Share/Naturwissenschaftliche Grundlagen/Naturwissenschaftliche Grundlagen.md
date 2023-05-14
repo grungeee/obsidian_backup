@@ -5,8 +5,8 @@
 
 ### [[SI - System]] (7 Basiseinheiten)
 #### [[Die abgeleiteten Einheiten]]
-#### Die Vorsätze 
 #### [[Die zusätzlichen Einheiten]]
+#### Die Vorsätze 
 
 ### Atomaufbau
 
@@ -16,7 +16,7 @@
 
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
-### Gleichförmige Bewegung 
+### Gleichförmige Bewegung
 ### Beschleunigung 
 ### Rotation 
 
