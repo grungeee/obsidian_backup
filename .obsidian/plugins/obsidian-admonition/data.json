@@ -13,8 +13,8 @@
       "noTitle": false,
       "copy": false
     },
-    "Formel": {
-      "type": "Formel",
+    "formel": {
+      "type": "formel",
       "color": "15, 149, 178",
       "icon": {
         "type": "obsidian",

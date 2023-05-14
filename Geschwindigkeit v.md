@@ -1,4 +1,5 @@
-``` ad-info 
+
+``` ad-formel
 title: Formel
 icon: 
  
@@ -34,8 +35,3 @@ v \  = \frac{\Delta s}{\Delta t} = const
 \end{flalign}
 $$
 ``` 
-
-``` ad-info formel
-
-```
-
