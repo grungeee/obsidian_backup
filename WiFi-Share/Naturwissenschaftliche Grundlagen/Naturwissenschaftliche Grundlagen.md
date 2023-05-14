@@ -4,7 +4,6 @@
 ### Das Wesen der Physik 
 
 ### [[SI - System]] (7 Basiseinheiten)
-### [[Größen und Einheiten]]
 #### [[Die abgeleiteten Einheiten]]
 #### Die Vorsätze 
 

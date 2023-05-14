@@ -3,7 +3,7 @@
 ### Grundlegendes
 - [ ] Das Wesen der Physik **5-6**
 - [x] Das Internationale Einheitssystem **6**
-- [ ] Die Basiseinheiten **7**
+- [x] Die Basiseinheiten **7** ✅ 2023-05-14
 - [ ] Die abgeleiteten Einheiten **7**
 - [ ] Die zusätzlichen Einheiten **7**
 - [ ] Die Vorsätze **7**
