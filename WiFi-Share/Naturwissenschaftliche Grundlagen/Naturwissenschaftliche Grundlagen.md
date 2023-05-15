@@ -42,14 +42,14 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-\roh 
+\ [ \rho ] 
 \end{aligned} &&
 \end{flalign}
 $$
 ```
 
 ### Kraftbegriffe - Newton'sche Axiome
-2. Newton'sche Axiom (Trägheitsgesetz)
+1. Newton'sche Axiom (Trägheitsgesetz)
 Das erste newtonische Gesetz, auch als **Trägheitsgesetz** bekannt, besagt, dass ein Körper in Ruhe verharrt oder sich mit konstanter Geschwindigkeit in einer geradlinigen Bewegung fortsetzt, solange keine äußeren Kräfte auf ihn einwirken. Mit anderen Worten: Ein Körper bleibt in seinem gegenwärtigen Zustand der Ruhe oder gleichförmigen Bewegung, solange keine resultierende Kraft auf ihn einwirkt.
 1. Newton'sche Axiom (Dynamisches Grundgesetz)
 
@@ -59,21 +59,28 @@ $$
 \begin{flalign}
 \begin{aligned}
 F = m \cdot a \\&&
-\end{aligned}&&
+\end{aligned} &&
 \end{flalign}
 $$
 $$
 \begin{flalign}
 \begin{aligned}
-a … Beschleunigung, [ \ a \ ] = {m}/{s^{2}}\\&&
-\end{aligned}&&
-\end{flalign}
-$$
-$$
-\begin{flalign}
-\begin{aligned}
-m … Masse \ des \ bescheunigtes Körpers, [ \ m \ ] = kg\\&&
+F … beschleunigend Kraft, \ [ \ F \ ] = kgm/{s^2} = N, N … Newton &&\\
 \end{aligned}
+\end{flalign}
+$$
+$$
+\begin{flalign}
+\begin{aligned}
+a … Beschleunigung, [ \ a \ ] = {m}/{s^{2}}&&\\
+\end{aligned}&&
+\end{flalign}
+$$
+$$
+\begin{flalign}
+\begin{aligned}
+m … Masse \ des \ bescheunigtes Körpers, [ \ m \ ] = kg&&\\
+\end{aligned}&&
 \end{flalign}
 $$
 ```
