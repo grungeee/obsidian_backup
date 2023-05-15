@@ -19,17 +19,6 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{F_p} = Kraft \ parallel \ zum , \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
-\end{aligned} &&
-\end{flalign}
-$$
-
-```
-
-
-$$
-\begin{flalign}
-\begin{aligned}
 m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
@@ -46,8 +35,12 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-h … Höhendifferenz, [ \ g \ ] = 9,81{m}/{s^{2}}&&\\
+h … Höhendifferenz, [ \ h \ ] = m &&\\
 \end{aligned}&&
 \end{flalign}
 $$
+
+```
+
+
 ```
