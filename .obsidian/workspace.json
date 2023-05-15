@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
             }
           }
@@ -204,13 +204,14 @@
   "active": "1ef4ae5c36e8d9b7",
   "lastOpenFiles": [
     "🏡 Home.md",
+    "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
+    "conflict-files-obsidian-git.md",
     "misc/Obsidian Git.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Kinetische Energie Eₖ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
     "Beschleunigungsarbeit Wₐ.md",
-    "conflict-files-obsidian-git.md",
     "Druck P.md",
     "Vorsätze.md",
     "Dichte.md",
@@ -230,7 +231,6 @@
     "misc/ChatGPT_logo_white.svg",
     "misc/ChatGPT_logo_black.svg",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md"
   ]
 }

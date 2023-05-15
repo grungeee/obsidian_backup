@@ -38,6 +38,8 @@
 
 
 
+
+### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
 #### [[Beschleunigende Kraft]]
 #### [[Zentrifugalkraft]]
