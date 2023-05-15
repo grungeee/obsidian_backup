@@ -127,7 +127,7 @@
 - Reaktionsprinzip
 - dazu Beispielrechnungen
 #### Arten von Kräften:
-- Schwerkraft
+- [x] Schwerkraft
 - Druck und Normalkraft
 #### Grundlagen der Kinematik:
 ##### Arten der Bewegung:
