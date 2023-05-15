@@ -1,17 +1,3 @@
----
-up:: Hoje
-tags:: #map
----
-```dataview
-TABLE without ID file.link as "Note Title", file.mday as "Last Modified" 
-FROM [[MOC Articles]] and #article
-SORT file.name asc
-```
->[!info] [[NAWI - Unterrichtsplan|Unterrichtsplan]]
-
-#article
-
-
 
 ## Grundlegendes
 ### Das Wesen der Physik 
