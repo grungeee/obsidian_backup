@@ -19,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-p … Druck; [ \ p \ ] = N/{m^w} = Pa ... Pascal&&\\
+p … Druck; [ \ p \ ] = N/{m^w} = Pa … Pascal&&\\
 \end{aligned}&&
 \end{flalign}
 $$
