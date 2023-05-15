@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-1 \ bar  = {10^5} Pa = N/{m^2} &&\\
+1 \ bar  = {10^5} \ Pa = N/{m^2} &&\\
 \end{aligned}&&
 \end{flalign}
 $$
