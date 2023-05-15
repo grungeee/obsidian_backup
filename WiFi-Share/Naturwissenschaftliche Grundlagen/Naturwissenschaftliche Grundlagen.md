@@ -25,7 +25,7 @@
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
 - [[Schwerkraft]]
-- Druck und Normalkraft **s.27**
+- [[Druck]] und Normalkraft **s.27**
 ![[Pasted image 20230515134400.png]]
 ### [[Gleichförmige Bewegung]]
 
