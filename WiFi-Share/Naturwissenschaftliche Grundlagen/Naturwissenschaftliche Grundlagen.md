@@ -48,7 +48,8 @@
 ### Arbeit 
 Die Drei Einheiten der Arbiet
 [[Physikalische Arbeit W]]
-Hubarbeit
+Hubarbeit Wₕ
+Beschleunigungsarbeit Wₐ
 
 ### Energie 
 ### Leistung 

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "379164f978dbca54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "31becc89b6ea96ef",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md"
               }
             }
           }
@@ -178,10 +190,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7be661dce72009cb",
+  "active": "379164f978dbca54",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
     "Beschleunigende Kraft.md",
     "Vorsätze.md",
