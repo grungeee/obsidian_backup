@@ -32,19 +32,7 @@
             }
           },
           {
-            "id": "0e27716eca997715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfbe667d0b881fa0",
+            "id": "1b9191433b0ac167",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+                "file": "Beschleunigungsarbeit Wₐ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+                "file": "Beschleunigungsarbeit Wₐ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md"
+                "file": "Beschleunigungsarbeit Wₐ.md"
               }
             }
           }
@@ -191,10 +179,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0e27716eca997715",
+  "active": "1b9191433b0ac167",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
     "Beschleunigungsarbeit Wₐ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "conflict-files-obsidian-git.md",
     "Druck P.md",
     "Vorsätze.md",
@@ -210,7 +199,6 @@
     "Druck p.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",

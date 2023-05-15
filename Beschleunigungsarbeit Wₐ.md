@@ -32,3 +32,12 @@ v … Geschwindigkeit, [ \ v \ ] = m/s &&\\
 \end{flalign}
 $$
 ```
+
+Kinetische Energie
+$$
+\begin{flalign}
+\begin{aligned}
+{E_k} = \frac {m \cdot {v^2}} {2} \\&& 
+\end{aligned} &&
+\end{flalign}
+$$
