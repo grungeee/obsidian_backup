@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-W = Arbeit, \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
+{W_h} = m \cdot g \cdot h \\&& 
 \end{aligned} &&
 \end{flalign}
 $$
