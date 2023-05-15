@@ -16,8 +16,9 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 ##### Massenzahl
 **Massenzahl** ist die Summe von *Protonen* und *Neutronen* im Atomkern.
 #### Elektronenhülle
-
 #### [[Isotope]]
+
+#### Ionen
 
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
@@ -91,3 +92,6 @@ Sind wärmeleitend, stromleitend
 
 ### Metallischer Zustand 
 ### Redox - Reaktion 
+*Abgabe* und *Aufnahme* von **Sauerstoff** 
+Aufnahme - Oxidation
+Abgabe - Reduction 
