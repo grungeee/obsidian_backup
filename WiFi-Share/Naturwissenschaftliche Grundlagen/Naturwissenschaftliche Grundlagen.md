@@ -43,7 +43,7 @@
 
 ### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
-Zentrifugalkraft
+[[Zentrifugalkraft]]
 
 
 
