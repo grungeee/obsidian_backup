@@ -36,7 +36,7 @@ $$
 
 
 Hubarbeit: Potenziell Energie
-Wenn ein Körper der Masse m gehoben wir, 
+Wenn ein Körper der Masse m gehoben wird, wird an diesem Körper ein Arbeit verrichtet, die nicht verlohren geht sondern in  
 $$
 \begin{flalign}
 \begin{aligned}
