@@ -31,15 +31,22 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 Dichte $\rho$
 
 
-
-
+``` ad-formel
 $$
 \begin{flalign}
 \begin{aligned}
-\rho = \frac {m}{v}
+\rho = \frac {m}{V}
 \end{aligned} &&
 \end{flalign}
 $$
+$$
+\begin{flalign}
+\begin{aligned}
+\roh 
+\end{aligned} &&
+\end{flalign}
+$$
+```
 
 ### Kraftbegriffe - Newton'sche Axiome
 ### Arten von Kräften 
