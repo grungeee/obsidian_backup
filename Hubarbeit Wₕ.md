@@ -3,7 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-W = {F_p} \cdot s && \\ 
+{W_h} = m \cdot g \cdot h &&\\ 
 \end{aligned} &&
 \end{flalign}
 $$
