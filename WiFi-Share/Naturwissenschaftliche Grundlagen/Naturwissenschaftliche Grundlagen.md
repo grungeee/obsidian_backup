@@ -30,11 +30,24 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 ### Masse und Dichte 
 Dichte $\rho$
 
+
+
+
+$$
+\begin{flalign}
+\begin{aligned}
+\rho = \frac {m}{v}
+\end{aligned} &&
+\end{flalign}
+$$
+
 ### Kraftbegriffe - Newton'sche Axiome
 ### Arten von Kräften 
 
 ### Arbeit 
+Die Drei Einheiten der Arbiet
 ![[Physikalische Arbeit W]]
+
 ### Energie 
 ### Leistung 
 

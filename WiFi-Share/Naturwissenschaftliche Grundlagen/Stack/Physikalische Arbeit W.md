@@ -1,10 +1,9 @@
-``` ad-formel
-title: Formel
 
+``` ad-formel
 $$
 \begin{flalign}
 \begin{aligned}
-1J = 1W = 1Nm && \\
+1J = 1Ws = 1Nm && \\
 \end{aligned} &&
 \end{flalign}
 $$
