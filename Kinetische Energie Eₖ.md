@@ -1,4 +1,4 @@
-Die [[Beschleunigungsarbeit Wₐ]] eines Körpers entspricht der kinetischen Energie Eₖ, die der Körper aaufgrund seiner Geschwindigkeit besitzt.
+Die [[Beschleunigungsarbeit Wₐ]] eines Körpers entspricht der *kinetischen Energie Eₖ*, die der Körper aaufgrund seiner Geschwindigkeit besitzt.
 
 ``` ad-formel
 
