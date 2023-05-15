@@ -30,7 +30,7 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 ### [[Gleichförmige Bewegung]]
 
 
-### Beschleunigung 
+### [[Beschleunigung]]
 ### [[Rotation  und Translation]]
 
 
