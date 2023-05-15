@@ -1,110 +1,39 @@
 {
   "main": {
-    "id": "e9e88636778264ab",
+    "id": "40dde09076e06442",
     "type": "split",
     "children": [
       {
-        "id": "fdd3556b7e40a170",
+        "id": "1b194155f37b8d78",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "03e14172bf58fe31",
-=======
-            "id": "3b9507bbedcfc0c8",
->>>>>>> kohai3
-=======
-            "id": "6ca086adb6c979a7",
->>>>>>> senpai
+            "id": "7ebf8897c206dd22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "9f9d554188dd6851",
-=======
-            "id": "493baace7315e63a",
->>>>>>> kohai3
-=======
-            "id": "7be661dce72009cb",
->>>>>>> senpai
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
->>>>>>> kohai3
-=======
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "379164f978dbca54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31becc89b6ea96ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
->>>>>>> senpai
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "currentTab": 1,
-        "stacked": true
-=======
-        "currentTab": 1
->>>>>>> kohai3
-=======
-        "currentTab": 1,
-        "stacked": true
->>>>>>> senpai
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e04f99cccdbd2258",
+    "id": "ed406a15b82618ed",
     "type": "split",
     "children": [
       {
-        "id": "c078fc66c25f442c",
+        "id": "dea9b041f1449870",
         "type": "tabs",
         "children": [
           {
-            "id": "03c0ff086aef7e5f",
+            "id": "b535e0da02c25386",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -114,7 +43,7 @@
             }
           },
           {
-            "id": "870ac998cecae73c",
+            "id": "bcbbe707ddb2819d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -129,7 +58,7 @@
             }
           },
           {
-            "id": "4248b5674f28cff2",
+            "id": "ddbd341c4e50609f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -140,35 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7ddc52e592c28f8c",
+    "id": "d6fabc8829228524",
     "type": "split",
     "children": [
       {
-        "id": "670d1b383c98b0f1",
+        "id": "153619249b46bd70",
         "type": "tabs",
         "children": [
           {
-            "id": "6812511c48f4d08c",
+            "id": "93595132daf572e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
->>>>>>> kohai3
-=======
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
->>>>>>> senpai
-=======
->>>>>>> kohai3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,30 +97,19 @@
             }
           },
           {
-            "id": "90bad8dc261c0c3f",
+            "id": "3e5f1fc7a7beb189",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
->>>>>>> kohai3
-=======
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
->>>>>>> senpai
-=======
->>>>>>> kohai3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1ee463f96743a866",
+            "id": "8c84dd6b487bc116",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -214,33 +120,21 @@
             }
           },
           {
-            "id": "8269c629c2f88c45",
+            "id": "963d7618d8b025e8",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md"
-=======
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md"
->>>>>>> kohai3
-=======
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
->>>>>>> senpai
               }
-=======
-              "state": {}
->>>>>>> kohai3
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,135 +151,6 @@
       "publish:Publish changes...": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "9f9d554188dd6851",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-    "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
-    "🏡 Home.md",
-    "misc/Obsidian Git.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images/Ansichten.md",
-=======
-  "active": "493baace7315e63a",
-=======
-  "active": "7be661dce72009cb",
->>>>>>> senpai
-  "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
-    "Beschleunigende Kraft.md",
-    "Vorsätze.md",
-    "Die Vorsätze.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
-    "Dichte.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Rotation  und Translation.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Gleichförmige Bewegung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
-=======
-  "active": "03c0ff086aef7e5f",
-  "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
->>>>>>> kohai3
-    "conflict-files-obsidian-git.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca (1).md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten_converted.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/SI - System.md",
-<<<<<<< HEAD
-=======
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Rotation  und Translation.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
->>>>>>> kohai3
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Isotope.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Größen und Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Gleichförmige Bewegung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeit v.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Leistung P.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die zusätzlichen Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die abgeleiteten Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Arten der Bewegung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Thermoelektrische Effekte.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Seebeck-Effekt.md",
-    "Excalidraw/SI Einheiten.excalidraw.svg",
-<<<<<<< HEAD
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
-=======
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
->>>>>>> kohai3
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
-<<<<<<< HEAD
-    "WiFi-Share/Werkstofftechnik/Stack",
->>>>>>> kohai3
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
-    "WiFi-Share/WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/WiFi-Share",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images",
-<<<<<<< HEAD
-    "Wifi-share/WiFi-Share/Technisches Zeichenen",
-    "Wifi-share/WiFi-Share",
-    "WiFi-Share/Technisches Zeichenen/Fragen & Antworten Technisch Zeichnen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Kühlschmierstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md",
-    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
-    "misc/ChatGPT_logo_black.svg",
-    "misc/ChatGPT_logo_white.svg",
-    "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Gesenkschmieden.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Fertigungsverfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
-    "antworten.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
-    "WiFi-Share/Werkstofftechnik/Stack",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten.docx.pdf",
-    "WiFi-Share/Schweißtechnik/FragenAntworten.docx.html",
-    "WiFi-Share/Werkstofftechnik/📁 Images/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images/56F3C984-8EF6-434A-A413-EAEA3A8D49CD.jpeg",
-    "WiFi-Share/Werkstofftechnik/📁 Images/04B6597A-0D17-4115-8C45-2FD5E1E549DA.jpeg",
-    "WiFi-Share/Schweißtechnik/📁 Images/Pasted image 20230422165150.png",
-    "Pasted image 20230420201936.jpg",
-    "Pasted image 20230420201903.jpg",
-    "Pasted image 20230420200149.png",
-    "WiFi-Share/Werkstofftechnik/Pictures/DAAE2B91-4B42-4963-81EE-46CEE2943DCC.jpeg",
-=======
->>>>>>> kohai3
-    "Fragen.canvas"
-=======
-    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
-    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
-    "Excalidraw/Schriftblockbreite.excalidraw.svg",
-    "Excalidraw/Stromkreis_BSP.excalidraw.svg"
->>>>>>> senpai
-  ]
+  "active": "7ebf8897c206dd22",
+  "lastOpenFiles": []
 }
