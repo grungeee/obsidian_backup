@@ -7,3 +7,13 @@
 	Das bedeutet, wenn ein Körper auf einen zweiten Körper eine Kraft ausübt (Aktion), erfährt der erste Körper eine gleich große, aber entgegengesetzte Kraft vom zweiten Körper (Reaktion). Diese Kräfte wirken immer paarweise auf zwei verschiedene Körper und haben die gleiche Stärke, aber entgegengesetzte Richtungen.
 	Ein häufig zitiertes Beispiel ist, wenn zwei Personen auf unterschiedlichen Rollschuhen stehen und sich voneinander wegschieben. Die Aktion ist die Kraft, die die eine Person auf die andere ausübt, indem sie sie wegdrückt. Die Reaktion ist die gleich große, aber entgegengesetzte Kraft, mit der die andere Person die erste Person wegschiebt.
  
+```ad-formel
+$$
+\begin{flalign}
+\begin{aligned}
+\vec{F}{_A}\rightarrow{_B} = -\vec{F}{_B}\rightarrow{_A} \\&&
+\end{aligned} &&
+\end{flalign}
+$$
+
+```
