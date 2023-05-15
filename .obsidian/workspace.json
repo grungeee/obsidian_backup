@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md"
               }
             }
           }
@@ -203,12 +203,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9eac2e7ff002814f",
+  "active": "714ff414da1fdb1b",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
     "Beschleunigungsarbeit Wₐ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
