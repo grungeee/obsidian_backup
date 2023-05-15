@@ -10,7 +10,15 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-W = F \cdot s && \\ 
+W = {F_p} \cdot s && \\ 
+\end{aligned} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+W = Arbeit, / [ / W / ] && \\ 
 \end{aligned} &&
 \end{flalign}
 $$
