@@ -18,9 +18,10 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-W = Arbeit, / [ / W / ] && \\ 
+W = Arbeit, \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
 \end{aligned} &&
 \end{flalign}
 $$
 
 ```
+
