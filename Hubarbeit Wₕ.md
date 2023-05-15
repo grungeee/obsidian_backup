@@ -11,14 +11,6 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{W_h} = m \cdot g \cdot h \\&& 
-\end{aligned} &&
-\end{flalign}
-$$
-
-$$
-\begin{flalign}
-\begin{aligned}
 m … Masse, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
@@ -41,3 +33,13 @@ h … Höhendifferenz, [ \ h \ ] = m &&
 $$
 
 ```
+
+
+Hubarbeit: Potenziell Energie
+$$
+\begin{flalign}
+\begin{aligned}
+{E_h} = m \cdot g \cdot h \\&& 
+\end{aligned} &&
+\end{flalign}
+$$
