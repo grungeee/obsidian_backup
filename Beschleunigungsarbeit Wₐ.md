@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{W_a} … Beschleunigungsarbeit, [ \ {W} \ ] =  N &&\\
+{W_a} … Beschleunigungsarbeit, [ \ {W_a} \ ] =  J &&\\
 \end{aligned}&&
 \end{flalign}
 $$
