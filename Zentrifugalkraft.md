@@ -19,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse, [ \ m \ ] = kg&&\\
+m … rotierende Masse, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -27,8 +27,18 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v … Geschwindigkeit, [ \ v \ ] = m/s &&\\
+v … Behngeschwindigkeit, [ \ v \ ] = m/s &&\\
 \end{aligned}&&
 \end{flalign}
 $$
+
+$$
+\begin{flalign}
+\begin{aligned}
+\omega … Behngeschwindigkeit, [ \ \omega \ ] = 1/s &&\\
+\end{aligned}&&
+\end{flalign}
+$$
+```
+
 ```
