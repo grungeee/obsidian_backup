@@ -19,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
+m … Masse, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
