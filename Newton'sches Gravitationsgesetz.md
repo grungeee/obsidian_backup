@@ -38,7 +38,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-r … Abstand\ zwischen\ den\ beiden\ Körpern; [ \ r \ ] = m &&\\
+r … Abstand\ zwischen\ den\ beiden\ Körpern, [ \ r \ ] = m &&\\
 \end{aligned}&&
 \end{flalign}
 $$
