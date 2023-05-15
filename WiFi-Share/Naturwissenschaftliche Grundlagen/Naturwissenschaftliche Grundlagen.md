@@ -25,7 +25,10 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
-### Gleichförmige Bewegung
+- [[Schwerkraft]]
+- Druck und Normalkraft **s.27**
+### [[Gleichförmige Bewegung]]
+
 
 ### Beschleunigung 
 ### [[Rotation  und Translation]]
@@ -68,7 +71,7 @@ $$
 ```
 
 
-### Kraft
+### Beschleunigende Kraft
 ```ad-formel
 $$
 \begin{flalign}

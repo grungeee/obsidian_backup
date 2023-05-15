@@ -73,10 +73,10 @@
 - [ ] Ohm'sches Gesetz **98**
 
 ### Elektrowärme und elektrische Leistung 
-- [[Elektrische Leistung P]]
-- Elektrische Leistung
-### Gefahren des elektrischen Stroms
-- Schutzmaßnahmen **99-101**
+- [ ] [[Elektrische Leistung P]]
+- [ ] Elektrische Leistung
+- [ ] Gefahren des elektrischen Stroms
+- [ ] Schutzmaßnahmen **99-101**
 
 ### Magnetismus: 
 - Das Magnetfeld von Permanentmagneten **102**
