@@ -27,7 +27,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&&
+g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&& \\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -35,8 +35,8 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-h … Höhendifferenz, [ \ h \ ] = m &&
-\end{aligned}
+h … Höhendifferenz, [ \ h \ ] = m && 
+\end{aligned} &&
 \end{flalign}
 $$
 
