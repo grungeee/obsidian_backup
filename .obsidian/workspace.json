@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zentrifugalkraft.md",
+                "file": "WiFi-Share/Druck P.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinetische Energie Eₖ.md",
+                "file": "WiFi-Share/Kinetische Energie Eₖ.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zentrifugalkraft.md",
+                "file": "WiFi-Share/Druck P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zentrifugalkraft.md",
+                "file": "WiFi-Share/Druck P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zentrifugalkraft.md"
+                "file": "WiFi-Share/Druck P.md"
               }
             }
           }
@@ -188,11 +188,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f01f0d245fd758c7",
+  "active": "b535e0da02c25386",
   "lastOpenFiles": [
-    "Newton'sches Gravitationsgesetz.md",
-    "Kinetische Energie Eₖ.md",
-    "Druck P.md",
+    "WiFi-Share/Zentrifugalkraft.md",
+    "WiFi-Share/Newton'sches Gravitationsgesetz.md",
+    "WiFi-Share/Kinetische Energie Eₖ.md",
+    "WiFi-Share/Druck P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Druck p.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
@@ -209,7 +210,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
-    "Zentrifugalkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
