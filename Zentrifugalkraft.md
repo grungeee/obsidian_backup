@@ -1,8 +1,4 @@
 
-
-$$
-
-
 ```ad-formel
 $$
 \begin{flalign}
@@ -15,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{W_a} … Beschleunigungsarbeit, [ \ {W_a} \ ] =  J &&\\
+{F_z} … Zentrifugalkraft, [ \ {F_z} \ ] =  N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
