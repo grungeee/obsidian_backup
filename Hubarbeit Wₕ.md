@@ -36,6 +36,7 @@ $$
 
 
 Hubarbeit: Potenziell Energie
+Wenn ein Koerper der Masse m gehoben wir
 $$
 \begin{flalign}
 \begin{aligned}
