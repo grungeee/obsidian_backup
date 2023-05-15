@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfbe667d0b881fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beschleunigungsarbeit Wₐ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Beschleunigungsarbeit Wₐ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Beschleunigungsarbeit Wₐ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "Beschleunigungsarbeit Wₐ.md"
               }
             }
           }
@@ -167,15 +179,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1ef4ae5c36e8d9b7",
+  "active": "cfbe667d0b881fa0",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
     "Beschleunigungsarbeit Wₐ.md",
     "Newton'sches Gravitationsgesetz.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
     "Zentrifugalkraft.md",
     "Druck p.md",
