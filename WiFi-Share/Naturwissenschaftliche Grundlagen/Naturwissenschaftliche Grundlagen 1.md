@@ -17,8 +17,8 @@
 - Jede physikalische Groesse besteht aus *Maßzahl* und *Einheit*
 ### [[SI - System]] (7 Basiseinheiten)
 #### [[Die abgeleiteten Einheiten]]
-#### [[Die zusätzlichen Einheiten]]
-???
+#### [[Die zusätzlichen Einheiten]] ??????
+
 #### [[ Vorsätze|Die Vorsätze]] 
 
 ## Atomaufbau
@@ -52,8 +52,7 @@
 #### [[Beschleunigende Kraft]]
 #### [[Zentrifugalkraft]]
 #### [[Schwerkraft]]
-
-- [[Druck P]] und Normalkraft 
+#### [[Druck P]] und Normalkraft 
 - more?
 
 
