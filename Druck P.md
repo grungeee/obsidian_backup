@@ -3,7 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-p = \frac {{F_n} {v^2}} {r} = m \cdot r \cdot \omega \\&& 
+p = \frac {{F_n}} {A} \\&&
 \end{aligned} &&
 \end{flalign}
 $$
@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{F_z} … Zentrifugalkraft, [ \ {F_z} \ ] =  N &&\\
+1 bar … Druck, [ \ {F_z} \ ] =  N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
