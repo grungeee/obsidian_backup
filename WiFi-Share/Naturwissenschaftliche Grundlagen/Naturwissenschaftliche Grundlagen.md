@@ -44,6 +44,7 @@
 ### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
 
+[[kraft ]]
 
 ### Arbeit 
 Die Drei Einheiten der Arbiet
