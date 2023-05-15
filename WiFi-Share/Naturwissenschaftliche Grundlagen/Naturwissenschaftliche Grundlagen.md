@@ -22,9 +22,11 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 
 #### Ionen
 
+
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
 ### Gleichförmige Bewegung
+
 ### Beschleunigung 
 ### [[Rotation  und Translation]]
 
@@ -142,10 +144,6 @@ Die Drei Einheiten der Arbiet
 
 ### Elementarteilchen
 
-
-
-### Isotope
-Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **Neutronen** im Atomkern *unterscheidet*, aber die *gleiche Anzahl* von **Protonen** und damit die gleiche Ordnungszahl aufweist.
 
 ## Perioden System der Elemente 
 
