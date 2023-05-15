@@ -38,7 +38,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&&\\
+r … Abstand\ zwische\ den\ beiden\ Körpern; [ \ r \ ] = 9,81{m}/{s^{2}}&&\\
 \end{aligned}&&
 \end{flalign}
 $$
