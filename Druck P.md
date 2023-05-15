@@ -3,7 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-p = \frac {{F_n}} {A} \\&&
+p = \frac {{F_N}} {A} \\&&
 \end{aligned} &&
 \end{flalign}
 $$
@@ -19,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-p … druck; [ \ p \ ] = N/{m^w} = Pa kg&&\\
+p … Druck; [ \ p \ ] = N/{m^w} = Pa ... Pascal&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -27,7 +27,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v … Behngeschwindigkeit, [ \ v \ ] = m/s &&\\
+{F_N} … Normalkraft, , [ \ {F_N} \ ] = m/s &&\\
 \end{aligned}&&
 \end{flalign}
 $$
