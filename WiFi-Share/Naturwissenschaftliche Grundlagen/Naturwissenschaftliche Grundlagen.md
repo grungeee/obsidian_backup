@@ -23,8 +23,6 @@
 
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
-- [[Schwerkraft]]
-- [[Druck p]] und Normalkraft 
 ![[Pasted image 20230515134400.png]]
 ### [[Gleichförmige Bewegung]]
 
@@ -40,10 +38,14 @@
 
 
 
-### [[Beschleunigende Kraft]]
-
 ### Arten von Kräften 
+#### [[Beschleunigende Kraft]]
 #### [[Zentrifugalkraft]]
+#### [[Schwerkraft]]
+
+- [[Druck p]] und Normalkraft 
+- more?
+
 
 
 
