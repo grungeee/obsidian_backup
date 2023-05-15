@@ -385,7 +385,10 @@ s235JRG2 ist die Bezeichnung für einen Stahl mit einer
 **Mindeststreckgrenze** von **Re** von 235 N/mm²
 ^1682454679365
 
-\#### Schweißpositionen
+
+### Extra Fragen und Antworten
+
+#### Schweißpositionen
 
 - PA: Wannenposition
 
@@ -401,8 +404,6 @@ s235JRG2 ist die Bezeichnung für einen Stahl mit einer
 
 - PG: Fallposition
 
-
-Extra Fragen und Antworten
 
 #### Die häufigsten Schweißfehler sind:
 

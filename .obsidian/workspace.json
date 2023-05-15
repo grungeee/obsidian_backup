@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3078eecbb49d7417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,53 +184,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d06406ed97d4b99",
+  "active": "3078eecbb49d7417",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen 1.md",
+    "conflict-files-obsidian-git.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Leiter, Halbleiter, Nichtleiter.md",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca (1).md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/SI - System.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Rotation  und Translation.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Isotope.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Größen und Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Gleichförmige Bewegung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeit v.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Leistung P.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die zusätzlichen Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die abgeleiteten Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Arten der Bewegung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Thermoelektrische Effekte.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/stromkreis_todo.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannungsquelle.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Spannung - nice to know.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/Seebeck-Effekt.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder/leiter,halbleiter,nichtleiter.png",
+    "WiFi-Share/Elektrotechnik Grundlagen/Bilder",
+    "Excalidraw/das magische Dreieck.excalidraw.svg",
+    "Excalidraw/Schriftblockbreite.excalidraw.svg",
+    "Excalidraw/SI Einheiten.excalidraw.svg",
+    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
     "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Pasted image 20230505213828.png",
     "WiFi-Share/Elektrotechnik Grundlagen/Bilder/Pasted image 20230505213720.png",
-    "WiFi-Share/Elektrotechnik Grundlagen/Bilder",
-    "WiFi-Share/Schweißtechnik/Anki Deck test.md",
     "publish.css",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.docx",
     "WiFi-Share/Elektrotechnik Grundlagen",
     "Excalidraw/Stromkreis_BSP.excalidraw.svg",
-    "Excalidraw/Stromkreis_BSP.excalidraw.md",
     "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
-    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.svg",
-    "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten Fucked - go to docx.md",
-    "WiFi-Share/Schweißtechnik/Fragen & Antworten (4 Anki).md",
-    "WiFi-Share/Technisches Zeichenen/📁 Images/Linien Arten und Schriftblock.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Künstiche Nichtmetallwerkstoffe.md",
-    "Excalidraw/Drawing 2023-04-20 20.44.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
-    "WiFi-Share/Schweißtechnik/F&A(4 Anki) old.md",
-    "WiFi-Share/Technisches Zeichenen/Technisches Zeichnen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Hydraulische Presse.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Herstellung der Werkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
-    "Excalidraw/Drawing 2023-04-20 20.11.48.excalidraw.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
-    "misc/ChatGPT_logo_black.svg",
     "WiFi-Share/Werkstofftechnik/Stack",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen/📁 Images",
     "WiFi-Share/WiFi-Share/Technisches Zeichenen",
-    "WiFi-Share/WiFi-Share",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen/📁 Images",
-    "Wifi-share/WiFi-Share/Technisches Zeichenen",
     "Fragen.canvas"
   ]
 }

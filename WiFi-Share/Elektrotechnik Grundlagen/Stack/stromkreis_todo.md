@@ -1,0 +1,4 @@
+- [ ] Geschwindigkeit des elektriscen Stromes
+- [ ] Das Messen der Stromstärke
+- [ ] Das Messen der Spannung
+- [ ] Übungen
