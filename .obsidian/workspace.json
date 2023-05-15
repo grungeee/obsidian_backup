@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "e9e88636778264ab",
+    "id": "40dde09076e06442",
     "type": "split",
     "children": [
       {
-        "id": "fdd3556b7e40a170",
+        "id": "1b194155f37b8d78",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca086adb6c979a7",
+            "id": "75120900d611e266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ebf8897c206dd22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +32,22 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e04f99cccdbd2258",
+    "id": "ed406a15b82618ed",
     "type": "split",
     "children": [
       {
-        "id": "c078fc66c25f442c",
+        "id": "dea9b041f1449870",
         "type": "tabs",
         "children": [
           {
-            "id": "03c0ff086aef7e5f",
+            "id": "b535e0da02c25386",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +57,7 @@
             }
           },
           {
-            "id": "870ac998cecae73c",
+            "id": "bcbbe707ddb2819d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,29 +72,31 @@
             }
           },
           {
-            "id": "4248b5674f28cff2",
+            "id": "ddbd341c4e50609f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "7ddc52e592c28f8c",
+    "id": "d6fabc8829228524",
     "type": "split",
     "children": [
       {
-        "id": "670d1b383c98b0f1",
+        "id": "153619249b46bd70",
         "type": "tabs",
         "children": [
           {
-            "id": "6812511c48f4d08c",
+            "id": "93595132daf572e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -98,7 +113,7 @@
             }
           },
           {
-            "id": "90bad8dc261c0c3f",
+            "id": "3e5f1fc7a7beb189",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,7 +125,7 @@
             }
           },
           {
-            "id": "1ee463f96743a866",
+            "id": "8c84dd6b487bc116",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,7 +136,7 @@
             }
           },
           {
-            "id": "8269c629c2f88c45",
+            "id": "963d7618d8b025e8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,12 +145,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,42 +167,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "03c0ff086aef7e5f",
+  "active": "7ebf8897c206dd22",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Naturwissenschaftliche Grundlagen (1).md",
+    "Beschleunigungsarbeit Wₐ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die zusätzlichen Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Arten der Bewegung.md",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan (1).md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/SI - System.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Isotope.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Größen und Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeit v.md",
-    "Excalidraw/SI Einheiten.excalidraw.svg",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die abgeleiteten Einheiten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Leistung P.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "🏡 Home.md",
-    "Excalidraw/SI Einheiten.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.svg",
-    "Excalidraw/El Strom ist ein Fließen von Elektornen.excalidraw.svg",
-    "Excalidraw/Kraftwerikung auf elektrische Ladungen.excalidraw.svg",
-    "Excalidraw/Schriftblockbreite.excalidraw.svg",
-    "Excalidraw/Stromkreis_BSP.excalidraw.svg",
-    "Excalidraw/Drawing 2023-04-20 20.40.58.excalidraw.md",
-    "Excalidraw/das magische Dreieck.excalidraw.svg",
-    "Excalidraw/das magische Dreieck.excalidraw.md"
+    "misc/ChatGPT_logo_white.svg",
+    "misc/ChatGPT_logo_black.svg",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md"
   ]
 }
