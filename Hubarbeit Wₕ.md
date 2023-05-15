@@ -36,7 +36,7 @@ $$
 
 
 Hubarbeit: Potenziell Energie
-Wenn ein Körper der Masse m gehoben wird, wird an diesem Körper ein Arbeit verrichtet, die nicht verlohren geht sondern in  
+Wenn ein Körper der Masse m gehoben wird, wird an diesem Körper ein Arbeit verrichtet, die nicht verlohren geht, sondern als potenzielle Energie Eₕ übergeht.
 $$
 \begin{flalign}
 \begin{aligned}
