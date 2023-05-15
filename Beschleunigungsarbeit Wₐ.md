@@ -48,7 +48,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse\ des\ bewegten\ Koerpers, [ \ m \ ] = kg&&\\
+m … Masse\ des\ bewegten\ Körpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -56,7 +56,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v … Geschwindigkeit des Körpers, [ \ v \ ] = m/s &&\\
+v … Geschwindigkeit\ des\ Körpers, [ \ v \ ] = m/s &&\\
 \end{aligned}&&
 \end{flalign}
 $$
