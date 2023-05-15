@@ -44,11 +44,10 @@
 ### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
 
-[[kraft ]]
 
 ### Arbeit 
 Die Drei Einheiten der Arbiet
-![[Physikalische Arbeit W]]
+[[Physikalische Arbeit W]]
 
 ### Energie 
 ### Leistung 
