@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potenzielle Energie Eₚ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hubarbeit Wₕ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,9 +190,10 @@
   },
   "active": "7ebf8897c206dd22",
   "lastOpenFiles": [
-    "Potenzielle Energie Eₚ.md",
-    "Hubarbeit Wₕ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
     "misc/ChatGPT_logo_white.svg",
@@ -216,7 +217,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Mechanische Presse.md",
     "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
     "WiFi-Share/Werkstofftechnik/Stack/Maschinen zum Umformen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Leichtmetalle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Künstiche Nichtmetallwerkstoffe.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Leichtmetalle.md"
   ]
 }
