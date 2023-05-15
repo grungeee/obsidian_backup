@@ -25,7 +25,6 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 ### Gleichförmige Bewegung
 ### Beschleunigung 
 ### [[Rotation  und Translation]]
-\\&&
 
 
 
@@ -51,14 +50,8 @@ $$
 $$
 ```
 
-### Kraftbegriffe - Newton'sche Axiome
-1. Newton'sches Axiom (Trägheitsgesetz)
-	Das erste newtonische Gesetz, auch als **Trägheitsgesetz** bekannt, besagt, dass ein Körper in Ruhe verharrt oder sich mit konstanter Geschwindigkeit in einer geradlinigen Bewegung fortsetzt, solange keine äußeren Kräfte auf ihn einwirken. Mit anderen Worten: Ein Körper bleibt in seinem gegenwärtigen Zustand der Ruhe oder gleichförmigen Bewegung, solange keine resultierende Kraft auf ihn einwirkt.
-2. Newton'sches Axiom (Dynamisches Grundgesetz)
-	Das zweite newtonische Axiom besagt, dass die Beschleunigung eines Körpers direkt proportional zur auf ihn wirkenden Kraft und umgekehrt proportional zu seiner Masse ist. Mit anderen Worten: Je stärker die Kraft, die auf einen Körper wirkt, desto größer ist die Beschleunigung, die der Körper erfährt. Und je größer die Masse des Körpers ist, desto geringer ist die Beschleunigung bei gleicher Kraft.
-3. Newton'sches Axiom (Dynamisches Grundgesetz)
-	Jede Kraft erzeugt eine gleich große Gegenkraf
- 
+### Kraftbegriffe - [[Newton'sche Axiome]]
+
 ```ad-formel
 $$
 \begin{flalign}
@@ -80,13 +73,15 @@ $$
 \end{aligned} &&
 \end{flalign}
 $$
+
 $$
 \begin{flalign}
 \begin{aligned}
-F … beschleunigend Kraft, \ [ \ F \ ] = kgm/{s^2} = N, N … Newton &&\\
+F … beschleunigende \ Kraft, [ \ F \ ] = kgm/{s^2} = N, \ N … Newton &&\\
 \end{aligned}
 \end{flalign}
 $$
+
 $$
 \begin{flalign}
 \begin{aligned}
@@ -94,10 +89,11 @@ a … Beschleunigung, [ \ a \ ] = {m}/{s^{2}}&&\\
 \end{aligned}&&
 \end{flalign}
 $$
+
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse \ des \ bescheunigten Körpers, [ \ m \ ] = kg&&\\
+m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
