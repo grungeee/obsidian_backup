@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-F … Schwerkraft, [ \ F \ ] =  N &&\\
+{W_a} … Beschleunigungsarbeit, [ \ F \ ] =  N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
