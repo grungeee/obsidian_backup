@@ -1,5 +1,5 @@
 >[!info] [[NAWI - Unterrichtsplan|Unterrichtsplan]]
-
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ## Grundlegendes
 ### Das Wesen der Physik 
 - Physikalische Groesse ist jede messbarere EIgenschafteines Vorgangs oder Objekts.
