@@ -24,7 +24,9 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 ### [[Arten der Bewegung]] 
 ### Gleichförmige Bewegung
 ### Beschleunigung 
-### Rotation 
+### [[Rotation  und Translation]]
+\\&&
+
 
 
 ## Dynamik 

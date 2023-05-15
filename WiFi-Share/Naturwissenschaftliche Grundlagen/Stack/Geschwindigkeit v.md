@@ -6,7 +6,7 @@ icon:
 $$
 \begin{flalign}
 \begin{aligned}
-v \ (m/s)
+v \ (m/s)\\&&
 \end{aligned}&&
 \end{flalign}
 $$
@@ -14,7 +14,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v \ = \frac {s}{t}
+v = \frac {s}{t} \\&&
 \end{aligned}&&
 \end{flalign}
 $$
@@ -22,7 +22,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v \  = \frac{\Delta s}{\Delta t} = \frac{s_2 - s_1} {s_2 - s_1} 
+\vec{v} \  = \frac{\Delta \vec{s}}{\Delta \vec{t}} = \frac{s_2 - s_1} {s_2 - s_1} \\&&
 \end{aligned}&&
 \end{flalign}
 $$
@@ -30,8 +30,10 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v \  = \frac{\Delta s}{\Delta t} = const
+v \  = \frac{\Delta s}{\Delta t} = const 
 \end{aligned}&&
 \end{flalign}
 $$
 ``` 
+
+
