@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31becc89b6ea96ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md"
               }
             }
           }
@@ -166,10 +178,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7be661dce72009cb",
+  "active": "31becc89b6ea96ef",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "Beschleunigende Kraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Vorsätze.md",
     "Die Vorsätze.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
@@ -196,7 +209,6 @@
     "Excalidraw/SI Einheiten.excalidraw.svg",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Physikalische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
