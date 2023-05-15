@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-1 bar … Druck, [ \ {F_z} \ ] =  N &&\\
+1 bar  = {10^5} Pa = N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
