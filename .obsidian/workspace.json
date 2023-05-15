@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "23b4a1fb2b1bd0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9480283d833f6acf",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinetische Energie Eₖ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinetische Energie Eₖ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinetische Energie Eₖ.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
             }
           }
@@ -191,18 +203,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9480283d833f6acf",
+  "active": "1ef4ae5c36e8d9b7",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "Kinetische Energie Eₖ.md",
-    "Beschleunigungsarbeit Wₐ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+    "Beschleunigungsarbeit Wₐ.md",
     "conflict-files-obsidian-git.md",
     "Druck P.md",
     "Vorsätze.md",
     "Dichte.md",
     "Beschleunigende Kraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
     "Newton'sches Gravitationsgesetz.md",
