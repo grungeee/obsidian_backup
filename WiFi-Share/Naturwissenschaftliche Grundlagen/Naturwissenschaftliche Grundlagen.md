@@ -48,11 +48,11 @@
 ### Arbeit 
 Die Drei Einheiten der Arbiet
 [[Physikalische Arbeit W]]
-Hubarbeit Wₕ
+[[Hubarbeit Wₕ]]
 Beschleunigungsarbeit Wₐ
 
 ### Energie 
-- Potenzielle Energie E
+- Potenzielle Energie Eₚ
 ### Leistung 
 
 ## Elektrizität und Magnetismus

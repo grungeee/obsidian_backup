@@ -18,8 +18,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "427c8ab4a4ae07bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hubarbeit Wₕ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "714ff414da1fdb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Hubarbeit Wₕ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Hubarbeit Wₕ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "Hubarbeit Wₕ.md"
               }
             }
           }
@@ -151,8 +177,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7ebf8897c206dd22",
+  "active": "427c8ab4a4ae07bf",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "Hubarbeit Wₕ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
     "misc/ChatGPT_logo_white.svg",
     "misc/ChatGPT_logo_black.svg",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
@@ -177,8 +206,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Leichtmetalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Künstiche Nichtmetallwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Kühlschmierstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Hydraulische Presse.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Herstellung der Werkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Hauptpunkte.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Hydraulische Presse.md"
   ]
 }
