@@ -1,0 +1,1 @@
+Dies ist ein Prozess, bei dem eine Änderung des magnetischen Flusses durch eine Spule eine Spannung in der Spule erzeugt. Elektromagnetische Induktion wird häufig in Generatoren und Transformatoren eingesetzt.

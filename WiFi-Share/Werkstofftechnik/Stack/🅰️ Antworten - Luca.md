@@ -84,10 +84,10 @@ ab hier beginnt viel GPT -> proofreaden! -> zamfassen
 
 
 
-s. 332 Einteilung der Werkstoffe
-s. 372 eisen kholenstuff zusatzdiagramm
-s. 398 belastungs test 
-s. 400 belastungs test  
+s. 332 Einteilung der Werkstoffe ✅
+s. 372 eisen kholenstuff zusatzdiagramm ❓
+s. 398 belastungs test ✅
+s. 400 belastungs test  ✅
 s. 349  bezeichnungen der staehle 
 s. 350 chemische zusammensaetzung
 s. 362 NE- Metalle 

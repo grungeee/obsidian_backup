@@ -1,0 +1,1 @@
+Wenn zwei unterschiedliche Materialien an den Enden eines Stromkreises miteinander verbunden werden und eine Temperaturdifferenz zwischen den Enden besteht, erzeugt dies eine elektrische Spannung. Dieser Effekt wird als der [[Seebeck-Effekt]] bezeichnet.
