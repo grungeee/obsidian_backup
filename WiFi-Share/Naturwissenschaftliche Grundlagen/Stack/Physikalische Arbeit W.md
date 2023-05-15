@@ -26,7 +26,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{F_p} = Kraft \ parallel \ zum , \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
+{F_p} = Kraft \ parallel \ zum \ Weg , \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
 \end{aligned} &&
 \end{flalign}
 $$
