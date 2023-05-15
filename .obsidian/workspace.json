@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
+            "id": "75120900d611e266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ebf8897c206dd22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f41ca665b0f4066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,6 +68,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -90,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md"
               }
             }
           }
@@ -177,10 +203,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7ebf8897c206dd22",
+  "active": "6f41ca665b0f4066",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
@@ -205,7 +233,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Mechanische Presse.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Maschinen zum Umformen.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Maschinenhämmer.md"
   ]
 }
