@@ -34,6 +34,9 @@ $$
 ```
 
 Kinetische Energie
+
+``` ad-formel
+
 $$
 \begin{flalign}
 \begin{aligned}
@@ -45,7 +48,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse\ des bewegten Koerpers, [ \ m \ ] = kg&&\\
+m … Masse\ des\ bewegten\ Koerpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -57,3 +60,4 @@ v … Geschwindigkeit des Körpers, [ \ v \ ] = m/s &&\\
 \end{aligned}&&
 \end{flalign}
 $$
+```
