@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Beschleunigende Kraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Beschleunigende Kraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Beschleunigende Kraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "Beschleunigende Kraft.md"
               }
             }
           }
@@ -152,5 +152,9 @@
     }
   },
   "active": "7ebf8897c206dd22",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Vorsätze.md",
+    "Dichte.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+  ]
 }
