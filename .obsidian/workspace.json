@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f3b71ef426835bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Druck p.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf58559f0bcd7c10",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Druck p.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Druck p.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "Druck p.md"
               }
             }
           }
@@ -215,13 +227,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7ebf8897c206dd22",
+  "active": "f3b71ef426835bd2",
   "lastOpenFiles": [
+    "Zentrifugalkraft.md",
+    "Druck p.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-    "Zentrifugalkraft.md",
     "Beschleunigungsarbeit Wₐ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
@@ -244,7 +257,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md",
     "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md"
   ]
 }
