@@ -52,7 +52,7 @@ Die Drei Einheiten der Arbiet
 Beschleunigungsarbeit Wₐ
 
 ### Energie 
-- Potenzielle Energie Eₚ
+- [[Potenzielle Energie Eₚ]]
 ### Leistung 
 
 ## Elektrizität und Magnetismus
