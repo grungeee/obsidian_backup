@@ -1,0 +1,5 @@
+Der piezoelektrische Effekt ist ein Phänomen, bei dem bestimmte Materialien elektrische Ladungen erzeugen oder abbauen, wenn sie einem mechanischen Stress oder einer Deformation ausgesetzt werden. Diese Materialien werden als piezoelektrische Materialien bezeichnet.
+
+Der piezoelektrische Effekt basiert auf der Tatsache, dass einige Materialien eine asymmetrische *Kristallstruktur* aufweisen, die eine ungleiche Verteilung von positiven und negativen Ladungen innerhalb des Kristalls zur Folge hat. Wenn das Material verformt wird, werden die Ladungen innerhalb des Kristalls verschoben, was zu einer elektrischen Ladungstrennung führt und eine elektrische Spannung erzeugt.
+
+Piezoelektrische Materialien werden in einer Vielzahl von Anwendungen eingesetzt, darunter in Sensoren, Aktoren, Schallwandlern, Piezo-Zündern und sogar in Mikrofonen.

@@ -1,0 +1,2 @@
+![[Ladungsunterschied zwischen den Polen.excalidraw.svg]]
+%%[[Ladungsunterschied zwischen den Polen.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Ladungsunterschied zwischen den Polen.excalidraw.dark.svg|dark exported image]]%%

@@ -1,12 +1,21 @@
 ## Elektrische Ladungsträger
-### Der Stromkreis
+### Stromkreis
 ![[Stromkreis_BSP.excalidraw.svg]]
 %%[[Stromkreis_BSP.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Stromkreis_BSP.excalidraw.dark.svg|dark exported image]]%%
 - Damit elektrische **Gärente funktionieren** können, müssen sie von elektrischem *Strom durchflossen* werden.
 - Batterie **(-)** → Leitung → Lampe → Leitung → Batterie **(+)** 
 - Die **Batterie** ist die *treibende Kraft*, die das *Fließen des Stromes* verursacht.
 
-### Der Atomaufbau
+
+#### Stromrichtung
+- *technische* Stromrichtung **(+) → (-)**
+- *elektrische* Stromrichtung **(-) → (+)**
+![[Stromkreis_BSP.excalidraw 1.svg]]
+%%[[Stromkreis_BSP.excalidraw 1.md|🖋 Edit in Excalidraw]], and the [[Stromkreis_BSP.excalidraw 1.dark.svg|dark exported image]]%%
+
+[[stromkreis_todo]]
+
+### Atomaufbau
 - Der **Atomkern** besteht aus *Protonen* und *Neutronen*.
 - Die verschedenen Grundstoffe (chemischen **Elemente**) **unterscheden** sich durch die *Anzahl* der *Protonen* und *Neutronen* im *Atomkern*.
 - Die **Anzahl der Elektronen**, die um den **Atomkern** kreisen, ist *normalerweise glecih groß* wie die Anzahl der *Protonen* im Atomkern.
@@ -15,7 +24,7 @@
 - Nice to know, I guess:
 	- Das Wasserstoffatom ist das kleinste Atom. Sein Kern ist ein Proton,  um das ein Elektron kreist. Bei kupferatomen besteht der Kern aus 29 Protonen und 35 Neutronen.
 
-### Die Elektrische Ladung
+### Ladung
 - **P**rotonen und **E**lektronen sind Träger elektrischer Ladung (*Ladungsträger*).
 - **N**eutronen haben **keine Ladung** und sind *elektrisch neutral*. Die beiden Ladungen habein eine unterschiedliche Wirkung und werden dahere unterschiedlich bezeichent.
 
@@ -59,15 +68,38 @@
 
 ![[El Strom ist ein Fließen von Elektornen.excalidraw.svg]]
   
-### Die Stromstärke
+### Stromstärke
 - Die **Stromstärke I** ist jene *Zahl der Elektronen*, die *je Sekunde* durch den *Leiterquerschnitt fließen*
 
 >Das **Formelzeichen** für die elektrische Stromstärke ist *I* 
 >Die **Einheit** der elektrischen Stromstärke ist das *Ampere (A)*
 
-### Widerstand
+## Spannung
+- **Spannung** ist die *treibende Kraft* des Stromflusses
+- **Spannung** wird von der *Spannungsquelle* erzeugt
+- Eine [[Spannungsquelle]] **erzeugt** eine **Spannung**, indem sie positive und negative *Ladungen* voneinander *trennt*. Wenn ein Stromkreis angeschlossen wird, bewegen sich freie Elektronen durch den Leiter aufgrund der durch die Spannung ausgeübten Kraft, was den elektrischen Strom verursacht. 
+	- ❓Potenzialdifferenz ↔ Differenzspannung
+- → Die elektrische **Spannung** ist die *Ursache* für den elektrischen *Strom*.
+ 
+>Das **Formelzeichen** für die elektrische Spannung ist *U* 
+>Die **Einheit** der elektrischen Spannung ist das *Volt (V)*
+
+### Erzeugung der Spannung
+- [[Elektrochemische Zellen]] Chemische Vorgänge
+- [[Elektromagnetische Induktion]]:  Magnet & Spule
+- [[Thermoelektrische Effekte]]: Wärmeeinwirkung
+- [[Photovoltaischer Effekt]]: Licht
+- [[Elektrostatische Aufladung]] : Reibung
+- [[Piezoelektrischer Effekt]]: Kristallverformung
+ 
+
+[[Spannung - nice to know]]
+ 
+## Widerstand
 - **Veränderbare** widerstände (Stellwiderstände) werden als Dreh- oder Schiebewiderstände hergestellt. Bsp.: [[Potentiometer]]
 - Bei **veränderlichen** Widerständen ist der widerstandswert *abhängig* von *physikalischen Größen* wie Temperatur, Helligkeit, Druck oder Dehnung. Sie werden in der Mess-, Steuer- und Regeltechnik verwendet.
+
+ >Der **Widerstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
 
 
 >Das **Formelzeichen** für den Widerstand ist *R* 
@@ -76,10 +108,9 @@
 ## Leitwert
 - Der **Leitwert G** ist der *Kehrwert* (Reziprokwert) *des Widerstandes*. Die **Einheit** des Leitwerts ist das *Siemens (S)*.
 
- >Der **Widerstand** gibt an, wie sehr ein elektrischer *Stromfluss gehemmt* wird.
  >Der **Leitwert** gibt an, wie gut elektrischer *Strom geleitet* wird.
  
-### Ohmsches Gesetz
+### Ohm'sches Gesetz
 - Die **Stromstärke** ist in einen Stromkreis umso **größer**, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
 ![[das magische Dreieck.excalidraw.svg]]
 

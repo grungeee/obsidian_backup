@@ -88,7 +88,14 @@
 - s. 355
 	1. Nach welchen Unterscheidungsmerkmalen werden die Stähle eingeteilt?
 	2. Wodurch unterscheiden sich die Edelstähle von den Qualitätsstählen?
+<<<<<<< HEAD
+	3. Welche Hauptgüteklassen unterscheidet man bei den Stählen?
+	4. ﻿﻿﻿Nennen Sie mindestens vier zu den Baustählen gehörende Stahlgruppen.
+	5. ﻿﻿Aus welchen Teilen besteht die Bezeichnung eines Stahlerzeugnisses?
+	6. ﻿﻿Nennen Sie je einen Kurznamen eines unlegierten Vergütungsstahls, eines legierten Einsatzstahls, eines Automatenstahls und eines Warmarbeitsstahls.
+=======
 	3.  ﻿﻿Welche Hauptgüteklassen unterscheidet man bei den Stählen?
 	4.  ﻿﻿﻿Nennen Sie mindestens vier zu den Baustählen gehörende Stahlgruppen.
 	5.  ﻿﻿Aus welchen Teilen besteht die Bezeichnung eines Stahlerzeugnisses?
 	6.  ﻿﻿Nennen Sie je einen Kurznamen eines unlegierten Vergütungsstahls, eines legierten Einsatzstahls, eines Automatenstahls und eines Warmarbeitsstahls.
+>>>>>>> kohai

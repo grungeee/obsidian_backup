@@ -2,33 +2,138 @@
 
 ## Grundlegendes
 ### Das Wesen der Physik 
-
-### SI - System (7 Basiseinheiten)
-
-| Größe       | Formelzeichen | Einheit     |       |
-| ----------- | ------------- | ----------- | ----- |
-| Länge       | l, s, x       | 1 Meter     | 1m    |
-| Zeit        | t             | 1 Sekunde   | 1s    |
-| Masse       | m             | 1 Kilogramm | 1 kg  |
-| Temperatur  | T             | 1 Kelvn     | 1 K   |
-| Stromstärke | I             | 1 Ampere    | 1 A   |
-| Stoffmenge  | n             | 1 Mol       | 1 mol |
-| Lichtstärke | Iv            | 1 Candela   | 1 cd  |
-#### Die abgeleiteten Einheiten
-#### Die zusätzlichen Einheiten
+- Physikalische Groesse ist jede messbarere EIgenschafteines Vorgangs oder Objekts.
+- Jede physikalische Groesse besteht aus Maßzahl und Einheit
+### [[SI - System]] (7 Basiseinheiten)
+#### [[Die abgeleiteten Einheiten]]
+#### [[Die zusätzlichen Einheiten]]
+???
 #### Die Vorsätze 
+Um Vielfache oder Teile einer Einheit anzugeben, ist es üblich, Voersaetze zu verwenden.
+z.B.:P kilo, Mega, Giga, Tera, Peta 
+## Atomaufbau
+#### Masse von Atomen
+##### Ordnungszahl
+**Ordnungszahl** ist die Anzahl der *Protonen* im Atomkern
+##### Massenzahl
+**Massenzahl** ist die Summe von *Protonen* und *Neutronen* im Atomkern.
+#### Elektronenhülle
+#### [[Isotope]]
+
+#### Ionen
+
+
 ## Grundlagen der Kinematik
-### Arten der Bewegung 
-### Gleichförmige Bewegung 
-### Beschleunigung 
-### Rotation 
+### [[Arten der Bewegung]] 
+- [[Schwerkraft]]
+- Druck und Normalkraft **s.27**
+![[Pasted image 20230515134400.png]]
+### [[Gleichförmige Bewegung]]
+
+
+### [[Beschleunigung]]
+### [[Rotation  und Translation]]
+
+
+
 ## Dynamik 
 ### Masse und Dichte 
-### Kraftbegriffe - Newton'sche Axiome
+Dichte $\rho$
+``` ad-formel
+$$
+\begin{flalign}
+\begin{aligned}
+\rho = \frac {m}{V}
+\end{aligned} &&
+\end{flalign}
+$$
+
+
+$$
+\begin{flalign}
+\begin{aligned}
+\rho … Dichte; \ [ \ \rho \ ]\ = kg/{m^3}
+
+\end{aligned} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+m … Masse; \ [ \ m ]\ = kg
+\end{aligned} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+V … Volumen; \ V \ = {m^3}
+\end{aligned} &&
+\end{flalign}
+$$
+
+```
+
+### Kraftbegriffe - [[Newton'sche Axiome]]
+
+```ad-formel
+$$
+\begin{flalign}
+\begin{aligned}
+\vec{F}{_A}\rightarrow{_B} = -\vec{F}{_B}\rightarrow{_A} \\&&
+\end{aligned} &&
+\end{flalign}
+$$
+
+```
+
+
+### Beschleunigende Kraft
+```ad-formel
+$$
+\begin{flalign}
+\begin{aligned}
+\vec{F} = m \cdot \vec{a} \\&&
+\end{aligned} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+F … beschleunigende \ Kraft, [ \ F \ ] = kgm/{s^2} = N, \ N … Newton &&\\
+\end{aligned}&&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+a … Beschleunigung, [ \ a \ ] = {m}/{s^{2}}&&\\
+\end{aligned}&&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
+\end{aligned}&&
+\end{flalign}
+$$
+```
 ### Arten von Kräften 
+
+
 ### Arbeit 
+Die Drei Einheiten der Arbiet
+![[Physikalische Arbeit W]]
+
 ### Energie 
 ### Leistung 
+
 ## Elektrizität und Magnetismus
 ### Einführung 
 ### Elektrische Ladung 
@@ -61,12 +166,6 @@
 
 ### Elementarteilchen
 
-### Masse von Atomen
-
-### Elektronenhülle
-
-### Isotope
-Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **Neutronen** im Atomkern *unterscheidet*, aber die *gleiche Anzahl* von **Protonen** und damit die gleiche Ordnungszahl aufweist.
 
 ## Perioden System der Elemente 
 
@@ -84,5 +183,11 @@ Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **
 ### Luft, Wasser, Erde 
 
 ## Metalle
+Sind wärmeleitend, stromleitend
+
+
 ### Metallischer Zustand 
 ### Redox - Reaktion 
+*Abgabe* und *Aufnahme* von **Sauerstoff** 
+Aufnahme - Oxidation
+Abgabe - Reduction 
