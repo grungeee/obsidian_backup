@@ -52,7 +52,7 @@ Hubarbeit Wₕ
 Beschleunigungsarbeit Wₐ
 
 ### Energie 
-Pote
+- Potenzielle Energie E
 ### Leistung 
 
 ## Elektrizität und Magnetismus
