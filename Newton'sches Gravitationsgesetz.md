@@ -13,7 +13,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-F … , [ \ F \ ] =  N &&\\
+F … Betrag der Gravitationskraft, [ \ F \ ] =  N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -21,7 +21,16 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
+M … Masse \ des \ 1. \ Körpers, [ \ M \ ] = kg&&\\
+\end{aligned}&&
+\end{flalign}
+$$
+
+
+$$
+\begin{flalign}
+\begin{aligned}
+m … Masse \ des \ 1. \ Körpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
