@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,13 +115,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md"
               }
             }
           }
@@ -205,8 +203,10 @@
   },
   "active": "1ef4ae5c36e8d9b7",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+    "🏡 Home.md",
+    "misc/Obsidian Git.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Kinetische Energie Eₖ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
     "Beschleunigungsarbeit Wₐ.md",
@@ -231,8 +231,6 @@
     "misc/ChatGPT_logo_black.svg",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md"
   ]
 }
