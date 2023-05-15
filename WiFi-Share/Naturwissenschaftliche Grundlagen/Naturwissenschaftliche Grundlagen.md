@@ -49,9 +49,24 @@ $$
 ```
 
 ### Kraftbegriffe - Newton'sche Axiome
-1. Newton'sche Axiom (Trägheitsgesetz)
-Das erste newtonische Gesetz, auch als **Trägheitsgesetz** bekannt, besagt, dass ein Körper in Ruhe verharrt oder sich mit konstanter Geschwindigkeit in einer geradlinigen Bewegung fortsetzt, solange keine äußeren Kräfte auf ihn einwirken. Mit anderen Worten: Ein Körper bleibt in seinem gegenwärtigen Zustand der Ruhe oder gleichförmigen Bewegung, solange keine resultierende Kraft auf ihn einwirkt.
-1. Newton'sche Axiom (Dynamisches Grundgesetz)
+1. Newton'sches Axiom (Trägheitsgesetz)
+	Das erste newtonische Gesetz, auch als **Trägheitsgesetz** bekannt, besagt, dass ein Körper in Ruhe verharrt oder sich mit konstanter Geschwindigkeit in einer geradlinigen Bewegung fortsetzt, solange keine äußeren Kräfte auf ihn einwirken. Mit anderen Worten: Ein Körper bleibt in seinem gegenwärtigen Zustand der Ruhe oder gleichförmigen Bewegung, solange keine resultierende Kraft auf ihn einwirkt.
+2. Newton'sches Axiom (Dynamisches Grundgesetz)
+	Das zweite newtonische Axiom besagt, dass die Beschleunigung eines Körpers direkt proportional zur auf ihn wirkenden Kraft und umgekehrt proportional zu seiner Masse ist. Mit anderen Worten: Je stärker die Kraft, die auf einen Körper wirkt, desto größer ist die Beschleunigung, die der Körper erfährt. Und je größer die Masse des Körpers ist, desto geringer ist die Beschleunigung bei gleicher Kraft.
+3. Newton'sches Axiom (Dynamisches Grundgesetz)
+	Jede Kraft erzeugt eine gleich große Gegenkraf
+ 
+```ad-formel
+$$
+\begin{flalign}
+\begin{aligned}
+F = m \cdot a \\&&
+\end{aligned} &&
+\end{flalign}
+$$
+
+```
+
 
 ### Kraft
 ```ad-formel
