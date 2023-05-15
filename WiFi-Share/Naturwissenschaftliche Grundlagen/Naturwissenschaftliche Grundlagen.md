@@ -7,9 +7,12 @@
 #### [[Die abgeleiteten Einheiten]]
 #### [[Die zusätzlichen Einheiten]]
 #### Die Vorsätze 
-
+Um Vielfache oder Teile einer Einheit anzugeben, ist es üblich, Voersaetze zu verwenden.
 ## Atomaufbau
 #### Masse von Atomen
+##### Ordnungszahl
+##### Massenzahl
+
 #### Elektronenhülle
 #### [[Isotope]]
 
