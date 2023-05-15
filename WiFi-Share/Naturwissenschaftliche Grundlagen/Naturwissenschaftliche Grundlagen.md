@@ -55,9 +55,23 @@ Das erste newtonische Gesetz, auch als **Trägheitsgesetz** bekannt, besagt, das
 
 ### Kraft
 ```ad-formel
-$$F = m \cdot a$$
-
+$$
+\begin{flalign}
+\begin{aligned}
+F = m \cdot a \\&&
+[a] = {m}/{s^2}\\&&
+\end{aligned}&&
+\end{flalign}
+$$
 ```
+$$
+\begin{document}
+\begin{flalign*}
+a = b + c  \\
+= d + e + f &
+\end{flalign*}
+\end{document}
+$$
 ### Arten von Kräften 
 
 
