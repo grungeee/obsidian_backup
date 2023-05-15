@@ -1,5 +1,5 @@
 
-Zweei Körper mit den Massen M und m im abstand r ziehen einander mit der Gravitationskraft F an:
+Zwei Körper mit den Massen M und m im abstand r ziehen einander mit der Gravitationskraft F an:
 
 ```ad-formel
 $$
@@ -46,7 +46,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-G … Gravitationskonstante\  G = 6,67 \cdot 10^{-11}\   {m^3}/{kgs^{2}}&&\\
+G … Gravitationskonstante,\  G = 6,67 \cdot 10^{-11}\   {m^3}/{kgs^{2}}&&\\
 \end{aligned}&&
 \end{flalign}
 $$
