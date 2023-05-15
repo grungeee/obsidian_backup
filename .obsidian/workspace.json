@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "058591def4f8ea0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ebf8897c206dd22",
             "type": "leaf",
             "state": {
@@ -79,13 +91,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -167,18 +177,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7ebf8897c206dd22",
+  "active": "058591def4f8ea0f",
   "lastOpenFiles": [
-    "Beschleunigungsarbeit Wₐ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "conflict-files-obsidian-git.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Vorsätze.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Rotation  und Translation.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Gleichförmige Bewegung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Dichte.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
+    "Beschleunigungsarbeit Wₐ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
     "misc/ChatGPT_logo_white.svg",
     "misc/ChatGPT_logo_black.svg",
@@ -191,12 +207,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Rₘ.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Naturwerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/NE-Metalle.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md"
   ]
 }

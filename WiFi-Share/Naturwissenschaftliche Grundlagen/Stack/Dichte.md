@@ -3,14 +3,17 @@
 $$
 \begin{flalign}
 \begin{aligned}
-1J = 1Ws = 1Nm && \\
+\rho = \frac {m}{V}
 \end{aligned} &&
 \end{flalign}
 $$
+
+
 $$
 \begin{flalign}
 \begin{aligned}
-W = {F_p} \cdot s && \\ 
+\rho … Dichte; \ [ \ \rho \ ]\ = kg/{m^3}
+
 \end{aligned} &&
 \end{flalign}
 $$
@@ -18,7 +21,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-W = Arbeit, \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
+m … Masse; \ [ \ m ]\ = kg
 \end{aligned} &&
 \end{flalign}
 $$
@@ -26,10 +29,9 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{F_p} = Kraft \ parallel \ zum , \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
+V … Volumen; \ V \ = {m^3}
 \end{aligned} &&
 \end{flalign}
 $$
 
 ```
-

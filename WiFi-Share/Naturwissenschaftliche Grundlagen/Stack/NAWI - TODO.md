@@ -4,9 +4,9 @@
 - [ ] Das Wesen der Physik **5-6**
 - [x] Das Internationale Einheitssystem **6**
 - [x] Die Basiseinheiten **7** ✅ 2023-05-14
-- [ ] Die abgeleiteten Einheiten **7**
+- [x] Die abgeleiteten Einheiten **7**
 - [ ] Die zusätzlichen Einheiten **7**
-- [ ] Die Vorsätze **7**
+- [x] Die Vorsätze **7**
 
 ### Die Anwendungen des Taschenrechners
 - [ ] Der Exponent **8**
@@ -46,9 +46,9 @@
 ## Tag 2:
 
 ### Wiederholung / Verftiefung
-- [ ] Das Internationale Enhaeitssystem. **6**
-- [ ] Die Basiseinheiten **7**
-- [ ] Die Vorsätze **7**
+- [x] Das Internationale Enhaeitssystem. **6** ✅ 2023-05-15
+- [x] Die Basiseinheiten **7** ✅ 2023-05-15
+- [x] Die Vorsätze **7** ✅ 2023-05-15
 - [ ] Aufbau der Atome **120**
 - [ ] Periodensystem der Elemente **126**
 - [ ] Was sind Elemente und Moleküle **136**
@@ -73,10 +73,10 @@
 - [ ] Ohm'sches Gesetz **98**
 
 ### Elektrowärme und elektrische Leistung 
-- [[Elektrische Leistung P]]
-- Elektrische Leistung
-### Gefahren des elektrischen Stroms
-- Schutzmaßnahmen **99-101**
+- [ ] [[Elektrische Leistung P]]
+- [ ] Elektrische Leistung
+- [ ] Gefahren des elektrischen Stroms
+- [ ] Schutzmaßnahmen **99-101**
 
 ### Magnetismus: 
 - Das Magnetfeld von Permanentmagneten **102**
@@ -97,13 +97,13 @@
 - Pulsierender Gleichstrom **107**
 - Der Transformator
 - Effektivwerte **107**
-Elektromagnetische Induktion **104**
-Symmetrie Motor-Generator-Prinzip
-Induktionsspannung
-Der Generator **106**
-Pulsierender Gleichstrom **107**
-Der Transformator
-Effektivwerte **107**
+- Elektromagnetische Induktion **104**
+- Symmetrie Motor-Generator-Prinzip
+- Induktionsspannung
+- Der Generator **106**
+- Pulsierender Gleichstrom **107**
+- Der Transformator
+- Effektivwerte **107**
 
 #### Elektromagnetische Wellen
 - Elektromagnetisches Spektrum

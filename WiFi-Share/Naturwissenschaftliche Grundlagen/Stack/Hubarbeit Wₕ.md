@@ -1,12 +1,17 @@
 
 ``` ad-formel
-title: Formel
-icon: 
- 
 $$
 \begin{flalign}
 \begin{aligned}
-v \ (m/s)\\&&
+{W_h} = m \cdot g \cdot h \\&& 
+\end{aligned} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+m … Masse, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -14,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v = \frac {s}{t} \\&&
+g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&& \\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -22,18 +27,11 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-\vec{v} \  = \frac{\Delta \vec{s}}{\Delta \vec{t}} = \frac{s_2 - s_1} {s_2 - s_1} \\&&
-\end{aligned}&&
+h … Höhendifferenz, [ \ h \ ] = m && 
+\end{aligned} &&
 \end{flalign}
 $$
 
-$$
-\begin{flalign}
-\begin{aligned}
-v \  = \frac{\Delta s}{\Delta t} = const 
-\end{aligned}&&
-\end{flalign}
-$$
-``` 
+```
 
 

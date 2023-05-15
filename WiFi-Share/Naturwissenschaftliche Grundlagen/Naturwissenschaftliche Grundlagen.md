@@ -2,29 +2,60 @@
 
 ## Grundlegendes
 ### Das Wesen der Physik 
-
+- Physikalische Groesse ist jede messbarere EIgenschafteines Vorgangs oder Objekts.
+- Jede physikalische Groesse besteht aus *Maßzahl* und *Einheit*
 ### [[SI - System]] (7 Basiseinheiten)
 #### [[Die abgeleiteten Einheiten]]
 #### [[Die zusätzlichen Einheiten]]
-#### Die Vorsätze 
+???
+#### [[ Vorsätze|Die Vorsätze]] 
 
 ## Atomaufbau
 #### Masse von Atomen
+##### Ordnungszahl
+**Ordnungszahl** ist die Anzahl der *Protonen* im Atomkern
+##### Massenzahl
+**Massenzahl** ist die Summe von *Protonen* und *Neutronen* im Atomkern.
 #### Elektronenhülle
 #### [[Isotope]]
 
+#### Ionen
+
+
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
-### Gleichförmige Bewegung
-### Beschleunigung 
-### Rotation 
+- [[Schwerkraft]]
+- Druck und Normalkraft **s.27**
+![[Pasted image 20230515134400.png]]
+### [[Gleichförmige Bewegung]]
+
+
+### [[Beschleunigung]]
+### [[Rotation  und Translation]]
+
+
 
 ## Dynamik 
-### Masse und Dichte 
-### Kraftbegriffe - Newton'sche Axiome
+### Masse und [[Dichte]] 
+### Kraftbegriffe - [[Newton'sche Axiome]]
+
+
+
+
+### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
+
+
 ### Arbeit 
+Die Drei Einheiten der Arbiet
+[[Physikalische Arbeit W]]
+
+[[Hubarbeit Wₕ]]
+[[Beschleunigungsarbeit Wₐ]]
+
 ### Energie 
+- [[Potenzielle Energie Eₚ]]
+- Kinetische Energie Eₖ
 ### Leistung 
 
 ## Elektrizität und Magnetismus
@@ -60,10 +91,6 @@
 ### Elementarteilchen
 
 
-
-### Isotope
-Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **Neutronen** im Atomkern *unterscheidet*, aber die *gleiche Anzahl* von **Protonen** und damit die gleiche Ordnungszahl aufweist.
-
 ## Perioden System der Elemente 
 
 ### Aufbaue des Periodensystem
@@ -80,5 +107,11 @@ Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **
 ### Luft, Wasser, Erde 
 
 ## Metalle
+Sind wärmeleitend, stromleitend
+
+
 ### Metallischer Zustand 
 ### Redox - Reaktion 
+*Abgabe* und *Aufnahme* von **Sauerstoff** 
+Aufnahme - Oxidation
+Abgabe - Reduction 

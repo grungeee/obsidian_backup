@@ -1,12 +1,18 @@
 
-``` ad-formel
-title: Formel
-icon: 
- 
+
+```ad-formel
 $$
 \begin{flalign}
 \begin{aligned}
-v \ (m/s)\\&&
+\vec{F} = m \cdot \vec{a} \\&&
+\end{aligned} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+F … beschleunigende \ Kraft, [ \ F \ ] = kgm/{s^2} = N, \ N … Newton &&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -14,7 +20,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v = \frac {s}{t} \\&&
+a … Beschleunigung, [ \ a \ ] = {m}/{s^{2}}&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -22,18 +28,8 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-\vec{v} \  = \frac{\Delta \vec{s}}{\Delta \vec{t}} = \frac{s_2 - s_1} {s_2 - s_1} \\&&
+m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
-
-$$
-\begin{flalign}
-\begin{aligned}
-v \  = \frac{\Delta s}{\Delta t} = const 
-\end{aligned}&&
-\end{flalign}
-$$
-``` 
-
-
+```

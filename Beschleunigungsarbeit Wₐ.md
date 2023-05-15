@@ -1,12 +1,17 @@
 
-``` ad-formel
-title: Formel
-icon: 
- 
+```ad-formel
 $$
 \begin{flalign}
 \begin{aligned}
-v \ (m/s)\\&&
+{W_a} = \frac {m \cdot {v^2}} {2} \\&& 
+\end{aligned} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+{W_a} … Beschleunigungsarbeit, [ \ {W} \ ] =  N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -14,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-v = \frac {s}{t} \\&&
+m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -22,18 +27,8 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-\vec{v} \  = \frac{\Delta \vec{s}}{\Delta \vec{t}} = \frac{s_2 - s_1} {s_2 - s_1} \\&&
+g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&&\\
 \end{aligned}&&
 \end{flalign}
 $$
-
-$$
-\begin{flalign}
-\begin{aligned}
-v \  = \frac{\Delta s}{\Delta t} = const 
-\end{aligned}&&
-\end{flalign}
-$$
-``` 
-
-
+```
