@@ -26,6 +26,7 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 ### Beschleunigung 
 ### Rotation 
 
+
 ## Dynamik 
 ### Masse und Dichte 
 Dichte $\rho$
@@ -60,7 +61,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-F = m \cdot a \\&&
+\vec{F}{_A}\rightarrow{_B} = -\vec{F}{_B}\rightarrow{_A} \\&&
 \end{aligned} &&
 \end{flalign}
 $$
@@ -73,7 +74,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-F = m \cdot a \\&&
+\vec{F} = m \cdot \vec{a} \\&&
 \end{aligned} &&
 \end{flalign}
 $$
@@ -94,7 +95,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse \ des \ bescheunigtes Körpers, [ \ m \ ] = kg&&\\
+m … Masse \ des \ bescheunigten Körpers, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
