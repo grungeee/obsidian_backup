@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Obsidianite",
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "textFontFamily": "Cascadia Code PL SemiLight"
 }
