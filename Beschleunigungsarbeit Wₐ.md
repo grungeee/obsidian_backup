@@ -3,7 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-{W_a} = \frac {m} \cdot {v^2} {2} \\&& 
+{W_a} = \frac {m \cdot {v^2}} {2} \\&& 
 \end{aligned} &&
 \end{flalign}
 $$
