@@ -10,7 +10,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-W = {F_p} \cdot s && \\ 
+W = {F_p} \cdot s \\&&  
 \end{aligned} &&
 \end{flalign}
 $$
