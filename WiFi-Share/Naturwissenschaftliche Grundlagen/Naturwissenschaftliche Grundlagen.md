@@ -3,7 +3,7 @@
 ## Grundlegendes
 ### Das Wesen der Physik 
 - Physikalische Groesse ist jede messbarere EIgenschafteines Vorgangs oder Objekts.
-- Jede physikalische Groesse besteht aus *Maßzahl* und *Einheit*
+- Jede physikalische Groesse besteht aus *Maßzahl* und Einheit
 ### [[SI - System]] (7 Basiseinheiten)
 #### [[Die abgeleiteten Einheiten]]
 #### [[Die zusätzlichen Einheiten]]
