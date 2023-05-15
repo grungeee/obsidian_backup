@@ -39,8 +39,6 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 ## Dynamik 
 ### Masse und Dichte 
 Dichte $\rho$
-
-
 ``` ad-formel
 $$
 \begin{flalign}
@@ -49,13 +47,23 @@ $$
 \end{aligned} &&
 \end{flalign}
 $$
+
 $$
 \begin{flalign}
 \begin{aligned}
-\ [ \rho ] 
+V … Volumen; \ V \ = {m^3}
 \end{aligned} &&
 \end{flalign}
 $$
+
+$$
+\begin{flalign}
+\begin{aligned}
+V … Volumen; \ V \ = {m^3}
+\end{aligned} &&
+\end{flalign}
+$$
+
 ```
 
 ### Kraftbegriffe - [[Newton'sche Axiome]]
