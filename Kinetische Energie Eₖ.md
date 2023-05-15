@@ -1,4 +1,4 @@
-
+Die [[Beschleunigungsarbeit Wₐ]] eines Körpers
 
 ``` ad-formel
 
