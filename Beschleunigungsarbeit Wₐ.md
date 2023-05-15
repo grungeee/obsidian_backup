@@ -3,7 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-{W_a} = m \cdot g \\&& 
+{W_a} = \frac m g \\&& 
 \end{aligned} &&
 \end{flalign}
 $$
