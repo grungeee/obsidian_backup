@@ -40,6 +40,7 @@
 
 
 
+
 ### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
 [[Zentrifugalkraft]]

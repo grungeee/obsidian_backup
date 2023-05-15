@@ -30,6 +30,7 @@
                 "source": false
               }
             }
+<<<<<<< HEAD
           },
           {
             "id": "f3b71ef426835bd2",
@@ -105,6 +106,10 @@
           }
         ],
         "currentTab": 4,
+=======
+          }
+        ],
+>>>>>>> origin/kohai2
         "stacked": true
       }
     ],
@@ -151,13 +156,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -173,7 +176,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Newton'sches Gravitationsgesetz.md",
+=======
+>>>>>>> origin/kohai2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +196,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Newton'sches Gravitationsgesetz.md",
+=======
+>>>>>>> origin/kohai2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +221,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "Newton'sches Gravitationsgesetz.md"
               }
+=======
+              "state": {}
+>>>>>>> origin/kohai2
             }
           }
         ]
@@ -239,6 +252,7 @@
       "publish:Publish changes...": false
     }
   },
+<<<<<<< HEAD
   "active": "6648c300c7cdd176",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
@@ -257,6 +271,27 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
+=======
+  "active": "b535e0da02c25386",
+  "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+    "conflict-files-obsidian-git.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Vorsätze.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Rotation  und Translation.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Gleichförmige Bewegung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Dichte.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
+    "Beschleunigungsarbeit Wₐ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
+>>>>>>> origin/kohai2
     "misc/ChatGPT_logo_white.svg",
     "misc/ChatGPT_logo_black.svg",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
@@ -268,7 +303,11 @@
     "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
+<<<<<<< HEAD
     "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md"
+=======
+    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md"
+>>>>>>> origin/kohai2
   ]
 }
