@@ -49,7 +49,17 @@ $$
 ```
 
 ### Kraftbegriffe - Newton'sche Axiome
+2. Newton'sche Axiom (Trägheitsgesetz)
+Das erste newtonische Gesetz, auch als **Trägheitsgesetz** bekannt, besagt, dass ein Körper in Ruhe verharrt oder sich mit konstanter Geschwindigkeit in einer geradlinigen Bewegung fortsetzt, solange keine äußeren Kräfte auf ihn einwirken. Mit anderen Worten: Ein Körper bleibt in seinem gegenwärtigen Zustand der Ruhe oder gleichförmigen Bewegung, solange keine resultierende Kraft auf ihn einwirkt.
+1. Newton'sche Axiom (Dynamisches Grundgesetz)
+
+### Kraft
+```ad-formel
+$$F = m \cdot a$$
+
+```
 ### Arten von Kräften 
+
 
 ### Arbeit 
 Die Drei Einheiten der Arbiet
