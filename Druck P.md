@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-1 bar  = {10^5} Pa = N/{m^2} &&\\
+1 \ bar  = {10^5} Pa = N/{m^2} &&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -27,7 +27,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-{F_N} … Normalkraft, , [ \ {F_N} \ ] = m/s &&\\
+{F_N} … Normalkraft, [ \ {F_N} \ ] = N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -35,7 +35,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-\omega … Winkelgeschwindigkeit, [ \ \omega \ ] = 1/s &&\\
+A … Fläche, [ \ A \ ] = {m^2} &&\\
 \end{aligned}&&
 \end{flalign}
 $$
