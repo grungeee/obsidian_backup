@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1b194155f37b8d78",
+        "id": "ccd0f6d7b2575ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "7ebf8897c206dd22",
+            "id": "f01f0d245fd758c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ef4ae5c36e8d9b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfbe667d0b881fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beschleunigungsarbeit Wₐ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -65,11 +91,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Beschleunigungsarbeit Wₐ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Beschleunigungsarbeit Wₐ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+                "file": "Beschleunigungsarbeit Wₐ.md"
               }
             }
           }
@@ -151,11 +179,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7ebf8897c206dd22",
+  "active": "cfbe667d0b881fa0",
   "lastOpenFiles": [
     "Vorsätze.md",
     "Dichte.md",
     "Beschleunigende Kraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
+    "Beschleunigungsarbeit Wₐ.md",
+    "Newton'sches Gravitationsgesetz.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+    "Zentrifugalkraft.md",
+    "Druck p.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
+    "misc/ChatGPT_logo_white.svg",
+    "misc/ChatGPT_logo_black.svg",
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
+    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md"
   ]
 }
