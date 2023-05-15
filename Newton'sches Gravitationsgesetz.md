@@ -39,7 +39,7 @@ $$
 \begin{flalign}
 \begin{aligned}
 r … Abstand\ zwischen\ den\ beiden\ Körpern; [ \ r \ ] = m &&\\
-G … Gravitationskonstante\ zwische\ den\ beiden\ Körpern; [ \ r \ ] = 9,81{m}/{s^{2}}&&\\
+G … Gravitationskonstante\  G = 6,67 \cdot {10^-11}  {m^3}/{s^{2}}&&\\
 \end{aligned}&&
 \end{flalign}
 $$
