@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "6648c300c7cdd176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newton'sches Gravitationsgesetz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9eac2e7ff002814f",
             "type": "leaf",
             "state": {
@@ -229,6 +241,8 @@
   },
   "active": "cf58559f0bcd7c10",
   "lastOpenFiles": [
+    "Newton'sches Gravitationsgesetz.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "Zentrifugalkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
@@ -240,7 +254,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
@@ -256,7 +269,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
     "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md"
   ]
 }
