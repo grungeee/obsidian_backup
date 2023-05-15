@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zentrifugalkraft.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md"
               }
             }
           }
@@ -227,12 +227,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f3b71ef426835bd2",
+  "active": "cf58559f0bcd7c10",
   "lastOpenFiles": [
-    "Druck p.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Zentrifugalkraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+    "Druck p.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
     "Beschleunigungsarbeit Wₐ.md",
@@ -256,7 +257,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
     "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md",
     "WiFi-Share/Werkstofftechnik/Stack/Schneidgeschwindigkeit.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Scherschneiden.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Scherschneidwerkzeuge.md"
   ]
 }
