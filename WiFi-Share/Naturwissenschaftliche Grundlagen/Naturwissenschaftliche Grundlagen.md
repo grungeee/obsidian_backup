@@ -1,5 +1,4 @@
 >[!info] [[NAWI - Unterrichtsplan|Unterrichtsplan]]
-
 ## Grundlegendes
 ### Das Wesen der Physik 
 - Physikalische Groesse ist jede messbarere EIgenschafteines Vorgangs oder Objekts.
@@ -25,7 +24,7 @@
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
 - [[Schwerkraft]]
-- Druck und Normalkraft **s.27**
+- [[Druck p]] und Normalkraft **s.27**
 ![[Pasted image 20230515134400.png]]
 ### [[Gleichförmige Bewegung]]
 
@@ -43,15 +42,20 @@
 
 ### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
+[[Zentrifugalkraft]]
+
 
 
 ### Arbeit 
 Die Drei Einheiten der Arbiet
 [[Physikalische Arbeit W]]
-Hubarbeit Wₕ
-Beschleunigungsarbeit Wₐ
+
+[[Hubarbeit Wₕ]]
+[[Beschleunigungsarbeit Wₐ]]
 
 ### Energie 
+- [[Potenzielle Energie Eₚ]]
+- Kinetische Energie Eₖ
 ### Leistung 
 
 ## Elektrizität und Magnetismus

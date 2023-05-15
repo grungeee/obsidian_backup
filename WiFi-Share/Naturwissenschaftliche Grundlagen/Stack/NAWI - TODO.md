@@ -46,9 +46,9 @@
 ## Tag 2:
 
 ### Wiederholung / Verftiefung
-- [ ] Das Internationale Enhaeitssystem. **6**
-- [ ] Die Basiseinheiten **7**
-- [ ] Die Vorsätze **7**
+- [x] Das Internationale Enhaeitssystem. **6** ✅ 2023-05-15
+- [x] Die Basiseinheiten **7** ✅ 2023-05-15
+- [x] Die Vorsätze **7** ✅ 2023-05-15
 - [ ] Aufbau der Atome **120**
 - [ ] Periodensystem der Elemente **126**
 - [ ] Was sind Elemente und Moleküle **136**
@@ -121,13 +121,13 @@
 	- Dazu Beispielrechnungen
  
 #### Kraftbegriff
-- Die 3 Newton' sche Axiome
+- [x] Die 3 Newton' sche Axiome
 - Trägheitsgesetz
 - Dynamisches Grundgesetz
 - Reaktionsprinzip
 - dazu Beispielrechnungen
 #### Arten von Kräften:
-- Schwerkraft
+- [x] Schwerkraft
 - Druck und Normalkraft
 #### Grundlagen der Kinematik:
 ##### Arten der Bewegung:

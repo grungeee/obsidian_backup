@@ -3,7 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-F = m \cdot g \\&& 
+{W_a} = \frac {m \cdot {v^2}} {2} \\&& 
 \end{aligned} &&
 \end{flalign}
 $$
@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-F … Schwerkraft, [ \ F \ ] =  N &&\\
+{W_a} … Beschleunigungsarbeit, [ \ {W_a} \ ] =  J &&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -19,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
+m … Masse, [ \ m \ ] = kg&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -27,10 +27,8 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&&\\
+v … Geschwindigkeit, [ \ v \ ] = m/s &&\\
 \end{aligned}&&
 \end{flalign}
 $$
 ```
-
-![[Newton'sches Gravitationsgesetz]]

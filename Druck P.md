@@ -3,7 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-F = m \cdot g \\&& 
+p = \frac {{F_N}} {A} \\&&
 \end{aligned} &&
 \end{flalign}
 $$
@@ -11,7 +11,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-F … Schwerkraft, [ \ F \ ] =  N &&\\
+1 \ bar  = {10^5} \ Pa = N/{m^2} &&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -19,7 +19,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-m … Masse \ des \ bescheunigten \ Körpers, [ \ m \ ] = kg&&\\
+p … Druck; [ \ p \ ] = N/{m^w} = Pa … Pascal&&\\
 \end{aligned}&&
 \end{flalign}
 $$
@@ -27,10 +27,16 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&&\\
+{F_N} … Normalkraft, [ \ {F_N} \ ] = N &&\\
+\end{aligned}&&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+A … Fläche, [ \ A \ ] = {m^2} &&\\
 \end{aligned}&&
 \end{flalign}
 $$
 ```
-
-![[Newton'sches Gravitationsgesetz]]

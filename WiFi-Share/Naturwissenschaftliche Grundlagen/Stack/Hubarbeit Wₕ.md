@@ -3,14 +3,7 @@
 $$
 \begin{flalign}
 \begin{aligned}
-1J = 1Ws = 1Nm && \\
-\end{aligned} &&
-\end{flalign}
-$$
-$$
-\begin{flalign}
-\begin{aligned}
-W = {F_p} \cdot s \\&&  
+{W_h} = m \cdot g \cdot h \\&& 
 \end{aligned} &&
 \end{flalign}
 $$
@@ -18,18 +11,27 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-W = Arbeit, \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
-\end{aligned} &&
+m … Masse, [ \ m \ ] = kg&&\\
+\end{aligned}&&
 \end{flalign}
 $$
 
 $$
 \begin{flalign}
 \begin{aligned}
-{F_p} = Kraft \ parallel \ zum \ Weg , \ [ \ W \ ] = Nm = J; \ J ... Joule && \\ 
+g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&& \\
+\end{aligned}&&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+h … Höhendifferenz, [ \ h \ ] = m && 
 \end{aligned} &&
 \end{flalign}
 $$
 
 ```
+
 
