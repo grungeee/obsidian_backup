@@ -1,6 +1,5 @@
 >[!info] [[NAWI - Unterrichtsplan|Unterrichtsplan]]
 
-
 ## Grundlegendes
 ### Das Wesen der Physik 
 - Physikalische Groesse ist jede messbarere EIgenschafteines Vorgangs oder Objekts.
@@ -114,7 +113,7 @@ Die Drei Einheiten der Arbiet
 ### Luft, Wasser, Erde 
 
 ## Metalle
-Sind wärmeleitend, stromleitend
+Sind wärmeleitend, stromleitend ...
 
 
 ### Metallischer Zustand 

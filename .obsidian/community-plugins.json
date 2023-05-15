@@ -13,5 +13,6 @@
   "flashcards-obsidian",
   "table-editor-obsidian",
   "obsidian-vimrc-support",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-plugin-toc"
 ]
