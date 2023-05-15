@@ -49,6 +49,7 @@
 ### Arbeit 
 Die Drei Einheiten der Arbiet
 [[Physikalische Arbeit W]]
+[[Physikalische Arbeit W]]
 
 [[Hubarbeit Wₕ]]
 [[Beschleunigungsarbeit Wₐ]]
@@ -114,4 +115,3 @@ Sind wärmeleitend, stromleitend
 ### Redox - Reaktion 
 *Abgabe* und *Aufnahme* von **Sauerstoff** 
 Aufnahme - Oxidation
-Abgabe - Reduction 
