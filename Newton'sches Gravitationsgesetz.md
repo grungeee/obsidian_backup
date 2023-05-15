@@ -5,7 +5,7 @@ Zweei Körper mit den Massen M und m im abstand r ziehen einander mit der Gravit
 $$
 \begin{flalign}
 \begin{aligned}
-F = G \cdot \frac {M} \cdot m  g \\&& 
+F = G \cdot \frac {M \cdot m}  {{r^2}} \\&& 
 \end{aligned} &&
 \end{flalign}
 $$
@@ -13,7 +13,7 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-F … Schwerkraft, [ \ F \ ] =  N &&\\
+F … , [ \ F \ ] =  N &&\\
 \end{aligned}&&
 \end{flalign}
 $$
