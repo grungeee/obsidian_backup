@@ -59,19 +59,24 @@ $$
 \begin{flalign}
 \begin{aligned}
 F = m \cdot a \\&&
-[a] = {m}/{s^2}\\&&
 \end{aligned}&&
 \end{flalign}
 $$
+$$
+\begin{flalign}
+\begin{aligned}
+a … Beschleunigung, [ \ a \ ] = {m}/{s^{2}}\\&&
+\end{aligned}&&
+\end{flalign}
+$$
+$$
+\begin{flalign}
+\begin{aligned}
+m … Masse \ des \ bescheunigtes Körpers, [ \ m \ ] = kg\\&&
+\end{aligned}
+\end{flalign}
+$$
 ```
-$$
-\begin{document}
-\begin{flalign*}
-a = b + c  \\
-= d + e + f &
-\end{flalign*}
-\end{document}
-$$
 ### Arten von Kräften 
 
 
