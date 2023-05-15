@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c02298f293db5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Die Vorsätze.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1,
@@ -180,9 +168,9 @@
   },
   "active": "7be661dce72009cb",
   "lastOpenFiles": [
-    "Die Vorsätze.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "Vorsätze.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "Die Vorsätze.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
     "Dichte.md",

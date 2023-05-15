@@ -8,9 +8,8 @@
 #### [[Die abgeleiteten Einheiten]]
 #### [[Die zusätzlichen Einheiten]]
 ???
-####[[ Vorsätze|Die Vorsätze]] 
-Um Vielfache oder Teile einer Einheit anzugeben, ist es üblich, Voersaetze zu verwenden.
-z.B.:P kilo, Mega, Giga, Tera, Peta 
+#### [[ Vorsätze|Die Vorsätze]] 
+
 ## Atomaufbau
 #### Masse von Atomen
 ##### Ordnungszahl
