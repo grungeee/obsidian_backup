@@ -48,6 +48,7 @@
 ### Arbeit 
 Die Drei Einheiten der Arbiet
 [[Physikalische Arbeit W]]
+Hubarg
 
 ### Energie 
 ### Leistung 
