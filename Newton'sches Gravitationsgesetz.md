@@ -16,10 +16,13 @@ $$
 F … Betrag der Gravitationskraft, [ \ F \ ] =  N &&\\
 
 
-M … Masse \ des \ 1. \ Körpers, [ \ M \ ] = kg&&\\
+&&\\
+M … Masse \ des \ 1. \ Körpers, [ \ M \ ] = kg &&
 
+&&\\
 m … Masse \ des \ 1. \ Körpers, [ \ m \ ] = kg&&\\
 
+&&\\
 r … Abstand\ zwischen\ den\ beiden\ Körpern; [ \ r \ ] = m &&\\
 &&\\
 G … Gravitationskonstante,\  G = 6,67 \cdot 10^{-11}\   {m^3}/{kgs^{2}}&&\\
