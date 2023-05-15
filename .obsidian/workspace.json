@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7be661dce72009cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "mode": "source",
                 "source": false
@@ -20,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7ddc52e592c28f8c",
@@ -152,21 +166,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6ca086adb6c979a7",
+  "active": "7be661dce72009cb",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "Dichte.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Rotation  und Translation.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Gleichförmige Bewegung.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Luca (1).md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/SI - System.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Isotope.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeit v.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Größen und Einheiten.md",
@@ -182,7 +197,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Leistung P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Naturwissenschaftliche Grundlagen (1).md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W (1).md",
     "Excalidraw/Drawing 2023-04-20 20.24.59.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.34.18.excalidraw.svg",
     "Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.svg",
