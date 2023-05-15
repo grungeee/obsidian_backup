@@ -23,8 +23,6 @@
 
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
-- [[Schwerkraft]]
-- [[Druck p]] und Normalkraft **s.27**
 ![[Pasted image 20230515134400.png]]
 ### [[Gleichförmige Bewegung]]
 
@@ -40,10 +38,19 @@
 
 
 
+<<<<<<< HEAD
 
 ### [[Beschleunigende Kraft]]
+=======
+>>>>>>> a316fe3ab6ca226f6af5042c5380d06242941cb2
 ### Arten von Kräften 
-[[Zentrifugalkraft]]
+#### [[Beschleunigende Kraft]]
+#### [[Zentrifugalkraft]]
+#### [[Schwerkraft]]
+
+- [[Druck p]] und Normalkraft 
+- more?
+
 
 
 
@@ -56,7 +63,7 @@ Die Drei Einheiten der Arbiet
 
 ### Energie 
 - [[Potenzielle Energie Eₚ]]
-- Kinetische Energie Eₖ
+- [[Kinetische Energie Eₖ]]
 ### Leistung 
 
 ## Elektrizität und Magnetismus

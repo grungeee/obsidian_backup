@@ -128,7 +128,7 @@
 - dazu Beispielrechnungen
 #### Arten von Kräften:
 - [x] Schwerkraft
-- Druck und Normalkraft
+- [x] Druck und Normalkraft **27**
 #### Grundlagen der Kinematik:
 ##### Arten der Bewegung:
 - Translation

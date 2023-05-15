@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b194155f37b8d78",
+        "id": "ccd0f6d7b2575ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "75120900d611e266",
+            "id": "f01f0d245fd758c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "7ebf8897c206dd22",
+            "id": "1ef4ae5c36e8d9b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,43 +33,31 @@
 <<<<<<< HEAD
           },
           {
-            "id": "f3b71ef426835bd2",
+            "id": "23b4a1fb2b1bd0bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf58559f0bcd7c10",
+            "id": "9480283d833f6acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+                "file": "Kinetische Energie Eₖ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6648c300c7cdd176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Newton'sches Gravitationsgesetz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eac2e7ff002814f",
+            "id": "1b9191433b0ac167",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,37 +67,17 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0051ea5cd46214b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "714ff414da1fdb1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 4,
 =======
           }
         ],
 >>>>>>> origin/kohai2
+=======
+        "currentTab": 1,
+>>>>>>> a316fe3ab6ca226f6af5042c5380d06242941cb2
         "stacked": true
       }
     ],
@@ -177,9 +145,13 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Newton'sches Gravitationsgesetz.md",
 =======
 >>>>>>> origin/kohai2
+=======
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+>>>>>>> a316fe3ab6ca226f6af5042c5380d06242941cb2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,9 +169,13 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Newton'sches Gravitationsgesetz.md",
 =======
 >>>>>>> origin/kohai2
+=======
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+>>>>>>> a316fe3ab6ca226f6af5042c5380d06242941cb2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +199,7 @@
               "type": "outline",
 <<<<<<< HEAD
               "state": {
-                "file": "Newton'sches Gravitationsgesetz.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
 =======
               "state": {}
@@ -253,21 +229,31 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "6648c300c7cdd176",
+=======
+  "active": "1ef4ae5c36e8d9b7",
+>>>>>>> a316fe3ab6ca226f6af5042c5380d06242941cb2
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
-    "Newton'sches Gravitationsgesetz.md",
-    "Zentrifugalkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
-    "Druck p.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-    "Beschleunigungsarbeit Wₐ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
+    "Kinetische Energie Eₖ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+    "Beschleunigungsarbeit Wₐ.md",
+    "conflict-files-obsidian-git.md",
+    "Druck P.md",
+    "Vorsätze.md",
+    "Dichte.md",
+    "Beschleunigende Kraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
+    "Newton'sches Gravitationsgesetz.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
+    "Zentrifugalkraft.md",
+    "Druck p.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
@@ -298,6 +284,7 @@
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
+<<<<<<< HEAD
     "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
     "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
@@ -309,5 +296,8 @@
 =======
     "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md"
 >>>>>>> origin/kohai2
+=======
+    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md"
+>>>>>>> a316fe3ab6ca226f6af5042c5380d06242941cb2
   ]
 }
