@@ -28,9 +28,13 @@ z.B.:P kilo, Mega, Giga, Tera, Peta
 
 ## Dynamik 
 ### Masse und Dichte 
+Dichte $\rho$
+
 ### Kraftbegriffe - Newton'sche Axiome
 ### Arten von Kräften 
+
 ### Arbeit 
+![[Physikalische Arbeit W]]
 ### Energie 
 ### Leistung 
 
