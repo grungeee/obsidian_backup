@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4db3e5587bc76d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
             }
           }
@@ -188,21 +200,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b535e0da02c25386",
+  "active": "23b4a1fb2b1bd0bf",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Beschleunigungsarbeit Wₐ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Zentrifugalkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sches Gravitationsgesetz.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Druck p.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "🏡 Home.md",
     "WiFi-Share/Werkstofftechnik/Stack/GitHub Troubleshooting.md",
     "conflict-files-obsidian-git.md",
     "misc/Obsidian Git.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
-    "Beschleunigungsarbeit Wₐ.md",
     "Vorsätze.md",
     "Dichte.md",
     "Beschleunigende Kraft.md",
@@ -214,10 +228,8 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
     "misc/ChatGPT_logo_white.svg",
     "misc/ChatGPT_logo_black.svg",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md"
+    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md"
   ]
 }

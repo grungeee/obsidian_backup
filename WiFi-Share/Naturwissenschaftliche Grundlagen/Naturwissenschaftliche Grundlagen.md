@@ -23,7 +23,7 @@
 
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
-![[Pasted image 20230515134400.png]]
+![[Pasted image 20230515134400.png|500x1234]]
 ### [[Gleichförmige Bewegung]]
 
 
