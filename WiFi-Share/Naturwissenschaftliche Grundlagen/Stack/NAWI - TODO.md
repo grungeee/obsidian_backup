@@ -121,7 +121,7 @@
 	- Dazu Beispielrechnungen
  
 #### Kraftbegriff
-- Die 3 Newton' sche Axiome
+- [x] Die 3 Newton' sche Axiome
 - Trägheitsgesetz
 - Dynamisches Grundgesetz
 - Reaktionsprinzip
