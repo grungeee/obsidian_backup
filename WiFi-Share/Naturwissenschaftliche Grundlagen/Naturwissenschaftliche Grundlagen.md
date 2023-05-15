@@ -104,7 +104,7 @@ $$
 \begin{flalign}
 \begin{aligned}
 F … beschleunigende \ Kraft, [ \ F \ ] = kgm/{s^2} = N, \ N … Newton &&\\
-\end{aligned}
+\end{aligned}&&
 \end{flalign}
 $$
 

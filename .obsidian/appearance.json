@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Obsidianite",
   "baseFontSize": 19,
-  "textFontFamily": "Cascadia Code PL SemiLight"
+  "textFontFamily": "",
+  "monospaceFontFamily": "Cascadia Code PL SemiLight"
 }
