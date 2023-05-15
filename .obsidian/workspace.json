@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9480283d833f6acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kinetische Energie Eₖ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1b9191433b0ac167",
             "type": "leaf",
             "state": {
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md",
+                "file": "Kinetische Energie Eₖ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md",
+                "file": "Kinetische Energie Eₖ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md"
+                "file": "Kinetische Energie Eₖ.md"
               }
             }
           }
@@ -179,11 +191,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1b9191433b0ac167",
+  "active": "9480283d833f6acf",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
-    "Beschleunigungsarbeit Wₐ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "Kinetische Energie Eₖ.md",
+    "Beschleunigungsarbeit Wₐ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
     "conflict-files-obsidian-git.md",
     "Druck P.md",
     "Vorsätze.md",
@@ -208,7 +221,6 @@
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
     "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md"
+    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md"
   ]
 }

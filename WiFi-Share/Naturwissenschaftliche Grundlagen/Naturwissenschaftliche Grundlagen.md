@@ -55,7 +55,7 @@ Die Drei Einheiten der Arbiet
 
 ### Energie 
 - [[Potenzielle Energie Eₚ]]
-- Kinetische Energie Eₖ
+- [[Kinetische Energie Eₖ]]
 ### Leistung 
 
 ## Elektrizität und Magnetismus
