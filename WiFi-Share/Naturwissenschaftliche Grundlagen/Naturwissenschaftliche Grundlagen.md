@@ -45,7 +45,7 @@
 #### [[Zentrifugalkraft]]
 #### [[Schwerkraft]]
 
-- [[Druck p]] und Normalkraft 
+- [[Druck P]] und Normalkraft 
 - more?
 
 
