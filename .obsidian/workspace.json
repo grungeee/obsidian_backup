@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+                "file": "Newton'sches Gravitationsgesetz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+                "file": "Newton'sches Gravitationsgesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md"
+                "file": "Newton'sches Gravitationsgesetz.md"
               }
             }
           }
@@ -239,10 +239,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cf58559f0bcd7c10",
+  "active": "6648c300c7cdd176",
   "lastOpenFiles": [
-    "Newton'sches Gravitationsgesetz.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
+    "Newton'sches Gravitationsgesetz.md",
     "Zentrifugalkraft.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
