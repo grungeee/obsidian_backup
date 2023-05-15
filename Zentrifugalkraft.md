@@ -35,10 +35,8 @@ $$
 $$
 \begin{flalign}
 \begin{aligned}
-\omega … Behngeschwindigkeit, [ \ \omega \ ] = 1/s &&\\
+\omega … Winkelgeschwindigkeit, [ \ \omega \ ] = 1/s &&\\
 \end{aligned}&&
 \end{flalign}
 $$
-```
-
 ```
