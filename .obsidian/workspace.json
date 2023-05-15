@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Druck P.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Kinetische Energie Eₖ.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Druck P.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Druck P.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Druck P.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md"
               }
             }
           }
@@ -190,10 +190,10 @@
   },
   "active": "b535e0da02c25386",
   "lastOpenFiles": [
-    "WiFi-Share/Zentrifugalkraft.md",
-    "WiFi-Share/Newton'sches Gravitationsgesetz.md",
-    "WiFi-Share/Kinetische Energie Eₖ.md",
-    "WiFi-Share/Druck P.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Zentrifugalkraft.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sches Gravitationsgesetz.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Druck p.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
