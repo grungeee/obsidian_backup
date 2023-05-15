@@ -8,12 +8,15 @@
 #### [[Die zusätzlichen Einheiten]]
 #### Die Vorsätze 
 Um Vielfache oder Teile einer Einheit anzugeben, ist es üblich, Voersaetze zu verwenden.
+z.B.:P kilo, Mega, Giga, Tera, Peta 
 ## Atomaufbau
 #### Masse von Atomen
 ##### Ordnungszahl
+**Ordnungszahl** ist die Anzahl der *Protonen* im Atomkern
 ##### Massenzahl
-
+**Massenzahl** ist die Summe von *Protonen* und *Neutronen* im Atomkern.
 #### Elektronenhülle
+
 #### [[Isotope]]
 
 ## Grundlagen der Kinematik
@@ -83,5 +86,8 @@ Ein **Isotop** ist eine Variante eines Elements, die sich in der *Anzahl* der **
 ### Luft, Wasser, Erde 
 
 ## Metalle
+Sind wärmeleitend, stromleitend
+
+
 ### Metallischer Zustand 
 ### Redox - Reaktion 
