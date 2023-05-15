@@ -52,6 +52,7 @@ $$
 
 
 ### Beschleunigende Kraft
+
 ```ad-formel
 $$
 \begin{flalign}
