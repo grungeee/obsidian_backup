@@ -41,3 +41,19 @@ $$
 \end{aligned} &&
 \end{flalign}
 $$
+
+$$
+\begin{flalign}
+\begin{aligned}
+m … Masse\ des bewegten Koerpers, [ \ m \ ] = kg&&\\
+\end{aligned}&&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+\begin{aligned}
+v … Geschwindigkeit des Körpers, [ \ v \ ] = m/s &&\\
+\end{aligned}&&
+\end{flalign}
+$$
