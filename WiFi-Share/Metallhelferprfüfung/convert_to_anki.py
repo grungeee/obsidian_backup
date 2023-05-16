@@ -1,17 +1,21 @@
-def add_column_to_numbered_list(file_path):
+import re
+
+def process_file(file_path):
+    # Read the file
     with open(file_path, 'r') as file:
         lines = file.readlines()
 
+    # Process each line
+    for i, line in enumerate(lines):
+        # Check if line starts with a numbered list
+        if re.match(r'^\d+\.', line):
+            # Replace first colon with double colon
+            lines[i] = re.sub(r':', '::', line, count=1)
+
+    # Write the modified lines back to the file
     with open(file_path, 'w') as file:
-        for line in lines:
-            if line.strip().split('.')[0].isdigit():
-                number, rest = line.strip().split('.', 1)
-                new_line = f"{number}.: {rest}\n"
-                file.write(new_line)
-            else:
-                file.write(line)
+        file.writelines(lines)
 
-# Usage example
+# Test the function
 file_path = 'D:\\Users\\Public\\Stuff\\Notes\\WiFi\\WiFi-Share\\Metallhelferprfüfung\\1.md'
-
-add_column_to_numbered_list(file_path)
+process_file(file_path)
