@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen 1.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen 1.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen 1.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md"
               }
             }
           }
@@ -204,8 +204,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "60d7fc272198259a",
+  "active": "fbbf35b8c99c33a2",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen 1.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen (1).md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - TODO.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
@@ -218,7 +219,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
     "MOC Articles.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen 1.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die zusätzlichen Einheiten.md",
