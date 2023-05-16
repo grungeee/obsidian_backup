@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-                "mode": "preview",
+                "file": "WiFi-Share/Metallhelferprfüfung/1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md"
+                "file": "WiFi-Share/Metallhelferprfüfung/1.md"
               }
             }
           }
@@ -192,9 +192,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9480283d833f6acf",
+  "active": "60d7fc272198259a",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+    "WiFi-Share/Metallhelferprfüfung/1.md",
+    "WiFi-Share/Metallhelferprfüfung",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen 1.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen (1).md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/NAWI - TODO.md",
@@ -211,7 +214,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Druck P.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die zusätzlichen Einheiten.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Die abgeleiteten Einheiten.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigungsarbeit Wₐ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
@@ -219,7 +221,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sches Gravitationsgesetz.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
     "Druck p.md",
-    "🏡 Home.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
     "misc/ChatGPT_logo_white.svg",
     "misc/ChatGPT_logo_black.svg"
