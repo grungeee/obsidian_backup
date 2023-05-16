@@ -5,7 +5,8 @@ def add_column_to_numbered_list(file_path):
     with open(file_path, 'w') as file:
         for line in lines:
             if line.strip().split('.')[0].isdigit():
-                new_line = line.replace(':', ': ', 1).replace('\n', ':\n')
+                number, rest = line.strip().split('.', 1)
+                new_line = f"{number}.: {rest}\n"
                 file.write(new_line)
             else:
                 file.write(line)
