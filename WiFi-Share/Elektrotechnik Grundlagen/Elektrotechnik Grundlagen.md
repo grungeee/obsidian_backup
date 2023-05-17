@@ -111,6 +111,9 @@
  >Der **Leitwert** gibt an, wie gut elektrischer *Strom geleitet* wird.
  
 ### Ohm'sches Gesetz
+- Das ohmsche Gesetz gibt und den Zusammenhang zwischen Strom, Spannung und Widerstand in einem Stromkreis an.
+- Die **Spannung** ist direkt proportional zum Produkt von Stromstärke und Widerstand
+- Der **Strom** ist indirekt proportional zum
 - Die **Stromstärke** ist in einen Stromkreis umso **größer**, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
 ![[das magische Dreieck.excalidraw.svg]]
 
