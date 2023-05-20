@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Aus welchem Material werden Anreißplatten hergestellt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/MHP-todo.md"
+                "file": "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md"
               }
             }
           }
@@ -192,11 +193,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "60d7fc272198259a",
+  "active": "bcbbe707ddb2819d",
   "lastOpenFiles": [
+    "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
     "WiFi-Share/Metallhelferprfüfung/2.md",
     "WiFi-Share/Metallhelferprfüfung/1.md",
-    "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
     "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
     "WiFi-Share/Metallhelferprfüfung/17.md",
     "WiFi-Share/Metallhelferprfüfung/16.md",

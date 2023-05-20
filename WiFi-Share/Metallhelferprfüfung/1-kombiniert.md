@@ -1519,4 +1519,3 @@ Konstruktion,
 - Material sparen,
 - Arbeitsvorbereitung,
 - keine zu großen Übermaße.
-4 / 4
