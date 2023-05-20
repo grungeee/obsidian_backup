@@ -1,3 +1,4 @@
-- Add images
-- edit  text
-- look for the right questions
+- [ ] Add images
+- [ ] edit  text
+- [ ] some answers a
+- [ ] look for the right questions
