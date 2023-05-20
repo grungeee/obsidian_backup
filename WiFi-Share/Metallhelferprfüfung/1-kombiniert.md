@@ -1,5 +1,3 @@
-Week 1 - Day 1
-Lerne online unter https://quizlet.com/_99o2ok
 1. Wie werden Metalle grundsätzlich eingeteilt?: In Eisenmetalle und
 Nichteisenmetalle.
 2. Wie werden Eisenwerkstoffe eingeteilt?: In Stähle und Eisengusswerkstoffe
@@ -29,9 +27,7 @@ auf.: - Gut gießbar (dünnflüssige Schmelze),
 (Grauguss bzw. lamellares Gusseisen)
 9. Zählen Sie drei Eisen Gusswerkstoffe auf.: - Gusseisen mit Lamellengrafit
 oder Grauguss (GJL),
-1 / 5
-Week 1 - Day 1
-Lerne online unter https://quizlet.com/_99o2ok
+
 - Gusseisen mit Kugelgrafit oder Sphäroguss (GJS),
 - Temperguss (GJM),
 - Stahlguss (GE oder GS)
@@ -57,9 +53,7 @@ G 20Mo5 - (Warmfester)
 G = Gusseisen (niedriglegierter Stahlguss)
 20 = 0,2 % Kohlenstoff (Faktor 100)
 Mo5 = 0,5% Molybdän, (Faktor 10)
-2 / 5
-Week 1 - Day 1
-Lerne online unter https://quizlet.com/_99o2ok
+
 14. Nennen Sie drei Eigenschaften von Stahlguss!: - Hohe Festigkeit,
 - Härtbarkeit der Oberfläche
 - zäh,
@@ -89,9 +83,7 @@ E -> vorgeschriebenen max. Schwefelgehalt
 Werkzeugstahl C105U ->
 (Kohlenstoffgehaltanteil C von ca. 0,6 bis 1,5%)
 C -> Unlegierter Stahl
-3 / 5
-Week 1 - Day 1
-Lerne online unter https://quizlet.com/_99o2ok
+
 105 -> 1,05% Kohlenstoff, daher Werkzeugstahl
 U -> für Werkzeuge geeignet
 19. Nennen Sie 2 Gründe, weshalb Stähle legiert werden!: Verbesserte :
@@ -119,9 +111,7 @@ zusätzliche Elemente wie Chrom und Molybdän, daher legierter Stahl, niderig
 Cr9 -> 9/4 2,25% Chrom, (Faktor 4)
 Mo10 -> 1% Molybdän (Faktor 100)
 NiderigLegierter EinsatzStahl
-4 / 5
-Week 1 - Day 1
-Lerne online unter https://quizlet.com/_99o2ok
+
 24. Übersetzen Sie die Stahlbezeichnung X5CrNi18-10: X5CrNi18-10
 X -> für hochlegierten Stahl
 5 -> 0,05% Kohlenstoff,
@@ -133,9 +123,7 @@ beschreibt die Widerstandsfähigkeit eines Werkstoffs gegen Bruch
 Verformbarkeit eines Werkstoffes mit großem Verformungswiderstand
 Federstahl, nicht rostende Stähle
 26. Aus welchem Grund sind Automatenstähle nicht schweißgeeignet?: Wegen des erhöhten Phosporgehaltes und Schwefelgehaltes.
-5 / 5
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
+
 1. Wie oft darf ich eine Mutter mit Kunststoffring oder selbst sichernde Mutter
 verwenden?: 1 Mal
 (da sonst die Schraubensicherung nicht mehr gegeben ist)
@@ -156,9 +144,7 @@ Ringmuttern: Verwendung als Transportösen bei Maschinen.
 Querbohrung im Gewinde erstellen, Splint einführen und auseinander biegen.
 7. Wie lassen sich Schrauben gegen unbeabsichtigtes Lösen sichern?: -
 Durch Schraubensicherungen!
-1 / 4
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
+
 8. Nennen Sie verschiedene Arten von Schraubensicherungen und ordnen
 Sie sie den Hauptgruppen zu (siehe Prüfungskoffer)!: Setzsicherung:
 - Zahnscheibe,
@@ -186,9 +172,6 @@ gesichert?: - Wenn Sie voraussichtlich nicht mehr gelöst werden!
 13. Wovon ist die Auswahl von Stiften abhängig?: - Verwendungszweck,
 - Der verlangten Genauigkeit
 - Den Kosten, die bei der Herstellung der Stiftverbindung entstehen.
-2 / 4
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
 14. Wie werden Stifte nach der Form eingeteilt?: - Zylinderstift,
 - Kegelstift,
 - Kerbstift
@@ -213,9 +196,6 @@ mittels Kegelstiften!: - Bohrung herstellen
 - Stift einfetten und eintreiben.
 21. Nennen Sie Stifte, bei denen die Bohrung nicht gerieben werden muss!: -
 Spannstifte,
-3 / 4
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
 - Spiralspannstifte,
 - Kerbstifte,
 - Zylinderkerbstifte,
@@ -227,9 +207,6 @@ Welle und Nabe, die gegeneinander vorgespannt sind.
 24. Welchen Nachteil haben Keilverbindungen?: - Radialschlag, Kontrolle der
 Vorspannung nötig.
 25. Welchen Vorteil hat ein Nasenkeil?: - Erleichterung beim Ausbau
-4 / 4
-Week 1 - Day 3
-Lerne online unter https://quizlet.com/_99wljl
 1. Nennen Sie zwei Beispiele für Werkzeugstücke aus unlegiertem
 Werkzeugstahl!: - Reißnadeln,
 - Körner,
@@ -259,9 +236,6 @@ Wiederstand den ein Werkstoff beim Eindrücken entgegensetzt.
 Härteprüfung
 - mit einer Prüfkraft es wird gemessen wie weit der Prüfkörper in das Material
 eindringt.
-1 / 3
-Week 1 - Day 3
-Lerne online unter https://quizlet.com/_99wljl
 ( Härteprüfkörper )
 8. Nennen Sie Einheiten und Abkürzungen, für Streckgrenze und Zugfestigkeit!: Zugfestigkeit -> Rm N/mm²,
 Streckgrenze -> Re N/mm²
@@ -287,9 +261,6 @@ hergestellt?: Gussstücke wie Gehäuse, Lager, Formteile
 17. Erklären Sie die Bearbeitbarkeit von Kupfer!: - Gießbar,
 - Walzbar (Bleche), (Rolling)
 - Zerspanbar (mit sehr guter Schneide)
-2 / 3
-Week 1 - Day 3
-Lerne online unter https://quizlet.com/_99wljl
 18. Nennen Sie drei Beispiele für die Verwendung von Kupfer!: - Leitwerkstoff
 für Elektrotechnik,
 - Lötkolben,
@@ -320,9 +291,6 @@ Korrosionbeständigkeit,
 - GERINGE Dichte,
 - leicht bearbeitbar,
 - selbstbildende Schutzschicht gegen Korrosion,
-3 / 3
-Week 1 - Day 4
-Lerne online unter https://quizlet.com/_9a9dg1
 1. Nennen Sie einige Beispiele für die Verwendung von Aluminium.: -
 Flugzeugbau,
 - Eisenbahnbau,
@@ -351,9 +319,6 @@ Maschinenteilen,
 - Hohe Presskraft,
 - beschränkte Werkstückgröße,
 - Hinterschneidungen nicht möglich
-1 / 4
-Week 1 - Day 4
-Lerne online unter https://quizlet.com/_9a9dg1
 7. Nennen Sie die Eigenschaften von Hartmetall.: - spröde
 - Verschleißfest,
 - hitzebeständig bis 900°C,
@@ -385,9 +350,6 @@ Glasfaser + Kunststoff = Glasfaserverstärkter Kunststoff (GFK)
 13. Erklären Sie den Begriff Korrosion!: Angriff und Zerstörung metallischer
 Werkstoffe.
 Chemische oder elektrochemische Reaktion mit Wirkstoffen der Umgebung.
-2 / 4
-Week 1 - Day 4
-Lerne online unter https://quizlet.com/_9a9dg1
 14. Wodurch entsteht Korrosion?: Durch Chem. oder elektrochemische Reaktion mit Wirkstoffen der Umgebung
 (Umgebungsluft, Feuchtigkeit, Wärme, ev. auch Chemikalien).
 15. Nennen Sie korrosive Mittel: z.B. die Raumluft, Wasser, Erdboden oder
@@ -418,9 +380,6 @@ Es gehört zu den unlösbaren (stoffschlüssige) Verbindungen
 - Folien,
 - Bänder,
 - Stangen,
-3 / 4
-Week 1 - Day 4
-Lerne online unter https://quizlet.com/_9a9dg1
 - Lotformteile
 22. Für welchen Zweck werden Flussmittel verwendet und nennen Sie zwei?-
 : - Flussmittel lösen Oxyde und verhindern weitere Oxidation.
@@ -438,9 +397,6 @@ Lerne online unter https://quizlet.com/_9a9dg1
 25. Erklären Sie den Begriff "Viskosität' von Schmierstoffen.: Zähflüssigkeit -
 Maß für innere Reibung des Schmierstoffes,
 hohe Viskosität = dickflüssig
-4 / 4
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 1. Nennen Sie zwei Schmierstoffarten.
 - Flüssige Schmierstoffe,
 - Festschmierstoffe,
@@ -475,9 +431,6 @@ der Schleifkörper?
 - Die einzelnen Körner so lange
 festzuhalten, bis sie stumpf geworden
 sind.
-1 / 6
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 7. Erklären Sie die Bezeichnung
 A60K8V40 auf einem Schleifkörper!
 A60K8V40
@@ -504,9 +457,6 @@ Probe frei hängend;
 heller Klang = harter Werkstoff und kein
 Riss,
 dumpfer Klang = weich oder rissig
-2 / 6
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 11. Welchen Aufschluss gibt der Kerbschlagversuch über den Werkstoff?
 - Hinweis über die Schlagzähigkeit
 eines Werkstoffes
@@ -528,9 +478,6 @@ eindringt.( Härteprüfkörper )
 14. Nennen Sie zwei Härteprüfverfahren.
 - Brinell,
 - Vickers,
-3 / 6
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 - Rockwell,
 - Feilprobe
 15. Mit welchem Prüfverfahren können
@@ -544,9 +491,6 @@ vorwiegend eingesetzt?
 - dünne Materialien
 18. Welche Form hat der Eindringkörper bei der Vickershärteprüfung?
 - Eine vierseitige Pyramide (Spitzenwinkel 136°)
-4 / 6
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 19. Wo wird die Rockwellhärteprüfung
 eingesetzt?
 - Bei allen gehärteten Oberflächen,
@@ -569,9 +513,6 @@ Stahlerzeugung benötigt?
 - Eisenerze,
 - Koks,
 - Kalk als Schlackenbildner
-5 / 6
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 24. Wie nennt man den Vorgang,
 bei dem aus Roheisen Stahl
 hergestellt wird?
@@ -582,9 +523,6 @@ Flüssiger Stahl wird in wassergekühlte
 Formen (Kokillen) gegossen.
 - Dadurch bilden sich Stahlstränge, die
 dann abgelängt werden.
-6 / 6
-Week 2 - Day 1
-Lerne online unter https://quizlet.com/_9ar5ay
 1. Zählen Sie einige Handelsformen der Stahlwerkstoffe auf.: - Bleche,
 - Drähte,
 - Profile;
@@ -615,9 +553,6 @@ von Nabe auf Wellen oder Achsen.
 9. Was verstehen Sie unter einer "Durchsteckschraubenverbindung": Eine
 Verbindung, bei der zwei Teile mit Durchgangsbohrungen mit einer Schraube und
 Mutter verbunden sind.
-1 / 4
-Week 2 - Day 1
-Lerne online unter https://quizlet.com/_9ar5ay
 10. Wie erfolgt die Längenangabe von Sechskant und Senkschrauben (siehe
 Prüfungskoffer)?: - Sechskantschraube ohne Schraubenkopf,
 - Senkschraube mit Schraubenkopf
@@ -640,9 +575,6 @@ Sie haben im Schaftbereich einen kleineren Durchmesser und nehmen dort die
 Zugspannung auf.
 16. Mit welchem Werkzeug werden Dehnschrauben angezogen?: Mit einem
 Drehmomentschlüssel.
-2 / 4
-Week 2 - Day 1
-Lerne online unter https://quizlet.com/_9ar5ay
 17. Welche Teile einer Schraube sind genormt?: Kopfform,
 Schaftabmessungen,
 Gewindemaße
@@ -669,17 +601,11 @@ Rändelmutter
 Wellen und Lagern verwendet?: Nutmutter,
 Kreuzlochmutter
 24. Nennen Sie Verwendungsbeispiele für Hutmuttern.: - Schöneres Aussehen,
-3 / 4
-Week 2 - Day 1
-Lerne online unter https://quizlet.com/_9ar5ay
 - Schutz vor Schmutz,
 - Schutz vor Verletzungen
 zum Beispiel an Fahrrädern zur Befestigung der Radachsen.
 25. Wozu wird eine Kronenmutter (mit Splint) verwendet?: Zum Herstellen
 einer VerlierSicherung (formschlüssig)
-4 / 4
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
 1. Wie oft darf ich eine Mutter mit Kunststoffring oder selbst sichernde Mutter
 verwenden?: 1 Mal
 (da sonst die Schraubensicherung nicht mehr gegeben ist)
@@ -700,9 +626,6 @@ Ringmuttern: Verwendung als Transportösen bei Maschinen.
 Querbohrung im Gewinde erstellen, Splint einführen und auseinander biegen.
 7. Wie lassen sich Schrauben gegen unbeabsichtigtes Lösen sichern?: -
 Durch Schraubensicherungen!
-1 / 4
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
 8. Nennen Sie verschiedene Arten von Schraubensicherungen und ordnen
 Sie sie den Hauptgruppen zu (siehe Prüfungskoffer)!: Setzsicherung:
 - Zahnscheibe,
@@ -730,9 +653,6 @@ gesichert?: - Wenn Sie voraussichtlich nicht mehr gelöst werden!
 13. Wovon ist die Auswahl von Stiften abhängig?: - Verwendungszweck,
 - Der verlangten Genauigkeit
 - Den Kosten, die bei der Herstellung der Stiftverbindung entstehen.
-2 / 4
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
 14. Wie werden Stifte nach der Form eingeteilt?: - Zylinderstift,
 - Kegelstift,
 - Kerbstift
@@ -757,9 +677,6 @@ mittels Kegelstiften!: - Bohrung herstellen
 - Stift einfetten und eintreiben.
 21. Nennen Sie Stifte, bei denen die Bohrung nicht gerieben werden muss!: -
 Spannstifte,
-3 / 4
-Week 2 - Day 2
-Lerne online unter https://quizlet.com/_9asgfj
 - Spiralspannstifte,
 - Kerbstifte,
 - Zylinderkerbstifte,
@@ -771,9 +688,6 @@ Welle und Nabe, die gegeneinander vorgespannt sind.
 24. Welchen Nachteil haben Keilverbindungen?: - Radialschlag, Kontrolle der
 Vorspannung nötig.
 25. Welchen Vorteil hat ein Nasenkeil?: - Erleichterung beim Ausbau
-4 / 4
-Week 2 - Day 3
-Lerne online unter https://quizlet.com/_9b58ci
 Wo finden Federverbindungen Ihre Anwendung?
 - Wo ein genauer Rundlauf gefordert ist.
 Wozu werden Passfedern mit Gewinde versehen?
@@ -795,9 +709,6 @@ Nennen Sie ein Beispiel für eine Gleitfederverbindung!
 Dabei wird die Nabe axial verschoben.
 - Polygonprofile,
 - Kerbzahnprofil,
-1 / 3
-Week 2 - Day 3
-Lerne online unter https://quizlet.com/_9b58ci
 Nennen Sie weitere Verbindungsarten zwischen Welle und Nabe!
 - Zahnwellenprofil,
 - Keilnabenprofil,
@@ -865,9 +776,7 @@ Welche Arten von Zahnrädern kennen Sie?
 - Ritzel,
 Welche Aufgaben haben Zahnräder? Mit Zahnrädern kann man Drehbewegungen übertragen und
 dabei Drehzahlen, Drehmomente oder Drehrichtungen ändern.
-2 / 3
-Week 2 - Day 3
-Lerne online unter https://quizlet.com/_9b58ci
+
 Welche Vorteile und Nachteile haben schrägverzahnte Stirnräder
 gegenüber geradeverzahnten?
 VT:
@@ -883,9 +792,7 @@ zu achten?
 Auf ausreichende Schmierung,
 - geringe Drehzahl -> Fett
 - hohe Drehzahl -> Öl
-3 / 3
-Week 2 - Day 4
-Lerne online unter https://quizlet.com/_9b5bt9
+
 Was verstehen Sie unter einem Ritzel?
 Kleines, meist treibendes Rad.
 Was muss bei Zahnrädern, die ineinander greifen sollen gleich
@@ -935,9 +842,7 @@ Nennen Sie 3 Vorteile eines Gleitlagers?
 - Wärmeabfuhr
 Wodurch werden die Reibungskraft und damit das Reibungsmoment bei Gleitlagern möglichst klein gehalten? - Durch ausreichenden Schmierstoff
 Welche Schmierungsmöglichkeiten kennen Sie bei Gleitlager?
-1 / 2
-Week 2 - Day 4
-Lerne online unter https://quizlet.com/_9b5bt9
+
 - Hydrodynamischeschmierung,
 - Hydrostatischeschmierung,
 - Feststoffschmierung.
@@ -974,9 +879,7 @@ Was verstehen Sie unter einer Achse? - Werden vorwiegend auf Biegung beansprucht
 keine Drehmomente.
 Was verstehen Sie unter Bolzen? - Sind kurze Achsen, mit denen Maschinenteile beweglich verbunden werden (z.B.Gelenkbolzen)
 Wie werden Bolzen beansprucht? Auf Abscherung und Biegung.
-2 / 2
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
+
 Nennen Sie zwei Schmierstoffarten. - Flüssige Schmierstoffe,
 - Festschmierstoffe,
 Erklären Sie den Vorteil der Fettschmierung gegenüber der
@@ -1021,9 +924,7 @@ Nennen Sie eine Aufgabe der Werkstoffprüfung!
 - Überprüfung nach Rissen,
 - Lunkereinschluß.
 - ErmittelnUrsachen bei Schäden
-1 / 5
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
+
 Erklären Sie die Durchführung der Klangprobe.
 Probe frei hängend;
 heller Klang = harter Werkstoff und kein Riss,
@@ -1041,9 +942,7 @@ Der Wiederstand den ein Werkstoff beim Eindrücken entgegensetzt.
 Härteprüfung
 - mit einer Prüfkraft es wird gemessen wie weit der Prüfkörper in
 das Material eindringt.( Härteprüfkörper )
-2 / 5
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
+
 Nennen Sie zwei Härteprüfverfahren.
 - Brinell,
 - Vickers,
@@ -1061,9 +960,6 @@ Welche Form hat der Eindringkörper bei der Vickershärteprüfung?
 - Eine vierseitige Pyramide (Spitzenwinkel 136°)
 Wo wird die Rockwellhärteprüfung eingesetzt? - Bei allen gehärteten Oberflächen, außer bei dünnen
 Härteschichten
-3 / 5
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 Welche Form hat der Eindringkörper bei der Rockwellhärteprüfung HRC?
 - Diamantkegel 120° Spitzenwinkel
 Nennen Sie 3 zerstörungsfreie Werkstoffprüfverfahren?
@@ -1086,13 +982,7 @@ hergestellt wird?
 Flüssiger Stahl wird in wassergekühlte Formen (Kokillen)
 gegossen.
 - Dadurch bilden sich Stahlstränge, die dann abgelängt werden.
-4 / 5
-Week 1 - Day 5
-Lerne online unter https://quizlet.com/_9a9g23
 Erklären Sie den Begriff „Strangguss" bei der Stahlerzeugung.
-5 / 5
-Week 3 - Day 1
-Lerne online unter https://quizlet.com/_9bwio5
 Welche Verfahren zur Erstellung von Planzeiten kennen sie?
 - Vergleichen und Schätzen,
 - IST-Wert erarbeiten,
@@ -1117,9 +1007,6 @@ Welche Arten von Messschrauben gibt es?
 - Zahnweitenmessschraube.
 Welche Messgenauigkeiten besitzen Messschrauben?
 In der Regel 0,01 mm oder 0,001 mm.
-1 / 5
-Week 3 - Day 1
-Lerne online unter https://quizlet.com/_9bwio5
 Welche Einflüsse auf Messabweichungen können beim Messen
 mit der Messschraube auftreten?
 - Verkanten des Werkstückes,
@@ -1149,9 +1036,6 @@ Welche Maßeinheiten gelten bei Winkelmaßen? Grad, Minuten und Sekunden
 Mit Kegellehrhülsen, Kegellehrdornen;
 Man bringt drei dünne Fettkreidestriche am Werkstückkegel an
 und verdreht dann die Lehre, Striche müssen gleichmäßig verwischt sein, sonst trägt der Kegel nicht
-2 / 5
-Week 3 - Day 1
-Lerne online unter https://quizlet.com/_9bwio5
 Welche Möglichkeiten gibt es, Kegel zu prüfen und wie geht man
 beim Prüfen eines Kegels vor?
 Was verstehen Sie unter einem Kegelverhältnis 1:50?
@@ -1179,9 +1063,6 @@ Endmaße sind Blöcke zum Prüfen und Kalibrieren von Messgeräten und Prüfmitt
 - Haben parallele Flächen,
 - sind genau auf Maß geschliffen,
 - geläppt,
-3 / 5
-Week 3 - Day 1
-Lerne online unter https://quizlet.com/_9bwio5
 Was sind Endmaße und wozu werden Sie verwendet?
 Aus welchem Werkstoff sind Endmaße?
 - Gehärteter Stahl,
@@ -1212,15 +1093,9 @@ Nennen Sie mindestens 5 Prüfgeräte!
 Was sind Grenzlehren?
 Lehren zum Prüfen, ob das Werkstück in der gewünschten Toleranz gefertigt wurde.
 Hat eine Gut- und Ausschussseite,
-4 / 5
-Week 3 - Day 1
-Lerne online unter https://quizlet.com/_9bwio5
 Beschreiben Sie einen Grenzlehrdorn!
 Gutseite muss in die Bohrung durch ihr Eigengewichtgleiten,
 Ausschussseite darf nur anschnäbeln.
-5 / 5
-Week 3 - Day 2
-Lerne online unter https://quizlet.com/_9c4np6
 1. Beschreiben Sie eine Grenzrachenlehre!: Zum Prüfen von Wellen und Dicken
 von Werkstücken, die Gutseite hat das Höchstmaß und muss darüber gleiten,
 Ausschussseite darf nur anschnäbeln.
@@ -1239,9 +1114,6 @@ richtige Handhabung (Prüfdruck)
 - Spitzzirkel,
 - Höhenreißer,
 - Zentrierwinkel,
-1 / 4
-Week 3 - Day 2
-Lerne online unter https://quizlet.com/_9c4np6
 7. Aus welchen Werkstoffen können Anreißnadeln hergestellt werden?: Aus
 Stahl mit gehärteter Spitze oder
 aufgelöteter HM-Spitze.
@@ -1264,9 +1136,6 @@ Hartgestein (z.B. Granit)
 Festklemmen zu vermeiden?: - Schränken,
 - Wellen,
 - Hohlschleifen,
-2 / 4
-Week 3 - Day 2
-Lerne online unter https://quizlet.com/_9c4np6
 - Stauchen,
 - oder mit Zahnsegmenten.
 15. Worauf ist beim Einspannen eines Sägeblattes zu achten?: Gerade
@@ -1290,9 +1159,6 @@ Gefräste Feilen haben positiven Spanwinkel
 22. Welche Hiebarten kennen Sie?: - Einfacher Hieb (Einhieb),
 - Kreuzhieb,
 - Raspelhieb
-3 / 4
-Week 3 - Day 2
-Lerne online unter https://quizlet.com/_9c4np6
 23. Wie heißen die Teile einer Feile?: - Feilenblatt,
 - Heft,
 - Angel
@@ -1309,9 +1175,6 @@ Schwertfeile.
 grob - fein)
 Hiebe pro cm Feilenblattlänge,
 (mit Hiebnummern 1 bis 8).
-4 / 4
-Week 3 - Day 3
-Lerne online unter https://quizlet.com/_9ccfie
 1. Welchen Vorteil hat ein Kreuzhieb?: Riefenbildung und einseitiges Feilen
 werden vermieden.
 2. Beschreiben Sie die Herstellung eines Muttergewindes von Hand!: - Vorbohren auf Kernlochdurchmesser,
@@ -1328,9 +1191,6 @@ Maschinengewindebohren: kurzer Anschnitt, nicht dreiteilig
 6. Wodurch unterscheiden sich Schneideisen von Schneidkluppen?: Schneideisen: Herstellung des Bolzengewindes in einem Arbeitsgang;
 Schneidkluppen: Herstellung in mehreren Arbeitsgängen
 (große Gewinde).
-1 / 4
-Week 3 - Day 3
-Lerne online unter https://quizlet.com/_9ccfie
 7. Beschreiben Sie den spanlosen Gewindeformer!: Keine Spannut, sondern
 einen unrunden Querschnitt
 (z.B. Polygone).
@@ -1351,9 +1211,6 @@ Diffusionsglühen
 12. Nennen Sie 3 verschiedene Glühverfahren.: - Spannungsarmglühen
 - Rekristallisationglühen
 - Weichglühen
-2 / 4
-Week 3 - Day 3
-Lerne online unter https://quizlet.com/_9ccfie
 13. Was verstehen Sie unter der Härte eines Werkstoffes?: Der Widerstand,
 den ein Körper dem Eindringen eines anderen Körpers entgegensetzt, heißt Härte.
 14. Warum werden Werkstücke gehärtet?: Um Stähle hart und verschleißfest zu
@@ -1379,9 +1236,6 @@ innerbetriebliche Fahrbewilligung des Arbeitgebers.
 - Nitrierhärten,
 - Flammhärten,
 - Induktionshärten, ....
-3 / 4
-Week 3 - Day 3
-Lerne online unter https://quizlet.com/_9ccfie
 22. Welche Abschreckmittel werden beim Härten von unlegierten, niedrig
 legierten und hochlegierten Stählen verwendet?: Unlegierte Stähle - Wasser,
 niedrig legierte Stähle - Öl,
@@ -1396,9 +1250,6 @@ Feststellung der Grenzfertigungskosten
 - hohe Streckgrenze,
 - große Zähigkeit,
 - Feinkörniges Gefüge,.
-4 / 4
-Week 2 - Day 4
-Lerne online unter https://quizlet.com/_9b5bt9
 1. Was verstehen Sie unter einem Ritzel?: Kleines, meist treibendes Rad.
 2. Was muss bei Zahnrädern, die ineinander greifen sollen gleich sein?: Sie
 müssen den gleichen Modul und den gleichen Eingriffswinkel (20°) haben.
@@ -1428,9 +1279,6 @@ gegen Schmutz,
 - Stoß und hohe Temperaturen
 - Höhere Geräuschentwicklung
 - Größerer Einbaudurchmesser
-1 / 3
-Week 2 - Day 4
-Lerne online unter https://quizlet.com/_9b5bt9
 - Geringere Tragfähigkeit bei gleicher Baugröße und geringere Schwingungsdämpfung
 10. Nennen Sie 3 Vorteile eines Gleitlagers?: - Teilbar,
 - kleine Baugröße,
@@ -1462,9 +1310,6 @@ sowie Sintermetalle, Kunststoffe, wie z.B. Polyamid und Gusseisen mit Lamellengr
 - Nadellager,
 - Tonnenlager
 18. Welche Vorteile hat ein Pendelkugellager?: Können geringe Fluchtungsfehler ausgleichen
-2 / 3
-Week 2 - Day 4
-Lerne online unter https://quizlet.com/_9b5bt9
 (z.B. durch Bearbeitungsfehler und Wellendurchbiegungen)
 19. Wo werden Nadellager verwendet?: Bei geringem Platzbedarf
 20. Worauf ist beim Einbau eines Wälzlagers zu achten?: - Lager vor Spänen
@@ -1480,9 +1325,6 @@ Bauform: Starrewellen, biegsame Wellen,Gelenkwellen.
 beansprucht und übertragen keine Drehmomente.
 24. Was verstehen Sie unter Bolzen?: - Sind kurze Achsen, mit denen Maschinenteile beweglich verbunden werden (z.B.Gelenkbolzen)
 25. Wie werden Bolzen beansprucht?: Auf Abscherung und Biegung.
-3 / 3
-Week 3 - Day 5
-Lerne online unter https://quizlet.com/_9crny9
 1. Nennen Sie die Ursachen, wenn die Bohrung zu groß wird?: - Schlag,
 - ungleich lange Hauptschneiden,
 - stumpfe Schneiden ...
@@ -1507,9 +1349,6 @@ Typ W
 Stahl, Stahlguss, Gusseisen,
 Typ H = harte Werkstoffe
 Typ W = weiche Werkstoffe,
-1 / 4
-Week 3 - Day 5
-Lerne online unter https://quizlet.com/_9crny9
 8. Worauf müssen Sie beim Nachschleifen eines Bohrers achten?: - Gleiche
 Länge der Hauptschneiden,
 - Freifläche,
@@ -1535,9 +1374,6 @@ Kegelsenker (Spitzsenker),
 - Spiralsenker,
 - Plansenker,
 - Aufstecksenker
-2 / 4
-Week 3 - Day 5
-Lerne online unter https://quizlet.com/_9crny9
 14. Warum werden Bohrungen gesenkt?: Zum Entgraten bzw. Versenken von
 Schrauben und Nieten!
 15. Wie vermeiden Sie Rattermarken beim Senken?: - Geringe
@@ -1557,9 +1393,6 @@ durch Schnittverletzungen
 9) im Uhrzeigersinn eindrehen
 10) nicht zurückdrehen, 11) ausblasen,
 12) prüfen mit Grenzlehrdorn.
-3 / 4
-Week 3 - Day 5
-Lerne online unter https://quizlet.com/_9crny9
 20. Was verstehen Sie unter dem Begriff Reiben?: Reiben ist ein spanabhebendes Bearbeitungsverfahren zur Herstellung von genauen Bohrungen mit hoher
 Oberflächengüte!
 21. Wie werden Reibahlen nach der Verwendung eingeteilt?: Hand- und
@@ -1574,9 +1407,6 @@ innerhalb eines verhältnismäßig großen Bereichs geändert werden.
 - Anschnitt
 25. Wie ist die Anordnung der Zähne bei einer Reibahle?: Gerade Anzahl (4,
 6, 8 bis 16) aber ungleiche Teilung, um das Rattern zu verhindern
-4 / 4
-Week 4 - Day 1
-Lerne online unter https://quizlet.com/_9d57oh
 1. Was verstehen Sie unter Längsdrehen?: Wenn die Vorschubrichtung parallel
 zur Drehachse liegt!
 2. Was verstehen Sie unter Plandrehen?: Vorschubrichtung ist quer zur
@@ -1607,9 +1437,6 @@ lt. Bild auf.: A) Gestell,
 B) Maschinenbett,
 C) Spindelstock mit Hauptspindel,
 D) Werkzeugschlitten,
-1 / 4
-Week 4 - Day 1
-Lerne online unter https://quizlet.com/_9d57oh
 E) Reitstock,
 F) Leitspindel,
 G) Zugsspindel
@@ -1640,9 +1467,6 @@ schriftlich (Fax oder Mail) zwischenlagern, Dringlichkeit, Pönale
 : - Walzenstirnfräser,
 - Winkelfräser
 - Schaftfräser,
-2 / 4
-Week 4 - Day 1
-Lerne online unter https://quizlet.com/_9d57oh
 - Scheibenfräser,
 - Eckfräskopf,
 14. Wie werden diese Fräser eingespannt?: - Aufsteckfräsdorn,
@@ -1666,9 +1490,6 @@ Lagermengen,
 - Kennzeichnung der Materialien,
 - EDV-Aufnahme,
 - regelmäßige Inventur.
-3 / 4
-Week 4 - Day 1
-Lerne online unter https://quizlet.com/_9d57oh
 19. Nennen Sie Unfallverhütungsmaßnahmen beim Aufrüsten von Schleifscheiben!: - Klangprobe durchfuhren,
 - Flansch-Durchmesser müssen 1/3 bei geraden u. 1/2 bei konischen Schleifscheiben betragen,
 - nur gleich große Flansche verwenden,
