@@ -1,0 +1,3 @@
+- Add images
+- edit  text
+- look for the right questions
