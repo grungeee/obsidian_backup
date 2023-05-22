@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67a3d8ca73b5a39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -156,8 +169,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0964202a4a05d6c9",
+  "active": "67a3d8ca73b5a39e",
   "lastOpenFiles": [
+    "WiFi-Share/Metallhelferprfüfung/1.md",
+    "conflict-files-obsidian-git.md",
     "WiFi-Share/Metallhelferprfüfung/3.md",
     "WiFi-Share/Metallhelferprfüfung/17.md",
     "WiFi-Share/Metallhelferprfüfung/16.md",
@@ -174,7 +189,6 @@
     "WiFi-Share/Metallhelferprfüfung/5.md",
     "WiFi-Share/Metallhelferprfüfung/4.md",
     "WiFi-Share/Metallhelferprfüfung/2.md",
-    "WiFi-Share/Metallhelferprfüfung/1.md",
     "Pasted image 20230522192213.png",
     "Pasted image 20230522192142.png",
     "Pasted image 20230522192105.png",
