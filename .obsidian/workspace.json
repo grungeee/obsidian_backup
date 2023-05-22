@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "60d7fc272198259a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bc2fbd8f4cd6e446",
             "type": "leaf",
             "state": {
@@ -68,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/17.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/17.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/17.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md"
               }
             }
           }
@@ -204,10 +191,39 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "60d7fc272198259a",
+  "active": "4db3e5587bc76d1b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "WiFi-Share/Metallhelferprfüfung/17.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/MHP-todo.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/convert_to_anki.py",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/9.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/9.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/8.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/8.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/7.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/7.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/6.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/6.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/5.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/5.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/4.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/4.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/3.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/3.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/2.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/2.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/17.docx",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/17.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/16.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/15.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/14.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/13.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/12.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/11.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/10.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/1.md",
+    "WiFi-Share/Metallhelfer 2/Metallhelferprfüfung/1-kombiniert.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20230522192213.png",
     "Pasted image 20230522192142.png",
     "Pasted image 20230522192105.png",
@@ -218,39 +234,10 @@
     "Pasted image 20230522190820.png",
     "Pasted image 20230522190503.png",
     "Pasted image 20230522190357.png",
-    "WiFi-Share/Metallhelferprfüfung/17.docx",
     "WiFi-Share/Metallhelferprfüfung/16.md",
-    "WiFi-Share/Metallhelferprfüfung/16.docx",
     "WiFi-Share/Metallhelferprfüfung/15.md",
-    "WiFi-Share/Metallhelferprfüfung/15.docx",
     "WiFi-Share/Metallhelferprfüfung/14.md",
-    "WiFi-Share/Metallhelferprfüfung/14.docx",
     "WiFi-Share/Metallhelferprfüfung/13.md",
-    "WiFi-Share/Metallhelferprfüfung/13.docx",
-    "WiFi-Share/Metallhelferprfüfung/12.md",
-    "WiFi-Share/Metallhelferprfüfung/12.docx",
-    "WiFi-Share/Metallhelferprfüfung/11.md",
-    "WiFi-Share/Metallhelferprfüfung/11.docx",
-    "WiFi-Share/Metallhelferprfüfung/10.md",
-    "WiFi-Share/Metallhelferprfüfung/10.docx",
-    "WiFi-Share/Metallhelferprfüfung/9.md",
-    "WiFi-Share/Metallhelferprfüfung/9.docx",
-    "WiFi-Share/Metallhelferprfüfung/8.md",
-    "WiFi-Share/Metallhelferprfüfung/8.docx",
-    "WiFi-Share/Metallhelferprfüfung/7.md",
-    "WiFi-Share/Metallhelferprfüfung/6.md",
-    "WiFi-Share/Metallhelferprfüfung/5.md",
-    "WiFi-Share/Metallhelferprfüfung/4.md",
-    "WiFi-Share/Metallhelferprfüfung/3.md",
-    "WiFi-Share/Metallhelferprfüfung/2.md",
-    "WiFi-Share/Metallhelferprfüfung/1.md",
-    "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
-    "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeit v.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeitjjjjj v.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen 1.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen (1).md"
+    "WiFi-Share/Metallhelferprfüfung/12.md"
   ]
 }
