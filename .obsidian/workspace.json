@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/2.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/2.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/2.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/2.md"
+                "file": "WiFi-Share/Metallhelferprfüfung/4.md"
               }
             }
           }
@@ -156,9 +155,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "bcbbe707ddb2819d",
+  "active": "0964202a4a05d6c9",
   "lastOpenFiles": [
     "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
+    "WiFi-Share/Metallhelferprfüfung/4.md",
     "WiFi-Share/Metallhelferprfüfung/2.md",
     "WiFi-Share/Metallhelferprfüfung/1.md",
     "WiFi-Share/Metallhelferprfüfung/17.md",
@@ -174,7 +174,6 @@
     "WiFi-Share/Metallhelferprfüfung/7.md",
     "WiFi-Share/Metallhelferprfüfung/6.md",
     "WiFi-Share/Metallhelferprfüfung/5.md",
-    "WiFi-Share/Metallhelferprfüfung/4.md",
     "WiFi-Share/Metallhelferprfüfung/3.md",
     "Pasted image 20230522192213.png",
     "Pasted image 20230522192142.png",
