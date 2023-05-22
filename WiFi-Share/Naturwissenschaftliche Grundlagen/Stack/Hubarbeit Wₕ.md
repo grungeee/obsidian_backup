@@ -35,5 +35,4 @@ $$
 
 ```
 
-
-![[Potenzielle Energie Eₚ]]j
+ ![[Potenzielle Energie Eₚ]]o
