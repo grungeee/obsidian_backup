@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,10 +156,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0964202a4a05d6c9",
+  "active": "bcbbe707ddb2819d",
   "lastOpenFiles": [
-    "WiFi-Share/Metallhelferprfüfung/1.md",
+    "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
     "WiFi-Share/Metallhelferprfüfung/2.md",
+    "WiFi-Share/Metallhelferprfüfung/1.md",
     "WiFi-Share/Metallhelferprfüfung/17.md",
     "WiFi-Share/Metallhelferprfüfung/16.md",
     "WiFi-Share/Metallhelferprfüfung/15.md",
@@ -198,7 +200,6 @@
     "WiFi-Share/Metallhelferprfüfung/10.docx",
     "WiFi-Share/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/8.docx",
-    "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
     "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeit v.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Geschwindigkeitjjjjj v.md"
