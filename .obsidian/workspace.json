@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md"
               }
             }
           }
@@ -142,6 +142,7 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
+      "flashcards-obsidian:Generate flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -151,12 +152,14 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "random-note:Open random note": false
     }
   },
   "active": "2bb6df3816104fd7",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Metallhelfer 2/1.md",
     "WiFi-Share/Metallhelferprfüfung/1.md",
     "WiFi-Share/Metallhelferprfüfung/7.md",
@@ -180,7 +183,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigungsarbeit Wₐ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
-    "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx",
