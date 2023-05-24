@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Metallhelfer 2/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Metallhelfer 2/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+                "file": "WiFi-Share/Metallhelfer 2/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+                "file": "WiFi-Share/Metallhelfer 2/1.md"
               }
             }
           }
@@ -157,9 +157,23 @@
   },
   "active": "2bb6df3816104fd7",
   "lastOpenFiles": [
-    "WiFi-Share/Metallhelfer 2/1.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192213.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192142.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192105.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192034.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522191939.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522191827.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522191141.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190820.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190503.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190357.png",
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190121.png",
+    "WiFi-Share/Metallhelferprfüfung/Images",
+    "WiFi-Share/Metallhelferprfüfung/New folder",
     "WiFi-Share/Metallhelferprfüfung/1.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
+    "WiFi-Share/Metallhelfer 2/1.md",
     "WiFi-Share/Metallhelferprfüfung/7.md",
     "WiFi-Share/Metallhelferprfüfung/6.md",
     "WiFi-Share/Metallhelferprfüfung/8.md",
@@ -181,7 +195,6 @@
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigungsarbeit Wₐ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
-    "WiFi-Share/Metallhelferprfüfung/MHP-todo.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx",
@@ -189,18 +202,6 @@
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/6.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/5.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/4.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/3.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/2.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/17.docx",
-    "Pasted image 20230522192213.png",
-    "Pasted image 20230522192142.png",
-    "Pasted image 20230522192105.png",
-    "Pasted image 20230522192034.png",
-    "Pasted image 20230522191939.png",
-    "Pasted image 20230522191827.png",
-    "Pasted image 20230522191141.png",
-    "Pasted image 20230522190820.png",
-    "Pasted image 20230522190503.png",
-    "Pasted image 20230522190357.png"
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/3.docx"
   ]
 }
