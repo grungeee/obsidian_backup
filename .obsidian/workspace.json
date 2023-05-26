@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
+                "file": "WiFi-Share/Schweißtechnik/Stapler schein.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
+                "file": "WiFi-Share/Schweißtechnik/Stapler schein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
+                "file": "WiFi-Share/Schweißtechnik/Stapler schein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md"
+                "file": "WiFi-Share/Schweißtechnik/Stapler schein.md"
               }
             }
           }
@@ -157,6 +158,9 @@
   },
   "active": "2bb6df3816104fd7",
   "lastOpenFiles": [
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
+    "WiFi-Share/Schweißtechnik/Stapler schein.md",
+    "WiFi-Share/Stapler",
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192213.png",
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192142.png",
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192105.png",
@@ -167,12 +171,10 @@
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190820.png",
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190503.png",
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190357.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190121.png",
     "WiFi-Share/Metallhelferprfüfung/Images",
     "WiFi-Share/Metallhelfer 2/2.mediawiki",
     "WiFi-Share/Metallhelfer 2/2.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Metallhelfer 2/1.md",
     "WiFi-Share/Metallhelferprfüfung/1.md",
@@ -201,7 +203,6 @@
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/7.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/6.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/5.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/4.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/3.docx"
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/4.docx"
   ]
 }
