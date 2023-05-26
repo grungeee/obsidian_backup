@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -156,7 +156,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2bb6df3816104fd7",
+  "active": "bcbbe707ddb2819d",
   "lastOpenFiles": [
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
     "WiFi-Share/Schweißtechnik/Stapler schein.md",
