@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -164,7 +165,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5dd057cbbe18713c",
+  "active": "a5f894b1c74ade77",
   "lastOpenFiles": [
     "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "WiFi-Share/Stapler/Stapler schein.md",
