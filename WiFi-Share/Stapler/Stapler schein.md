@@ -302,16 +302,50 @@ Nennen Sie Vorschriften für den sicheren Transport von Lasten. #card
 - Bestimmung der StVO beachten 
 - Bahnübergänge langsam/im rechten Winkel überqueren 
 - Vorsichtig fahren in Hallen und Werkstätten 
-- Einfahrtshöhen und bre
+- Einfahrtshöhen und -breiten in Gebäuden beachten
+-  Bei Gefahr Warnsignal geben 
+- Pendeltüren in der Mitte anfahren - Schrittgeschwindigkeit fahren - Warnsignal geben
+- Licht an wenn es dunkel ist
+- Deckenbelastung bei unterkellerten Bereichen beachten 
+- Gesamtgewicht von Person/Stapler/Last gilt wenn man Rampen, Aufzüge, usw. verwendet
+- Hubstapler mit Fahrerstand oder -sitz dürfen nicht vom Flur aus betätigt werden
+- Fahrzeug nie bei angehobener Last verlassen 
+
 Erklären Sie die richtige Aufnahme von Lasten. #card   
-- 
+- Tragfähigkeit des Staplers und Masse der Last beachten 
+- Lastschwerpunkt/-abstand ermitteln 
+- Lastgewicht mit Diagrammwert abgleichen 
+- Einfahren der Gabelzinken bis Gabelrücken anliegt 
+- Fahrzeug einbremsen 
+- Last leicht anheben und Hubgerüst zurück neigen 
+- Bremse lösen, Blick nach hinten und zurückfahren 
+- Last auf ca. 15 cm über dem Boden hinunter lassen 
+- Last so aufnehmen, dass sie schlüssig mit Gabelspitze ist, falls möglich
+
 Wo soll das Abstellen von Staplern vorgenommen werden? #card  
-- 
+- An geeigneten Abstellplätzen abstellen mit Gabel zur Wand
+
 Wie wird ein Stapler richtig abgestellt? #card  
-- 
+- Hubgerüst vorneigen 
+- Gabelzinken absenken 
+- Handbremse anziehen 
+- Motor abstellen 
+- Startschlüssel abziehen und verwahren 
+- Bei gasbetriebenen Staplern Flaschenventil schließen 
+
 Wie erkennt der Staplerfahrer ein explosionsgeschütztes Gerät? #card   
-- 
+- Am Typenschild angebrachten Prüfzeichen und einer "ex" Aufschrift auf dem Gerät
+
 Welche Lagerungsverbote sind zu beachten? #card   
-- 
+- Das Lagern Vor Sicherheitseinrichtungen 
+- Treppen-Auf- und Abgängen 
+- Fahrbahnen und Fußwegen 
+- Im Gleisbereich 
+- Auf Laderampen 
+- In Bereichen von Türen und Toren 
+- Vor Kranaufstiegen 
+- Im Umkreis von 0,5m bzw. 1m der Ladestation für Elektrostapler 
+
 Was ist bei Lagerungen in Regalen zu beachten? #card  
-- 
+- Feldlast (die Summe aller Fachlasten in einem Feld)
+- Fachlast (die max. Belastung eines Faches)
