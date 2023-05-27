@@ -136,11 +136,31 @@ Nennen Sie Gründe für das Kippen des Staplers? #card
 - unsachgemäße Lastverteilung
 - schnelle Kurvenfahrten
 - abruptes Bremsen oder Beschleunigen
-- 
+- unebener Untergrund
+- Schrägfahrten
+- zu hohe Geschwindigkeit
+- unsachgemäße Bedienung
+- fehlende Stabilität des Staplers
+
 Welche Überprüfungen sind an der Lenkung erforderlich? #card  
-- 
+- Lenkrad (Beschädigungen, Risse, Lockerheit)
+- Lenkungsspiel
+- Lenkungsflüssigkeit
+- Lenkgestänge
+- Lenkungsbegrenzung
+- Lenkungssystemprüfung
+
 Nennen Sie Reifenarten und deren Vorteile bzw. Nachteile. #card  
-- 
+- Kombinationsreifen
+  Vorteile: Gute Allround-Leistung, Geringerer Rollwiderstand, Bessere Stoßdämpfung
+  Nachteile: Höherer Verschleiß, Geringere Tragfähigkeit
+- Vollgummireifen
+  Vorteile: Langlebigkeit, Keine Reifenpannen
+  Nachteile: Schlechtere Stoßdämpfung, Geringere Traktion
+- Luftreifen
+  Vorteile: Gute Traktion, Bessere Stoßdämpfung
+  Nachteile: Höhere Anfälligkeit für Reifenpannen, Höherer Rollwiderstand
+
 Beschreiben Sie die Funktionsprüfung an den Bremsen. #card  
 - 
 Welche Überprüfungen sind an der Hub-kette erforderlich? #card  
