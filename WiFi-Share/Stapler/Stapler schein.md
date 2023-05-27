@@ -201,39 +201,108 @@ Nennen Sie Möglichkeiten der Ladegutsicherung. #card
 - Aufsteckrahmen
 
 Nennen Sie verschiedene Anbaugerätearten - was ändert sich bei deren Verwendung? #card  
-- 
+- Drehgerät
+- Dorn
+- Kranarm
+- Schaufel
+- Behälter-Entleerer
+- Schneeräumer
+- Bei allen wird die Tragfähigkeit vermindert durch das extra Gewicht.
+
 Nennen Sie Kontrollen an den hydraulischen Einrichtungen des Staplers. #card 
-- 
+- Hubhydraulik 
+- Neigehydraulik 
+- Seitenschubhydraulik
+- Gabelzinken Verstellung 
+
 Welcher Hydraulikdruck wird bei Staplern verwendet? #card  
-- 
+- Zwischen 100 und 300 bar (+/- 200 bar)
+
 In welcher Größe wird der Druck gemessen? #card  
-- 
+- Bar 
+
 Nennen Sie Eigenschaften der Hydraulikflüssigkeit. #card  
-- 
+- gute Schmiereigenschaften
+- eine hohe Alterungsbeständigkeit  
+- ein hohes Benetzungs- und Haftvermögen
+
 Nennen Sie hydraulische Sicherheitseinrichtungen und deren Aufgabe. #card  
-- 
+- Druckbegrenzungsventil (Schutz der Hydraulikanlage gegen Überdruck.)
+- Senkbremsventil/Drosselventil (Hält die Senkgeschwindigkeit des Hubkolens gleich)
+- Schlauchbruchsicherung (Verhindert ein unkontrolliertes Absenken der Last nach Bruch einer Leitung)
+
 Nennen Sie die Grundgrößen der Elektrotechnik und deren Einheiten. #card  
-- 
+- I (Strom)           = A (Ampere) 
+- U (Spannung)   = V (Volt)
+- R (Widerstand) = Ω (Ohm)
+
 Erklären Sie den Begriff „Kapazität". #card  
-- 
+- Das ist jene Energiemenge, die eine Batterie aufnehmen/abgeben kann.
+- Sie wird in Amperestunden (Ah) ausgedrückt und gibt an, in wie viel Stunden welche Strommenge entnommen oder geladen werden kann. 
+
 Was kontrollieren Sie an der Batterie von E- Staplern? #card  
-- 
+- Die Entlüftungslöcher 
+- Den Elektrolytstand 
+
 Wie gehen Sie beim Beenden des Ladevorgangs beim E-Stapler vor? #card  
-- 
+- Vor dem Trennen der Steckerverbindung muss das Ladegerät unbedingt ausgeschaltet sein. 
+
 Wie gehen Sie beim Wechsel der Flüssiggasflaschen am Stapler vor? #card   
-- 
+- Stapler ins Freie fahren 
+- Von Kanalschächten fernhalten 
+- Flaschenventil fest verschließen
+- Stapler laufen lassen bis er abstirbt (um Leitungen zu entleeren)
+- Rohrverbindung langsam öffnen (Linksgewinde)
+- Flasche entfernen, Schutzkappe drauf & zu anderen leeren Flaschen stellen
+- Volle Flasche mit "Motorgas" Aufschrift anschließen 
+- Mit den Ventilstutzen nach unten montieren 
+- Anschlussstutzen kontrollieren und anschließen 
+- Ventil langsam öffnen 
+- Dichtheit prüfen 
+- Befestigung überprüfen
+
 Was ist bei der Lagerung von Flüssiggasflaschen zu beachten? #card  
-- 
+- Nur in gut belüfteten Räumen/bodennah lagern
+- Volle und leere Flaschen getrennt lagern 
+- Stehend lagern 
+- Flaschenventil fest schließen und Schutzkappe drauf 
+- Flaschen dürfen nicht gestoßen/geworfen werden 
+- Müssen gegen Wärmebestrahlung geschützt werden 
+- Beschädigte Flaschen kennzeichnen und melden
+- Gasflaschen nicht neben Schächten und Kanälen abstellen (min. 3 m Abstand)
+
 Was ist im Brandfall vom Staplerfahrer zu beachten? #card  
-- 
+- Zündung ausschalten und Stapler mit Feststellbremse einbremsen 
+- Löschmaßnahme einleiten 
+- Bei E-Stapler Notaus-Schalter drücken oder Batteriestecker ziehen
+- Bei Gasstapler Flaschenventil schließen
+
 Welche mechanischen Sicherheitseinrichtungen gibt es? #card  
-- 
+- Fahrerschutzdach 
+- Fahrerkabine 
+- Lastschutzgitter 
+- Feststellbremse 
+- Rückhaltesystem 
+- Fahrersitz 
+- Gabelzinkenschutz 
+
 Welche elektrischen Sicherheitseinrichtungen benötigt ein Stapler? #card   
-- 
+- Hupe 
+- Drehlicht & akustische Warneinrichtungen 
+- Arbeitsscheinwerfer 
+- Sitzkontaktschalter 
+
 Gibt es Sicherheitseinrichtungen die auf öffentlichen Straßen benützt werden müssen, und unter welchen Bedingungen? #card  
-- 
+- Scheinwerfer 
+- Gabelzinkenschutz 
+- Beide wenn man längere Strecken auf öffentlichen Straßen zurücklegen muss
+
 Nennen Sie Vorschriften für den sicheren Transport von Lasten. #card   
-- 
+- Nur geeignete Fahrwege benutzen (eben, fest, tragfähig)
+- Bestimmung der StVO beachten 
+- Bahnübergänge langsam/im rechten Winkel überqueren 
+- Vorsichtig fahren in Hallen und Werkstätten 
+- Einfahrtshöhen und bre
 Erklären Sie die richtige Aufnahme von Lasten. #card   
 - 
 Wo soll das Abstellen von Staplern vorgenommen werden? #card  
