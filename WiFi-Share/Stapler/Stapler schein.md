@@ -46,41 +46,96 @@ Anwendungsbereiche des Seiten- oder Quergabelstaplers? #card
 - Handhabung sperriger Ladungen und ungewöhnlich geformter Paletten.
 - Containerumschlag in Häfen und Terminals.
 
-Wie kann der Staplerfahrer diesen Zeitpunkt erkennen? #card 
-- 
 Welche Voraussetzungen benötigt ein Staplerführer? #card  
-- 
+- min. 18 Jahre alt 
+- geistig und körperlich geeignet 
+- Zeugnis für Fachkenntnis 
+- Unterweisung durch Arbeitgeber 
+- Fahrbewilligung vom Arbeitgeber 
+
 Was hat der Staplerfahrer bezüglich Lagerung zu bedenken? #card  
-- 
+- Stabilität und die Eignung der Unterlagerung 
+- Standfestigkeit der Lagerung selbst 
+- Standfestigkeit der verwendeten Einrichtungen 
+- Beschaffenheit der Gewinde oder Verpackungen 
+- Böschungswinkel von Schüttgütern
+- Abstand der Lagerungen zueinander oder zu Bauteilen 
+- Mögliche äußere Einwirkungen 
+
 Aufschriften die am Stapler angebracht sein müssen? #card  
-- 
+- Typenschild
+- Tragfähigkeitsschaubild
+- Mitfahren verboten
+- Aufenthalt unter gehobener Last verboten
+
 Was bedeutet „Fahrerlaubnis"? #card  
-- 
+- Die Fahrerlaubnis bezeichnet die behördliche Genehmigung, ein bestimmtes Fahrzeug im Straßenverkehr oder auf einem Firmengelände führen zu dürfen.
+
 Was bedeutet der Begriff „Unterweisung"? #card  
-- 
+- "Unterweisung" bedeutet, dass eine Person einer anderen Person etwas beibringt oder sie anleitet.
+
 Welche Vorschriften und Vorkehrungen müssen beim Arbeiten mit Arbeitskörben beachtet werden ? #card  
-- 
+- Arbeitsplatz muss abgesichert und der Untergrund tragfähig sein
+- Stapler & Arbeitskorb müssen formschlüssig verbunden sein
+- Nur körperlich & geistig geeignete Personen dürfen einsteigen.
+- Personen müssen unterwiesen werden maximale Personenanzahl & Nutzlast ist am
+- Typenschild des Korbes angeführt
+- Personen im Korb müssen
+- Kontakt zu dem Staplerführer haben
+- Der Staplerführer darf seinen
+- Arbeitsplatz nicht verlassen
+- Personen dürfen den Standplatz im Korb nicht erhöhen
+- Der Stapler ist im gebremsten Zustand zu halten
+- Der Stapler darf - während sich
+- Personen im Korb - befinden nicht verfahren werden
+- Hub- und Senkgeschwindigkeit des Korbes dürfen maximal 0,5 m/s betragen
+- Arbeitskorb darf nur für kurzfristige Arbeiten verwendet werden
+
 Erklären Sie, unter welchen Voraussetzungen Abweichungen von der STVO im Betriebsbereich zulässig sind. #card  
-- 
+- Es muss unbedingt betriebsnotwendig sein 
+- Es darf die Sicherheit des Verkehrs nicht gefährden 
+- Es müssen Betriebsfremde bevor sie das Betriebsgelände befahren, informiert werden 
+
 Was muss beachtet werden, wenn der Stapler auf öffentlichen Straßen längere Strecken zurücklegen muss? #card  
-- 
+- Werden Hubstapler längere Strecken auf öffentlichen Verkehrswegen eingesetzt, muss das Arbeitsgerät den Bestimmungen des KFG entsprechend ausgerüstet sein; dies bedeutet, dass der Stapler mit der vollständigen Beleuchtungsausrüstung, mit Pannendreieck, Verbandskasten. Warnweste und bei Fahrten ohne Last mit einem Schutz der Gabelzinken ausgestattet sein muss. 
+- Hubstapler mit einer Bauartgeschwindigkeit größer als 10 km/h müssen für den Verkehr zugelassen sein, also ein Kennzeichen aufweisen und der Staplerfahrer den entsprechenden Führerschein besitzen ( Gruppe C, F oder G) ( Führerscheingruppe „G" - sind nach dem „alten* Führerscheinen selbstfahrende Arbeitsmittel und Sonderfahrzeuge) 
+- Für Hubstapler bis 10 km/h Bauartgeschwindigkeit ist ein Führerschein nicht erforderlich, das Fahrzeug muss jedoch mit der 10 km/h - Tafel gekennzeichnet sein
+
 Nennen Sie Möglichkeiten der Masseermittlung (Gewichtsermittlung). #card  
-- 
+- Wiegen
+- Volumen und Dichte (für Objekte mit regelmäßiger Form und Dichte)
+- Berechnung
+
 Nennen Sie die mathematische Formel zur Errechnung des Volumens. #card  
-- 
+- V (Volumen) = l (Länge) * b (Breite) * h (Höhe)
+
 Nennen Sie die mathematische Formel zur Errechnung des Gewichts. #card  
-- 
+- m (Masse) = V (Volumen) * ρ (Dichte)
+
 Erklären Sie den Begriff „Dichte" und nennen Sie „Spezifische Gewichte" #card  
-- 
-Woher weiß der Fahrer, welche Belastung er seinem Stapler zumuten darf? #card  
-- 
+- Die Dichte ist eine physikalische Größe, die das Verhältnis zwischen der Masse eines Objekts und seinem Volumen beschreibt.
+- Silber 10500 kg/m³
+- Kupfer 8900 kg/m³
+- Nickel 8800 kg/m³
+- Messing 8500 kg/m³
+
+Woher weiß der Fahrer, welche Belastung er seinem Stapler zumuten darf? #card   
+- Von seinem Tragfähigkeitsschaubild. 
+
 Was ist der Schwerpunkt der Last? #card  
-- 
+- Der gewichtsmäßige Mittelpunkt eines Körpers 
+
 Wie kann bei unsymmetrischen Lasten der Schwerpunkt ermittelt werden? #card  
-- 
+- Durch Abschätzen oder mehrmaliges leichtes Anheben
+
 Erklären Sie den Begriff „Lastschwerpunktsabstand" #card  
-- 
+- Der Lastschwerpunktsabstand ist der Abstand zwischen dem Schwerpunkt einer Last und einem bestimmten Punkt.
+
 Nennen Sie Gründe für das Kippen des Staplers? #card  
+- übermäßige Last
+- unsachgemäße Lastverteilung
+- schnelle Kurvenfahrten
+- abruptes Bremsen oder Beschleunigen
 - 
 Welche Überprüfungen sind an der Lenkung erforderlich? #card  
 - 
