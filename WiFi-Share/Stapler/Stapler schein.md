@@ -162,21 +162,44 @@ Nennen Sie Reifenarten und deren Vorteile bzw. Nachteile. #card
   Nachteile: Höhere Anfälligkeit für Reifenpannen, Höherer Rollwiderstand
 
 Beschreiben Sie die Funktionsprüfung an den Bremsen. #card  
-- 
+- muss täglich gemacht werden
+- Standbremsprobe
+- Rollbremsprobe
+
 Welche Überprüfungen sind an der Hub-kette erforderlich? #card  
-- 
+- Kontrolle an den Laschen der Kette und Guten Sitz der Bolzen
+- Sichtprüfung der Schmierung; es darf zu keiner Rostbildung kommen
+- Überprüfen der gleichmäßigen Spannung an beiden Hubketten.
+
 Erklären Sie den Begriff „Frei-hub". #card  
-- 
-Welche Überprüfungen sind an den Gabelzinken erforderlich? #card  
-- 
+- Die Hubhöhe die die Gabelzinken erreichen, ohne dass sie die Gesamthöhe des Staplers verändern
+
+Welche Überprüfungen sind an den Gabelzinken erforderlich? #card 
+- Darf max. 90 grad aufgebogen sein.
+- Max. 10% Verschleiß 
+- Risse
+
 Welche Transporteinrichtungen (Hilfsmittel) kennen Sie? #card  
-- 
+- Gabelzinken 
+- Lastarme
+- Klammeraufsätze
+- Seitenschieber
+- Teleskopgabeln
+- Gabelverlängerungen
+
 Nennen Sie die Abmessungen einer EURO-Palette.
-- 
+- 1200 x 800 mm  
+
 Nennen Sie das Volumen einer Gitterbox und deren Eigengewicht. #card  
-- 
+- 1240x835x970 mm
+- 85 kg
+
 Nennen Sie Möglichkeiten der Ladegutsicherung. #card  
-- 
+- Wickelfolien
+- Schrumpffolien
+- Bänder aus Kunststoff oder Metall
+- Aufsteckrahmen
+
 Nennen Sie verschiedene Anbaugerätearten - was ändert sich bei deren Verwendung? #card  
 - 
 Nennen Sie Kontrollen an den hydraulischen Einrichtungen des Staplers. #card 
