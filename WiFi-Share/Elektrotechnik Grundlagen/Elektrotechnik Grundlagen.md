@@ -111,7 +111,24 @@
  >Der **Leitwert** gibt an, wie gut elektrischer *Strom geleitet* wird.
  
 ### Ohm'sches Gesetz
+
+Das Ohmsche Gesetz beschreibt das Verhältnis zwischen Stromstärke, Spannung und Widerstand in einem elektrischen Stromkreis. Es besagt, dass der elektrische Strom (I) direkt proportional zur Spannung (U) ist und umgekehrt proportional zum Widerstand (R).
+
+Hierbei steht I für die Stromstärke in Ampere (A), U für die Spannung in Volt (V) und R für den Widerstand in Ohm (Ω).
+
+Das Ohmsche Gesetz gilt für lineare elektrische Stromkreise, in denen der Widerstand konstant bleibt. Wenn beispielsweise die Spannung erhöht wird, steigt auch die Stromstärke, solange der Widerstand gleich bleibt. Gleichzeitig nimmt die Stromstärke ab, wenn der Widerstand erhöht wird, bei konstanter Spannung.
+
+Das Ohmsche Gesetz bildet die Grundlage vieler Berechnungen und Analysen in der Elektrotechnik und wird verwendet, um die Beziehungen zwischen Strom, Spannung und Widerstand in einem Stromkreis zu bestimmen. Es ermöglicht die Berechnung eines dieser Werte, wenn die anderen beiden bekannt sind.
+
+-- -
+
+- Das ohmsche Gesetz gibt und den Zusammenhang zwischen Strom, Spannung und Widerstand in einem Stromkreis an.
+- Die **Spannung** ist direkt proportional zum Produkt von Stromstärke und Widerstand
+
+- Der **Strom** ist indirekt proportional zum
+
 - Die **Stromstärke** ist in einen Stromkreis umso **größer**, je *größer* die *Spannung* ist und je *kleiner* der *Widerstand* ist.
+
 ![[das magische Dreieck.excalidraw.svg]]
 
 %%[[das magische Dreieck.excalidraw.md|🖋 Edit in Excalidraw]], and the [[das magische Dreieck.excalidraw.dark.svg|dark exported image]]%%

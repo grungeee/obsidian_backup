@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ccd0f6d7b2575ddb",
+        "id": "9e1fd90152f6a9df",
         "type": "tabs",
         "children": [
           {
-            "id": "f01f0d245fd758c7",
+            "id": "a5f894b1c74ade77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ef4ae5c36e8d9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfbe667d0b881fa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md",
+                "file": "WiFi-Share/Metallhelfer 2/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -74,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 288.5,
     "collapsed": true
   },
   "right": {
@@ -113,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md",
+                "file": "WiFi-Share/Metallhelfer 2/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md",
+                "file": "WiFi-Share/Metallhelfer 2/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +127,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beschleunigungsarbeit Wₐ.md"
+                "file": "WiFi-Share/Metallhelfer 2/1.md"
               }
             }
+          },
+          {
+            "id": "5dd057cbbe18713c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,11 +159,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "cfbe667d0b881fa0",
+  "active": "a5f894b1c74ade77",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
     "Beschleunigungsarbeit Wₐ.md",
     "Druck P.md",
@@ -210,5 +196,53 @@
     "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
     "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md"
+=======
+    "Pasted image 20230530165048.png",
+    "Pasted image 20230530164956.png",
+    "Pasted image 20230530164941.png",
+    "Pasted image 20230530164920.png",
+    "Pasted image 20230530164908.png",
+    "Pasted image 20230530164856.png",
+    "Pasted image 20230530164847.png",
+    "Pasted image 20230530164835.png",
+    "Pasted image 20230530164813.png",
+    "Pasted image 20230530164754.png",
+    "Pasted image 20230530164732.png",
+    "WiFi-Share/Metallhelferprfüfung/1.md",
+    "WiFi-Share/Metallhelfer 2/1.md",
+    "WiFi-Share/Metallhelferprfüfung/15.md",
+    "WiFi-Share/Metallhelferprfüfung/14.md",
+    "WiFi-Share/Metallhelferprfüfung/13.md",
+    "WiFi-Share/Metallhelferprfüfung/11.md",
+    "WiFi-Share/Metallhelfer 2/2.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md",
+    "WiFi-Share/Stapler/Stapler schein.md",
+    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
+    "WiFi-Share/Stapler",
+    "WiFi-Share/Metallhelferprfüfung/Images",
+    "WiFi-Share/Metallhelfer 2/2.mediawiki",
+    "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Metallhelferprfüfung/7.md",
+    "WiFi-Share/Metallhelferprfüfung/6.md",
+    "WiFi-Share/Metallhelferprfüfung/8.md",
+    "WiFi-Share/Metallhelferprfüfung/9.md",
+    "WiFi-Share/Metallhelferprfüfung/10.md",
+    "WiFi-Share/Metallhelferprfüfung/12.md",
+    "WiFi-Share/Metallhelferprfüfung/16.md",
+    "WiFi-Share/Metallhelferprfüfung/17.md",
+    "conflict-files-obsidian-git.md",
+    "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
+    "WiFi-Share/Metallhelferprfüfung/5.md",
+    "WiFi-Share/Metallhelferprfüfung/4.md",
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx",
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/7.docx",
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/6.docx",
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/5.docx",
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/4.docx"
+>>>>>>> senpai
   ]
 }
