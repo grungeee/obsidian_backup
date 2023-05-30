@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "85a556b96d4d546d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530143454.png"
+              }
+            }
+          },
+          {
+            "id": "0122bd4c9cc7c1ae",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md"
+                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png"
               }
             }
           }
@@ -153,8 +174,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "489ec74ebc86045f",
+  "active": "73fdc0b979c614c6",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
+    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530143454.png",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md"
   ]
 }
