@@ -120,5 +120,5 @@ ___
 2. Gegen Wiedereinschalten sichern (alle Sicherungen mitnehmen, absperren, kennzeichnen)
 3. Spannungsfreiheit prüfen (immer alle Dräte prüfen)
 4. Erden und Kurzschließen
-5. Benachbarte unter Spannung stehende Teile abdecken & abschranken
+5. Benachbarte unter Spannung stehende Teile abdecken & abschranken b
 ___
