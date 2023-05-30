@@ -114,3 +114,11 @@
 ![[das magische Dreieck.excalidraw.svg]]
 
 %%[[das magische Dreieck.excalidraw.md|🖋 Edit in Excalidraw]], and the [[das magische Dreieck.excalidraw.dark.svg|dark exported image]]%%
+___
+### Safety 101
+1. Freischalten (alle Pole ausschalten)
+2. Gegen Wiedereinschalten sichern (alle Sicherungen mitnehmen, absperren, kennzeichnen)
+3. Spannungsfreiheit prüfen (immer alle Dräte prüfen)
+4. Erden und Kurzschließen
+5. Benachbarte unter Spannung stehende Teile abdecken & abschranken
+___
