@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Stapler/Stapler schein.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/11.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Stapler/Stapler schein.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Stapler/Stapler schein.md",
+                "file": "WiFi-Share/Metallhelferprfüfung/11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Stapler/Stapler schein.md"
+                "file": "WiFi-Share/Metallhelferprfüfung/11.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a5f894b1c74ade77",
+  "active": "bcbbe707ddb2819d",
   "lastOpenFiles": [
-    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md",
+    "WiFi-Share/Metallhelfer 2/1.md",
     "WiFi-Share/Stapler/Stapler schein.md",
+    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Arten der Bewegung.md",
     "WiFi-Share/Stapler",
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192213.png",
@@ -186,7 +188,6 @@
     "WiFi-Share/Metallhelfer 2/2.md",
     "WiFi-Share/Naturwissenschaftliche Grundlagen/Elektrische Arbeit W.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "WiFi-Share/Metallhelfer 2/1.md",
     "WiFi-Share/Metallhelferprfüfung/1.md",
     "WiFi-Share/Metallhelferprfüfung/7.md",
     "WiFi-Share/Metallhelferprfüfung/6.md",
@@ -205,7 +206,6 @@
     "WiFi-Share/Metallhelferprfüfung/5.md",
     "WiFi-Share/Metallhelferprfüfung/4.md",
     "WiFi-Share/Metallhelferprfüfung/3.md",
-    "WiFi-Share/Metallhelferprfüfung/2.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx",
