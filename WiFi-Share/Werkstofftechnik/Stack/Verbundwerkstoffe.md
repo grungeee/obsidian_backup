@@ -1,1 +1,0 @@
-sind aus mehereren Werkstoffen zusammengesetzt die, die positiven Eigenschaften der Werkstoffe vereinen. 
