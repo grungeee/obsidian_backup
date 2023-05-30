@@ -149,7 +149,7 @@ ___
 ### Gleich u. Wechselstrom
 Gleichstrom (DC) fließt in einer Richtung, während Wechselstrom (AC) periodisch die Richtung wechselt. Gleichstrom wird in Batterien und kleinen elektronischen Geräten verwendet, während Wechselstrom für die Stromversorgung in Haushalten und Industrien eingesetzt wird, da er effizienter über weite Strecken übertragen werden kann.
 ___
-### Arten von Strom
+###  Arten von Strom
 -  Gleichstrom (DC): Fließt in nur eine Richtung und hat eine konstante Spannung. Gleichstrom wird beispielsweise in Batterien und kleinen elektronischen Geräten verwendet.    
 - Wechselstrom (AC): Ändert periodisch seine Richtung und hat eine sinusförmige Spannung. Wechselstrom wird für die Stromversorgung in den meisten Haushalten und Industrien verwendet, da er effizient über weite Entfernungen übertragen werden kann.
 ___
