@@ -33,9 +33,11 @@
             "id": "0122bd4c9cc7c1ae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png",
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230530165048.png"
+                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md"
               }
             }
           }
