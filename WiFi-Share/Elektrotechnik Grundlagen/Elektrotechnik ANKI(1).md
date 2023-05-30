@@ -27,4 +27,4 @@ Erkläre Serienschaltung. #card
 Eine Serienschaltung ist eine elektrische Schaltung, bei der die Bauteile oder Geräte hintereinander geschaltet sind und der Strom durch sie hindurchfließt. Der Stromfluss ist überall gleich, und die Spannungen über den Bauteilen addieren sich. Wenn ein Bauteil ausfällt, wird der Stromfluss in der gesamten Schaltung unterbrochen.
 
 Erkläre Parallelschaltung. #card 
-Eine Parallelschaltung ist eine elektrische Schaltung, bei der die Bauteile oder Geräte nebeneinander geschaltet sind und der Strom sich aufteilt. Der Stromfluss in jedem Bauteil ist unabhängig voneinander, während die Spannung über den Bauteilen gleich bleibt. Wenn ein Bauteil ausfällt, bleibt der Stromfluss in den anderen Bauteilen erhalten.
+Eine Parallelschaltung ist eine elektrische Schaltung, bei der die Bauteile oder Geräte nebeneinander geschaltet sind und der Strom sich aufteilt. Der Stromfluss in jedem Bauteil ist unabhängig voneinander, während die Spannung über den Bauteilen gleich bleibt. Wenn ein Bauteil ausfällt, bleibt der Stromfluss in den anderen Bauteilen erhalten. 
