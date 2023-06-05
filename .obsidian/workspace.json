@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/1.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2fb080ebcd48620",
+            "id": "c0f70d40da4e8f1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Fragen INPUT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md"
               }
             }
           }
@@ -165,11 +164,15 @@
       "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e2fb080ebcd48620",
+  "active": "2bb6df3816104fd7",
   "lastOpenFiles": [
+    "Fragen INPUT.md",
+    "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+    "WiFi-Share/Metallhelfer 2/1_edited_original.md",
     "WiFi-Share/Metallhelfer 2/1.md",
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Stapler/Stapler schein.md",
@@ -209,9 +212,6 @@
     "WiFi-Share/Metallhelferprfüfung/17.md",
     "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
     "WiFi-Share/Metallhelferprfüfung/5.md",
-    "WiFi-Share/Metallhelferprfüfung/4.md",
-    "WiFi-Share/Metallhelferprfüfung/3.md",
-    "WiFi-Share/Metallhelferprfüfung/2.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx",

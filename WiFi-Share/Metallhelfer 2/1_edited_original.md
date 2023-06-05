@@ -1,0 +1,2284 @@
+
+Wie werden Metalle grundsätzlich eingeteilt? #card 
+In Eisenmetalle und Nichteisenmetalle.
+
+
+Wie werden Eisenwerkstoffe eingeteilt? #card
+In Stähle und Eisengusswerkstoffe (nicht sicher)
+
+
+Wie werden Stähle eingeteilt? #card
+- Baustähle,
+- Werkzeugstähle,
+- Sonderstähle
+
+Wie werden Eisen-Gusswerkstoffe eingeteilt? #card 
+- Stahlguss,
+- Temperguss,
+- Gusseisen,
+- Sondergussarten
+
+Wie werden Nichteisenmetalle eingeteilt und nenne je zwei? #card 
+Leichtmetalle:
+- Dichte < 5 kg/dm³ [ Aluminium, Magnesium, Titan ]
+Schwermetalle:
+- Dichte > 5 kg/dm³ [ Kupfer, Zink, Blei , Chrom, Nickel ]
+
+Benennen u. beschreiben Sie 2 Nichteisenmetalle aus dem Prüfungskoffer! #card 
+- Kupferblech,
+- Messingblech,
+- Aluminiumblech,
+- Messing Augenschraube,
+- Kupfer Kronenmutter,
+- Schrägsitzventil (Messing),
+
+Zählen Sie zwei Vorteile der EisenGusswerkstoffe im Vergleich zu Stahl auf. #card
+- Gut gießbar (dünnflüssige Schmelze),
+- Geringe Schrumpfung,
+
+
+Wodurch entstehen bei Gusswerkstoffen spröde und schwingungsdämpfende Eigenschaften? #card
+Durch die Einlagerung von LamellenGrafit (Grauguss bzw. lamellares Gusseisen)
+
+Zählen Sie drei Eisen Gusswerkstoffe auf. #card
+- Gusseisen mit Lamellengrafit oder Grauguss (GJL),
+- Gusseisen mit Kugelgrafit oder Sphäroguss (GJS),
+- Temperguss (GJM),
+- Stahlguss (GE oder GS)
+
+EN-GJL-200 ist eine Gussbezeichnung. Erklären Sie die Bedeutung dieser Bezeichnung. #card
+**EN-GJL-200**
+- EN -> Europäische Norm
+- G -> Guss,
+- J -> Eisen (Iron),
+- L -> Lamellar Gusseisen mit Lamellengraphit
+- 200 -> 200 N/mm² Mindest-Zugfestigkeit
+
+Nennen Sie drei typische Anwendungen von Eisen-Gusswerkstoffen #card
+- Maschinengestelle,
+- Pumpen,
+- Lenkhebel,
+- Fittings,
+- Pleuelstange
+![[Pasted image 20230522190121.png]]
+
+Was ist Stahlguss! #card
+Stahlguss ist in Formen gegossener Stahl.
+![[Pasted image 20230530143727.png]]
+
+
+Nennen und übersetzen Sie die Werkstoffbezeichnungen GE 200, G20Mo5! #card 
+GE 200:
+- GE = Gusseisen (Stahlguss)
+- 200 = Dehngrenze von 200 N/mm²
+G 20Mo5 - (Warmfester):
+- G = Gusseisen (niedriglegierter Stahlguss)
+- 20 = 0,2 % Kohlenstoff (Faktor 100)
+- Mo5 = 0,5% Molybdän, (Faktor 10)
+
+
+Nennen Sie drei Eigenschaften von Stahlguss! #card 
+- Hohe Festigkeit,
+- Härtbarkeit der Oberfläche
+- zäh,
+- vergütbar,
+![[Pasted image 20230530143930.png]]
+Nennen Sie drei Beispiele der Verwendung von StahlGuss (GE oder GS)! #card 
+- Kranhaken,
+- Turbinenteile,
+- Pressenständer,
+- Teile für Land- und Werkzeugmaschinen
+![[Pasted image 20230522190357.png]]
+
+
+Nennen Sie eine Stahlbezeichnung für den Stahlbau! #card 
+- S355J2G1,
+- S275JRG2,
+
+Nennen Sie 2 Verwendungsbeispiele für Allgemeinen Baustahl! #card 
+- Stahlbau,
+- Schiffsbau,
+- Fahrzeugbau
+
+Nennen Sie je eine Stahlbezeichnung für Einsatz-, Vergütungs-, und Werkzeugstahl und erläutern Sie diese! #card
+- Einsatzstahl C10E -> (Kohlenstoffgehaltanteil von ca. 0,1 bis 0,2%)
+	- C -> unlegierter Stahl
+	-  10 -> 0,1% Kohlenstoff, daher Einsatzstahl
+	- E -> vorgeschriebenen max. Schwefelgehalt
+- Vergütungsstahl C45E -> (Kohlenstoffgehaltanteil C von ca. 0,3 bis 0,6%) - C -> unlegierter Stahl
+	- 45 -> 0,45% Kohlenstoff, daher Vergütungsstahl
+	- E -> vorgeschriebenen max. Schwefelgehalt
+- Werkzeugstahl C105U ->
+	- (Kohlenstoffgehaltanteil C von ca. 0,6 bis 1,5%)
+	- C -> Unlegierter Stahl
+- U -> für Werkzeuge geeignet
+- 105 -> 1,05% Kohlenstoff, daher Werkzeugstahl
+
+Nennen Sie 2 Gründe, weshalb Stähle legiert werden! #card
+Verbesserte :
+ - Härtbarkeit,
+ - Warmfestigkeit,
+ - Schneidfähigkeit
+
+Nennen Sie die Grenze zwischen niedrig- und hochlegiertem Stahl! #card
+Bei 5% Legierungsbestandteilen
+
+Übersetzen Sie die Stahlbezeichnung C10E #card 
+C10E
+C -> Unlegierter Stahl
+10 -> mit 0,1% Kohlenstoff, daher Einsatzstahl
+E -> für vorgeschriebenen max. Schwefelgehalt
+
+Wie beeinflusst der Kohlenstoffgehalt und der Schwefel den Stahl? #card 
+Kohlenstoff:
+- hoch: 
+    - Festigkeit und Härte steigern
+- niedrig:
+    - Dehnung, Schmiedbarkeit und Schweißbarkeit steigen.
+    - Schmelzpunkt sinkt;
+Schwefel:
+- Erhöht: Zerspanbarkeit
+
+Übersetzen Sie die Stahlbezeichnung 10CrMo9-10 #card
+- 10CrMo9-10 zusätzliche Elemente wie Chrom und Molybdän, daher legierter Stahl, niderig
+- 10 -> 0,1% Kohlenstoff, daher Einsatzstahl
+- Cr9 -> 9/4 2,25% Chrom, (Faktor 4)
+- Mo10 -> 1% Molybdän (Faktor 100)
+- NiderigLegierter EinsatzStahl
+
+Übersetzen Sie die Stahlbezeichnung X5CrNi18-10  #card
+X5CrNi18-10
+- X -> für hochlegierten Stahl
+- 5 -> 0,05% Kohlenstoff,
+- Cr18 -> 18% Chrom, daher Nichtrostender Stahl
+- Ni10 -> 10% Nickel
+- Stähle mit mehr als 12% Cr sind Korrosionsbeständig
+
+Erklären Sie den Begriff „Zähigkeit" anhand eines Beispiels! #card
+Zähigkeit beschreibt die Widerstandsfähigkeit eines Werkstoffs gegen Bruch Verformbarkeit eines Werkstoffes mit großem Verformungswiderstand Federstahl, nicht rostende Stähle
+
+Aus welchem Grund sind Automatenstähle nicht schweißgeeignet? #card
+Wegen des erhöhten Phosporgehaltes und Schwefelgehaltes
+
+### 1. Ende
+___
+
+Wie oft darf ich eine Mutter mit Kunststoffring oder selbst sichernde Mutter verwenden? #card
+1 Mal (da sonst die Schraubensicherung nicht mehr gegeben ist)
+![[Pasted image 20230522190503.png]]
+
+Nennen Sie min. 6 verschiedene Muttern und deren Verwendung! #card
+ Kronenmuttern: wenn mit Splinten gesichert wird, 
+ Hutmuttern: schützen das Bolzenende vor Beschädigung,
+ Flügel- und Rändermuttern: können von Hand angezogen werden,
+ Überwurfmuttern: für Rohrverschraubungen,
+ Ringmuttern: Verwendung als Transportösen bei Maschinen.
+![[Pasted image 20230522191827.png]]
+
+  
+Mit welchem Werkzeug wird eine Nutmutter angezogen? #card
+Hakenschlüssel
+![[Pasted image 20230522191141.png]]
+
+
+Nennen Sie eine Mutter für die Herstellung einer Verliersicherung (formschlüssig)! #card 
+Kronenmutter mit Splint,
+Mutter mit Kunststoffring, Mutter mit Drahtsicherung,
+Mutter mit Sicherungsblech.
+![[Pasted image 20230530144746.png]]
+Für welche Art von Mutter benötigt man einen Stirnlochschlüssel? #card 
+- Stirnlochmutter
+- Zweilochmutter (Winkelschleifer)
+![[Pasted image 20230530144608.png]]
+Erklären Sie die Verwendung bzw. den richtigen Einsatz einer Kronenmutter. #card
+Kronenmutter mit Drehmomentschlüssel anziehen, durch die Krone eine Querbohrung im Gewinde erstellen, Splint einführen und auseinander biegen.
+![[Pasted image 20230522191939.png]]
+
+Wie lassen sich Schrauben gegen unbeabsichtigtes Lösen sichern? #card
+Durch Schraubensicherungen
+
+Nennen Sie verschiedene Arten von Schraubensicherungen und ordnen
+Sie sie den Hauptgruppen zu (siehe Prüfungskoffer)! #card 
+Setzsicherung:
+- Zahnscheibe,
+- Fächerscheibe,
+- Spannscheibe od. Tellerfeder;
+- Federring
+Losdrehsicherung:
+- klebstoffbeschichtetes Gewinde;
+- Sperrzahnschraube,
+Verliersicherung:
+- geschlitzte Mutter,
+- Drahtsicherung,
+- Kronenmutter mit Splint,
+- Sicherungsblech,
+- Mutter mit Kunststoffring;
+![[Pasted image 20230530144907.png]]
+Beschreiben Sie den Arbeitsvorgang bei der Montage einer Schraubensicherung mittels Sicherungsblech mit Nase! #card 
+- Neben der Schraubenverbindung Bohrunganbringen,
+- Nase des Sicherungsbleches in Bohrung stecken,
+- Blech seitlich an Sechskantmutter anbiegen.
+![[Pasted image 20230522192105.png]]
+
+
+Wie funktioniert eine selbstsichernde Mutter? #card 
+Gewinde wird in Kunststoffring gedrückt, dadurch entsteht eine höhere Reibung.
+![[Pasted image 20230522192034.png]]
+
+Wann werden Schraubenverbindungen durch löten oder schweißen
+gesichert? #card
+Wenn Sie voraussichtlich nicht mehr gelöst werden!
+
+In welche 3 Hauptgruppen werden Stifte eingeteilt? #card
+- Passstifte,
+- Befestigungsstifte,
+- Abscherstifte.
+
+Wovon ist die Auswahl von Stiften abhängig? #card
+- Verwendungszweck,
+- Der verlangten Genauigkeit
+- Den Kosten, die bei der Herstellung der Stiftverbindung entstehen.
+
+Wie werden Stifte nach der Form eingeteilt? #card 
+- Zylinderstift,
+- Kegelstift,
+- Kerbstift
+- Spannstift (Spannhülse),
+![[Pasted image 20230530145004.png]]
+Was verstehen Sie unter einem Abscherstift? #card
+Ein Abscherstift oder kurz Scherstift verhindert an Maschinen, Wellen und Getrieben ein zu hohes Drehmoment, indem er bei einer zu hohen Scherspannungs-Belastung bricht. Scherstifte werden zum Beispiel bei Werkzeugmaschinen zwischen Antrieb und Arbeitsspindel eingebaut, um das Getriebe vor Überlastung zu schützen.
+![[Pasted image 20230522192142.png]]
+
+Beschreiben Sie den Arbeitsvorgang beim Herstellen einer Stiftverbindung mittels Zylinderstifte! #card
+Teile gemeinsam bohren -> senken -> aufreiben Stift einfetten und eintreiben.
+![[Pasted image 20230530145148.png]]
+Wozu verwendet man Kegelstifte? #card
+Bauteile, die öfters demontiert werden, ursprüngliche Lage kann wieder genau hergestellt werden.
+![[Pasted image 20230530145210.png]]
+Welche Ausführungen von Kegelstiften kennen Sie? #card
+Kegelstift,
+Kegelstift mit Außengewinde und Innengewinde.
+![[Pasted image 20230530145542.png]]
+Welches Kegelverhältnis haben Kegelstifte, und auf welchen Durchmesser bezieht sich das Nennmaß? #card
+Kegelverjüngung 1:50, Nenndurchmesser beziehen sich auf den kleinen Durchmesser.
+![[Pasted image 20230530145605.png]]
+Beschreiben Sie die Arbeitsweise beim Herstellen einer Stiftverbindung mittels Kegelstiften! #card
+1. Bohrung herstellen
+2. Aufreiben, bis sich der Stift mit Hand bis 4 mm über Lochkante eindrücken lässt Stift einfetten und eintreiben.
+![[Pasted image 20230530145706.png]]
+Nennen Sie Stifte, bei denen die Bohrung nicht gerieben werden muss! #card
+- Spannstifte,
+- Spiralspannstifte,
+- Kerbstifte,
+- Zylinderkerbstifte,
+- Knebelkerbstifte.
+![[Pasted image 20230530145733.png]]
+Was ist beim Eintreiben eines Stiftes in Sacklöcher zu beachten? #card
+Längsrille oder Abflachung, damit die Luft beim Eintreiben entweichen kann.
+
+Was verstehen Sie unter einer Keilverbindung? #card
+Die Verbindung zwischen Welle und Nabe, die gegeneinander vorgespannt sind.
+![[Pasted image 20230530145811.png]]
+Welchen Nachteil haben Keilverbindungen? #card
+Radialschlag, Kontrolle der Vorspannung nötig.
+
+Welchen Vorteil hat ein Nasenkeil? #card
+Erleichterung beim Ausbau
+![[Pasted image 20230530145826.png]]
+
+
+### 2. Ende
+___
+
+Nennen Sie zwei Beispiele für Werkzeugstücke aus unlegiertem Werkzeugstahl! #card 
+- Reißnadeln,
+- Körner,
+- Ziehwerkzeuge,
+- Biegewerkzeuge
+![[Pasted image 20230530145857.png]]
+Übersetzen Sie die Werkstoffbezeichnung C105U! #card 
+   C105U
+- C = Unlegierter Stahl,
+- 105 = C - Gehalt 1,05%, daher Werkzeugstahl
+- U = für Werkzeuge geeignet (U = Kohlenstoffgehaltanteil C von ca. 0,6 bis 1,5%)
+
+
+Nennen Sie Beispiele für Werkstücke aus Kaltarbeitsstählen! #card
+- Scherenmesser,
+- Gewindebohrer
+- Schnittwerkzeuge,
+![[Pasted image 20230530150010.png]]
+
+Übersetzen Sie die Werkstoffbezeichnung X210Cr12! #card
+   X210Cr12
+   X = Hochlegierter Stahl,
+   210 = Kohlenstoffgehalt 2,1%,
+   Cr12 = Chrom Gehalt 12%, daher Korrosionbeständig
+
+Nennen Sie zwei Beispiele für Werkstücke aus Schnellarbeitsstählen! #card 
+- Fräswerkzeuge,
+- Drehmeißel,
+- Bohrer,
+
+Erklären Sie den Begriff „Sprödigkeit" anhand eines Beispiels! #card 
+- Werkstoff lässt sich verformen und bricht bei großer oder schlagartiger Belastung! ( Glas, harter Stahl )
+![[Pasted image 20230530150101.png]]
+Erklären Sie den Begriff „Härte" anhand eines Beispiels! #card 
+- Härte ist der Wiederstand den ein Werkstoff beim Eindrücken entgegensetzt. 
+- Härteprüfung mit einer Prüfkraft es wird gemessen wie weit der Prüfkörper in das Material eindringt. ( Härteprüfkörper )
+![[Pasted image 20230530150143.png]]
+Nennen Sie Einheiten und Abkürzungen, für Streckgrenze und Zugfestigkeit! #card
+- Zugfestigkeit -> Rm N/mm²,
+- Streckgrenze -> Re N/mm²
+![[Pasted image 20230530150203.png]]
+Wie werden Nichteisenmetalle eingeteilt? #card
+Leichtmetalle & Schwermetalle
+
+Welche Dichte haben Leicht- und Schwermetalle? #card
+- Leichtmetalle: Dichte < 5kg/dm³
+- Schwermetalle: Dichte > 5kg/dm³
+
+Welcher Zweck wird durch Legieren von Metallen erreicht? #card 
+Die Werkstoffeigenschaften der reinen Metalle werden gezielt verändert.
+
+Erklären Sie den Vorgang des Legierens von Metallen! #card 
+Es werden zwei oder mehrere Metalle im flüssigen Zustand gemischt.
+![[Pasted image 20230530150541.png]]
+Wie werden die Nichteisenmetalllegierungen eingeteilt? #card 
+In Gusslegierungen und Knetlegierungen.
+
+Welche Werkstücke werden aus NichteisenGusslegierungen hergestellt? #card
+Gussstücke wie Gehäuse, Lager, Formteile
+
+
+Nennen Sie drei häufig verwendete Nichteisenschwermetalle! #card 
+- Zink,
+- Kupfer,
+- Nickel,
+- Blei,
+- Zinn
+
+Nennen Sie drei Eigenschaften von Kupfer! #card 
+- Weich,
+- gut formbar,
+- korrosionsbeständig,
+- hohe Leitfähigkeit für Elektrizität und Wärme,
+
+Erklären Sie die Bearbeitbarkeit von Kupfer! #card 
+- Gießbar,
+- Walzbar (Bleche), (Rolling)
+- Zerspanbar (mit sehr guter Schneide)
+
+Nennen Sie drei Beispiele für die Verwendung von Kupfer! #card 
+- Leitwerkstoff für Elektrotechnik,
+- Lötkolben,
+- Heiz- und Kühlschlangen,
+- Dachabdeckungen,
+
+Übersetzen Sie die Werkstoffbezeichnung CuZn35! #card
+CuZn35:
+- CuZn = Kupfer/Zink Legierung,
+- 35 = Zinkgehalt ca. 35 % (Messing)
+- Kupfergehalt ca. 65%!
+
+Nennen Sie drei Beispiele für die Verwendung von Kupfer-Zinklegierungen! #card 
+- Elektroindustrie,
+- Feinmechanik,
+- Kupferlot. Armaturen,
+- allgemeine Kleinteile.
+
+Nennen Sie zwei Edelmetalle! #card 
+- Gold (Au),
+- Silber (Ag),
+- Platin (Pt),
+
+Nennen Sie Vorzüge von Edelmetallen gegenüber anderen Metallen. #card 
+- Korrosionbeständigkeit,
+- Säurebeständigkeit,
+- gute Leiter, (Silber = Kontaktwerkstoff)
+
+Welche Metalle sind „Leichtmetalle" #card 
+- Metalle deren Dichte < 5kg/dm³ ist. 
+
+Nennen Sie zwei Leichtmetalle. #card 
+- Aluminium,
+- Magnesium,
+- Titan
+
+Nennen Sie drei Eigenschaften von Aluminium! #card 
+- guter elektrischer Leiter,
+- guter Wärmeleiter
+- GERINGE Dichte,
+- leicht bearbeitbar,
+- selbstbildende Schutzschicht gegen Korrosion,
+
+
+### 3. End
+___
+
+Nennen Sie einige Beispiele für die Verwendung von Aluminium. #card 
+- Flugzeugbau,
+- Eisenbahnbau,
+- KFZbau,
+- Schiffsbau,
+- Dächer,
+- Fassaden,
+- Konstruktionen
+
+Nennen Sie die Fertigungsstufen zur Herstellung gesinterter Werkstücke. #card 
+- Pulverherstellung,
+- Pulvermischen,
+- Pressen,
+- Sintern,
+- Kalibrieren
+![[Pasted image 20230530150840.png]]
+Wovon sind die Eigenschaften gesinterter Teile abhängig? #card 
+- Pulverwerkstoff,
+- Pressdruck,
+- Sintertemperatur
+
+Für welche Teile werden grobporige Sinterteile hergestellt? #card 
+Für Filter und Gleitlager
+![[Pasted image 20230530150905.png]]
+Nennen Sie drei Vorteile der Sintertechnik! #card 
+- preisgünstige Herstellung von Maschinenteilen,
+- Legieren von Metallen mit unterschiedlichen Schmelzpunkten möglich,
+- kein Abfall,
+- Einbaufertige Teile.
+
+Nennen Sie Nachteile der Sintertechnik. #card 
+- Werkzeugkosten,
+- Hohe Presskraft,
+- beschränkte Werkstückgröße,
+- Hinterschneidungen nicht möglich
+
+Nennen Sie die Eigenschaften von Hartmetall. #card 
+- spröde
+- Verschleißfest,
+- hitzebeständig bis 900°C,
+- fast so hart wie Diamant,
+- empfindlich gegen schnellen Temperaturwechsel.
+
+Nennen Sie drei vorteilhafte Eigenschaften von Kunststoffen. #card 
+- Geringe Dichte,
+- gut umformbar,
+- leicht bearbeitbar,
+- elektr. isolierend,
+- korrosions- und chemikalienbeständig
+
+Nennen Sie drei nachteilige Eigenschaften der Kunststoffe. #card 
+- brennbar,
+- Geringe Wärmebeständigkeit,
+- Geringe Festigkeit,
+- Entsorgung
+
+Nennen Sie die drei Hauptgruppen der Kunststoffe. #card 
+- Thermoplaste,
+- Duroplaste,
+- Elastomere
+
+Nennen Sie zwei Thermoplaste. #card 
+- PE - Polyethylen 
+- PP - Polypropylen
+- PC - Polycarbonat
+- PA - Polyamid
+- PVC - Polyvinylchlorid
+
+Erklären Sie Komponenten eines GFK! #card
+GFK = Glasfaserverstärkte Kunststoffe (Verbundwerkstoffe) Verbundwerkstoffe sind aus mehreren Einzelstoffen zusammengefügt und zu einem Werkstoff verbunden.
+**Beispiel**:
+Glasfaser + Kunststoff = Glasfaserverstärkter Kunststoff (GFK)
+![[Pasted image 20230530150944.png]]
+Erklären Sie den Begriff Korrosion! #card
+Angriff und Zerstörung metallischer Werkstoffe.
+Chemische oder elektrochemische Reaktion mit Wirkstoffen der Umgebung.
+
+Wodurch entsteht Korrosion? #card
+Durch Chem. oder elektrochemische Reaktion mit Wirkstoffen der Umgebung (Umgebungsluft, Feuchtigkeit, Wärme, ev. auch Chemikalien).
+
+Nennen Sie korrosive Mittel #card
+z.B. die Raumluft, Wasser, Erdboden oderChemiekalien.
+
+Nennen Sie drei Möglichkeiten, durch die Bauteile vor Korrosion geschützt werden. #card
+- Ölen,
+- fetten,
+- galvanischer Schutz,
+- lackieren,
+- nitroxieren,
+- chrommatieren,
+- phosphatieren
+
+Wodurch kann schon bei der Auswahl des Werkstoffes Korrosion ausgeschaltet werden? #card 
+- Aluminium,
+- Kunststoffe,
+- Kupfer,
+- rostfreier Stahl,
+- Cu-Zn oder CuSn Legierung,
+
+Wann spricht man beim Fügen verschiedene Werkstücke von Löten? #card 
+Schmelzpunkt des Lotes liegt unter der Temperatur der zu verbindenden Teile. Es gehört zu den unlösbaren (stoffschlüssige) Verbindungen
+
+Nennen Sie drei Metalle, die sich als Lote eignen! #card 
+- Kupfer,
+- Blei,
+- Silber,
+- Zinn
+
+Bei welcher Temperatur liegt die Grenze zwischen Weich- und Hartlot? #card
+450°C
+
+In welchen Formen werden Lote verwendet? #card 
+- Drähte,
+- Folien,
+- Bänder,
+- Stangen,
+- Lotformteile
+
+Für welchen Zweck werden Flussmittel verwendet und nennen Sie zwei? #card 
+- Flussmittel lösen Oxyde und verhindern weitere Oxidation.
+- Flussmittel: Lötwasser, Lötöl, Lötfett, Lötpaste, Borax, Silox
+
+Nennen Sie drei wichtige Aufgaben von Schmierstoffen. #card 
+- Reibungsverminderung
+- Korrosionsschutz
+- Wärmeabfuhr
+- Verschleißteilchenabfuhr
+- Stoßdämpfung
+
+Nennen Sie drei Eigenschaften von Schmierstoffen. #card
+- Druckfest
+- geringe innere Reibung
+- säurefrei u. wasserfrei,
+- haftfähig, alterungsbeständig
+- frei von festen Bestandteilen
+
+Erklären Sie den Begriff "Viskosität' von Schmierstoffen. #card
+Zähflüssigkeit - Maß für innere Reibung des Schmierstoffes, hohe Viskosität = dickflüssig
+
+
+### 4. End
+___
+
+Nennen Sie zwei Schmierstoffarten. #card
+- Flüssige Schmierstoffe,
+- Festschmierstoffe,
+
+Erklären Sie den Vorteil der Fettschmierung gegenüber der Ölschmierung. #card
+- Fett haftet und bleibt somit bei der Lagerstelle,
+- schmutzabweisend,
+- gute Notlaufeigenschaften.
+
+Erklären Sie den Vorteil der Ölschmierung gegenüber der Fettschmierung. #card
+- Gelangt leicht zur Schmierstelle,
+- nimmt Wärme u. Schmutz mit wenig Widerstand
+
+Nennen Sie drei Schleifmittelarten! #card
+- Natürliche Schmirgel,
+- Diamant,
+- künstliche Korund (Normalkorund und Edelkorund),
+- SiliziumKarbid,
+- KubischesBornitrid
+
+Erklären Sie worüber die Körnung eines Schleifmittels Aufschluss gibt und wie Sie angegeben wird? #card
+Über die Größe der Schleifkörner. Die Körnungsnummer entspricht der Maschenzahl des Siebes auf 1 Inch Länge.
+![[Pasted image 20230530151029.png]]
+Welchen Zweck hat die Bindung der Schleifkörper? #card
+Die einzelnen Körner so lange festzuhalten, bis sie stumpf geworden sind.
+![[Pasted image 20230530151050.png]]
+Erklären Sie die Bezeichnung A60K8V40 auf einem Schleifkörper! #card
+**A60K8V40**:
+- A=Korund,
+- 60=Körnung 60 Maschen auf 1",Härtegrad
+- K=weich,
+- 8=Gefüge Kennziffer fürmittel
+- V=Bindung keramisch, 
+- 40=m/sek zulässige Umfangsgeschwindigkeit
+
+Nennen und erklären Sie die Verwendung von zwei nach Farbe verschiedenen Schleifkörpern! #card
+- Schwarzbraun oder grau -> Normalkorund für Baustähle;
+- weiß oder rosa -> Edelkorund für Werkzeugstähle;
+- grün oder grau (schwarz) -> Siliziumkarbid für Hartmetalle
+
+Nennen Sie eine Aufgabe der Werkstoffprüfung! #card
+- Bestimmung von Festigkeit Härte,
+- Korrosionsbeständigkeit,
+- Überprüfung nach Rissen,
+- Lunkereinschluß.
+- ErmittelnUrsachen bei Schäden
+
+Erklären Sie die Durchführung der Klangprobe. #card
+- Probe frei hängend; heller Klang = harter Werkstoff und kein Riss, dumpfer Klang = weich oder rissig
+![[Pasted image 20230530151134.png]]
+Welchen Aufschluss gibt der Kerbschlagversuch über den Werkstoff? #card
+- Hinweis über die Schlagzähigkeit eines Werkstoffes
+![[Pasted image 20230530151159.png]]
+Welche Werte können aus einem Spannungsdehnungsdiagramm herausgelesen werden? #card
+- Zugfestigkeit Rm,
+- Streckgrenze Re,
+- Dehnung A,
+- Verlauf der Spannungs Dehnungskurve
+![[Pasted image 20230530151210.png]]
+Erklären Sie den Begriff Härte eines Werkstoffes. #card
+- Der Wiederstand den ein Werkstoff beim Eindrücken entgegensetzt. Härteprüfung
+- mit einer Prüfkraft es wird gemessen wie weit der Prüfkörper in das Material eindringt.( Härteprüfkörper )
+![[Pasted image 20230530151253.png]]
+Nennen Sie zwei Härteprüfverfahren. #card
+- Brinell,
+- Vickers,
+- Rockwell,
+- Feilprobe
+![[Pasted image 20230530151359.png]]
+Mit welchem Prüfverfahren können nur weiche und mittelharte Werkstoffe geprüft werden? #card
+- Härteprüfung nach Brinell
+![[Pasted image 20230530151422.png]]
+Welche Form hat der Eindringkörper bei der Brinellhärteprüfung? #card
+- Eine Kugel
+![[Pasted image 20230530151433.png]]
+Wo wird die Vickershärteprüfung vorwiegend eingesetzt? #card
+- Für Härteprüfungen (hart und weich),
+- dünne Materialien
+![[Pasted image 20230530151450.png]]
+Welche Form hat der Eindringkörper bei der Vickershärteprüfung? #card
+- Eine vierseitige Pyramide (Spitzenwinkel 136°)
+![[Pasted image 20230530151511.png]]
+Wo wird die Rockwellhärteprüfung eingesetzt? #card
+- Bei allen gehärteten Oberflächen, außer bei dünnen Härteschichten
+![[Pasted image 20230530151602.png]]
+Welche Form hat der Eindringkörper bei der Rockwellhärteprüfung HRC? #card
+- Diamantkegel 120° Spitzenwinkel
+![[Pasted image 20230530151604.png]]
+Nennen Sie 3 zerstörungsfreie Werkstoffprüfverfahren? #card
+- Ultraschallprüfung,
+- Röntgenprüfung
+- Spektralanalyze,
+- Härteprüfung
+![[Pasted image 20230530151654.png]]
+Warum ist Stahl ein so häufig verwendeter Werkstoff? #card
+- Hohe Festigkeit,
+- hohe Zähigkeit,
+- vergleichsweise preiswerter Werkstoff,
+
+Welche Rohstoffe werden zur Stahlerzeugung benötigt? #card
+- Eisenerze,
+- Koks,
+- Kalk als Schlackenbildner
+![[Pasted image 20230530151715.png]]
+Wie nennt man den Vorgang, bei dem aus Roheisen Stahl hergestellt wird? #card
+- Frischen: (Kohlenstoffreduktion durch Sauerstoffblasverfahren, LD Verfahren)
+![[Pasted image 20230530151729.png]]
+Erklären Sie den Begriff „Strangguss" bei der Stahlerzeugung. #card
+- Flüssiger Stahl wird in wassergekühlte Formen (Kokillen) gegossen.
+- Dadurch bilden sich Stahlstränge, die dann abgelängt werden.
+![[Pasted image 20230530151742.png]]
+
+
+### 5. End
+___
+
+Zählen Sie einige Handelsformen der Stahlwerkstoffe auf. #card 
+- Bleche
+- Drähte
+- Profile
+- Träger
+- Rohre
+
+Um welche Verbindungsart handelt es sich bei einer Schraubenverbindung? #card
+Um eine lösbare Verbindung.
+
+Wie erfolgt die Einteilung der Schrauben nach der Kopfform? #card
+- Sechskant-
+- Senk-
+- Linsensenk-
+- Flachrund-
+- Zylinder-
+- Augen-
+- Ringschrauben usw.
+
+Wie erfolgt die Einteilung der Schrauben nach der Schaftform? #card
+- Stift-,
+- Dehn-,
+- Pass-,
+- Bohr-,
+- Holzschrauben,
+- Gewindestifte
+![[Pasted image 20230530151826.png]]
+Was verstehen Sie unter der Bezeichnung "12.9" auf einem Schraubenkopf? #card
+- 12 x 100 = 1200 N/mm² Mindestzugfestigkeit 
+- 12 x 9 x 10 = 1080 N/mm² Mindeststreckgrenze
+
+Welche ist die häufigste Gewindeart auf Schrauben? #card
+Metrisches ISO Regelgewinde.
+
+Wozu werden Gewindestifte verwendet? #card
+Als Druckschraube zum Befestigen von Nabe auf Wellen oder Achsen.
+
+Wie werden Schrauben beansprucht? #card
+Meist auf Zug
+
+Was verstehen Sie unter einer "Durchsteckschraubenverbindung" #card
+Eine Verbindung, bei der zwei Teile mit Durchgangsbohrungen mit einer Schraube und Mutter verbunden sind.
+![[Pasted image 20230530151845.png]]
+Wie erfolgt die Längenangabe von Sechskant und Senkschrauben (siehe Prüfungskoffer)? #card 
+- Sechskantschraube ohne Schraubenkopf,
+- Senkschraube mit Schraubenkopf
+![[Pasted image 20230530151900.png]]
+Wo werden Rändelschrauben verwendet? #card 
+Teile, die häufig ohne Werkzeug gelöst werden.
+![[Pasted image 20230530151918.png]]
+Nennen Sie den Unterschied zwischen einer Stiftschraube und einem Gewindestift! #card 
+- **Gewindestifte** dienen zur Sicherung von Nabe und Welle.
+- **Stiftschrauben** dienen zur Verbindung von Teilen, die öfter gelöst werden.
+![[Pasted image 20230530151935.png]]
+Wozu werden Steinschrauben verwendet? #card
+Befestigung von Maschinen im Fundament
+![[Pasted image 20230530151946.png]]
+Benennen Sie die verschieden Schrauben aus dem Prüfungskoffer (Bildermappe). #card 
+- Sechskantschraube,
+- Senkkopfschraube,
+- Blechschrauben,
+- Holzschrauben,
+- Steinschraube,...
+
+Wozu werden Dehnschrauben verwendet und wodurch unterscheiden sie sich von herkömmlichen Schrauben? #card
+Bei Bauteilen, wo durch Temperaturschwankungen oder durch Zug und Druck eine dauernde Wechselbelastung auftritt.
+Sie haben im Schaftbereich einen kleineren Durchmesser und nehmen dort die Zugspannung auf.
+![[Pasted image 20230530152009.png]]
+Mit welchem Werkzeug werden Dehnschrauben angezogen? #card
+Mit einem Drehmomentschlüssel.
+![[Pasted image 20230530152019.png]]
+Welche Teile einer Schraube sind genormt? #card
+Kopfform,
+Schaftabmessungen, 
+Gewindemaße
+
+Wozu werden Passschrauben verwendet? #card
+Verhindern das Verschieben der zusammengeschraubten Teile und können große Scherkräfte aufnehmen.
+![[Pasted image 20230530152034.png]]
+Wonach richtet sich die Einschraublänge eines Gewindes ins Werkstück? #card
+Nach dem Werkstoff des Mutterngewindes bei Stahl: 0,8 - 1 x Nenndurchmesser
+
+Wozu verwendet man Stiftschrauben? #card
+Bei Verbindungen die häufig gelöst werden z.B.: Zylinderköpfen.
+![[Pasted image 20230530152051.png]]
+Benennen Sie die verschiedenen Muttern aus dem Prüfungskoffer oder der Bildermappe. #card
+- Sechskantmutter
+- Rändelmutter
+- Kronenmutter
+- Nuttmutter
+- Hutmutter
+- Kreuzlochmutter
+- Zweilochmutter
+- Flügelmutter
+![[Pasted image 20230530152123.png]]
+Welche Muttern können von Hand ohne Hilfsmittel angezogen werden? #card
+- Rändelmutter
+- Flügelmutter
+![[Pasted image 20230530152138.png]]
+Welche Muttern werden zum Ein- und Verstellen des axialen Spieles von Wellen und Lagern verwendet? #card
+- Nutmutter,
+- Kreuzlochmutter
+![[Pasted image 20230530152151.png]]
+Nennen Sie Verwendungsbeispiele für Hutmuttern. #card 
+- Schöneres Aussehen,
+- Schutz vor Schmutz,
+- Schutz vor Verletzungen zum Beispiel an Fahrrädern zur Befestigung der Radachsen.
+![[Pasted image 20230530152205.png]]
+Wozu wird eine Kronenmutter (mit Splint) verwendet? #card
+Zum Herstellen einer VerlierSicherung (formschlüssig)
+![[Pasted image 20230530152220.png]]
+
+### 6. End
+___
+
+Wie oft darf ich eine Mutter mit Kunststoffring oder selbst sichernde Mutter verwenden? #card
+1 Mal (da sonst die Schraubensicherung nicht mehr gegeben ist)
+
+Nennen Sie min. 6 verschiedene Muttern und deren Verwendung! #card 
+- Kronenmuttern: wenn mit Splinten gesichert wird,
+- Hutmuttern: schützen das Bolzenende vor Beschädigung,
+- Flügel- und Rändermuttern: können von Hand angezogen werden,
+- Überwurfmuttern: für Rohrverschraubungen,
+- Ringmuttern: Verwendung als Transportösen bei Maschinen.
+
+Mit welchem Werkzeug wird eine Nutmutter angezogen? #card
+Hakenschlüssel
+
+Nennen Sie eine Mutter für die Herstellung einer Verliersicherung (formschlüssig)! #card 
+- Kronenmutter mit Splint,
+- Mutter mit Kunststoffring,
+- Mutter mit Drahtsicherung,
+- Mutter mit Sicherungsblech.
+
+Für welche Art von Mutter benötigt man einen Stirnlochschlüssel? #card 
+- Stirnlochmutter
+- Zweilochmutter (Winkelschleifer)
+
+
+Erklären Sie die Verwendung bzw. den richtigen Einsatz einer Kronenmutter. #card
+Kronenmutter mit Drehmomentschlüssel anziehen, durch die Krone eine Querbohrung im Gewinde erstellen, Splint einführen und auseinander biegen.
+
+Wie lassen sich Schrauben gegen unbeabsichtigtes Lösen sichern? #card
+Durch Schraubensicherungen!
+
+Nennen Sie verschiedene Arten von Schraubensicherungen und ordnen Sie sie den Hauptgruppen zu (siehe Prüfungskoffer)! #card
+**Setzsicherung**:
+- Zahnscheibe,
+- Fächerscheibe,
+- Spannscheibe od. Tellerfeder;
+- Federring
+**Losdrehsicherung**:
+- klebstoffbeschichtetes Gewinde;
+- Sperrzahnschraube,
+**Verliersicherung**:
+- geschlitzte Mutter,
+- Drahtsicherung,
+- Kronenmutter mit Splint,
+- Sicherungsblech,
+- Mutter mit Kunststoffring;
+
+Beschreiben Sie den Arbeitsvorgang bei der Montage einer Schraubensicherung mittels Sicherungsblech mit Nase! #card
+- Neben der Schraubenverbindung Bohrunganbringen,
+- Nase des Sicherungsbleches in Bohrung stecken,
+- Blech seitlich an Sechskantmutter anbiegen.
+
+Wie funktioniert eine selbstsichernde Mutter? #card
+- Gewinde wird in Kunststoffring gedrückt, dadurch entsteht eine höhere Reibung.
+
+Wann werden Schraubenverbindungen durch löten oder schweißen gesichert? #card 
+- Wenn Sie voraussichtlich nicht mehr gelöst werden!
+
+In welche 3 Hauptgruppen werden Stifte eingeteilt? #card 
+- Passstifte,
+- Befestigungsstifte,
+- Abscherstifte.
+
+Wovon ist die Auswahl von Stiften abhängig? #card 
+- Verwendungszweck,
+- Der verlangten Genauigkeit
+- Den Kosten, die bei der Herstellung der Stiftverbindung entstehen.
+
+Wie werden Stifte nach der Form eingeteilt? #card 
+- Zylinderstift,
+- Kegelstift,
+- Kerbstift
+- Spannstift (Spannhülse),
+
+Was verstehen Sie unter einem Abscherstift? #card 
+Ein Abscherstift oder kurz Scherstift verhindert an Maschinen, Wellen und Getrieben ein zu hohes Drehmoment, indem er bei einer zu hohen Scherspannungs-Belastung bricht. Scherstifte werden zum Beispiel bei Werkzeugmaschinen zwischen Antrieb und Arbeitsspindel eingebaut, um das Getriebe vor Überlastung zu schützen.
+
+Beschreiben Sie den Arbeitsvorgang beim Herstellen einer Stiftverbindung mittels Zylinderstifte! #card
+Teile gemeinsam bohren -> senken -> aufreiben Stift einfetten und eintreiben.
+
+Wozu verwendet man Kegelstifte? #card 
+Bauteile, die öfters demontiert werden, ursprüngliche Lage kann wieder genau hergestellt werden.
+
+Welche Ausführungen von Kegelstiften kennen Sie? #card 
+- Kegelstift,
+- Kegelstift mit Außengewinde und Innengewinde.
+
+Welches Kegelverhältnis haben Kegelstifte, und auf welchen Durchmesser bezieht sich das Nennmaß? #card 
+- Kegelverjüngung 1:50,
+- Nenndurchmesser beziehen sich auf den kleinen Durchmesser.
+
+Beschreiben Sie die Arbeitsweise beim Herstellen einer Stiftverbindung mittels Kegelstiften! #card 
+- Bohrung herstellen
+- Aufreiben, bis sich der Stift mit Hand bis 4 mm über Lochkante eindrücken lässt
+- Stift einfetten und eintreiben.
+
+Nennen Sie Stifte, bei denen die Bohrung nicht gerieben werden muss! #card 
+- Spannstifte
+- Spiralspannstifte
+- Kerbstifte
+- Zylinderkerbstifte
+- Knebelkerbstifte
+
+Was ist beim Eintreiben eines Stiftes in Sacklöcher zu beachten? #card 
+Längsrille oder Abflachung, damit die Luft beim Eintreiben entweichen kann.
+
+Was verstehen Sie unter einer Keilverbindung? #card 
+Die Verbindung zwischen Welle und Nabe, die gegeneinander vorgespannt sind.
+
+Welchen Nachteil haben Keilverbindungen? #card 
+Radialschlag, Kontrolle der Vorspannung nötig.
+
+Welchen Vorteil hat ein Nasenkeil? #card 
+Erleichterung beim Ausbau
+
+### 7. End
+___
+
+Wo finden Federverbindungen Ihre Anwendung? #card
+Wo ein genauer Rundlauf gefordert ist.
+![[Pasted image 20230530153114.png]]
+Wozu werden Passfedern mit Gewinde versehen? #card
+Zum Abdrücken der Feder aus der Nut.
+![[Pasted image 20230530153215.png]]
+Nennen Sie den Unterschied zwischen einer Keil- und einer Federverbindung! #card 
+- Bei einer Federverbindung handelt es sich um eine formschlüssige Verbindung.
+- Bei einer Keilverbindung vorgespannt formschlüssig
+![[Pasted image 20230530153315.png]]
+Nennen Sie verschiedene Federarten! #card
+- Passfeder rundstirnig,
+- Passfeder geradstirnig,
+- Passfeder rundstirnig mit Halteschraube,
+- Zapfenfeder,
+- Gleitfeder,
+- Scheibenfeder
+
+Wo werden Scheibenfedern verwendet? #card 
+- Sie werden bei kegeligen Wellenansätzen verwendet, wo eine Längskeilnut schwierig anzubringen ist. 
+
+Nennen Sie ein Beispiel für eine Gleitfederverbindung! #card
+- Gleitfedern werden bei Getrieben verwendet. Dabei wird die Nabe axial verschoben.
+- Polygonprofile,
+- Kerbzahnprofil,
+![[Pasted image 20230530153331.png]]
+Nennen Sie weitere Verbindungsarten zwischen Welle und Nabe! #card
+- Zahnwellenprofil,
+- Keilnabenprofil,
+- Zahnnabenprofile,
+- Keilwellenprofile.
+
+Nennen Sie verschiedene unlösbare Verbindungsarten! #card
+- Nieten
+- Durchsetzfügen
+- Schweißen
+- Löten
+- Kleben
+
+Welche Nietarten kennen Sie? #card 
+- Halbrundniet,
+- Kesselniet,
+- Stahlbauniet,
+- Senkniet,
+- Linsensenkniet,
+- Rohrniet,
+- Dornniet,
+- Sprengniet.
+
+Nennen Sie ein Beispiel für eine feste Nietverbindung! #card 
+- Stahlbau,
+- Fahrzeugbau,
+- Aufzüge,
+- Kräne
+
+Nennen Sie ein Beispiel für eine dichte Nietverbindung! #card
+Bei Gas- und Flüssigkeitsbehälter
+
+In welchen Fällen verwendet man eine Blindniete? #card
+Wenn die Nietstelle nur von einer Seite aus zugänglich ist.
+
+Wie werden Nieten beansprucht? #card
+Zug und Abscherung
+
+Warum soll ein Niet aus dem gleichen Werkstoff bestehen, als die zu verbindenden Teile? #card
+Um elektrochemische Korrosion und ein Lockern der Verbindung bei Erwärmung zu vermeiden.
+
+Welche Aufgabe haben Federn? #card
+- Federn verbinden Maschinenteile miteinander,
+- fangen Stöße und Schwingungen auf,
+- dienen zur Rückholung von Maschinenteilen oder zum Aufeinanderpressen.
+
+Welche Federarten unterscheidet man nach der Art der Beanspruchung? #card
+- Druckfedern,
+- Zugfedern,
+- Drehfedern,
+- Biegefedern (Plattfedern)
+
+Aus welchem Werkstoff werden Federn hergestellt? #card
+Federstahl (unlegiert oder mit Silizium und Chrom legierte Stähle) gehärtet und vergütet.
+
+Nennen Sie ein Beispiel für die Anwendung von Tellerfedern! #card 
+- Werkzeugsbau,
+- Maschinensbau,
+- Vorrichtungsbau
+
+Welche Federarten unterscheidet man nach der äußeren Form? #card
+- Schraubenfedern,
+- Drehstabfedern,
+- Tellerfedern,
+- Ringfedern,
+- Gummifedern,
+- Pneumatische Federn (Luftfeder)
+
+Welche Eigenschaften sollen Federn aufweisen? #card
+- Sie sollen elastisch verformbar sein
+
+Wie werden Tellerfedern eingebaut? #card
+Gleichsinnige Schichtung erhöht die Federkraft, wechselsinnige Schichtung vergrößert den Federweg.
+
+Welche Arten von Zahnrädern kennen Sie? #card
+- Stirnräder
+- Kegelräder
+- Schraubenräder
+- Schneckenräder mit Schnecke
+- Ritzel
+
+Welche Aufgaben haben Zahnräder? #card 
+- Mit Zahnrädern kann man Drehbewegungen übertragen und dabei Drehzahlen, Drehmomente oder Drehrichtungen ändern.
+
+Welche Vorteile und Nachteile haben schrägverzahnte Stirnräder gegenüber geradeverzahnten? #card
+**VT**:
+- höhere Laufruhe,
+- da mehrere Zähne gleichzeitig im Eingriff sind, bessere Eignung für hohe Drehzahlen,
+- geringere Empfindlichkeit gegen Zahnformfehler,
+**NT**:
+- Axialkräfte,
+- geringerer Wirkungsgrad,
+
+Worauf ist bei Zahnradgetrieben in Bezug auf ihre Lebensdauer zu achten? #card
+- Auf ausreichende Schmierung,
+- geringe Drehzahl -> Fett
+- hohe Drehzahl -> Öl
+
+### 8. End
+___
+
+
+Was verstehen Sie unter einem Ritzel? #card
+Kleines, meist treibendes Rad.
+![[Pasted image 20230530153446.png]]
+Was muss bei Zahnrädern, die ineinander greifen sollen gleich sein? #card
+Sie müssen den gleichen Modul und den gleichen Eingriffswinkel (20°) haben.
+![[Pasted image 20230530153459.png]]
+Welche Aufgaben haben Zahnstangen in Verbindung mit Zahnrädern? #card
+- Wenn eine Drehbewegung in eine geradlinige Bewegung oder umgekehrt umgewandelt werden soll.
+
+Wie können Zahnräder hergestellt werden? #card
+- Wälzfräsen,
+- Wälzstoßen,
+- Wälzschleifen,
+- Gießen,
+- Spritzgießen,
+- Druckgießen, 
+- Kaltfließpressen,
+- Warmpressen.
+
+
+Welche Aufgaben haben Lager? #card
+- Lager führen und stützen rotierende Wellen und Achsen
+- nehmen radiale und axiale Lagerkräfte auf.
+
+
+Wie werden Lager nach der Art der Reibung eingeteilt? #card
+- Gleitlager = Gleitreibung
+- Wälzlager = Rollreibung (z.B.Zylinderrollenlager)
+- Wälzreibung (z.B. Kugellager /Rollreibung und Gleitreibung
+- tretengleichzeitig auf)
+
+
+Wie werden Lager nach der Richtung der auftretenden Kräfteeingeteilt? #card
+- Radial- und Axiallager
+
+
+Nennen Sie den Aufbau eines Wälzlagers! #card
+- Außenring,
+- Innenring (Laufringe),
+- Käfig,
+- Wälzkörper
+
+
+Welche Nachteile besitzen Wälzlager gegenüber Gleitlager? #card
+- Empfindlich gegen Schmutz,
+- Stoß und hohe Temperaturen
+- Höhere Geräuschentwicklung
+- Größerer Einbaudurchmesser
+- Geringere Tragfähigkeit bei gleicher Baugröße und geringere Schwingungsdämpfung
+
+
+Nennen Sie 3 Vorteile eines Gleitlagers? #card
+- Teilbar,
+- kleine Baugröße,
+- stoßunempfindlich,
+- ruhiger Lauf,
+- selbst herstellbar,
+- gute Notlaufeigenschaften,
+- Wärmeabfuhr
+
+
+Wodurch werden die Reibungskraft und damit das Reibungsmoment bei Gleitlagern möglichst klein gehalten?  #card
+- Durch ausreichenden Schmierstoff
+
+
+Welche Schmierungsmöglichkeiten kennen Sie bei Gleitlager? #card
+- Hydrodynamischeschmierung,
+- Hydrostatischeschmierung,
+- Feststoffschmierung.
+
+
+Wo können wartungsfreie Gleitlager verwendet werden? #card
+- Für niedrige Drehzahlen und Belastungen Nennen Sie Gleitlagerwerkstoffe!
+- Legierungen aus Kupfer, Zinn, Blei, Zink, Aluminium
+- sowie Sintermetalle, Kunststoffe, wie z.B. Polyamid und Gusseisen mit Lamellengrafit (Grauguss).
+
+
+Nennen Sie die Vorteile eines Wälzlagers gegenüber einem Gleitlager! #card
+- Geringe Reibung und Wärmeentwicklung,
+- Geringer Schmierstoffverbrauch
+- Hohe Tragfähigkeit bei kleinen Drehzahlen
+- Austauschbarkeit durch genormte Größen
+- Ausgleich von Durchbiegungen der Wellenbei Pendellagern
+
+
+Welcher Werkstoff wird für die Herstellung des Lagerkäfigs verwendet? #card
+Stahl oder Messingblech (CuZn) oder Kunststoff (Polyamid)
+
+
+Welche Wälzlagerarten gibt es? #card
+- Kugellager,
+- Rollenlager,
+- Nadellager,
+- Tonnenlager
+
+
+Welche Vorteile hat ein Pendelkugellager? #card
+- Können geringe Fluchtungsfehler ausgleichen (z.B. durch Bearbeitungsfehler und Wellendurchbiegungen)
+
+
+Wo werden Nadellager verwendet? #card
+Bei geringem Platzbedarf
+
+
+Worauf ist beim Einbau eines Wälzlagers zu achten? #card
+- Lager vor Spänen u. Schmutz schützen,
+- Einbaukräfte nicht über die Wälzkörper,
+- Richtige Montagewerkzeuge verwenden,
+- eventuell Lager erwärmen oder kühlen
+
+
+Was verstehen Sie unter einer Welle? #card
+- Sind Maschinenelemente, die mechanische Arbeit durch Drehbewegung und Drehmoment übertragen.
+
+
+Welche Arten von Wellen gibt es? #card
+- Funktion: Antriebswellen, Getriebewellen, Spindeln, Gelenkwellen, Kurbelwellen und Nockenwellen
+- Bauform: Starrewellen, biegsame Wellen,Gelenkwellen.
+
+
+Was verstehen Sie unter einer Achse? #card
+Werden vorwiegend auf Biegung beansprucht und übertragen keine Drehmomente.
+
+
+Was verstehen Sie unter Bolzen? #card
+Sind kurze Achsen, mit denen Maschinenteile beweglich verbunden werden (z.B.Gelenkbolzen)
+
+
+Wie werden Bolzen beansprucht? #card
+Auf Abscherung und Biegung.
+
+### 9. End
+___
+
+Nennen Sie zwei Schmierstoffarten. #card
+- Flüssige Schmierstoffe,
+- Festschmierstoffe,
+
+
+Erklären Sie den Vorteil der Fettschmierung gegenüber der Ölschmierung. #card
+- Fett haftet und bleibt somit bei der Lagerstelle,
+- schmutzabweisend,
+- gute Notlaufeigenschaften.
+
+
+Erklären Sie den Vorteil der Ölschmierung gegenüber der Fettschmierung. #card
+- Gelangt leicht zur Schmierstelle,
+- nimmt Wärme u. Schmutz mit wenig Widerstand Nennen Sie drei Schleifmittelarten!
+- Natürliche Schmirgel,
+- Diamant,
+- künstliche Korund (Normalkorund und Edelkorund),
+- SiliziumKarbid,
+- KubischesBornitrid
+
+
+Nennen Sie drei Schleifmittelarten! #card 
+- Natürliche Schmirgel
+- Diamant
+- künstliche Korund (Normalkorund und Edelkorund)
+- SiliziumKarbid
+- KubischesBornitrid
+
+
+Erklären Sie worüber die Körnung eines Schleifmittels Aufschluss gibt und wie Sie angegeben wird? #card
+- Über die Größe der Schleifkörner.
+- Die Körnungsnummer entspricht der Maschenzahl des Siebes auf 1 Inch Länge.
+
+
+Welchen Zweck hat die Bindung der Schleifkörper? #card
+- Die einzelnen Körner so lange festzuhalten, bis sie stumpf geworden sind.
+
+
+Erklären Sie die Bezeichnung A60K8V40 auf einem Schleifkörper! #card
+**A60K8V40**
+- A=Korund,
+- 60=Körnung 60 Maschen auf 1",Härtegrad
+- K=weich,
+- 8=Gefüge Kennziffer fürmittel
+- V=Bindung keramisch,
+- 40=m/sek zulässige Umfangsgeschwindigkeit
+
+
+Nennen und erklären Sie die Verwendung von zwei nach Farbe verschiedenen Schleifkörpern! #card
+- Schwarzbraun oder grau -> Normalkorund für Baustähle;
+- weiß oder rosa -> Edelkorund für Werkzeugstähle;
+- grün oder grau (schwarz) -> Siliziumkarbid für Hartmetalle
+
+
+Nennen Sie eine Aufgabe der Werkstoffprüfung! #card
+- Bestimmung von Festigkeit Härte,
+- Korrosionsbeständigkeit,
+- Überprüfung nach Rissen,
+- Lunkereinschluß.
+- ErmittelnUrsachen bei Schäden
+
+
+Erklären Sie die Durchführung der Klangprobe. #card
+- Probe frei hängend
+- heller Klang = harter Werkstoff und kein Riss,
+- dumpfer Klang = weich oder rissig
+
+
+Welchen Aufschluss gibt der Kerbschlagversuch über den Werkstoff? #card
+- Hinweis über die Schlagzähigkeit eines Werkstoffes
+
+
+Welche Werte können aus einem Spannungsdehnungsdiagramm herausgelesen werden? #card 
+- Zugfestigkeit Rm,
+- Streckgrenze Re,
+- Dehnung A,
+- Verlauf der Spannungs Dehnungskurve
+
+
+Erklären Sie den Begriff Härte eines Werkstoffes. #card
+- Der Wiederstand den ein Werkstoff beim Eindrücken entgegensetzt. 
+- Härteprüfung: mit einer Prüfkraft wirda es gemessenm, wie weit der Prüfkörper in das Material eindringt.( Härteprüfkörper )
+
+
+Nennen Sie zwei Härteprüfverfahren. #card
+- Brinell,
+- Vickers,
+- Rockwell,
+- Feilprobe
+
+
+Mit welchem Prüfverfahren können nur weiche und mittelharte Werkstoffe geprüft werden? #card
+- Härteprüfung nach Brinell
+
+
+Welche Form hat der Eindringkörper bei der Brinellhärteprüfung? #card
+- Eine Kugel
+
+
+Wo wird die Vickershärteprüfung vorwiegend eingesetzt? #card
+- Für Härteprüfungen (hart und weich),
+- dünne Materialien
+
+
+Welche Form hat der Eindringkörper bei der Vickershärteprüfung? #card
+- Eine vierseitige Pyramide (Spitzenwinkel 136°)
+
+
+Wo wird die Rockwellhärteprüfung eingesetzt?  #card
+- Bei allen gehärteten Oberflächen, außer bei dünnen Härteschichten
+
+
+Welche Form hat der Eindringkörper bei der Rockwellhärteprüfung HRC? #card
+- Diamantkegel 120° Spitzenwinkel
+
+
+Nennen Sie 3 zerstörungsfreie Werkstoffprüfverfahren? #card
+- Ultraschallprüfung,
+- Röntgenprüfung
+- Spektralanalyze,
+- Härteprüfung
+
+
+Warum ist Stahl ein so häufig verwendeter Werkstoff? #card
+- Hohe Festigkeit,
+- hohe Zähigkeit,
+- vergleichsweise preiswerter Werkstoff,
+
+
+Welche Rohstoffe werden zur Stahlerzeugung benötigt? #card
+- Eisenerze,
+- Koks,
+- Kalk als Schlackenbildner
+
+
+Wie nennt man den Vorgang, bei dem aus Roheisen Stahl hergestellt wird? #card
+Frischen
+- (Kohlenstoffreduktion durch Sauerstoffblasverfahren, LD Verfahren)
+- Flüssiger Stahl wird in wassergekühlte Formen (Kokillen) gegossen.
+- Dadurch bilden sich Stahlstränge, die dann abgelängt werden.
+
+
+Erklären Sie den Begriff „Strangguss" bei der Stahlerzeugung. #card
+- Flüssiger Stahl wird in lange, kontinuierliche Stränge gegossen.
+
+### 10. End
+___
+-- -
+
+Welche Verfahren zur Erstellung von Planzeiten kennen sie? #card
+- Vergleichen und Schätzen,
+- IST-Wert erarbeiten,
+- Ermittlung durch REFA Zeitaufnahme,
+- Ermittlung mit Systemen vorbestimmter Zeiten;
+
+Wie kann man die Genauigkeit einer Messschraube überprüfen? #card
+Endmaße
+![[Pasted image 20230530154016.png]]
+Aus welchen Teilen besteht eine Bügelmessschraube? #card
+- Amboß,
+- Messspindel,
+- Bügel,
+- Skalenhülse,
+- Skalentrommel,
+- Gefühlsratsche (Kupplung),
+- Klemmhebel,
+- Isolierplatte
+![[Pasted image 20230530154056.png]]
+Welche Arten von Messschrauben gibt es? #card
+- Außen-,
+- Innen-,
+- Tiefen-,
+- Gewindemessschraube,
+- Zahnweitenmessschraube.
+![[Pasted image 20230530154156.png]]
+Welche Messgenauigkeiten besitzen Messschrauben? #card
+In der Regel 0,01 mm oder 0,001 mm.
+![[Pasted image 20230530154205.png]]
+Welche Einflüsse auf Messabweichungen können beim Messen mit der Messschraube auftreten? #card
+- Verkanten des Werkstückes,
+- Schmutz,
+- Grat,
+- Aufbiegung des Bügels,
+- Temperatureinflüsse,
+- zu schnelles drehen der Messspindel an das Werkstück,
+- (Steigungsfehler der Spindel).
+
+Für welche Messungen wird eine Messuhr verwendet? #card
+- Längenmessungen,
+- Parallelität,
+- Rundlauf,
+- Planlauf.
+![[Pasted image 20230530154220.png]]
+Welche Ablesegenauigkeiten haben Messuhren? #card
+0,01 mm, 0,001 mm
+![[Pasted image 20230530154231.png]]
+Welche Winkelmess- und Winkelprüfgeräte kennen Sie? #card
+- Einfache Winkelmesser,
+- Universalwinkelmesser,
+- Flachwinkel,
+- Haarwinkel,
+- Gehrungswinkel
+- Sinuslineal,
+![[Pasted image 20230530154248.png]]
+Welche Ablesegenauigkeit hat ein Universalwinkelmesser? #card
+5 Winkelminuten
+![[Pasted image 20230530154257.png]]
+Welche Maßeinheiten gelten bei Winkelmaßen? Grad, Minuten und Sekunden #card
+- Mit Kegellehrhülsen, Kegellehrdornen;
+- Man bringt drei dünne Fettkreidestriche am Werkstückkegel an und verdreht dann die Lehre, Striche müssen gleichmäßig verwischt sein, sonst trägt der Kegel nicht
+
+Welche Möglichkeiten gibt es, Kegel zu prüfen und wie geht man beim Prüfen eines Kegels vor? #card
+- ![[Pasted image 20230530154320.png]]
+
+Was verstehen Sie unter einem Kegelverhältnis 1:50? #card
+Auf einer Länge von 50mm verändert sich der Durchmesser um 1mm
+
+Nennen Sie noch 3 weitere Lehren! #card
+- Grenzlehrdorn,
+- Gewindelehrdorn,
+- Steigungslehre,
+- Grenzrachenlehre.
+![[Pasted image 20230530154343.png]]
+Nenne die 6 R der Logistik. #card
+- richtige Produkt,
+- richtigen Zeit,
+- richtigen Ort,
+- richtigen Menge,
+- richtigen Qualität
+- richtigen Kosten.
+
+Wo können Messuhren eingespannt werden? #card
+- Magnetständer,
+- Magnethalter,
+- Einspannschaft,
+- Innenfeinmessgerät (Subito)
+
+Beschreiben Sie den Aufbau einer mechanischen Messuhr! #card
+- Eine mechanische Messuhr besteht aus Gehäuse, Zifferblatt, Zeigern, Welle, Federmechanismus, Zahnradsystem, Ratschenmechanismus und Einstellknöpfen. Sie zeigt Messergebnisse präzise an.
+![[Pasted image 20230530154407.png]]
+Was sind Endmaße und wozu werden Sie verwendet? #card
+- Endmaße sind Blöcke zum Prüfen und Kalibrieren von Messgeräten und Prüfmitteln
+- Haben parallele Flächen,
+- sind genau auf Maß geschliffen,
+- geläppt,
+
+Aus welchem Werkstoff sind Endmaße? #card 
+- Gehärteter Stahl,
+- Hartmetall,
+- Hartgestein,
+- Keramik.
+
+Was verstehen Sie unter dem Begriff BezugsTemperatur? #card 
+Optimale Temperatur für genaue Messungen 20°C an Werkstück und Messgerät.
+
+Wie werden Endmaße zusammengesetzt? #card 
+Durch Ansprengen (Reiben) an den geläppten Flächen.
+![[Pasted image 20230530154425.png]]
+Nennen sie den Unterschied zwischen verfahrensorientierten und produktionsorientiertem Warenfluss. #card
+Verfahrensorientiert:
+- Einzelfertigung und Kleinserien nach Abteilungen - kein optimaler Materialfluss.
+Produktorientiert:
+- Massenfertigung - optimaler Materialfluss;
+
+Was ist der Unterschied zwischen Messen und Prüfen? #card
+- Messen - Zahlenwert,
+- Prüfen - Gut oder Ausschuss.
+
+Nennen Sie mindestens 5 Prüfgeräte! #card
+- Flachwinkel,
+- Anschlagwinkel,
+- Haarwinkel,
+- Wasserwaage,
+- Radiuslehre,
+- Richtwaagen,
+- Kegellehren.
+
+Was sind Grenzlehren? #card
+- Lehren zum Prüfen, ob das Werkstück in der gewünschten Toleranz gefertigt wurde.
+- Hat eine Gut- und Ausschussseite,
+![[Pasted image 20230530154451.png]]
+Beschreiben Sie einen Grenzlehrdorn! #card
+- Gutseite muss in die Bohrung durch ihr Eigengewichtgleiten, Ausschussseite darf nur anschnäbeln.
+
+![[Pasted image 20230530154503.png]]
+
+### 11. End
+___
+
+Beschreiben Sie eine Grenzrachenlehre! #card
+Zum Prüfen von Wellen und Dicken von Werkstücken, die Gutseite hat das Höchstmaß und muss darüber gleiten, Ausschussseite darf nur anschnäbeln.
+![[Pasted image 20230530154548.png]]
+Was verstehen Sie unter Gewindelehren? #card
+Sind Lehren zum Prüfen von Gewinde, haben eine Gut- und eine Ausschussseite, Gutseite muss ein- oder aufdrehbar sein, Ausschuss darf nicht raufgehen.
+![[Pasted image 20230530154609.png]]
+Welche Angaben können von Grenzlehrdornen abgelesen werden? #card
+Höchstmaß und Mindestmaß einer Toleranz
+![[Pasted image 20230530155342.png]]
+Worauf ist beim Prüfen mit einem Grenzlehrdorn zu achten? #card
+- Temperatur 20°Grad,
+- gerades Ansetzen der Prüfgeräte,
+- richtige Handhabung (Prüfdruck)
+![[Pasted image 20230530155353.png]]
+Was verstehen Sie unter "Anreißen"? #card
+Übertragen der Maße von der Zeichnung auf das Werkstück.
+![[Pasted image 20230530155417.png]]
+Nennen Sie 5 Anreißwerkzeuge! #card
+- Anreißplatte als Unterlage,
+- Anreißnadel,
+- Körner (60°),
+- Spitzzirkel,
+- Höhenreißer,
+- Zentrierwinkel,
+![[Pasted image 20230530155441.png]]
+Aus welchen Werkstoffen können Anreißnadeln hergestellt werden? #card
+Aus Stahl mit gehärteter Spitze oder aufgelöteter HM-Spitze.
+![[Pasted image 20230530155530.png]]
+Wie werden Werkstückoberflächen behandelt, damit die Risslinie besser sichtbar ist! #card
+- Anreißfarbe,
+- Schlämmkreide,
+- Kupfervitriollösung.
+
+Welchen Zweck haben Zentrierwinkel und Zentrierglocke? #card
+Zum Anreißen der Mittelpunkte an Wellen.
+![[Pasted image 20230530155618.png]]
+Welches Anreißwerkzeug benutzt man zum Anreißen großer Kreise? #card
+Um große Kreise anzureißen, wird normalerweise ein Zirkel oder ein Zirkel mit Verlängerung verwendet.
+![[Pasted image 20230530155635.png]]
+Wozu verwendet man Messingreißnadeln? #card
+Nur für dünnwandige oder gehärtete Werkstücke und kerbempfindliche Werkstoffe, Rissbildung
+![[Pasted image 20230530155702.png]]
+Aus welchem Material werden Anreißplatten hergestellt? #card 
+Gusseisen oder Hartgestein (z.B. Granit)
+![[Pasted image 20230530155721.png]]
+Aus welchen Teilen besteht eine Handbügelsäge? #card 
+- Bügel,
+- Sägeblatt,
+- Heftkloben,
+- Spannkloben
+![[Pasted image 20230530155923.png]]
+Welche Ausführungsmöglichkeiten von Sägeblättern gibt es, um das Festklemmen zu vermeiden? #card
+- Schränken,
+- Wellen,
+- Hohlschleifen,
+- Stauchen,
+- oder mit Zahnsegmenten.
+![[Pasted image 20230530155940.png]]
+Worauf ist beim Einspannen eines Sägeblattes zu achten? #card
+Gerade und straff gespannt und Sägeblattrichtung bzw. Zahnrichtung in Stoßrichtung (Vorschubrichtung).
+![[Pasted image 20230530161245.png]]
+Werden für harte Werkstoffe Sägeblätter mit grober oder mit feiner Zahnteilung verwendet? #card
+Mit feiner Zahnteilung.
+![[Pasted image 20230530161305.png]]
+Wie kann das Abrutschen eines Sägeblattes beim Anschnitt verhindert werden? #card
+Kleine Kerbe mit Feile feilen (Dreikantfeile), schräges ansetzen.
+
+Welche Folgen hat es für das Sägeblatt, wenn die Bügelsäge nicht ganz
+durchgezogen wird? #card
+Keine gute Nutzung, einseitige Abnutzung.
+
+Welche Arten von Zähnen kennen Sie? #card
+- Bogenzähne - bei Maschinensägeblättern. (widerstandsfähiger)
+- Winkelzähne - Handsägeblätter
+![[Pasted image 20230530161810.png]]
+Nach welchen Kriterien werden Feilen eingeteilt? #card
+- Zahnform,
+- Hiebweite,
+- Hiebart Größe und Querschnittsform.
+![[Pasted image 20230530161909.png]]
+Wozu werden gefräste und wozu werden gehauene Feilen verwendet? #card
+- Gehauene Feilen haben negative Spanwinkel
+- wirken schabend (für härtere Werkstoffe, Säge und Schärffeilen). Gefräste Feilen haben positiven Spanwinkel
+- wirken schneidend (für weiche Werkstoffe)
+![[Pasted image 20230530162001.png]]
+Welche Hiebarten kennen Sie? #card
+- Einfacher Hieb (Einhieb),
+- Kreuzhieb,
+- Raspelhieb
+![[Pasted image 20230530162018.png]]
+Wie heißen die Teile einer Feile? #card
+- Feilenblatt,
+- Heft,
+- Angel
+![[Pasted image 20230530162048.png]]
+Welche Querschnittsformen von Feilen kennen Sie? #card
+- Flach-,
+- Vierkant-,
+- Dreikant-,
+- Rund-,
+- Halbrund-,
+- Messer-,
+- Vogelzungen-,
+- Barett-,
+- Schwertfeile.
+![[Pasted image 20230530162122.png]]
+Was verstehen Sie unter einer Hiebzahl? #card
+Verschiedene Einteilung (von grob - fein) Hiebe pro cm Feilenblattlänge, (mit Hiebnummern 1 bis 8).
+![[Pasted image 20230530162142.png]]
+
+### 12. End
+___
+
+Welchen Vorteil hat ein Kreuzhieb? #card 
+Riefenbildung und einseitiges Feilen werden vermieden.
+![[Pasted image 20230530162229.png]]
+Beschreiben Sie die Herstellung eines Muttergewindes von Hand! #card 
+- Vorbohren auf Kernlochdurchmesser,
+- Senken mind. auf Nenndurchmesser,
+- Gewindeschneiden (Vor-, Mittel-, Fertigschneider)
+- Späne durch Zurückdrehen öfter brechen,
+- Schneidöl.
+![[Pasted image 20230530162303.png]]
+Warum verwendet man nur einen 2-teiligen Handgewindebohrersatz (Vorund Fertigschneider) für Feingewinde und Witworth Rohrgewinde? #card 
+Wegen der geringen Gewindetiefe gegenüber Regelgewinden.
+![[Pasted image 20230530162316.png]]
+Wodurch unterscheiden sich Hand- von Maschinengewindebohrern? #card 
+- Handgewindebohrer: langer Anschnitt, vierkantansatz
+- Maschinengewindebohren: kurzer Anschnitt, nicht dreiteilig
+![[Pasted image 20230530162328.png]]
+Woraus setzt sich ein Handgewindebohrersatz zusammen? #card 
+Vor-, Mittel und Fertigschneider
+![[Pasted image 20230530162341.png]]
+Wodurch unterscheiden sich Schneideisen von Schneidkluppen? #card 
+- Schneideisen: Herstellung des Bolzengewindes in einem Arbeitsgang;
+- Schneidkluppen: Herstellung in mehreren Arbeitsgängen (große Gewinde).
+![[Pasted image 20230530162401.png]]
+Beschreiben Sie den spanlosen Gewindeformer! #card 
+Keine Spannut, sondern einen unrunden Querschnitt (z.B. Polygone).
+![[Pasted image 20230530162414.png]]
+Welche Gewindearten kennen Sie? #card 
+- Metrisches ISO-Gewinde,
+- Spitz-,
+- Rund-,
+- Flach-,
+- Säge-,
+- Zollgewinde
+![[Pasted image 20230530162831.png]]
+Was verstehen Sie unter "Glühen"? #card 
+Langsames Erwärmen auf Glühtemperatur, halten auf Glühtemperatur, mit nachfolgender langsame Abkühlung
+![[Pasted image 20230530162924.png]]
+Welche Arten von Glühverfahren kennen Sie? #card 
+- Weich-, 
+- Normal-,
+- Spannungsarm-,
+- Rekristallisations-,
+- Diffusionsglühen
+- (langzeitiges Glühen bei 1050°C bis 1250°C).
+![[Pasted image 20230530163250.png]]
+Wozu werden Werkstücke geglüht? #card  
+- Um Spannungen zu beseitigen,
+- gehärteten oder gefestigten Stahl wieder in seine weiche Zugangsform bringen,
+- Grobkorn wieder in ein feines Korn umwandeln,
+- Konzentrationsunterschiede beim Gießen ausgleichen,
+- verzerrte Gefüge wieder in Ihre ursprüngliche Form zurückführen,
+
+Nennen Sie 3 verschiedene Glühverfahren. #card 
+- Spannungsarmglühen
+- Rekristallisationglühen
+- Weichglühen
+![[Pasted image 20230530163326.png]]
+Was verstehen Sie unter der Härte eines Werkstoffes? #card 
+Der Widerstand, den ein Körper dem Eindringen eines anderen Körpers entgegensetzt, heißt Härte.
+![[Pasted image 20230530163358.png]]
+Warum werden Werkstücke gehärtet? #card 
+Um Stähle hart und verschleißfest zu machen.
+
+Welche 2 Härteverfahren werden für Werkzeugstähle vorwiegend verwendet? #card 
+- Vakuumhärten,
+- Schutzgashärten
+
+Wie funktioniert der Härteablauf? #card 
+Erwärmen auf Härtetemperatur,
+halten auf Härtetemperatur,
+- Abschrecken,
+- Anlassen
+![[Pasted image 20230530163537.png]]
+Wovon hängt die Härtetemperatur von hochlegiertem Werkzeugstahl ab? #card 
+Härtetemperatur ist von Legierungsbestand-teilen und C-Gehalt abhängig, vom Stahlhersteller angegeben.
+
+Welche Voraussetzungen müssen gegeben sein um einen Gabelstapler in Betrieb nehmen zu dürfen? #card 
+- Jugendliche bis zum vollendeten 18.Lebensjahr dürfen selbstfahrende Arbeitsmittel, wie z.B. Hubstapler, grundsätzlich nicht betreiben.
+- Nachweis entsprechender Fachkenntnisse durch ein Zeugnis („Staplerschein"), innerbetriebliche Fahrbewilligung des Arbeitgebers.
+
+Was verstehen Sie unter einer Glashärte? #card
+Härte nach dem Abschrecken (hartes sprödes Gefüge) unbrauchbar als Werkzeug
+![[Pasted image 20230530163603.png]]
+Wie kann die Glashärte auf Gebrauchshärte eines Werkzeugstahls geändert werden? #card
+Durch Anlassen
+
+Nennen Sie 3 Härteverfahren! #card 
+- Einsatzhärten,
+- Nitrierhärten,
+- Flammhärten,
+- Induktionshärten, ....
+![[Pasted image 20230530163650.png]]
+Welche Abschreckmittel werden beim Härten von unlegierten, niedrig legierten und hochlegierten Stählen verwendet? #card
+- unlegierte Stähle: Wasser,
+- niedrig legierte Stähle: Öl,
+- hochlegierte Stähle: Öl, Gas oder mit bewegter Luft
+
+Was verstehen sie unter Vorkalkulation? #card
+- Ermittlung der Einzelkosten Aufgrund der Mengen und Zeiten der definierten Arbeitsschritten und der betriebswirtschaftlichen Bewertung. 
+- Feststellung der Grenzfertigungskosten
+- (Min-Satz) + Gemeinkostenanschläge zur Feststellung der Grenzfertigungskosten
+
+Was verstehen Sie unter "Vergüten"? #card
+Vergüten ist ein Härten mit nachfolgendem hohen Anlassen (500 - 700°C)
+![[Pasted image 20230530163725.png]]
+Welchen Zweck hat das Vergüten? #card 
+- hohe Festigkeit,
+- hohe Streckgrenze,
+- große Zähigkeit,
+- Feinkörniges Gefüge,.
+
+### 13. End
+___
+-- -
+
+Was verstehen Sie unter einem Ritzel? #card 
+Kleines, meist treibendes Rad.
+
+Was muss bei Zahnrädern, die ineinander greifen sollen gleich sein? #card
+Sie müssen den gleichen Modul und den gleichen Eingriffswinkel (20°) haben.
+
+Welche Aufgaben haben Zahnstangen in Verbindung mit Zahnrädern? #card 
+Wenn eine Drehbewegung in eine geradlinige Bewegung oder umgekehrt umgewandelt werden soll.
+
+Wie können Zahnräder hergestellt werden? #card
+- Wälzfräsen,
+- Wälzstoßen,
+- Wälzschleifen,
+- Gießen,
+- Spritzgießen,
+- Druckgießen,
+- Kaltfließpressen,
+- Warmpressen.
+
+Welche Aufgaben haben Lager? #card 
+Lager führen und stützen rotierende Wellen und Achsen und nehmen radiale und axiale Lagerkräfte auf.
+
+Wie werden Lager nach der Art der Reibung eingeteilt? #card
+- Gleitlager = Gleitreibung
+- Wälzlager = Rollreibung (z.B.Zylinderrollenlager)
+- Wälzreibung (z.B. Kugellager /Rollreibung und Gleitreibung tretengleichzeitig auf)
+
+Wie werden Lager nach der Richtung der auftretenden Kräfte eingeteilt? #card
+Radial- und Axiallager
+
+Nennen Sie den Aufbau eines Wälzlagers! #card
+- Außenring,
+- Innenring (Laufringe),
+- Käfig,
+- Wälzkörper
+
+Welche Nachteile besitzen Wälzlager gegenüber Gleitlager? #card
+- Empfindlich gegen Schmutz,
+- Stoß und hohe Temperaturen
+- Höhere Geräuschentwicklung
+- Größerer Einbaudurchmesser
+- Geringere Tragfähigkeit bei gleicher Baugröße und geringere Schwingungsdämpfung
+
+Nennen Sie 3 Vorteile eines Gleitlagers? #card
+- Teilbar,
+- kleine Baugröße,
+- stoßunempfindlich,
+- ruhiger Lauf,
+- selbst herstellbar,
+- gute Notlaufeigenschaften,
+- Wärmeabfuhr
+
+Wodurch werden die Reibungskraft und damit das Reibungsmoment bei Gleitlagern möglichst klein gehalten? #card
+Durch ausreichenden Schmierstoff
+
+Welche Schmierungsmöglichkeiten kennen Sie bei Gleitlager? #card
+- Hydrodynamischeschmierung,
+- Hydrostatischeschmierung,
+- Feststoffschmierung.
+
+Wo können wartungsfreie Gleitlager verwendet werden? #card
+Für niedrige Drehzahlen und Belastungen
+
+Nennen Sie Gleitlagerwerkstoffe! #card
+- Legierungen aus Kupfer, Zinn, Blei, Zink, Aluminium
+- sowie Sintermetalle, Kunststoffe, wie z.B. Polyamid und Gusseisen mit Lamellengrafit (Grauguss).
+
+Nennen Sie die Vorteile eines Wälzlagers gegenüber einem Gleitlager! #card
+- Geringe Reibung und Wärmeentwicklung,
+- Geringer Schmierstoffverbrauch
+- Hohe Tragfähigkeit bei kleinen Drehzahlen
+- Austauschbarkeit durch genormte Größen
+- Ausgleich von Durchbiegungen der Wellenbei Pendellagern
+
+
+Welcher Werkstoff wird für die Herstellung des Lagerkäfigs verwendet? #card
+Stahl oder Messingblech (CuZn) oder Kunststoff (Polyamid)
+
+
+Welche Wälzlagerarten gibt es? #card
+- Kugellager,
+- Rollenlager,
+- Nadellager,
+- Tonnenlager
+
+
+Welche Vorteile hat ein Pendelkugellager? #card
+Können geringe Fluchtungsfehler ausgleichen (z.B. durch Bearbeitungsfehler und Wellendurchbiegungen)
+
+
+Wo werden Nadellager verwendet? #card
+Bei geringem Platzbedarf
+
+
+Worauf ist beim Einbau eines Wälzlagers zu achten? #card
+- Lager vor Spänen
+- u. Schmutz schützen,
+- Einbaukräfte nicht über die Wälzkörper,
+- Richtige Montagewerkzeuge verwenden,
+- eventuell Lager erwärmen oder kühlen
+
+
+Was verstehen Sie unter einer Welle? #card
+Sind Maschinenelemente, die mechanische Arbeit durch Drehbewegung und Drehmoment übertragen.
+
+
+Welche Arten von Wellen gibt es? #card
+**Funktion**:
+- Antriebswellen, Getriebewellen,
+- Spindeln, Gelenkwellen, Kurbelwellen und Nockenwellen
+**Bauform**:
+- Starrewellen, biegsame Wellen, Gelenkwellen.
+
+
+Was verstehen Sie unter einer Achse? #card
+Werden vorwiegend auf Biegung beansprucht und übertragen keine Drehmomente.
+
+
+Was verstehen Sie unter Bolzen? #card
+Sind kurze Achsen, mit denen Maschinenteile beweglich verbunden werden (z.B.Gelenkbolzen)
+
+
+Wie werden Bolzen beansprucht? #card
+Auf Abscherung und Biegung.
+
+
+### 14. End
+___
+-- -
+
+Nennen Sie die Ursachen, wenn die Bohrung zu groß wird? #card
+- Schlag,
+- ungleich lange Hauptschneiden,
+- stumpfe Schneiden ...
+![[Pasted image 20230530164014.png]]
+
+Was verstehen Sie unter einem Stufenbohrer? #card
+Stufenbohrer ist ein Bohrer, der an einem Schaft Schneiden mit zwei oder mehr Durchmessern besitzt.
+![[Pasted image 20230530164044.png]]
+
+Wie bringt man einen Bohrer mit kegeligem Schaft aus der Bohrspindel heraus? #card
+Austreiber mit Austreiblappen - (Rundung nach Oben)
+^1684964521863
+![[Pasted image 20230530164056.png]]
+
+Nennen Sie verschiedene Unfallverhütungsvorschriften beim Bohren! #card
+- Schutzkappe,
+- enganliegende Kleidung,
+- nie bei laufender Bohrspindel messen,
+- Werkstücke wenn mögl. immer einspannen!
+![[Pasted image 20230530164117.png]]
+
+Wie erfolgt die Mitnahme bei einem Bohrer mit kegeligem Schaft? #card
+Nur durch die Kegelhaftung (Reibung)!
+![[Pasted image 20230530164122.png]]
+
+Welche verschiedenen Spiralbohrer-Typen kennen Sie? #card
+- **Typ N**: Normaldrallbohrer
+- **Typ H**: Langdrallbohrer,
+- **Typ W**: Kurzdrallbohrer,
+![[Pasted image 20230530164136.png]]
+
+Für welche Werkstoffe werden diese Bohrertypen verwendet? #card
+- **Typ N** = Stahl, Stahlguss, Gusseisen,
+- **Typ H** = harte Werkstoffe
+- **Typ W** = weiche Werkstoffe,
+![[Pasted image 20230530164149.png]]
+
+Worauf müssen Sie beim Nachschleifen eines Bohrers achten? #card
+- Gleiche Länge der Hauptschneiden,
+- Freifläche,
+- eventuell Ausspitzen der Querschneiden
+
+
+Kennen Sie noch weitere Bohrerarten? #card
+- Wendeplattenbohrer,
+- Tieflochbohrer,
+- Kanonenbohrer,
+- Bohrmesser,....
+
+
+Wie berechnet man die Drehzahl beim Bohren? #card
+n = 1000 x Vc / d x Pi
+n ... Drehzahl
+Vc ... Schnittgeschwindigkeit
+d ... Durchmesser
+
+
+Welche Faktoren spielen ebenfalls eine Rolle bei der Auswahl der Drehzahl? #card
+- Werkstoff des Werkstückes und des Werkzeuges (HSS, HM),
+- Form d. Werkstücks,
+- Stabilität d. Maschine,
+- Spannmöglichkeit,
+
+
+Was verstehen sie unter dem Arbeitsverfahren Senken? #card
+Senken ist ein Bearbeitungsverfahren zum Entgraten und Herstellen von Senkungen!
+![[Pasted image 20230530164227.png]]
+
+Welche Senkerarten kennen Sie? (Muster bzw. Bilder erklären!) #card
+- Kegelsenker (Spitzsenker),
+- Flachsenker,
+- Spiralsenker,
+- Plansenker,
+- Aufstecksenker
+![[Pasted image 20230530164250.png]]
+
+Warum werden Bohrungen gesenkt? #card
+Zum Entgraten bzw. Versenken von Schrauben und Nieten!
+![[Pasted image 20230530164309.png]]
+
+Wie vermeiden Sie Rattermarken beim Senken? #card
+- Geringe
+- Schnittgeschwindigkeit jedoch
+- hoher Vorschub
+- Schmierung!
+![[Pasted image 20230530164322.png]]
+
+Wie groß werden Kernlöcher von Gewindebohrungen angesenkt? #card
+Mindestens auf Nenndurchmesser des Gewindes!
+![[Pasted image 20230530164339.png]]
+
+Wo verwendet man Flachsenker? #card
+Zur Herstellung von zylindrischen Schraubensenkungen!
+![[Pasted image 20230530164350.png]]
+
+Darf die Bohrspindel mit der Hand aufgehalten werden? #card
+Nein, Gefahr durch Schnittverletzungen
+
+
+Erklären Sie die Herstellung einer ø8H7 Bohrung mit einer Handreibahle. #card
+1) Anreißen, 2) körnen, 3) bohren mit ø7.8mm,
+4) senken auf mind. Nenndurchmesser,
+5) ø8H7 Handreibahle in Windeisen spannen,
+6) einführen, 7) gerade ansetzen, 8) schmieren,
+9) im Uhrzeigersinn eindrehen
+10) nicht zurückdrehen, 11) ausblasen,
+12) prüfen mit Grenzlehrdorn.
+
+
+Was verstehen Sie unter dem Begriff Reiben? #card
+Reiben ist ein spanabhebendes Bearbeitungsverfahren zur Herstellung von genauen Bohrungen mit hoher Oberflächengüte!
+![[Pasted image 20230530164423.png]]
+
+Wie werden Reibahlen nach der Verwendung eingeteilt? #card
+Hand- und Maschinenreibahlen
+![[Pasted image 20230530164439.png]]
+
+Wie werden Sie nach der Form eingeteilt? #card
+Zylindrische und kegelige Reibahlen
+![[Pasted image 20230530164451.png]]
+
+Was verstehen Sie unter einer verstellbaren Reibahle? #card
+Durchmesser kann innerhalb eines verhältnismäßig großen Bereichs geändert werden.
+![[Pasted image 20230530164507.png]]
+
+Wie ist der Aufbau einer Reibahle? #card
+- Schaft,
+- Hals,
+- Schneidenteil,
+- Anschnitt
+![[Pasted image 20230530164521.png]]
+Wie ist die Anordnung der Zähne bei einer Reibahle? #card
+Gerade Anzahl (4, 6, 8 bis 16) aber ungleiche Teilung, um das Rattern zu verhindern
+![[Pasted image 20230530164531.png]]
+
+### 15. End
+___
+
+Was verstehen Sie unter Längsdrehen? #card
+Wenn die Vorschubrichtung parallel zur Drehachse liegt!
+![[Pasted image 20230530164605.png]]
+
+Was verstehen Sie unter Plandrehen? #card
+Vorschubrichtung ist quer zur Drehachse!
+![[Pasted image 20230530164614.png]]
+
+Welche Spannmöglichkeiten kennen Sie beim Drehen? #card
+- Backenfutter,
+- Axialspannfutter,
+- Kraftspannfutter
+- Spannzange,
+- Planscheibe,
+![[Pasted image 20230530164631.png]]
+
+Was ist beim Einspannen von Drehmeißeln zu beachten? #card
+- Gerade,
+- mittig,
+- so kurz als möglich,
+- wenn möglich keine Unterlagen,
+- gut klemmen...
+![[Pasted image 20230530164639.png]]
+
+Wie können Bohrwerkzeuge beim Drehen gespannt werden? #card
+Im Werkzeughalter, Bohrfutter mittels Reduzierhülsen in der Pinole
+![[Pasted image 20230530164653.png]]
+
+Zu welchem Zweck werden Planzeiten erstellt? #card
+- Angebotskalkulation,
+- Nachkalkulation, Daten für Kostenrechnung
+- Bedarfsermittlung von Ressourcen,
+- Mensch und Maschine,
+- Entlohnung (Leistungs- und Prämienlohn),
+
+
+Zählen Sie die Teile einer UniversalDrehmaschine (Spitzendrehmaschine) lt. Bild auf. #card
+A) Gestell,
+B) Maschinenbett,
+C) Spindelstock mit Hauptspindel,
+D) Werkzeugschlitten,
+E) Reitstock,
+F) Leitspindel,
+G) Zugsspindel
+H) Schaltspindel
+![[Pasted image 20230530164720.png]]
+
+Was sind Wendeschneidplatten und wie werden sie gespannt? #card
+- Wendeschneidplatten sind HM-Schneiden eines Werkzeuges.
+- Sie werden in Klemmhaltern geklemmt oder geschraubt (Hebelspannsystem,Schraubspannsystem und Spannfingersystem)
+![[Pasted image 20230530164732.png]]
+
+Wie wird das Durchbiegen einer längeren Welle beim Drehen verhindert? #card
+- Durch die Verwendung eines Setzstockes (Lünette)
+- Er nimmt den Schnittdruck auf und verhindert das Durchbiegen (feststehend oder mitlaufend)
+![[Pasted image 20230530164754.png]]
+
+Zählen Sie fünf Sicherheitsvorschriften beim Drehen auf. #card
+- Enganliegende
+- Arbeitskleidung,
+- Späne mit Spanhaken entfernen,
+- Werkstück sicher einspannen,
+- Sicherheitsschuhe,
+- Haar- und Augenschutz verwenden,
+- Steckschlüssel abziehen.
+
+
+Welche Drehmeißel sind im Bild zu sehen? #card
+a) HM-Schrupp-,
+b) HM-Stechmeißel (aufgelötet),
+c) Eckdreh-,
+d) Außengewinde-,
+e) Innendrehmeißel
+f) HSS-Drehling
+![[Pasted image 20230530164813.png]]
+
+Wie führen sie Reklamationen durch? #card
+- Sofort nach Mängelerkennung,
+- schriftlich (Fax oder Mail) zwischenlagern, Dringlichkeit, Pönale
+
+
+Benennen Sie die Ihnen vorgelegten Fräser! (Fräser aus Prüfungskoffer) #card
+- Walzenstirnfräser,
+- Winkelfräser
+- Schaftfräser,
+- Scheibenfräser,
+- Eckfräskopf,
+![[Pasted image 20230530164835.png]]
+
+Wie werden diese Fräser eingespannt? #card
+- Aufsteckfräsdorn,
+- WelldonAufnahme,
+- Schrumpfaufnahme,
+- Spannzangen,
+- Spannfutter,
+![[Pasted image 20230530164847.png]]
+
+Wie können Werkstücke, beim Fräsen gespannt werden? #card
+- Maschinenschraubstock,
+- Dreibackenfutter,
+- Magnetplatten,
+- Schnellspannvorrichtung,
+- Teilapparat,
+- Rundtisch,....
+![[Pasted image 20230530164856.png]]
+
+Nennen Sie den Unterschied zw. Gegen- und Gleichlauffräsen! #card
+**Gegenlauffräsen**:
+Schnittrichtung = entgegen der Vorschubrichtung, Spanquerschnitt von
+dünn auf dick!
+**Gleichlauffräsen**:
+Drehrichtung das Fräsers = der Vorschubrichtung, Spanquerschnitt von dick auf dünn!
+![[Pasted image 20230530164908.png]]
+
+Wie müssen Handräder bei Fräsmaschinen beschaffen sein? #card
+Ausklinkbar, oder ohne Kurbel wegen Eilgang
+![[Pasted image 20230530164920.png]]
+
+Beschreiben sie die Lagerverwaltung von Metallen. #card
+- Keine zu großen Lagermengen,
+- Kennzeichnung der Materialien,
+- EDV-Aufnahme,
+- regelmäßige Inventur.
+
+
+Nennen Sie Unfallverhütungsmaßnahmen beim Aufrüsten von Schleifscheiben! #card
+- Klangprobe durchfuhren,
+- Flansch-Durchmesser müssen 1/3 bei geraden u. 1/2 bei konischen Schleifscheiben betragen,
+- nur gleich große Flansche verwenden,
+- Schleifscheibe auswuchten,
+- 5 min Probelauf!
+![[Pasted image 20230530164941.png]]
+
+Was verstehen Sie unter Schleifen? #card
+Spanabhebende Bearbeitung mit geometrisch unbestimmten Schneiden.
+![[Pasted image 20230530164956.png]]
+
+Verwendet man für harte Werkstoffe weiche oder harte Schleifscheiben? #card
+Weiche Schleifscheiben - Korn bricht schnell aus, dadurch kommt das neue Korn schneller zum Einsatz.
+
+
+Worauf muss man beim Schleifen achten? #card
+- Kühlung,
+- Zustellung nicht zu groß,
+- sicheres Aufspannen der Werkstücke....
+
+
+Welche Einrichtung an Schleifmaschinen gibt es, um die Schleifscheibe abzurichten? #card
+- Einzeldiamanten,
+- Abrichträder,
+- Stahlrollen,
+- Schärfblock.
+![[Pasted image 20230530165048.png]]
+
+Nennen Sie Unfallverhütungsmaßnahmen beim Schleifen mit dem Winkelschleifgerät. #card
+- Schutzbrillen,
+- Lederschurz und Handschuhe tragen,
+- auf die Umgebung achten,
+- brennbare Stoffe entfernen,
+- Mindestalter 18 Jahre ab 1200 Watt.
+
+
+Wie kann man Werkstückabfall bereits bei der Planung verringern? #card 
+- Konstruktion,
+- Material sparen,
+- Arbeitsvorbereitung,
+- keine zu großen Übermaße.
+
+
+### 16. End
+___
+
+
+Welche Vorteile bieten CAD - Programme und nennen Sie drei davon? #card
+- schnelle Änderungsmöglichkeit.
+- Saubere Zeichnungen,
+- direktes Übertragen von CNC-Programm auf Maschine,
+- schnelle Zeichnungserstellung durch Vorlagen wie Zeichnungsrahmen, Schriftkopf, Schrauben,
+- Funktionen wie Schraffur, Bemaßung, Berechnung,
+
+
+Nennen Sie drei CAD - Zeichenbefehle. #card
+- Linie,
+- Kreis,
+- Punkt,
+- Ring,
+- Polygon
+- DText,
+
+
+Aus welchen Komponenten besteht ein CAD - Arbeitsplatz? #card 
+**Hardware**:
+Sichtbare Teile, wie Rechner, Maus, Tastatur, Drucker, Scanner,
+**Software**:
+Betriebssystem-Software, Anwendersoftware (z.B. AutoCAD)
+
+
+Erklären Sie die Kurzzeichen NC, CNC, DNC! #card
+- NC: numerical control,
+- CNC: computer numerical control,
+- DNC: direct numerical control
+
+
+Welche Steuerungsarten gibt es und bei welchen Maschinen werden diese eingesetzt? #card
+- Punktsteuerung:
+- Bohr- und Stanzmaschinen,
+- Streckensteuerung:
+- einfache Dreh- und Fräsmaschinen,
+- Bahnsteuerung:
+- Bearbeitungszentren.
+
+
+Wozu dient der Werkstücknullpunkt? #card 
+Wird von Programmierer so gewählt, dass möglichst viele Koordinaten aus der Zeichnung übernommen werden können.
+
+
+Wozu dient der Referenzpunkt? #card
+Bei Maschinen mit inkrementaler Wegmessung muss der Referenzpunkt nach dem Einschalten der Maschine angefahren werden, damit das Koordinatensystem genullt wird.
+
+
+Wozu dient der Werkzeugwechselpunkt? #card
+Wird so gewählt, dass das Werkzeug ohne Gefahren gewechselt werden kann.
+
+
+Wozu dient die Unterprogrammtechnik? #card
+Um im Hauptprogramm wiederholte Arbeitsabläufe nur einmal programmieren zu müssen.
+- M98 - Unterprogrammaufruf
+- M99 - Unterprogrammende
+
+
+Wozu dient der Maschinennullpunkt? #card
+- Ursprung des Koordinatensystem
+- und Wegmesssystems, ein vom Hersteller festgelegter Nullpunkt einer Maschine,
+- kann nicht verändert oder verschoben werden.
+
+
+Welchem Zweck dient die Programmkontrolle? #card
+Um Fehler im Programm rechtzeitig zu erkennen.
+
+
+Welche Möglichkeiten der Programmkontrolle kennen sie? #card
+- Simulation auf Grafik,
+- Trockenlauf (Ohne Werkzeug),
+- Einzelsatzablauf;
+
+
+Welche Tätigkeiten eines Maschinenbedieners sind notwendig, um eine CNC-Maschine in Betrieb zu setzen? #card
+1. Maschine einschalten,
+2. eventuell Referenzpunkt anfahren,
+3. Programm erstellen,
+4. Simulation,
+5. Werkzeuge vermessen,
+6. Trockenlauf,
+7. Einzelsatzbetrieb.
+
+
+Welche Vorsichtsmaßnahmen sind vor jedem Programmstart notwendig? #card
+- Sicheres Einspannen von Werkstücken und Werkzeugen,
+- Einzelsatzablauf, auf eigene Sicherheit achten (Schutzartikeln verwenden).
+
+
+Wie können Daten in CNC Steuerungen eingegeben werden? #card
+- Manuell über Tastatur,
+- Online
+- Datenträger
+
+
+Welche Daten muss eine Werkzeichnung beinhalten? #card
+*Alle Daten, um ein Programm erstellen zu können (geometrisch u. technologisch).*
+- Toleranz
+- Rauigkeit der Oberfläche
+- Maßstab
+- Werkstoff
+- Gewicht
+
+
+Welche programmtechnischen Daten sind notwendig um ein CNC Teilprogramm zu erstellen? #card
+- Programmnummer Sätze
+- Satznummer,
+- Weginformationen,
+- Schaltinformationen
+- Programmende
+
+
+Nennen sie die Vorteile der CNC Fertigung. #card
+- Wiederholgenauigkeit,
+- Herstellung komplizierter Konturen,
+- Ausnutzung der optimalen Schnittgeschwindigkeit,
+- geringe Laufzeit, ...
+
+
+Welche Möglichkeiten der Werkzeugvermessung gibt es beim Drehen und Fräsen? #card
+Direkt an der Maschine oder extern mit optische Voreinstellgeräten.
+
+
+Auf welche Art kann Wärme übertragen werden? #card
+- Wärmeleitung,
+- Wärmeströmung,
+- Wärmestrahlung;
+
+
+Erklären sie eine Art der Wärmeübertragung anhand eines praktischen Beispiels! #card
+- Wärmeleitung: z.B. Kochplatte, Lötkolben...
+- Wärmeströmung: Heizanlagen, Heizlüfter...
+- Wärmestrahlung: Strahlungsheizkörper bei Kühlkörper (Kühlrippen)
+
+
+Was verstehen sie unter Potentialausgleich? #card
+Leitende Verbindung aller leitfähigen Anlagenteile über eine Potentialausgleichsschiene mit einem Potentialausgleichsleiter.
+
+
+Erklären sie den Zweck des Potentialausgleichs! #card
+Verhinderung von Potentialdifferenzen (Vermeidung von Berührungsspannung )
+
+
+Was versteht man unter Beleuchtungsstärke und in welcher Einheit wird diese angegeben? #card
+Beleuchtungsstärke (E) beschreibt, 
+wie viel Lichtstrom auf eine Fläche fällt.
+Einheit: Lux(lx)
+
+
+Welche Beleuchtungsstärke sollte man für Montageplätze elektrischer Geräte vorsehen? #card
+Etwa 500 Lx bis 1000 Lx
+
+### 17. End
+___
