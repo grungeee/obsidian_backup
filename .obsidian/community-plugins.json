@@ -13,5 +13,6 @@
   "obsidian-vimrc-support",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
-  "dataview"
+  "dataview",
+  "obsidian-to-anki-plugin"
 ]

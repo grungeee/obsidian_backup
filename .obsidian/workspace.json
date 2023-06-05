@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2fb080ebcd48620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -155,12 +168,17 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2bb6df3816104fd7",
+  "active": "e2fb080ebcd48620",
   "lastOpenFiles": [
+    "WiFi-Share/Metallhelfer 2/1.md",
+    "conflict-files-obsidian-git.md",
+    "WiFi-Share/Stapler/Stapler schein.md",
+    "WiFi-Share/Stapler",
+    "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
     "WiFi-Share/Metallhelfer 2/2.md",
     "WiFi-Share/Metallhelferprfüfung/convertion_scripts/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/convertion_scripts",
-    "WiFi-Share/Metallhelfer 2/1.md",
     "WiFi-Share/Metallhelfer 2/2.mediawiki",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192213.png",
@@ -189,18 +207,14 @@
     "WiFi-Share/Metallhelferprfüfung/15.md",
     "WiFi-Share/Metallhelferprfüfung/16.md",
     "WiFi-Share/Metallhelferprfüfung/17.md",
-    "conflict-files-obsidian-git.md",
     "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
     "WiFi-Share/Metallhelferprfüfung/5.md",
     "WiFi-Share/Metallhelferprfüfung/4.md",
     "WiFi-Share/Metallhelferprfüfung/3.md",
     "WiFi-Share/Metallhelferprfüfung/2.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigungsarbeit Wₐ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Kinetische Energie Eₖ.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/7.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/6.docx"
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/7.docx"
   ]
 }
