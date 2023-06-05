@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -61,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +79,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d6fabc8829228524",
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+                "file": "Fragen INPUT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+                "file": "Fragen INPUT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md"
+                "file": "Fragen INPUT.md"
               }
             }
           }
@@ -168,10 +171,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2bb6df3816104fd7",
+  "active": "c0f70d40da4e8f1a",
   "lastOpenFiles": [
-    "Fragen INPUT.md",
     "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+    "Fragen INPUT.md",
+    "Pasted image 20230530151845.png.md",
+    "Pasted image 20230530151029.png.md",
     "WiFi-Share/Metallhelfer 2/1_edited_original.md",
     "WiFi-Share/Metallhelfer 2/1.md",
     "conflict-files-obsidian-git.md",
@@ -210,8 +215,6 @@
     "WiFi-Share/Metallhelferprfüfung/15.md",
     "WiFi-Share/Metallhelferprfüfung/16.md",
     "WiFi-Share/Metallhelferprfüfung/17.md",
-    "WiFi-Share/Metallhelferprfüfung/1-kombiniert.md",
-    "WiFi-Share/Metallhelferprfüfung/5.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx",

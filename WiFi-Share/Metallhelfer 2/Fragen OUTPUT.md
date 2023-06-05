@@ -64,156 +64,91 @@ Verliersicherung:
 - Kronenmutter mit Splint,
 - Sicherungsblech,
 - Mutter mit Kunststoffring;
-![[Pasted image 20230530144907.png]]
+
 Beschreiben Sie den Arbeitsvorgang bei der Montage einer Schraubensicherung mittels Sicherungsblech mit Nase! #card 
 - Neben der Schraubenverbindung Bohrunganbringen,
 - Nase des Sicherungsbleches in Bohrung stecken,
 - Blech seitlich an Sechskantmutter anbiegen.
-![[Pasted image 20230522192105.png]]
 
-
-Wie funktioniert eine selbstsichernde Mutter? #card 
-Gewinde wird in Kunststoffring gedrückt, dadurch entsteht eine höhere Reibung.
-![[Pasted image 20230522192034.png]]
 
 Wann werden Schraubenverbindungen durch löten oder schweißen
 gesichert? #card
 Wenn Sie voraussichtlich nicht mehr gelöst werden!
 
-In welche 3 Hauptgruppen werden Stifte eingeteilt? #card
-- Passstifte,
-- Befestigungsstifte,
-- Abscherstifte.
 
 Wovon ist die Auswahl von Stiften abhängig? #card
 - Verwendungszweck,
 - Der verlangten Genauigkeit
 - Den Kosten, die bei der Herstellung der Stiftverbindung entstehen.
 
-Wie werden Stifte nach der Form eingeteilt? #card 
-- Zylinderstift,
-- Kegelstift,
-- Kerbstift
-- Spannstift (Spannhülse),
-![[Pasted image 20230530145004.png]]
 Was verstehen Sie unter einem Abscherstift? #card
 Ein Abscherstift oder kurz Scherstift verhindert an Maschinen, Wellen und Getrieben ein zu hohes Drehmoment, indem er bei einer zu hohen Scherspannungs-Belastung bricht. Scherstifte werden zum Beispiel bei Werkzeugmaschinen zwischen Antrieb und Arbeitsspindel eingebaut, um das Getriebe vor Überlastung zu schützen.
-![[Pasted image 20230522192142.png]]
 
-Beschreiben Sie den Arbeitsvorgang beim Herstellen einer Stiftverbindung mittels Zylinderstifte! #card
-Teile gemeinsam bohren -> senken -> aufreiben Stift einfetten und eintreiben.
-![[Pasted image 20230530145148.png]]
 Wozu verwendet man Kegelstifte? #card
 Bauteile, die öfters demontiert werden, ursprüngliche Lage kann wieder genau hergestellt werden.
-![[Pasted image 20230530145210.png]]
+
 Welche Ausführungen von Kegelstiften kennen Sie? #card
 Kegelstift,
 Kegelstift mit Außengewinde und Innengewinde.
-![[Pasted image 20230530145542.png]]
+
 Welches Kegelverhältnis haben Kegelstifte, und auf welchen Durchmesser bezieht sich das Nennmaß? #card
 Kegelverjüngung 1:50, Nenndurchmesser beziehen sich auf den kleinen Durchmesser.
-![[Pasted image 20230530145605.png]]
+
 Beschreiben Sie die Arbeitsweise beim Herstellen einer Stiftverbindung mittels Kegelstiften! #card
 1. Bohrung herstellen
 2. Aufreiben, bis sich der Stift mit Hand bis 4 mm über Lochkante eindrücken lässt Stift einfetten und eintreiben.
-![[Pasted image 20230530145706.png]]
+
 Nennen Sie Stifte, bei denen die Bohrung nicht gerieben werden muss! #card
 - Spannstifte,
 - Spiralspannstifte,
 - Kerbstifte,
 - Zylinderkerbstifte,
 - Knebelkerbstifte.
-![[Pasted image 20230530145733.png]]
+
+
 Was ist beim Eintreiben eines Stiftes in Sacklöcher zu beachten? #card
 Längsrille oder Abflachung, damit die Luft beim Eintreiben entweichen kann.
 
 Was verstehen Sie unter einer Keilverbindung? #card
 Die Verbindung zwischen Welle und Nabe, die gegeneinander vorgespannt sind.
-![[Pasted image 20230530145811.png]]
+
 Welchen Nachteil haben Keilverbindungen? #card
 Radialschlag, Kontrolle der Vorspannung nötig.
 
 Welchen Vorteil hat ein Nasenkeil? #card
 Erleichterung beim Ausbau
-![[Pasted image 20230530145826.png]]
 
 
 ### 2. Ende
 ___
-
-Nennen Sie zwei Beispiele für Werkzeugstücke aus unlegiertem Werkzeugstahl! #card 
-- Reißnadeln,
-- Körner,
-- Ziehwerkzeuge,
-- Biegewerkzeuge
-![[Pasted image 20230530145857.png]]
-Übersetzen Sie die Werkstoffbezeichnung C105U! #card 
-   C105U
-- C = Unlegierter Stahl,
-- 105 = C - Gehalt 1,05%, daher Werkzeugstahl
-- U = für Werkzeuge geeignet (U = Kohlenstoffgehaltanteil C von ca. 0,6 bis 1,5%)
 
 
 Nennen Sie Beispiele für Werkstücke aus Kaltarbeitsstählen! #card
 - Scherenmesser,
 - Gewindebohrer
 - Schnittwerkzeuge,
-![[Pasted image 20230530150010.png]]
 
-Übersetzen Sie die Werkstoffbezeichnung X210Cr12! #card
-   X210Cr12
-   X = Hochlegierter Stahl,
-   210 = Kohlenstoffgehalt 2,1%,
-   Cr12 = Chrom Gehalt 12%, daher Korrosionbeständig
 
-Nennen Sie zwei Beispiele für Werkstücke aus Schnellarbeitsstählen! #card 
-- Fräswerkzeuge,
-- Drehmeißel,
-- Bohrer,
 
 Erklären Sie den Begriff „Sprödigkeit" anhand eines Beispiels! #card 
 - Werkstoff lässt sich verformen und bricht bei großer oder schlagartiger Belastung! ( Glas, harter Stahl )
-![[Pasted image 20230530150101.png]]
+
 Erklären Sie den Begriff „Härte" anhand eines Beispiels! #card 
 - Härte ist der Wiederstand den ein Werkstoff beim Eindrücken entgegensetzt. 
 - Härteprüfung mit einer Prüfkraft es wird gemessen wie weit der Prüfkörper in das Material eindringt. ( Härteprüfkörper )
-![[Pasted image 20230530150143.png]]
-Nennen Sie Einheiten und Abkürzungen, für Streckgrenze und Zugfestigkeit! #card
-- Zugfestigkeit -> Rm N/mm²,
-- Streckgrenze -> Re N/mm²
-![[Pasted image 20230530150203.png]]
-Wie werden Nichteisenmetalle eingeteilt? #card
-Leichtmetalle & Schwermetalle
-
-Welche Dichte haben Leicht- und Schwermetalle? #card
-- Leichtmetalle: Dichte < 5kg/dm³
-- Schwermetalle: Dichte > 5kg/dm³
-
-Welcher Zweck wird durch Legieren von Metallen erreicht? #card 
-Die Werkstoffeigenschaften der reinen Metalle werden gezielt verändert.
-
-Erklären Sie den Vorgang des Legierens von Metallen! #card 
-Es werden zwei oder mehrere Metalle im flüssigen Zustand gemischt.
-![[Pasted image 20230530150541.png]]
-Wie werden die Nichteisenmetalllegierungen eingeteilt? #card 
-In Gusslegierungen und Knetlegierungen.
-
-Welche Werkstücke werden aus NichteisenGusslegierungen hergestellt? #card
-Gussstücke wie Gehäuse, Lager, Formteile
 
 
-Nennen Sie drei häufig verwendete Nichteisenschwermetalle! #card 
-- Zink,
-- Kupfer,
-- Nickel,
-- Blei,
-- Zinn
+
+
+
+
 
 Nennen Sie drei Eigenschaften von Kupfer! #card 
 - Weich,
 - gut formbar,
 - korrosionsbeständig,
 - hohe Leitfähigkeit für Elektrizität und Wärme,
+
 
 Erklären Sie die Bearbeitbarkeit von Kupfer! #card 
 - Gießbar,
@@ -226,11 +161,6 @@ Nennen Sie drei Beispiele für die Verwendung von Kupfer! #card
 - Heiz- und Kühlschlangen,
 - Dachabdeckungen,
 
-Übersetzen Sie die Werkstoffbezeichnung CuZn35! #card
-CuZn35:
-- CuZn = Kupfer/Zink Legierung,
-- 35 = Zinkgehalt ca. 35 % (Messing)
-- Kupfergehalt ca. 65%!
 
 Nennen Sie drei Beispiele für die Verwendung von Kupfer-Zinklegierungen! #card 
 - Elektroindustrie,
@@ -238,117 +168,33 @@ Nennen Sie drei Beispiele für die Verwendung von Kupfer-Zinklegierungen! #card
 - Kupferlot. Armaturen,
 - allgemeine Kleinteile.
 
-Nennen Sie zwei Edelmetalle! #card 
-- Gold (Au),
-- Silber (Ag),
-- Platin (Pt),
 
-Nennen Sie Vorzüge von Edelmetallen gegenüber anderen Metallen. #card 
-- Korrosionbeständigkeit,
-- Säurebeständigkeit,
-- gute Leiter, (Silber = Kontaktwerkstoff)
 
-Welche Metalle sind „Leichtmetalle" #card 
-- Metalle deren Dichte < 5kg/dm³ ist. 
 
-Nennen Sie zwei Leichtmetalle. #card 
-- Aluminium,
-- Magnesium,
-- Titan
-
-Nennen Sie drei Eigenschaften von Aluminium! #card 
-- guter elektrischer Leiter,
-- guter Wärmeleiter
-- GERINGE Dichte,
-- leicht bearbeitbar,
-- selbstbildende Schutzschicht gegen Korrosion,
 
 
 ### 3. End
 ___
 
-Nennen Sie einige Beispiele für die Verwendung von Aluminium. #card 
-- Flugzeugbau,
-- Eisenbahnbau,
-- KFZbau,
-- Schiffsbau,
-- Dächer,
-- Fassaden,
-- Konstruktionen
-
-Nennen Sie die Fertigungsstufen zur Herstellung gesinterter Werkstücke. #card 
-- Pulverherstellung,
-- Pulvermischen,
-- Pressen,
-- Sintern,
-- Kalibrieren
-![[Pasted image 20230530150840.png]]
-Wovon sind die Eigenschaften gesinterter Teile abhängig? #card 
-- Pulverwerkstoff,
-- Pressdruck,
-- Sintertemperatur
 
 Für welche Teile werden grobporige Sinterteile hergestellt? #card 
 Für Filter und Gleitlager
-![[Pasted image 20230530150905.png]]
-Nennen Sie drei Vorteile der Sintertechnik! #card 
-- preisgünstige Herstellung von Maschinenteilen,
-- Legieren von Metallen mit unterschiedlichen Schmelzpunkten möglich,
-- kein Abfall,
-- Einbaufertige Teile.
 
-Nennen Sie Nachteile der Sintertechnik. #card 
-- Werkzeugkosten,
-- Hohe Presskraft,
-- beschränkte Werkstückgröße,
-- Hinterschneidungen nicht möglich
 
-Nennen Sie die Eigenschaften von Hartmetall. #card 
-- spröde
-- Verschleißfest,
-- hitzebeständig bis 900°C,
-- fast so hart wie Diamant,
-- empfindlich gegen schnellen Temperaturwechsel.
 
-Nennen Sie drei vorteilhafte Eigenschaften von Kunststoffen. #card 
-- Geringe Dichte,
-- gut umformbar,
-- leicht bearbeitbar,
-- elektr. isolierend,
-- korrosions- und chemikalienbeständig
 
-Nennen Sie drei nachteilige Eigenschaften der Kunststoffe. #card 
-- brennbar,
-- Geringe Wärmebeständigkeit,
-- Geringe Festigkeit,
-- Entsorgung
 
-Nennen Sie die drei Hauptgruppen der Kunststoffe. #card 
-- Thermoplaste,
-- Duroplaste,
-- Elastomere
 
-Nennen Sie zwei Thermoplaste. #card 
-- PE - Polyethylen 
-- PP - Polypropylen
-- PC - Polycarbonat
-- PA - Polyamid
-- PVC - Polyvinylchlorid
 
 Erklären Sie Komponenten eines GFK! #card
 GFK = Glasfaserverstärkte Kunststoffe (Verbundwerkstoffe) Verbundwerkstoffe sind aus mehreren Einzelstoffen zusammengefügt und zu einem Werkstoff verbunden.
 **Beispiel**:
 Glasfaser + Kunststoff = Glasfaserverstärkter Kunststoff (GFK)
-![[Pasted image 20230530150944.png]]
-Erklären Sie den Begriff Korrosion! #card
-Angriff und Zerstörung metallischer Werkstoffe.
-Chemische oder elektrochemische Reaktion mit Wirkstoffen der Umgebung.
 
-Wodurch entsteht Korrosion? #card
-Durch Chem. oder elektrochemische Reaktion mit Wirkstoffen der Umgebung (Umgebungsluft, Feuchtigkeit, Wärme, ev. auch Chemikalien).
+
 
 Nennen Sie korrosive Mittel #card
-z.B. die Raumluft, Wasser, Erdboden oderChemiekalien.
+z.B. die Raumluft, Wasser, Erdboden oder Chemikalien.
 
 Nennen Sie drei Möglichkeiten, durch die Bauteile vor Korrosion geschützt werden. #card
 - Ölen,
@@ -359,24 +205,9 @@ Nennen Sie drei Möglichkeiten, durch die Bauteile vor Korrosion geschützt werd
 - chrommatieren,
 - phosphatieren
 
-Wodurch kann schon bei der Auswahl des Werkstoffes Korrosion ausgeschaltet werden? #card 
-- Aluminium,
-- Kunststoffe,
-- Kupfer,
-- rostfreier Stahl,
-- Cu-Zn oder CuSn Legierung,
 
-Wann spricht man beim Fügen verschiedene Werkstücke von Löten? #card 
-Schmelzpunkt des Lotes liegt unter der Temperatur der zu verbindenden Teile. Es gehört zu den unlösbaren (stoffschlüssige) Verbindungen
 
-Nennen Sie drei Metalle, die sich als Lote eignen! #card 
-- Kupfer,
-- Blei,
-- Silber,
-- Zinn
 
-Bei welcher Temperatur liegt die Grenze zwischen Weich- und Hartlot? #card
-450°C
 
 In welchen Formen werden Lote verwendet? #card 
 - Drähte,
@@ -389,19 +220,7 @@ Für welchen Zweck werden Flussmittel verwendet und nennen Sie zwei? #card
 - Flussmittel lösen Oxyde und verhindern weitere Oxidation.
 - Flussmittel: Lötwasser, Lötöl, Lötfett, Lötpaste, Borax, Silox
 
-Nennen Sie drei wichtige Aufgaben von Schmierstoffen. #card 
-- Reibungsverminderung
-- Korrosionsschutz
-- Wärmeabfuhr
-- Verschleißteilchenabfuhr
-- Stoßdämpfung
 
-Nennen Sie drei Eigenschaften von Schmierstoffen. #card
-- Druckfest
-- geringe innere Reibung
-- säurefrei u. wasserfrei,
-- haftfähig, alterungsbeständig
-- frei von festen Bestandteilen
 
 Erklären Sie den Begriff "Viskosität' von Schmierstoffen. #card
 Zähflüssigkeit - Maß für innere Reibung des Schmierstoffes, hohe Viskosität = dickflüssig
@@ -432,10 +251,10 @@ Nennen Sie drei Schleifmittelarten! #card
 
 Erklären Sie worüber die Körnung eines Schleifmittels Aufschluss gibt und wie Sie angegeben wird? #card
 Über die Größe der Schleifkörner. Die Körnungsnummer entspricht der Maschenzahl des Siebes auf 1 Inch Länge.
-![[Pasted image 20230530151029.png]]
+
 Welchen Zweck hat die Bindung der Schleifkörper? #card
 Die einzelnen Körner so lange festzuhalten, bis sie stumpf geworden sind.
-![[Pasted image 20230530151050.png]]
+
 Erklären Sie die Bezeichnung A60K8V40 auf einem Schleifkörper! #card
 **A60K8V40**:
 - A=Korund,
@@ -450,76 +269,12 @@ Nennen und erklären Sie die Verwendung von zwei nach Farbe verschiedenen Schlei
 - weiß oder rosa -> Edelkorund für Werkzeugstähle;
 - grün oder grau (schwarz) -> Siliziumkarbid für Hartmetalle
 
-Nennen Sie eine Aufgabe der Werkstoffprüfung! #card
-- Bestimmung von Festigkeit Härte,
-- Korrosionsbeständigkeit,
-- Überprüfung nach Rissen,
-- Lunkereinschluß.
-- ErmittelnUrsachen bei Schäden
-
-Erklären Sie die Durchführung der Klangprobe. #card
-- Probe frei hängend; heller Klang = harter Werkstoff und kein Riss, dumpfer Klang = weich oder rissig
-![[Pasted image 20230530151134.png]]
-Welchen Aufschluss gibt der Kerbschlagversuch über den Werkstoff? #card
-- Hinweis über die Schlagzähigkeit eines Werkstoffes
-![[Pasted image 20230530151159.png]]
-Welche Werte können aus einem Spannungsdehnungsdiagramm herausgelesen werden? #card
-- Zugfestigkeit Rm,
-- Streckgrenze Re,
-- Dehnung A,
-- Verlauf der Spannungs Dehnungskurve
-![[Pasted image 20230530151210.png]]
-Erklären Sie den Begriff Härte eines Werkstoffes. #card
-- Der Wiederstand den ein Werkstoff beim Eindrücken entgegensetzt. Härteprüfung
-- mit einer Prüfkraft es wird gemessen wie weit der Prüfkörper in das Material eindringt.( Härteprüfkörper )
-![[Pasted image 20230530151253.png]]
-Nennen Sie zwei Härteprüfverfahren. #card
-- Brinell,
-- Vickers,
-- Rockwell,
-- Feilprobe
-![[Pasted image 20230530151359.png]]
-Mit welchem Prüfverfahren können nur weiche und mittelharte Werkstoffe geprüft werden? #card
-- Härteprüfung nach Brinell
-![[Pasted image 20230530151422.png]]
-Welche Form hat der Eindringkörper bei der Brinellhärteprüfung? #card
-- Eine Kugel
-![[Pasted image 20230530151433.png]]
-Wo wird die Vickershärteprüfung vorwiegend eingesetzt? #card
-- Für Härteprüfungen (hart und weich),
-- dünne Materialien
-![[Pasted image 20230530151450.png]]
-Welche Form hat der Eindringkörper bei der Vickershärteprüfung? #card
-- Eine vierseitige Pyramide (Spitzenwinkel 136°)
-![[Pasted image 20230530151511.png]]
-Wo wird die Rockwellhärteprüfung eingesetzt? #card
-- Bei allen gehärteten Oberflächen, außer bei dünnen Härteschichten
 ![[Pasted image 20230530151602.png]]
-Welche Form hat der Eindringkörper bei der Rockwellhärteprüfung HRC? #card
-- Diamantkegel 120° Spitzenwinkel
 ![[Pasted image 20230530151604.png]]
-Nennen Sie 3 zerstörungsfreie Werkstoffprüfverfahren? #card
-- Ultraschallprüfung,
-- Röntgenprüfung
-- Spektralanalyze,
-- Härteprüfung
 ![[Pasted image 20230530151654.png]]
-Warum ist Stahl ein so häufig verwendeter Werkstoff? #card
-- Hohe Festigkeit,
-- hohe Zähigkeit,
-- vergleichsweise preiswerter Werkstoff,
 
-Welche Rohstoffe werden zur Stahlerzeugung benötigt? #card
-- Eisenerze,
-- Koks,
-- Kalk als Schlackenbildner
 ![[Pasted image 20230530151715.png]]
-Wie nennt man den Vorgang, bei dem aus Roheisen Stahl hergestellt wird? #card
-- Frischen: (Kohlenstoffreduktion durch Sauerstoffblasverfahren, LD Verfahren)
 ![[Pasted image 20230530151729.png]]
-Erklären Sie den Begriff „Strangguss" bei der Stahlerzeugung. #card
-- Flüssiger Stahl wird in wassergekühlte Formen (Kokillen) gegossen.
-- Dadurch bilden sich Stahlstränge, die dann abgelängt werden.
 ![[Pasted image 20230530151742.png]]
 
 
@@ -553,36 +308,16 @@ Wie erfolgt die Einteilung der Schrauben nach der Schaftform? #card
 - Holzschrauben,
 - Gewindestifte
 ![[Pasted image 20230530151826.png]]
-Was verstehen Sie unter der Bezeichnung "12.9" auf einem Schraubenkopf? #card
-- 12 x 100 = 1200 N/mm² Mindestzugfestigkeit 
-- 12 x 9 x 10 = 1080 N/mm² Mindeststreckgrenze
 
-Welche ist die häufigste Gewindeart auf Schrauben? #card
-Metrisches ISO Regelgewinde.
 
-Wozu werden Gewindestifte verwendet? #card
-Als Druckschraube zum Befestigen von Nabe auf Wellen oder Achsen.
 
-Wie werden Schrauben beansprucht? #card
-Meist auf Zug
 
-Was verstehen Sie unter einer "Durchsteckschraubenverbindung" #card
-Eine Verbindung, bei der zwei Teile mit Durchgangsbohrungen mit einer Schraube und Mutter verbunden sind.
-![[Pasted image 20230530151845.png]]
+
+## Prüfungskoffer
 Wie erfolgt die Längenangabe von Sechskant und Senkschrauben (siehe Prüfungskoffer)? #card 
 - Sechskantschraube ohne Schraubenkopf,
 - Senkschraube mit Schraubenkopf
-![[Pasted image 20230530151900.png]]
-Wo werden Rändelschrauben verwendet? #card 
-Teile, die häufig ohne Werkzeug gelöst werden.
-![[Pasted image 20230530151918.png]]
-Nennen Sie den Unterschied zwischen einer Stiftschraube und einem Gewindestift! #card 
-- **Gewindestifte** dienen zur Sicherung von Nabe und Welle.
-- **Stiftschrauben** dienen zur Verbindung von Teilen, die öfter gelöst werden.
-![[Pasted image 20230530151935.png]]
-Wozu werden Steinschrauben verwendet? #card
-Befestigung von Maschinen im Fundament
-![[Pasted image 20230530151946.png]]
+
 Benennen Sie die verschieden Schrauben aus dem Prüfungskoffer (Bildermappe). #card 
 - Sechskantschraube,
 - Senkkopfschraube,
@@ -590,27 +325,7 @@ Benennen Sie die verschieden Schrauben aus dem Prüfungskoffer (Bildermappe). #c
 - Holzschrauben,
 - Steinschraube,...
 
-Wozu werden Dehnschrauben verwendet und wodurch unterscheiden sie sich von herkömmlichen Schrauben? #card
-Bei Bauteilen, wo durch Temperaturschwankungen oder durch Zug und Druck eine dauernde Wechselbelastung auftritt.
-Sie haben im Schaftbereich einen kleineren Durchmesser und nehmen dort die Zugspannung auf.
-![[Pasted image 20230530152009.png]]
-Mit welchem Werkzeug werden Dehnschrauben angezogen? #card
-Mit einem Drehmomentschlüssel.
-![[Pasted image 20230530152019.png]]
-Welche Teile einer Schraube sind genormt? #card
-Kopfform,
-Schaftabmessungen, 
-Gewindemaße
 
-Wozu werden Passschrauben verwendet? #card
-Verhindern das Verschieben der zusammengeschraubten Teile und können große Scherkräfte aufnehmen.
-![[Pasted image 20230530152034.png]]
-Wonach richtet sich die Einschraublänge eines Gewindes ins Werkstück? #card
-Nach dem Werkstoff des Mutterngewindes bei Stahl: 0,8 - 1 x Nenndurchmesser
-
-Wozu verwendet man Stiftschrauben? #card
-Bei Verbindungen die häufig gelöst werden z.B.: Zylinderköpfen.
-![[Pasted image 20230530152051.png]]
 Benennen Sie die verschiedenen Muttern aus dem Prüfungskoffer oder der Bildermappe. #card
 - Sechskantmutter
 - Rändelmutter
@@ -620,27 +335,48 @@ Benennen Sie die verschiedenen Muttern aus dem Prüfungskoffer oder der Bilderma
 - Kreuzlochmutter
 - Zweilochmutter
 - Flügelmutter
-![[Pasted image 20230530152123.png]]
+
+Wo werden Rändelschrauben verwendet? #card 
+Teile, die häufig ohne Werkzeug gelöst werden.
+
+Wozu werden Steinschrauben verwendet? #card
+Befestigung von Maschinen im Fundament
+
+
+Wozu werden Dehnschrauben verwendet und wodurch unterscheiden sie sich von herkömmlichen Schrauben? #card
+Bei Bauteilen, wo durch Temperaturschwankungen oder durch Zug und Druck eine dauernde Wechselbelastung auftritt.
+Sie haben im Schaftbereich einen kleineren Durchmesser und nehmen dort die Zugspannung auf.
+
+Mit welchem Werkzeug werden Dehnschrauben angezogen? #card
+Mit einem Drehmomentschlüssel.
+
+
+Wozu werden Passschrauben verwendet? #card
+Verhindern das Verschieben der zusammengeschraubten Teile und können große Scherkräfte aufnehmen.
+
+Wonach richtet sich die Einschraublänge eines Gewindes ins Werkstück? #card
+Nach dem Werkstoff des Mutterngewindes bei Stahl: 0,8 - 1 x Nenndurchmesser
+
+
 Welche Muttern können von Hand ohne Hilfsmittel angezogen werden? #card
 - Rändelmutter
 - Flügelmutter
-![[Pasted image 20230530152138.png]]
+
 Welche Muttern werden zum Ein- und Verstellen des axialen Spieles von Wellen und Lagern verwendet? #card
 - Nutmutter,
 - Kreuzlochmutter
-![[Pasted image 20230530152151.png]]
+
 Nennen Sie Verwendungsbeispiele für Hutmuttern. #card 
 - Schöneres Aussehen,
 - Schutz vor Schmutz,
 - Schutz vor Verletzungen zum Beispiel an Fahrrädern zur Befestigung der Radachsen.
-![[Pasted image 20230530152205.png]]
+
 Wozu wird eine Kronenmutter (mit Splint) verwendet? #card
 Zum Herstellen einer VerlierSicherung (formschlüssig)
-![[Pasted image 20230530152220.png]]
 
 ### 6. End
 ___
-
+### 7. Start
 Wie oft darf ich eine Mutter mit Kunststoffring oder selbst sichernde Mutter verwenden? #card
 1 Mal (da sonst die Schraubensicherung nicht mehr gegeben ist)
 
@@ -790,12 +526,6 @@ Nennen Sie weitere Verbindungsarten zwischen Welle und Nabe! #card
 - Zahnnabenprofile,
 - Keilwellenprofile.
 
-Nennen Sie verschiedene unlösbare Verbindungsarten! #card
-- Nieten
-- Durchsetzfügen
-- Schweißen
-- Löten
-- Kleben
 
 Welche Nietarten kennen Sie? #card 
 - Halbrundniet,
@@ -888,10 +618,10 @@ ___
 
 Was verstehen Sie unter einem Ritzel? #card
 Kleines, meist treibendes Rad.
-![[Pasted image 20230530153446.png]]
+
 Was muss bei Zahnrädern, die ineinander greifen sollen gleich sein? #card
 Sie müssen den gleichen Modul und den gleichen Eingriffswinkel (20°) haben.
-![[Pasted image 20230530153459.png]]
+
 Welche Aufgaben haben Zahnstangen in Verbindung mit Zahnrädern? #card
 - Wenn eine Drehbewegung in eine geradlinige Bewegung oder umgekehrt umgewandelt werden soll.
 
@@ -997,8 +727,6 @@ Worauf ist beim Einbau eines Wälzlagers zu achten? #card
 - eventuell Lager erwärmen oder kühlen
 
 
-Was verstehen Sie unter einer Welle? #card
-- Sind Maschinenelemente, die mechanische Arbeit durch Drehbewegung und Drehmoment übertragen.
 
 
 Welche Arten von Wellen gibt es? #card
@@ -1006,8 +734,6 @@ Welche Arten von Wellen gibt es? #card
 - Bauform: Starrewellen, biegsame Wellen,Gelenkwellen.
 
 
-Was verstehen Sie unter einer Achse? #card
-Werden vorwiegend auf Biegung beansprucht und übertragen keine Drehmomente.
 
 
 Was verstehen Sie unter Bolzen? #card
