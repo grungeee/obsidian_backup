@@ -314,6 +314,15 @@ Wie erfolgt die Einteilung der Schrauben nach der Schaftform? #card
 
 
 ## Prüfungskoffer
+
+
+Benennen Sie die Ihnen vorgelegten Fräser! (Fräser aus Prüfungskoffer) #card
+- Walzenstirnfräser,
+- Winkelfräser
+- Schaftfräser,
+- Scheibenfräser,
+- Eckfräskopf,
+
 Wie erfolgt die Längenangabe von Sechskant und Senkschrauben (siehe Prüfungskoffer)? #card 
 - Sechskantschraube ohne Schraubenkopf,
 - Senkschraube mit Schraubenkopf
@@ -736,16 +745,13 @@ Welche Arten von Wellen gibt es? #card
 
 
 
-Was verstehen Sie unter Bolzen? #card
-Sind kurze Achsen, mit denen Maschinenteile beweglich verbunden werden (z.B.Gelenkbolzen)
 
 
-Wie werden Bolzen beansprucht? #card
-Auf Abscherung und Biegung.
 
 ### 9. End
 ___
 
+### 10. Start
 Nennen Sie zwei Schmierstoffarten. #card
 - Flüssige Schmierstoffe,
 - Festschmierstoffe,
@@ -901,47 +907,7 @@ Welche Verfahren zur Erstellung von Planzeiten kennen sie? #card
 - Ermittlung durch REFA Zeitaufnahme,
 - Ermittlung mit Systemen vorbestimmter Zeiten;
 
-Wie kann man die Genauigkeit einer Messschraube überprüfen? #card
-Endmaße
-![[Pasted image 20230530154016.png]]
-Aus welchen Teilen besteht eine Bügelmessschraube? #card
-- Amboß,
-- Messspindel,
-- Bügel,
-- Skalenhülse,
-- Skalentrommel,
-- Gefühlsratsche (Kupplung),
-- Klemmhebel,
-- Isolierplatte
-![[Pasted image 20230530154056.png]]
-Welche Arten von Messschrauben gibt es? #card
-- Außen-,
-- Innen-,
-- Tiefen-,
-- Gewindemessschraube,
-- Zahnweitenmessschraube.
-![[Pasted image 20230530154156.png]]
-Welche Messgenauigkeiten besitzen Messschrauben? #card
-In der Regel 0,01 mm oder 0,001 mm.
-![[Pasted image 20230530154205.png]]
-Welche Einflüsse auf Messabweichungen können beim Messen mit der Messschraube auftreten? #card
-- Verkanten des Werkstückes,
-- Schmutz,
-- Grat,
-- Aufbiegung des Bügels,
-- Temperatureinflüsse,
-- zu schnelles drehen der Messspindel an das Werkstück,
-- (Steigungsfehler der Spindel).
 
-Für welche Messungen wird eine Messuhr verwendet? #card
-- Längenmessungen,
-- Parallelität,
-- Rundlauf,
-- Planlauf.
-![[Pasted image 20230530154220.png]]
-Welche Ablesegenauigkeiten haben Messuhren? #card
-0,01 mm, 0,001 mm
-![[Pasted image 20230530154231.png]]
 Welche Winkelmess- und Winkelprüfgeräte kennen Sie? #card
 - Einfache Winkelmesser,
 - Universalwinkelmesser,
@@ -949,25 +915,19 @@ Welche Winkelmess- und Winkelprüfgeräte kennen Sie? #card
 - Haarwinkel,
 - Gehrungswinkel
 - Sinuslineal,
-![[Pasted image 20230530154248.png]]
+
 Welche Ablesegenauigkeit hat ein Universalwinkelmesser? #card
 5 Winkelminuten
-![[Pasted image 20230530154257.png]]
+
 Welche Maßeinheiten gelten bei Winkelmaßen? Grad, Minuten und Sekunden #card
 - Mit Kegellehrhülsen, Kegellehrdornen;
 - Man bringt drei dünne Fettkreidestriche am Werkstückkegel an und verdreht dann die Lehre, Striche müssen gleichmäßig verwischt sein, sonst trägt der Kegel nicht
 
 Welche Möglichkeiten gibt es, Kegel zu prüfen und wie geht man beim Prüfen eines Kegels vor? #card
-- ![[Pasted image 20230530154320.png]]
 
 Was verstehen Sie unter einem Kegelverhältnis 1:50? #card
 Auf einer Länge von 50mm verändert sich der Durchmesser um 1mm
 
-Nennen Sie noch 3 weitere Lehren! #card
-- Grenzlehrdorn,
-- Gewindelehrdorn,
-- Steigungslehre,
-- Grenzrachenlehre.
 ![[Pasted image 20230530154343.png]]
 Nenne die 6 R der Logistik. #card
 - richtige Produkt,
@@ -977,20 +937,10 @@ Nenne die 6 R der Logistik. #card
 - richtigen Qualität
 - richtigen Kosten.
 
-Wo können Messuhren eingespannt werden? #card
-- Magnetständer,
-- Magnethalter,
-- Einspannschaft,
-- Innenfeinmessgerät (Subito)
 
 Beschreiben Sie den Aufbau einer mechanischen Messuhr! #card
 - Eine mechanische Messuhr besteht aus Gehäuse, Zifferblatt, Zeigern, Welle, Federmechanismus, Zahnradsystem, Ratschenmechanismus und Einstellknöpfen. Sie zeigt Messergebnisse präzise an.
-![[Pasted image 20230530154407.png]]
-Was sind Endmaße und wozu werden Sie verwendet? #card
-- Endmaße sind Blöcke zum Prüfen und Kalibrieren von Messgeräten und Prüfmitteln
-- Haben parallele Flächen,
-- sind genau auf Maß geschliffen,
-- geläppt,
+
 
 Aus welchem Werkstoff sind Endmaße? #card 
 - Gehärteter Stahl,
@@ -998,71 +948,25 @@ Aus welchem Werkstoff sind Endmaße? #card
 - Hartgestein,
 - Keramik.
 
-Was verstehen Sie unter dem Begriff BezugsTemperatur? #card 
-Optimale Temperatur für genaue Messungen 20°C an Werkstück und Messgerät.
 
 Wie werden Endmaße zusammengesetzt? #card 
 Durch Ansprengen (Reiben) an den geläppten Flächen.
-![[Pasted image 20230530154425.png]]
+
 Nennen sie den Unterschied zwischen verfahrensorientierten und produktionsorientiertem Warenfluss. #card
 Verfahrensorientiert:
 - Einzelfertigung und Kleinserien nach Abteilungen - kein optimaler Materialfluss.
 Produktorientiert:
 - Massenfertigung - optimaler Materialfluss;
 
-Was ist der Unterschied zwischen Messen und Prüfen? #card
-- Messen - Zahlenwert,
-- Prüfen - Gut oder Ausschuss.
 
-Nennen Sie mindestens 5 Prüfgeräte! #card
-- Flachwinkel,
-- Anschlagwinkel,
-- Haarwinkel,
-- Wasserwaage,
-- Radiuslehre,
-- Richtwaagen,
-- Kegellehren.
-
-Was sind Grenzlehren? #card
-- Lehren zum Prüfen, ob das Werkstück in der gewünschten Toleranz gefertigt wurde.
-- Hat eine Gut- und Ausschussseite,
-![[Pasted image 20230530154451.png]]
-Beschreiben Sie einen Grenzlehrdorn! #card
-- Gutseite muss in die Bohrung durch ihr Eigengewichtgleiten, Ausschussseite darf nur anschnäbeln.
-
-![[Pasted image 20230530154503.png]]
 
 ### 11. End
 ___
 
-Beschreiben Sie eine Grenzrachenlehre! #card
-Zum Prüfen von Wellen und Dicken von Werkstücken, die Gutseite hat das Höchstmaß und muss darüber gleiten, Ausschussseite darf nur anschnäbeln.
-![[Pasted image 20230530154548.png]]
-Was verstehen Sie unter Gewindelehren? #card
-Sind Lehren zum Prüfen von Gewinde, haben eine Gut- und eine Ausschussseite, Gutseite muss ein- oder aufdrehbar sein, Ausschuss darf nicht raufgehen.
-![[Pasted image 20230530154609.png]]
-Welche Angaben können von Grenzlehrdornen abgelesen werden? #card
-Höchstmaß und Mindestmaß einer Toleranz
-![[Pasted image 20230530155342.png]]
-Worauf ist beim Prüfen mit einem Grenzlehrdorn zu achten? #card
-- Temperatur 20°Grad,
-- gerades Ansetzen der Prüfgeräte,
-- richtige Handhabung (Prüfdruck)
-![[Pasted image 20230530155353.png]]
-Was verstehen Sie unter "Anreißen"? #card
-Übertragen der Maße von der Zeichnung auf das Werkstück.
-![[Pasted image 20230530155417.png]]
-Nennen Sie 5 Anreißwerkzeuge! #card
-- Anreißplatte als Unterlage,
-- Anreißnadel,
-- Körner (60°),
-- Spitzzirkel,
-- Höhenreißer,
-- Zentrierwinkel,
-![[Pasted image 20230530155441.png]]
+
 Aus welchen Werkstoffen können Anreißnadeln hergestellt werden? #card
 Aus Stahl mit gehärteter Spitze oder aufgelöteter HM-Spitze.
-![[Pasted image 20230530155530.png]]
+
 Wie werden Werkstückoberflächen behandelt, damit die Risslinie besser sichtbar ist! #card
 - Anreißfarbe,
 - Schlämmkreide,
@@ -1070,35 +974,19 @@ Wie werden Werkstückoberflächen behandelt, damit die Risslinie besser sichtbar
 
 Welchen Zweck haben Zentrierwinkel und Zentrierglocke? #card
 Zum Anreißen der Mittelpunkte an Wellen.
-![[Pasted image 20230530155618.png]]
+
 Welches Anreißwerkzeug benutzt man zum Anreißen großer Kreise? #card
 Um große Kreise anzureißen, wird normalerweise ein Zirkel oder ein Zirkel mit Verlängerung verwendet.
-![[Pasted image 20230530155635.png]]
+
 Wozu verwendet man Messingreißnadeln? #card
 Nur für dünnwandige oder gehärtete Werkstücke und kerbempfindliche Werkstoffe, Rissbildung
-![[Pasted image 20230530155702.png]]
+
 Aus welchem Material werden Anreißplatten hergestellt? #card 
 Gusseisen oder Hartgestein (z.B. Granit)
-![[Pasted image 20230530155721.png]]
-Aus welchen Teilen besteht eine Handbügelsäge? #card 
-- Bügel,
-- Sägeblatt,
-- Heftkloben,
-- Spannkloben
-![[Pasted image 20230530155923.png]]
-Welche Ausführungsmöglichkeiten von Sägeblättern gibt es, um das Festklemmen zu vermeiden? #card
-- Schränken,
-- Wellen,
-- Hohlschleifen,
-- Stauchen,
-- oder mit Zahnsegmenten.
-![[Pasted image 20230530155940.png]]
-Worauf ist beim Einspannen eines Sägeblattes zu achten? #card
-Gerade und straff gespannt und Sägeblattrichtung bzw. Zahnrichtung in Stoßrichtung (Vorschubrichtung).
-![[Pasted image 20230530161245.png]]
+
 Werden für harte Werkstoffe Sägeblätter mit grober oder mit feiner Zahnteilung verwendet? #card
 Mit feiner Zahnteilung.
-![[Pasted image 20230530161305.png]]
+
 Wie kann das Abrutschen eines Sägeblattes beim Anschnitt verhindert werden? #card
 Kleine Kerbe mit Feile feilen (Dreikantfeile), schräges ansetzen.
 
@@ -1106,30 +994,6 @@ Welche Folgen hat es für das Sägeblatt, wenn die Bügelsäge nicht ganz
 durchgezogen wird? #card
 Keine gute Nutzung, einseitige Abnutzung.
 
-Welche Arten von Zähnen kennen Sie? #card
-- Bogenzähne - bei Maschinensägeblättern. (widerstandsfähiger)
-- Winkelzähne - Handsägeblätter
-![[Pasted image 20230530161810.png]]
-Nach welchen Kriterien werden Feilen eingeteilt? #card
-- Zahnform,
-- Hiebweite,
-- Hiebart Größe und Querschnittsform.
-![[Pasted image 20230530161909.png]]
-Wozu werden gefräste und wozu werden gehauene Feilen verwendet? #card
-- Gehauene Feilen haben negative Spanwinkel
-- wirken schabend (für härtere Werkstoffe, Säge und Schärffeilen). Gefräste Feilen haben positiven Spanwinkel
-- wirken schneidend (für weiche Werkstoffe)
-![[Pasted image 20230530162001.png]]
-Welche Hiebarten kennen Sie? #card
-- Einfacher Hieb (Einhieb),
-- Kreuzhieb,
-- Raspelhieb
-![[Pasted image 20230530162018.png]]
-Wie heißen die Teile einer Feile? #card
-- Feilenblatt,
-- Heft,
-- Angel
-![[Pasted image 20230530162048.png]]
 Welche Querschnittsformen von Feilen kennen Sie? #card
 - Flach-,
 - Vierkant-,
@@ -1141,51 +1005,30 @@ Welche Querschnittsformen von Feilen kennen Sie? #card
 - Barett-,
 - Schwertfeile.
 ![[Pasted image 20230530162122.png]]
-Was verstehen Sie unter einer Hiebzahl? #card
-Verschiedene Einteilung (von grob - fein) Hiebe pro cm Feilenblattlänge, (mit Hiebnummern 1 bis 8).
 ![[Pasted image 20230530162142.png]]
 
 ### 12. End
 ___
 
-Welchen Vorteil hat ein Kreuzhieb? #card 
-Riefenbildung und einseitiges Feilen werden vermieden.
-![[Pasted image 20230530162229.png]]
-Beschreiben Sie die Herstellung eines Muttergewindes von Hand! #card 
-- Vorbohren auf Kernlochdurchmesser,
-- Senken mind. auf Nenndurchmesser,
-- Gewindeschneiden (Vor-, Mittel-, Fertigschneider)
-- Späne durch Zurückdrehen öfter brechen,
-- Schneidöl.
-![[Pasted image 20230530162303.png]]
+
 Warum verwendet man nur einen 2-teiligen Handgewindebohrersatz (Vorund Fertigschneider) für Feingewinde und Witworth Rohrgewinde? #card 
 Wegen der geringen Gewindetiefe gegenüber Regelgewinden.
-![[Pasted image 20230530162316.png]]
+
 Wodurch unterscheiden sich Hand- von Maschinengewindebohrern? #card 
 - Handgewindebohrer: langer Anschnitt, vierkantansatz
 - Maschinengewindebohren: kurzer Anschnitt, nicht dreiteilig
-![[Pasted image 20230530162328.png]]
-Woraus setzt sich ein Handgewindebohrersatz zusammen? #card 
-Vor-, Mittel und Fertigschneider
-![[Pasted image 20230530162341.png]]
+
+
 Wodurch unterscheiden sich Schneideisen von Schneidkluppen? #card 
 - Schneideisen: Herstellung des Bolzengewindes in einem Arbeitsgang;
 - Schneidkluppen: Herstellung in mehreren Arbeitsgängen (große Gewinde).
-![[Pasted image 20230530162401.png]]
+
 Beschreiben Sie den spanlosen Gewindeformer! #card 
 Keine Spannut, sondern einen unrunden Querschnitt (z.B. Polygone).
-![[Pasted image 20230530162414.png]]
-Welche Gewindearten kennen Sie? #card 
-- Metrisches ISO-Gewinde,
-- Spitz-,
-- Rund-,
-- Flach-,
-- Säge-,
-- Zollgewinde
-![[Pasted image 20230530162831.png]]
+
 Was verstehen Sie unter "Glühen"? #card 
 Langsames Erwärmen auf Glühtemperatur, halten auf Glühtemperatur, mit nachfolgender langsame Abkühlung
-![[Pasted image 20230530162924.png]]
+
 Welche Arten von Glühverfahren kennen Sie? #card 
 - Weich-, 
 - Normal-,
@@ -1193,7 +1036,7 @@ Welche Arten von Glühverfahren kennen Sie? #card
 - Rekristallisations-,
 - Diffusionsglühen
 - (langzeitiges Glühen bei 1050°C bis 1250°C).
-![[Pasted image 20230530163250.png]]
+
 Wozu werden Werkstücke geglüht? #card  
 - Um Spannungen zu beseitigen,
 - gehärteten oder gefestigten Stahl wieder in seine weiche Zugangsform bringen,
@@ -1205,41 +1048,18 @@ Nennen Sie 3 verschiedene Glühverfahren. #card
 - Spannungsarmglühen
 - Rekristallisationglühen
 - Weichglühen
-![[Pasted image 20230530163326.png]]
+
 Was verstehen Sie unter der Härte eines Werkstoffes? #card 
 Der Widerstand, den ein Körper dem Eindringen eines anderen Körpers entgegensetzt, heißt Härte.
-![[Pasted image 20230530163358.png]]
-Warum werden Werkstücke gehärtet? #card 
-Um Stähle hart und verschleißfest zu machen.
 
-Welche 2 Härteverfahren werden für Werkzeugstähle vorwiegend verwendet? #card 
-- Vakuumhärten,
-- Schutzgashärten
 
-Wie funktioniert der Härteablauf? #card 
-Erwärmen auf Härtetemperatur,
-halten auf Härtetemperatur,
-- Abschrecken,
-- Anlassen
+
 ![[Pasted image 20230530163537.png]]
-Wovon hängt die Härtetemperatur von hochlegiertem Werkzeugstahl ab? #card 
-Härtetemperatur ist von Legierungsbestand-teilen und C-Gehalt abhängig, vom Stahlhersteller angegeben.
-
 Welche Voraussetzungen müssen gegeben sein um einen Gabelstapler in Betrieb nehmen zu dürfen? #card 
 - Jugendliche bis zum vollendeten 18.Lebensjahr dürfen selbstfahrende Arbeitsmittel, wie z.B. Hubstapler, grundsätzlich nicht betreiben.
 - Nachweis entsprechender Fachkenntnisse durch ein Zeugnis („Staplerschein"), innerbetriebliche Fahrbewilligung des Arbeitgebers.
 
-Was verstehen Sie unter einer Glashärte? #card
-Härte nach dem Abschrecken (hartes sprödes Gefüge) unbrauchbar als Werkzeug
-![[Pasted image 20230530163603.png]]
-Wie kann die Glashärte auf Gebrauchshärte eines Werkzeugstahls geändert werden? #card
-Durch Anlassen
 
-Nennen Sie 3 Härteverfahren! #card 
-- Einsatzhärten,
-- Nitrierhärten,
-- Flammhärten,
-- Induktionshärten, ....
 ![[Pasted image 20230530163650.png]]
 Welche Abschreckmittel werden beim Härten von unlegierten, niedrig legierten und hochlegierten Stählen verwendet? #card
 - unlegierte Stähle: Wasser,
@@ -1251,18 +1071,12 @@ Was verstehen sie unter Vorkalkulation? #card
 - Feststellung der Grenzfertigungskosten
 - (Min-Satz) + Gemeinkostenanschläge zur Feststellung der Grenzfertigungskosten
 
-Was verstehen Sie unter "Vergüten"? #card
-Vergüten ist ein Härten mit nachfolgendem hohen Anlassen (500 - 700°C)
 ![[Pasted image 20230530163725.png]]
-Welchen Zweck hat das Vergüten? #card 
-- hohe Festigkeit,
-- hohe Streckgrenze,
-- große Zähigkeit,
-- Feinkörniges Gefüge,.
 
 ### 13. End
 ___
 -- -
+### 14. Start
 
 Was verstehen Sie unter einem Ritzel? #card 
 Kleines, meist treibendes Rad.
@@ -1394,48 +1208,17 @@ Auf Abscherung und Biegung.
 ___
 -- -
 
-Nennen Sie die Ursachen, wenn die Bohrung zu groß wird? #card
-- Schlag,
-- ungleich lange Hauptschneiden,
-- stumpfe Schneiden ...
-![[Pasted image 20230530164014.png]]
 
 Was verstehen Sie unter einem Stufenbohrer? #card
 Stufenbohrer ist ein Bohrer, der an einem Schaft Schneiden mit zwei oder mehr Durchmessern besitzt.
-![[Pasted image 20230530164044.png]]
 
 Wie bringt man einen Bohrer mit kegeligem Schaft aus der Bohrspindel heraus? #card
 Austreiber mit Austreiblappen - (Rundung nach Oben)
-^1684964521863
-![[Pasted image 20230530164056.png]]
 
-Nennen Sie verschiedene Unfallverhütungsvorschriften beim Bohren! #card
-- Schutzkappe,
-- enganliegende Kleidung,
-- nie bei laufender Bohrspindel messen,
-- Werkstücke wenn mögl. immer einspannen!
-![[Pasted image 20230530164117.png]]
 
 Wie erfolgt die Mitnahme bei einem Bohrer mit kegeligem Schaft? #card
 Nur durch die Kegelhaftung (Reibung)!
-![[Pasted image 20230530164122.png]]
 
-Welche verschiedenen Spiralbohrer-Typen kennen Sie? #card
-- **Typ N**: Normaldrallbohrer
-- **Typ H**: Langdrallbohrer,
-- **Typ W**: Kurzdrallbohrer,
-![[Pasted image 20230530164136.png]]
-
-Für welche Werkstoffe werden diese Bohrertypen verwendet? #card
-- **Typ N** = Stahl, Stahlguss, Gusseisen,
-- **Typ H** = harte Werkstoffe
-- **Typ W** = weiche Werkstoffe,
-![[Pasted image 20230530164149.png]]
-
-Worauf müssen Sie beim Nachschleifen eines Bohrers achten? #card
-- Gleiche Länge der Hauptschneiden,
-- Freifläche,
-- eventuell Ausspitzen der Querschneiden
 
 
 Kennen Sie noch weitere Bohrerarten? #card
@@ -1445,121 +1228,25 @@ Kennen Sie noch weitere Bohrerarten? #card
 - Bohrmesser,....
 
 
-Wie berechnet man die Drehzahl beim Bohren? #card
-n = 1000 x Vc / d x Pi
-n ... Drehzahl
-Vc ... Schnittgeschwindigkeit
-d ... Durchmesser
 
 
-Welche Faktoren spielen ebenfalls eine Rolle bei der Auswahl der Drehzahl? #card
-- Werkstoff des Werkstückes und des Werkzeuges (HSS, HM),
-- Form d. Werkstücks,
-- Stabilität d. Maschine,
-- Spannmöglichkeit,
 
-
-Was verstehen sie unter dem Arbeitsverfahren Senken? #card
-Senken ist ein Bearbeitungsverfahren zum Entgraten und Herstellen von Senkungen!
-![[Pasted image 20230530164227.png]]
-
-Welche Senkerarten kennen Sie? (Muster bzw. Bilder erklären!) #card
-- Kegelsenker (Spitzsenker),
-- Flachsenker,
-- Spiralsenker,
-- Plansenker,
-- Aufstecksenker
-![[Pasted image 20230530164250.png]]
 
 Warum werden Bohrungen gesenkt? #card
 Zum Entgraten bzw. Versenken von Schrauben und Nieten!
-![[Pasted image 20230530164309.png]]
 
 Wie vermeiden Sie Rattermarken beim Senken? #card
-- Geringe
-- Schnittgeschwindigkeit jedoch
-- hoher Vorschub
+- Geringe Schnittgeschwindigkeit 
+- jedoch hoher Vorschub
 - Schmierung!
-![[Pasted image 20230530164322.png]]
 
-Wie groß werden Kernlöcher von Gewindebohrungen angesenkt? #card
-Mindestens auf Nenndurchmesser des Gewindes!
-![[Pasted image 20230530164339.png]]
-
-Wo verwendet man Flachsenker? #card
-Zur Herstellung von zylindrischen Schraubensenkungen!
-![[Pasted image 20230530164350.png]]
 
 Darf die Bohrspindel mit der Hand aufgehalten werden? #card
 Nein, Gefahr durch Schnittverletzungen
 
 
-Erklären Sie die Herstellung einer ø8H7 Bohrung mit einer Handreibahle. #card
-1) Anreißen, 2) körnen, 3) bohren mit ø7.8mm,
-4) senken auf mind. Nenndurchmesser,
-5) ø8H7 Handreibahle in Windeisen spannen,
-6) einführen, 7) gerade ansetzen, 8) schmieren,
-9) im Uhrzeigersinn eindrehen
-10) nicht zurückdrehen, 11) ausblasen,
-12) prüfen mit Grenzlehrdorn.
-
-
-Was verstehen Sie unter dem Begriff Reiben? #card
-Reiben ist ein spanabhebendes Bearbeitungsverfahren zur Herstellung von genauen Bohrungen mit hoher Oberflächengüte!
-![[Pasted image 20230530164423.png]]
-
-Wie werden Reibahlen nach der Verwendung eingeteilt? #card
-Hand- und Maschinenreibahlen
-![[Pasted image 20230530164439.png]]
-
-Wie werden Sie nach der Form eingeteilt? #card
-Zylindrische und kegelige Reibahlen
-![[Pasted image 20230530164451.png]]
-
-Was verstehen Sie unter einer verstellbaren Reibahle? #card
-Durchmesser kann innerhalb eines verhältnismäßig großen Bereichs geändert werden.
-![[Pasted image 20230530164507.png]]
-
-Wie ist der Aufbau einer Reibahle? #card
-- Schaft,
-- Hals,
-- Schneidenteil,
-- Anschnitt
-![[Pasted image 20230530164521.png]]
-Wie ist die Anordnung der Zähne bei einer Reibahle? #card
-Gerade Anzahl (4, 6, 8 bis 16) aber ungleiche Teilung, um das Rattern zu verhindern
-![[Pasted image 20230530164531.png]]
-
 ### 15. End
 ___
-
-Was verstehen Sie unter Längsdrehen? #card
-Wenn die Vorschubrichtung parallel zur Drehachse liegt!
-![[Pasted image 20230530164605.png]]
-
-Was verstehen Sie unter Plandrehen? #card
-Vorschubrichtung ist quer zur Drehachse!
-![[Pasted image 20230530164614.png]]
-
-Welche Spannmöglichkeiten kennen Sie beim Drehen? #card
-- Backenfutter,
-- Axialspannfutter,
-- Kraftspannfutter
-- Spannzange,
-- Planscheibe,
-![[Pasted image 20230530164631.png]]
-
-Was ist beim Einspannen von Drehmeißeln zu beachten? #card
-- Gerade,
-- mittig,
-- so kurz als möglich,
-- wenn möglich keine Unterlagen,
-- gut klemmen...
-![[Pasted image 20230530164639.png]]
-
-Wie können Bohrwerkzeuge beim Drehen gespannt werden? #card
-Im Werkzeughalter, Bohrfutter mittels Reduzierhülsen in der Pinole
-![[Pasted image 20230530164653.png]]
 
 Zu welchem Zweck werden Planzeiten erstellt? #card
 - Angebotskalkulation,
@@ -1569,35 +1256,6 @@ Zu welchem Zweck werden Planzeiten erstellt? #card
 - Entlohnung (Leistungs- und Prämienlohn),
 
 
-Zählen Sie die Teile einer UniversalDrehmaschine (Spitzendrehmaschine) lt. Bild auf. #card
-A) Gestell,
-B) Maschinenbett,
-C) Spindelstock mit Hauptspindel,
-D) Werkzeugschlitten,
-E) Reitstock,
-F) Leitspindel,
-G) Zugsspindel
-H) Schaltspindel
-![[Pasted image 20230530164720.png]]
-
-Was sind Wendeschneidplatten und wie werden sie gespannt? #card
-- Wendeschneidplatten sind HM-Schneiden eines Werkzeuges.
-- Sie werden in Klemmhaltern geklemmt oder geschraubt (Hebelspannsystem,Schraubspannsystem und Spannfingersystem)
-![[Pasted image 20230530164732.png]]
-
-Wie wird das Durchbiegen einer längeren Welle beim Drehen verhindert? #card
-- Durch die Verwendung eines Setzstockes (Lünette)
-- Er nimmt den Schnittdruck auf und verhindert das Durchbiegen (feststehend oder mitlaufend)
-![[Pasted image 20230530164754.png]]
-
-Zählen Sie fünf Sicherheitsvorschriften beim Drehen auf. #card
-- Enganliegende
-- Arbeitskleidung,
-- Späne mit Spanhaken entfernen,
-- Werkstück sicher einspannen,
-- Sicherheitsschuhe,
-- Haar- und Augenschutz verwenden,
-- Steckschlüssel abziehen.
 
 
 Welche Drehmeißel sind im Bild zu sehen? #card
@@ -1614,42 +1272,6 @@ Wie führen sie Reklamationen durch? #card
 - schriftlich (Fax oder Mail) zwischenlagern, Dringlichkeit, Pönale
 
 
-Benennen Sie die Ihnen vorgelegten Fräser! (Fräser aus Prüfungskoffer) #card
-- Walzenstirnfräser,
-- Winkelfräser
-- Schaftfräser,
-- Scheibenfräser,
-- Eckfräskopf,
-![[Pasted image 20230530164835.png]]
-
-Wie werden diese Fräser eingespannt? #card
-- Aufsteckfräsdorn,
-- WelldonAufnahme,
-- Schrumpfaufnahme,
-- Spannzangen,
-- Spannfutter,
-![[Pasted image 20230530164847.png]]
-
-Wie können Werkstücke, beim Fräsen gespannt werden? #card
-- Maschinenschraubstock,
-- Dreibackenfutter,
-- Magnetplatten,
-- Schnellspannvorrichtung,
-- Teilapparat,
-- Rundtisch,....
-![[Pasted image 20230530164856.png]]
-
-Nennen Sie den Unterschied zw. Gegen- und Gleichlauffräsen! #card
-**Gegenlauffräsen**:
-Schnittrichtung = entgegen der Vorschubrichtung, Spanquerschnitt von
-dünn auf dick!
-**Gleichlauffräsen**:
-Drehrichtung das Fräsers = der Vorschubrichtung, Spanquerschnitt von dick auf dünn!
-![[Pasted image 20230530164908.png]]
-
-Wie müssen Handräder bei Fräsmaschinen beschaffen sein? #card
-Ausklinkbar, oder ohne Kurbel wegen Eilgang
-![[Pasted image 20230530164920.png]]
 
 Beschreiben sie die Lagerverwaltung von Metallen. #card
 - Keine zu großen Lagermengen,
@@ -1664,11 +1286,7 @@ Nennen Sie Unfallverhütungsmaßnahmen beim Aufrüsten von Schleifscheiben! #car
 - nur gleich große Flansche verwenden,
 - Schleifscheibe auswuchten,
 - 5 min Probelauf!
-![[Pasted image 20230530164941.png]]
 
-Was verstehen Sie unter Schleifen? #card
-Spanabhebende Bearbeitung mit geometrisch unbestimmten Schneiden.
-![[Pasted image 20230530164956.png]]
 
 Verwendet man für harte Werkstoffe weiche oder harte Schleifscheiben? #card
 Weiche Schleifscheiben - Korn bricht schnell aus, dadurch kommt das neue Korn schneller zum Einsatz.

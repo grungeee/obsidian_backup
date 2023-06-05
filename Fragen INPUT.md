@@ -5,7 +5,7 @@ In Eisenmetalle und Nichteisenmetalle.
 
 
 Wie werden Eisenwerkstoffe eingeteilt? #card
-In Stähle und Eisengusswerkstoffe (nicht sicher)
+Gusseisen und Stahl
 
 Wie werden Stähle eingeteilt? #card
 - Baustähle,
@@ -552,3 +552,465 @@ Was verstehen Sie unter einer Welle? #card
 
 Was verstehen Sie unter einer Achse? #card
 Werden vorwiegend auf Biegung beansprucht und übertragen keine Drehmomente.
+
+
+Was verstehen Sie unter Bolzen? #card
+Sind kurze Achsen, mit denen Maschinenteile beweglich verbunden werden (z.B.Gelenkbolzen)
+
+
+Wie werden Bolzen beansprucht? #card
+Auf Abscherung und Biegung.
+
+## 10 (/)
+## 11
+
+Wie kann man die Genauigkeit einer Messschraube überprüfen? #card
+Endmaße
+
+
+Welche Arten von Messschrauben gibt es? #card
+- Außen-,
+- Innen-,
+- Tiefen-,
+- Gewindemessschraube,
+- Zahnweitenmessschraube.
+
+Welche Messgenauigkeiten besitzen Messschrauben? #card
+In der Regel 0,01 mm oder 0,001 mm.
+
+Aus welchen Teilen besteht eine Bügelmessschraube? #card
+- Amboß,
+- Messspindel,
+- Bügel,
+- Skalenhülse,
+- Skalentrommel,
+- Gefühlsratsche (Kupplung),
+- Klemmhebel,
+- Isolierplatte
+
+
+Welche Einflüsse auf Messabweichungen können beim Messen mit der Messschraube auftreten? #card
+- Verkanten des Werkstückes,
+- Schmutz,
+- Grat,
+- Aufbiegung des Bügels,
+- Temperatureinflüsse,
+- zu schnelles drehen der Messspindel an das Werkstück,
+- (Steigungsfehler der Spindel).
+
+
+Für welche Messungen wird eine Messuhr verwendet? #card
+- Längenmessungen,
+- Parallelität,
+- Rundlauf,
+- Planlauf.
+
+Welche Ablesegenauigkeiten haben Messuhren? #card
+0,01 mm, 0,001 mm
+
+
+Wo können Messuhren eingespannt werden? #card
+- Magnetständer,
+- Magnethalter,
+- Einspannschaft,
+- Innenfeinmessgerät (Subito)
+
+
+Nennen Sie noch 3 weitere Lehren! #card
+- Grenzlehrdorn,
+- Gewindelehrdorn,
+- Steigungslehre,
+- Grenzrachenlehre.
+
+
+Was sind Endmaße und wozu werden Sie verwendet? #card
+- Endmaße sind Blöcke zum Prüfen und Kalibrieren von Messgeräten und Prüfmitteln
+- Haben parallele Flächen,
+- sind genau auf Maß geschliffen,
+- geläppt,
+
+
+Was verstehen Sie unter dem Begriff BezugsTemperatur? #card 
+Optimale Temperatur für genaue Messungen 20°C an Werkstück und Messgerät.
+
+
+Was ist der Unterschied zwischen Messen und Prüfen? #card
+- Messen - Zahlenwert,
+- Prüfen - Gut oder Ausschuss.
+
+
+Nennen Sie mindestens 5 Prüfgeräte! #card
+- Flachwinkel,
+- Anschlagwinkel,
+- Haarwinkel,
+- Wasserwaage,
+- Radiuslehre,
+- Richtwaagen,
+- Kegellehren.
+
+
+Was sind Grenzlehren? #card
+- Lehren zum Prüfen, ob das Werkstück in der gewünschten Toleranz gefertigt wurde.
+- Hat eine Gut- und Ausschussseite,
+
+
+Beschreiben Sie einen Grenzlehrdorn! #card
+- Gutseite muss in die Bohrung durch ihr Eigengewichtgleiten, Ausschussseite darf nur anschnäbeln.
+
+
+Beschreiben Sie eine Grenzrachenlehre! #card
+Zum Prüfen von Wellen und Dicken von Werkstücken, die Gutseite hat das Höchstmaß und muss darüber gleiten, Ausschussseite darf nur anschnäbeln.
+
+
+Was verstehen Sie unter Gewindelehren? #card
+Sind Lehren zum Prüfen von Gewinde, haben eine Gut- und eine Ausschussseite, Gutseite muss ein- oder aufdrehbar sein, Ausschuss darf nicht raufgehen.
+
+
+Worauf ist beim Prüfen mit einem Grenzlehrdorn zu achten? #card
+- Temperatur 20°Grad,
+- gerades Ansetzen der Prüfgeräte,
+- richtige Handhabung (Prüfdruck)
+
+
+Welche Angaben können von Grenzlehrdornen abgelesen werden? #card
+Höchstmaß und Mindestmaß einer Toleranz
+
+
+Was verstehen Sie unter "Anreißen"? #card
+Übertragen der Maße von der Zeichnung auf das Werkstück.
+
+
+Nennen Sie 5 Anreißwerkzeuge! #card
+- Anreißplatte als Unterlage,
+- Anreißnadel,
+- Körner (60°),
+- Spitzzirkel,
+- Höhenreißer,
+- Zentrierwinkel,
+
+
+Aus welchen Teilen besteht eine Handbügelsäge? #card 
+- Bügel,
+- Sägeblatt,
+- Heftkloben,
+- Spannkloben
+
+
+Welche Ausführungsmöglichkeiten von Sägeblättern gibt es, um das Festklemmen zu vermeiden? #card
+- Schränken,
+- Wellen,
+- Hohlschleifen,
+- Stauchen,
+- oder mit Zahnsegmenten.
+
+
+Worauf ist beim Einspannen eines Sägeblattes zu achten? #card
+Gerade und straff gespannt und Sägeblattrichtung bzw. Zahnrichtung in Stoßrichtung (Vorschubrichtung).
+
+
+Welche Arten von Zähnen kennen Sie? #card
+- Bogenzähne - bei Maschinensägeblättern. (widerstandsfähiger)
+- Winkelzähne - Handsägeblätter
+
+
+Nach welchen Kriterien werden Feilen eingeteilt? #card
+- Zahnform,
+- Hiebweite,
+- Hiebart Größe und Querschnittsform.
+
+
+Wozu werden gefräste und wozu werden gehauene Feilen verwendet? #card
+- Gehauene Feilen haben negative Spanwinkel
+- wirken schabend (für härtere Werkstoffe, Säge und Schärffeilen). Gefräste Feilen haben positiven Spanwinkel
+- wirken schneidend (für weiche Werkstoffe)
+
+
+Wie heißen die Teile einer Feile? #card
+- Feilenblatt,
+- Heft,
+- Angel
+
+Welche Hiebarten kennen Sie? #card
+- Einfacher Hieb (Einhieb),
+- Kreuzhieb,
+- Raspelhieb
+
+Was verstehen Sie unter einer Hiebzahl? #card
+Verschiedene Einteilung (von grob - fein) Hiebe pro cm Feilenblattlänge, (mit Hiebnummern 1 bis 8).
+
+
+Welchen Vorteil hat ein Kreuzhieb? #card
+Riefenbildung und einseitiges Feilen werden vermieden.
+
+### 13.
+
+Woraus setzt sich ein Handgewindebohrersatz zusammen? #card 
+Vor-, Mittel und Fertigschneider
+
+
+Beschreiben Sie die Herstellung eines Muttergewindes von Hand! #card 
+- Vorbohren auf Kernlochdurchmesser,
+- Senken mind. auf Nenndurchmesser,
+- Gewindeschneiden (Vor-, Mittel-, Fertigschneider)
+- Späne durch Zurückdrehen öfter brechen,
+- Schneidöl.
+
+
+Welche Gewindearten kennen Sie? #card 
+- Metrisches ISO-Gewinde,
+- Spitz-,
+- Rund-,
+- Flach-,
+- Säge-,
+- Zollgewinde
+
+
+Warum werden Werkstücke gehärtet? #card 
+Um Stähle hart und verschleißfest zu machen.
+
+
+Welche 2 Härteverfahren werden für Werkzeugstähle vorwiegend verwendet? #card 
+- Vakuumhärten,
+- Schutzgashärten
+
+
+Wie funktioniert der Härteablauf? #card 
+- Erwärmen auf Härtetemperatur,
+- halten auf Härtetemperatur,
+- Abschrecken,
+- Anlassen
+
+
+Wovon hängt die Härtetemperatur von hochlegiertem Werkzeugstahl ab? #card 
+Härtetemperatur ist von Legierungsbestand-teilen und C-Gehalt abhängig, vom Stahlhersteller angegeben.
+
+
+Nennen Sie 3 Härteverfahren! #card 
+- Einsatzhärten,
+- Nitrierhärten,
+- Flammhärten,
+- Induktionshärten, ....
+
+
+Was verstehen Sie unter einer Glashärte? #card
+Härte nach dem Abschrecken (hartes sprödes Gefüge) unbrauchbar als Werkzeug
+
+Wie kann die Glashärte auf Gebrauchshärte eines Werkzeugstahls geändert werden? #card
+Durch Anlassen
+
+
+Was verstehen Sie unter "Vergüten"? #card
+Vergüten ist ein Härten mit nachfolgendem hohen Anlassen (500 - 700°C)
+
+
+Welchen Zweck hat das Vergüten? #card 
+- hohe Festigkeit,
+- hohe Streckgrenze,
+- große Zähigkeit,
+- Feinkörniges Gefüge,.
+
+## 14 (/)
+## 15
+
+Nennen Sie die Ursachen, wenn die Bohrung zu groß wird? #card
+- Schlag,
+- ungleich lange Hauptschneiden,
+- stumpfe Schneiden ...
+
+
+Nennen Sie verschiedene Unfallverhütungsvorschriften beim Bohren! #card
+- Schutzkappe,
+- enganliegende Kleidung,
+- nie bei laufender Bohrspindel messen,
+- Werkstücke wenn mögl. immer einspannen!
+
+
+Welche verschiedenen Spiralbohrer-Typen kennen Sie? #card
+- **Typ N**: Normaldrallbohrer
+- **Typ H**: Langdrallbohrer,
+- **Typ W**: Kurzdrallbohrer,
+
+
+Für welche Werkstoffe werden diese Bohrertypen verwendet? #card
+- **Typ N** = Stahl, Stahlguss, Gusseisen,
+- **Typ H** = harte Werkstoffe
+- **Typ W** = weiche Werkstoffe,
+
+
+Worauf müssen Sie beim Nachschleifen eines Bohrers achten? #card
+- Gleiche Länge der Hauptschneiden,
+- Freifläche,
+- eventuell Ausspitzen der Querschneiden
+
+
+Wie berechnet man die Drehzahl beim Bohren? #card
+n = 1000 x Vc / d x Pi
+n ... Drehzahl
+Vc ... Schnittgeschwindigkeit
+d ... Durchmesser
+
+
+Welche Faktoren spielen ebenfalls eine Rolle bei der Auswahl der Drehzahl? #card
+- Werkstoff des Werkstückes und des Werkzeuges (HSS, HM),
+- Form d. Werkstücks,
+- Stabilität d. Maschine,
+- Spannmöglichkeit,
+
+
+Was verstehen sie unter dem Arbeitsverfahren Senken? #card
+Senken ist ein Bearbeitungsverfahren zum Entgraten und Herstellen von Senkungen!
+
+
+Welche Senkerarten kennen Sie? (Muster bzw. Bilder erklären!) #card
+- Kegelsenker (Spitzsenker),
+- Flachsenker,
+- Spiralsenker,
+- Plansenker,
+- Aufstecksenker
+
+
+Wie groß werden Kernlöcher von Gewindebohrungen angesenkt? #card
+Mindestens auf Nenndurchmesser des Gewindes!
+
+
+Wo verwendet man Flachsenker? #card
+Zur Herstellung von zylindrischen Schraubensenkungen!
+
+
+Erklären Sie die Herstellung einer ø8H7 Bohrung mit einer Handreibahle. #card
+1) Anreißen 
+2) körnen 
+3) bohren mit ø7.8mm,
+4) senken auf mind. Nenndurchmesser,
+5) ø8H7 Handreibahle in Windeisen spannen,
+6) einführen 
+7) gerade ansetzen,
+8) schmieren,
+9) im Uhrzeigersinn eindrehen
+10) nicht zurückdrehen,
+11) ausblasen,
+12) prüfen mit Grenzlehrdorn.
+
+
+Was verstehen Sie unter dem Begriff Reiben? #card
+Reiben ist ein spanabhebendes Bearbeitungsverfahren zur Herstellung von genauen Bohrungen mit hoher Oberflächengüte!
+
+
+Wie werden Reibahlen nach der Verwendung eingeteilt? #card
+Hand- und Maschinenreibahlen
+
+
+Wie werden die Reibahlen nach der Form eingeteilt? #card
+Zylindrische und kegelige Reibahlen
+
+
+Was verstehen Sie unter einer verstellbaren Reibahle? #card
+Durchmesser kann innerhalb eines verhältnismäßig großen Bereichs geändert werden.
+
+
+Wie ist der Aufbau einer Reibahle? #card
+- Schaft,
+- Hals,
+- Schneidenteil,
+- Anschnitt
+
+
+Wie ist die Anordnung der Zähne bei einer Reibahle? #card
+Gerade Anzahl (4, 6, 8 bis 16) aber ungleiche Teilung, um das Rattern zu verhindern
+
+## 16
+
+
+Was verstehen Sie unter Längsdrehen? #card
+Wenn die Vorschubrichtung parallel zur Drehachse liegt!
+
+
+Was verstehen Sie unter Plandrehen? #card
+Vorschubrichtung ist quer zur Drehachse!
+
+
+Welche Spannmöglichkeiten kennen Sie beim Drehen? #card
+- Backenfutter,
+- Axialspannfutter,
+- Kraftspannfutter
+- Spannzange,
+- Planscheibe,
+
+
+Was ist beim Einspannen von Drehmeißeln zu beachten? #card
+- Gerade,
+- mittig,
+- so kurz als möglich,
+- wenn möglich keine Unterlagen,
+- gut klemmen...
+
+
+Wie können Bohrwerkzeuge beim Drehen gespannt werden? #card
+Im Werkzeughalter, Bohrfutter mittels Reduzierhülsen in der Pinole
+
+
+Zählen Sie die Teile einer UniversalDrehmaschine (Spitzendrehmaschine) lt. Bild auf. #card
+A) Gestell,
+B) Maschinenbett,
+C) Spindelstock mit Hauptspindel,
+D) Werkzeugschlitten,
+E) Reitstock,
+F) Leitspindel,
+G) Zugsspindel
+H) Schaltspindel
+
+
+Was sind Wendeschneidplatten und wie werden sie gespannt? #card
+- Wendeschneidplatten sind HM-Schneiden eines Werkzeuges.
+- Sie werden in Klemmhaltern geklemmt oder geschraubt (Hebelspannsystem,Schraubspannsystem und Spannfingersystem)
+
+
+Wie wird das Durchbiegen einer längeren Welle beim Drehen verhindert? #card
+- Durch die Verwendung eines Setzstockes (Lünette)
+- Er nimmt den Schnittdruck auf und verhindert das Durchbiegen (feststehend oder mitlaufend)
+
+
+Zählen Sie fünf Sicherheitsvorschriften beim Drehen auf. #card
+- Enganliegende
+- Arbeitskleidung,
+- Späne mit Spanhaken entfernen,
+- Werkstück sicher einspannen,
+- Sicherheitsschuhe,
+- Haar- und Augenschutz verwenden,
+- Steckschlüssel abziehen.
+
+
+
+
+Wie werden diese Fräser eingespannt? #card
+- Aufsteckfräsdorn,
+- WelldonAufnahme,
+- Schrumpfaufnahme,
+- Spannzangen,
+- Spannfutter,
+
+Wie können Werkstücke, beim Fräsen gespannt werden? #card
+- Maschinenschraubstock,
+- Dreibackenfutter,
+- Magnetplatten,
+- Schnellspannvorrichtung,
+- Teilapparat,
+- Rundtisch,....
+
+
+Nennen Sie den Unterschied zw. Gegen- und Gleichlauffräsen! #card
+**Gegenlauffräsen**:
+Schnittrichtung = entgegen der Vorschubrichtung, Spanquerschnitt von
+dünn auf dick!
+**Gleichlauffräsen**:
+Drehrichtung das Fräsers = der Vorschubrichtung, Spanquerschnitt von dick auf dünn!
+
+
+Wie müssen Handräder bei Fräsmaschinen beschaffen sein? #card
+Ausklinkbar, oder ohne Kurbel wegen Eilgang
+
+
+Was verstehen Sie unter Schleifen? #card
+Spanabhebende Bearbeitung mit geometrisch unbestimmten Schneiden.
+
+## 17
