@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +169,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c0f70d40da4e8f1a",
+  "active": "b535e0da02c25386",
   "lastOpenFiles": [
     "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
     "Fragen INPUT.md",
