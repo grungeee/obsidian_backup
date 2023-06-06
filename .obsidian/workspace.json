@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md"
+                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md"
               }
             }
           }
@@ -169,10 +168,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b535e0da02c25386",
+  "active": "2bb6df3816104fd7",
   "lastOpenFiles": [
-    "Pasted image 20230530151029.png.md",
     "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+    "Pasted image 20230530151029.png.md",
     "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
     "Pasted image 20230530164117.png.md",
     "Pasted image 20230530155353.png.md",
