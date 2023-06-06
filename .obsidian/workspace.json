@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/INPUT in Anki.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/INPUT in Anki.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/INPUT in Anki.md",
+                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/INPUT in Anki.md"
+                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md"
               }
             }
           }
@@ -169,11 +168,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b535e0da02c25386",
+  "active": "2bb6df3816104fd7",
   "lastOpenFiles": [
-    "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
-    "WiFi-Share/Metallhelfer 2/INPUT in Anki.md",
     "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+    "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+    "WiFi-Share/Metallhelfer 2/OUTPUT to Anki.md",
+    "WiFi-Share/Metallhelfer 2/INPUT in Anki.md",
+    "To anki.md",
     "WiFi-Share/Metallhelfer 2/Fragen INPUT.docx",
     "Pasted image 20230530151029.png.md",
     "Pasted image 20230530164117.png.md",
@@ -212,8 +213,6 @@
     "WiFi-Share/Metallhelferprfüfung/10.md",
     "WiFi-Share/Metallhelferprfüfung/11.md",
     "WiFi-Share/Metallhelferprfüfung/12.md",
-    "WiFi-Share/Metallhelferprfüfung/13.md",
-    "WiFi-Share/Metallhelferprfüfung/14.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx"
