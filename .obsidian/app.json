@@ -4,5 +4,8 @@
   "vimMode": true,
   "spellcheckLanguages": [
     "de"
-  ]
+  ],
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "tabSize": 4
 }

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bb6df3816104fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0f70d40da4e8f1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+                "file": "Maschinenelemente.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+                "file": "Maschinenelemente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+                "file": "Maschinenelemente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Metallhelfer 2/Fragen INPUT.md"
+                "file": "Maschinenelemente.md"
               }
             }
           }
@@ -169,12 +157,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2bb6df3816104fd7",
+  "active": "c0f70d40da4e8f1a",
   "lastOpenFiles": [
+    "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+    "Maschinenelemente.md",
+    "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
+    "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
     "_debug_remotely_save/log_hist_exported_on_1686336138738.md",
     "_debug_remotely_save",
-    "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
-    "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
     "WiFi-Share/Metallhelfer 2/OUTPUT to Anki.md",
     "WiFi-Share/Metallhelfer 2/INPUT in Anki.md",
     "To anki.md",
@@ -213,8 +203,6 @@
     "WiFi-Share/Metallhelferprfüfung/6.md",
     "WiFi-Share/Metallhelferprfüfung/8.md",
     "WiFi-Share/Metallhelferprfüfung/9.md",
-    "WiFi-Share/Metallhelferprfüfung/10.md",
-    "WiFi-Share/Metallhelferprfüfung/11.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx"
   ]
