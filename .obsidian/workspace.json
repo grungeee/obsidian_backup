@@ -165,11 +165,14 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "2bb6df3816104fd7",
   "lastOpenFiles": [
+    "_debug_remotely_save/log_hist_exported_on_1686336138738.md",
+    "_debug_remotely_save",
     "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
     "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
     "WiFi-Share/Metallhelfer 2/OUTPUT to Anki.md",
@@ -212,9 +215,7 @@
     "WiFi-Share/Metallhelferprfüfung/9.md",
     "WiFi-Share/Metallhelferprfüfung/10.md",
     "WiFi-Share/Metallhelferprfüfung/11.md",
-    "WiFi-Share/Metallhelferprfüfung/12.md",
     "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/8.docx"
+    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx"
   ]
 }
