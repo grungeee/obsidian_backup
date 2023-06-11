@@ -16,5 +16,14 @@
       ],
       "key": "A"
     }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }

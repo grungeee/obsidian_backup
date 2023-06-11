@@ -1,3 +1,0 @@
-
-![[Linienarten]]
-![[Schriftblockbreite.excalidraw]]

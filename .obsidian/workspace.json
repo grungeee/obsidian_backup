@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8a390d58e604d32b",
+        "id": "c20c22e717c2d444",
         "type": "tabs",
         "children": [
           {
-            "id": "f73580ddb8ff02fe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg"
-              }
-            }
-          },
-          {
-            "id": "d491c1961192bb67",
+            "id": "7b6fb1bbc639ad09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Muster.md",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -59,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg"
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md"
               }
             }
           }
@@ -167,20 +157,44 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b535e0da02c25386",
+  "active": "7b6fb1bbc639ad09",
   "lastOpenFiles": [
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L4_v.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L4_h.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L3.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L2.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg",
-    "PK_L2 1.jpg",
-    "🏡 Home.md",
+    "Untitled 10.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+    "Untitled 9.md",
+    "Untitled 7.md",
+    "Untitled 8.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "nll.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.html",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.docx",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L4_v.jpg",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230534.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230434.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230402.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230255.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230230.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230212.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230116.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230050.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
+    "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/PK - Liste.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
+    "_debug_remotely_save/log_hist_exported_on_1686336138738.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
+    "🏡 Home.md",
     "Untitled 1",
     "Untitled",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
     "WiFi/publish.css",
     "WiFi/🏡 Home.md",
     "WiFi/misc/Obsidian Git.md",
@@ -189,31 +203,7 @@
     "WiFi/WiFi-Share/Metallhelfer 2/2.md",
     "WiFi/WiFi-Share/Metallhelfer 2/1.md",
     "WiFi/Werkzeugkoffer 4 von Luca.docx",
-    "WiFi/WiFi-Share/Stapler/Stapler schein.md",
     "WiFi/WiFi-Share/Metallhelfer 2/2.mediawiki",
-    "WiFi/Excalidraw/SI Einheiten.excalidraw.svg",
-    "WiFi/Excalidraw/SI Einheiten.excalidraw.md",
-    "WiFi/Excalidraw/Stromkreis_BSP.excalidraw.md",
-    "WiFi/WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
-    "WiFi/Excalidraw/Stromkreis_BSP.excalidraw.svg",
-    "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.docx",
-    "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
-    "WiFi/Excalidraw/Schriftblockbreite.excalidraw.md",
-    "WiFi/Excalidraw/Schriftblockbreite.excalidraw.svg",
-    "WiFi/WiFi-Share/Schweißtechnik/Schweißtechnik.md",
-    "WiFi/Excalidraw/das magische Dreieck.excalidraw.md",
-    "WiFi/WiFi-Share/Werkstofftechnik/Stack/Test Fragen.md",
-    "WiFi/WiFi-Share/Metallhelfer 2/1_edited_original.md",
-    "WiFi/Excalidraw/das magische Dreieck.excalidraw.svg",
-    "WiFi/WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
-    "WiFi/WiFi-Share/Schweißtechnik/Fragen & Antworten.docx",
-    "WiFi/WiFi-Share/Elektrotechnik Grundlagen/Stack/Diode.md",
-    "WiFi/WiFi-Share/Maschinenelemente/Maschinenelemente.md",
-    "WiFi/WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten.md",
-    "WiFi/WiFi-Share/Schweißtechnik/Fragen & Antworten JIC.md",
-    "WiFi/Excalidraw/Drawing 2023-04-20 20.37.55.excalidraw.md",
-    "WiFi/WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
-    "WiFi/WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.docx",
-    "WiFi/WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO"
+    "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.docx"
   ]
 }

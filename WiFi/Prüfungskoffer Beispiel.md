@@ -1,1 +1,0 @@
-Prüfungskoffer-LADE 1

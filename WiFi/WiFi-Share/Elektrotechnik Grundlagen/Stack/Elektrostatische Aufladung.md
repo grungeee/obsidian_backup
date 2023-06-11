@@ -1,1 +1,0 @@
-Eine elektrische Spannung wird durch Aufladung von Materialien durch Reibung oder andere Methoden erzeugt. Diese Methode wird in Elektrostatikgeneratoren, elektrostatischen Sprühgeräten und elektrostatischen Filtern eingesetzt.
