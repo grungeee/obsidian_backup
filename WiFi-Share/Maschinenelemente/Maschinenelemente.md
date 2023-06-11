@@ -12,15 +12,15 @@ Einteilung in
 	- Getriebe 
 	- Kupplungen
 
-## Einfache Maschinenelemente (Einzelteile)
+### Einfache Maschinenelemente (Einzelteile)
 > Sind nach **NORM** definiert
 
-## Komplexe Maschinenelemente (Baugruppen)
+### Komplexe Maschinenelemente (Baugruppen)
 - Wichtigen Eigenschaften genormt
 	- z. B.: 
 	- 
-## Einteilung der Maschinenelemente nach Funktion 
-### Verbindungselemente
+### Einteilung der Maschinenelemente nach Funktion 
+#### Verbindungselemente
 - Lösbare Verbindung: Schrauben
 - unlösbare: Niete
 	## Übertagungselemente bzw. Umformelemente 
@@ -32,19 +32,29 @@ Einteilung in
 	- Kettenantrieb
 	- Riemenantriebe: Nähmaschine
 
-### Dichtungselemente
+#### Dichtungselemente
 - Ruhende Dichtung, auch *statische Dichtung* genannt
 	- Flachdichtung(in einem Ventil z.B.)
 	- Profildichtung
 - Bewegungsrichtung
 	- Radialwellendichtring (O - Ring)
-### Lagerungselemente
+#### Lagerungselemente
 > Führung für rotations-symmetrischer Bewegung
 
 - Wälzlager
 - Gleitlager (Türscharniere)
-### Energiespeicherungselemene
+#### Energiespeicherungselemene
 - Feder: *Zug/Druck
 - Sch
 
-- Drehmoment: /
+- Drehmoment:
+
+
+## Werkzeugkoffer
+[[Prüfungskoffer Beispiel]]
+
+### 4. Lade von Luca
+1. [[Prüfungskoffer  - Lade 1.]]
+2. [[Prüfungskoffer - Lade 2. (von Nikita)]]
+3. [[Prüfungskoffer - Lade 3.]]
+4. [[Prüfungskoffer  - Lade 4. von Luca]] 

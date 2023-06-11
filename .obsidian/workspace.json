@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "30c34a1f3a570ec9",
+        "id": "fee0dcc0206e84f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c0f70d40da4e8f1a",
+            "id": "67a1dde9cc9f8fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maschinenelemente.md",
+                "file": "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "15f9c4900dc45038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7d63224f608b8819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a98c2fe750f0cb6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maschinenelemente.md",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maschinenelemente.md",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maschinenelemente.md"
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.md"
               }
             }
           }
@@ -157,10 +192,31 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c0f70d40da4e8f1a",
+  "active": "15f9c4900dc45038",
   "lastOpenFiles": [
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.docx",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
+    "Prüfungskoffer Beispiel.md",
+    "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
+    "Prüfungskoffer  - Lade 4. von Luca.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.119.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.118.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.117.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.116.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.115.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.114.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.113.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.112.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.111.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Aspose.Words.b4a8300f-23a2-4d37-956d-46ad73133268.110.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer",
+    "WiFi-Share/Maschinenelemente",
+    "Werkzeugkoffer 4 von Luca.docx",
     "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
-    "Maschinenelemente.md",
     "WiFi-Share/Werkstofftechnik/Werkstofftechnik.md",
     "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
     "_debug_remotely_save/log_hist_exported_on_1686336138738.md",
@@ -183,27 +239,6 @@
     "WiFi-Share/Metallhelfer 2/2.md",
     "WiFi-Share/Metallhelferprfüfung/convertion_scripts/convert_to_anki.py",
     "WiFi-Share/Metallhelferprfüfung/convertion_scripts",
-    "WiFi-Share/Metallhelfer 2/2.mediawiki",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192213.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192142.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192105.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522192034.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522191939.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522191827.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522191141.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190820.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190503.png",
-    "WiFi-Share/Metallhelferprfüfung/Images/Pasted image 20230522190357.png",
-    "WiFi-Share/Metallhelferprfüfung/Images",
-    "WiFi-Share/Metallhelferprfüfung/New folder",
-    "WiFi-Share/Metallhelferprfüfung/1.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen (1).md",
-    "WiFi-Share/Metallhelferprfüfung/7.md",
-    "WiFi-Share/Metallhelferprfüfung/6.md",
-    "WiFi-Share/Metallhelferprfüfung/8.md",
-    "WiFi-Share/Metallhelferprfüfung/9.md",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/convert_to_anki.py",
-    "WiFi-Share/Metallhelferprfüfung/Metallhelferprfüfung/9.docx"
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md"
   ]
 }
