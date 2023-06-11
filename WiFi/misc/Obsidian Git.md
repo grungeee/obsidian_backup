@@ -1,0 +1,2 @@
+- [GitHub Repo](https://github.com/denolehov/obsidian-git)
+- [Documentation](https://publish.obsidian.md/git-doc/01+Start+here)

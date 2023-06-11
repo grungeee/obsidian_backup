@@ -1,3 +1,4 @@
+
 ## Elektrische Ladungsträger
 ### Stromkreis
 ![[Stromkreis_BSP.excalidraw.svg]]
@@ -10,7 +11,7 @@
 #### Stromrichtung
 - *technische* Stromrichtung **(+) → (-)**
 - *elektrische* Stromrichtung **(-) → (+)**
-![[Stromkreis_BSP.excalidraw 1.svg]]
+![[Stromkreis_BSP.excalidraw.svg]]
 %%[[Stromkreis_BSP.excalidraw 1.md|🖋 Edit in Excalidraw]], and the [[Stromkreis_BSP.excalidraw 1.dark.svg|dark exported image]]%%
 
 [[stromkreis_todo]]

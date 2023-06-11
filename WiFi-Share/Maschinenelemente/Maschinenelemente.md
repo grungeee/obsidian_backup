@@ -51,7 +51,7 @@ Einteilung in
 
 
 ## Werkzeugkoffer
-[[Prüfungskoffer Beispiel]]
+[[Prüfungskoffer Komplett]]
 
 ### 4. Lade von Luca
 1. [[Prüfungskoffer  - Lade 1.]]
