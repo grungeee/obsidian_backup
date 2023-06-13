@@ -14,5 +14,8 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
   "dataview",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "remotely-save",
+  "oz-image-plugin",
+  "wikilinks-to-mdlinks-obsidian"
 ]

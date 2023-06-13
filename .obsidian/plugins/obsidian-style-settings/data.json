@@ -7,5 +7,7 @@
   "checkbox@@chck-pad": false,
   "checkbox@@chst-reg": true,
   "checkbox@@chst-chk": true,
-  "minimal-advanced@@cursor": "default"
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@zoom-off": false,
+  "minimal-style@@image-muted": 0.75
 }

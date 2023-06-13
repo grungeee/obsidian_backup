@@ -1,5 +1,5 @@
 {
-  "showCLICommands": false,
+  "showCLICommands": true,
   "addExtensionsToInternalLinks": "html",
   "injectAppCSS": "current",
   "injectThemeCSS": false,
@@ -10,6 +10,6 @@
   "pandoc": "C:\\Users\\nikit\\AppData\\Local\\Pandoc\\pandoc.exe",
   "pdflatex": null,
   "outputFolder": null,
-  "extraArguments": "",
-  "exportFrom": "html"
+  "extraArguments": "--from markdown+rebase_relative_paths",
+  "exportFrom": "md"
 }
