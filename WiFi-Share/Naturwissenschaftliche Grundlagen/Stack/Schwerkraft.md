@@ -32,3 +32,5 @@ g … Erdgeschleunigung, [ \ g \ ] = 9,81{m}/{s^{2}}&&\\
 \end{flalign}
 $$
 ```
+
+![[Newton'sches Gravitationsgesetz]]

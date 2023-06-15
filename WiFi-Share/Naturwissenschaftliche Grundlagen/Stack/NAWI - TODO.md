@@ -121,14 +121,14 @@
 	- Dazu Beispielrechnungen
  
 #### Kraftbegriff
-- Die 3 Newton' sche Axiome
+- [x] Die 3 Newton' sche Axiome
 - Trägheitsgesetz
 - Dynamisches Grundgesetz
 - Reaktionsprinzip
 - dazu Beispielrechnungen
 #### Arten von Kräften:
-- Schwerkraft
-- Druck und Normalkraft
+- [x] Schwerkraft
+- [x] Druck und Normalkraft **27**
 #### Grundlagen der Kinematik:
 ##### Arten der Bewegung:
 - Translation

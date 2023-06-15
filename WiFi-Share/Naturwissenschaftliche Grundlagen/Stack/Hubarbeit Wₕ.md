@@ -1,3 +1,4 @@
+Hubarbeit Wₕ → [[Potenzielle Energie Eₚ]] 
 
 ``` ad-formel
 $$
@@ -34,4 +35,4 @@ $$
 
 ```
 
-
+ ![[Potenzielle Energie Eₚ]]o

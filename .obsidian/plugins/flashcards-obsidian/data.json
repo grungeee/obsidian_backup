@@ -1,5 +1,5 @@
 {
-  "contextAwareMode": true,
+  "contextAwareMode": false,
   "sourceSupport": false,
   "codeHighlightSupport": false,
   "inlineID": false,
@@ -9,6 +9,6 @@
   "flashcardsTag": "card",
   "inlineSeparator": "::",
   "inlineSeparatorReverse": ":::",
-  "defaultAnkiTag": "obsidian",
+  "defaultAnkiTag": "wifi",
   "ankiConnectPermission": true
 }

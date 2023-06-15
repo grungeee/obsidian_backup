@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidianite",
-  "baseFontSize": 17,
-  "textFontFamily": "",
+  "cssTheme": "Minimal",
+  "baseFontSize": 13,
+  "textFontFamily": "Inter,Helvetica",
   "monospaceFontFamily": "Cascadia Code PL SemiLight"
 }

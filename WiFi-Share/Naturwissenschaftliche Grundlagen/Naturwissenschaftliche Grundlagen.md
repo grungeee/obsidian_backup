@@ -1,4 +1,3 @@
->[!info] [[NAWI - Unterrichtsplan|Unterrichtsplan]]
 
 ## Grundlegendes
 ### Das Wesen der Physik 
@@ -24,9 +23,7 @@
 
 ## Grundlagen der Kinematik
 ### [[Arten der Bewegung]] 
-- [[Schwerkraft]]
-- Druck und Normalkraft **s.27**
-![[Pasted image 20230515134400.png]]
+![[Pasted image 20230515134400.png|900]]
 ### [[Gleichförmige Bewegung]]
 
 
@@ -44,6 +41,14 @@
 
 ### [[Beschleunigende Kraft]]
 ### Arten von Kräften 
+#### [[Beschleunigende Kraft]]
+#### [[Zentrifugalkraft]]
+#### [[Schwerkraft]]
+
+- [[Druck P]] und Normalkraft 
+- more?
+
+
 
 
 ### Arbeit 
@@ -55,7 +60,7 @@ Die Drei Einheiten der Arbiet
 
 ### Energie 
 - [[Potenzielle Energie Eₚ]]
-- Kinetische Energie Eₖ
+- [[Kinetische Energie Eₖ]]
 ### Leistung 
 
 ## Elektrizität und Magnetismus

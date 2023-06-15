@@ -1,8 +1,11 @@
 
 -- -
 ###### Force push
-`git push --force origin <local-branch-name>:<remote-branch-name>
-`
+```
+git push --force origin <local-branch-name>:<remote-branch-name>
+
+```
+
 -- -
 ###### Merge two branches together
 To merge two branches together in Git, you can use the `git merge` command. Here are the steps:
