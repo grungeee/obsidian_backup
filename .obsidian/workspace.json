@@ -152,8 +152,7 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "publish:Publish changes...": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "publish:Publish changes...": false
     }
   },
   "active": "4b8d5353baa52568",
