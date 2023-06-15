@@ -1,60 +1,39 @@
 {
   "main": {
-    "id": "40dde09076e06442",
+    "id": "162ab204cfe321a5",
     "type": "split",
     "children": [
       {
-        "id": "c20c22e717c2d444",
+        "id": "e377a00f6d5f8087",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6fb1bbc639ad09",
+            "id": "31146ec60ff716be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7b5b7d0ade80b88",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-<<<<<<< HEAD
-                "file": "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
-=======
-                "currentVersion": "1.3.5"
->>>>>>> senpai
               }
             }
           }
-        ],
-<<<<<<< HEAD
-=======
-        "currentTab": 1,
->>>>>>> senpai
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ed406a15b82618ed",
+    "id": "6fb481f425cb6bad",
     "type": "split",
     "children": [
       {
-        "id": "dea9b041f1449870",
+        "id": "622ce4325a007dd4",
         "type": "tabs",
         "children": [
           {
-            "id": "b535e0da02c25386",
+            "id": "f85b2754a97afd54",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +43,7 @@
             }
           },
           {
-            "id": "bcbbe707ddb2819d",
+            "id": "0cc9dc20265c77ac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +58,7 @@
             }
           },
           {
-            "id": "ddbd341c4e50609f",
+            "id": "e93989d2d0cafc84",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,26 +69,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 300
-=======
-    "width": 298.5
->>>>>>> senpai
   },
   "right": {
-    "id": "d6fabc8829228524",
+    "id": "ac0c0c090f549fff",
     "type": "split",
     "children": [
       {
-        "id": "153619249b46bd70",
+        "id": "170201693ce9140d",
         "type": "tabs",
         "children": [
           {
-            "id": "93595132daf572e4",
+            "id": "37f0411ee4bd5eb8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,18 +97,19 @@
             }
           },
           {
-            "id": "3e5f1fc7a7beb189",
+            "id": "e19250754eec4f95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8c84dd6b487bc116",
+            "id": "3209887b6b7fa206",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,15 +120,16 @@
             }
           },
           {
-            "id": "963d7618d8b025e8",
+            "id": "b60e2c8fdbdbe4a1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 4.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,6 +140,7 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
+      "flashcards-obsidian:Generate flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -169,93 +148,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "publish:Publish changes...": false
     }
   },
-<<<<<<< HEAD
-  "active": "b535e0da02c25386",
+  "active": "31146ec60ff716be",
   "lastOpenFiles": [
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - TODO.md",
-    "conflict-files-obsidian-git.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Naturwissenschaftliche Grundlagen.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Vorsätze.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Schwerkraft.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Rotation  und Translation.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Potenzielle Energie Eₚ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Pasted image 20230515134400.png",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Newton'sche Axiome.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Hubarbeit Wₕ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Gleichförmige Bewegung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Dichte.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigung.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Beschleunigende Kraft.md",
-    "Beschleunigungsarbeit Wₐ.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/NAWI - Unterrichtsplan.md",
-    "WiFi-Share/Naturwissenschaftliche Grundlagen/Stack/Physikalische Arbeit W.md",
-    "misc/ChatGPT_logo_white.svg",
-    "misc/ChatGPT_logo_black.svg",
-    "WiFi-Share/Werkstofftechnik/Stack/🅰️ Antworten - Nikita.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmflamme.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Vorwärmen.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verstärkte Kunstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Verbundwerkstoffe.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Unterschied zwischen Vorgang und Verfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Stähle.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Strahlschneidverfahren.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Sintern.md",
-    "WiFi-Share/Werkstofftechnik/Stack/Schwermetalle.md"
-=======
-  "active": "b7b5b7d0ade80b88",
-  "lastOpenFiles": [
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
-    "Untitled 10.md",
-    "Untitled 9.md",
-    "Untitled 7.md",
-    "Untitled 8.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "nll.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.html",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.docx",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L4_v.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230534.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230434.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230402.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230255.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230230.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230212.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230116.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230050.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
-    "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/PK - Liste.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
-    "_debug_remotely_save/log_hist_exported_on_1686336138738.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
-    "🏡 Home.md",
-    "Untitled 1",
-    "Untitled",
-    "WiFi/publish.css",
-    "WiFi/🏡 Home.md",
-    "WiFi/misc/Obsidian Git.md",
-    "WiFi/Excalidraw/Linienarten.md",
-    "WiFi/Prüfungskoffer Beispiel.md",
-    "WiFi/WiFi-Share/Metallhelfer 2/2.md",
-    "WiFi/WiFi-Share/Metallhelfer 2/1.md",
-    "WiFi/Werkzeugkoffer 4 von Luca.docx",
-    "WiFi/WiFi-Share/Metallhelfer 2/2.mediawiki",
-    "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.docx"
->>>>>>> senpai
+    "Untitled 3.md",
+    "Untitled 6.md",
+    "Untitled 9.md",
+    "Untitled 10.md",
+    "nll.md"
   ]
 }
