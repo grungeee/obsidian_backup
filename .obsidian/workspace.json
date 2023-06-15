@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,8 +164,8 @@
   },
   "active": "b7b5b7d0ade80b88",
   "lastOpenFiles": [
-    "Untitled 10.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+    "Untitled 10.md",
     "Untitled 9.md",
     "Untitled 7.md",
     "Untitled 8.md",
