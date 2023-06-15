@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "78d5a6f29fb7623e",
+        "id": "45cba697f029a9ca",
         "type": "tabs",
         "children": [
           {
-            "id": "4b8d5353baa52568",
+            "id": "6e052192110c4ded",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -70,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dcd264b8596d0e70",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,10 +146,51 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4b8d5353baa52568",
+  "active": "6e052192110c4ded",
   "lastOpenFiles": [
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "conflict-files-obsidian-git.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
+    "nll.md",
+    "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
+    "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
+    "WiFi-Share/Metallhelfer 2/Fragen INPUT.docx",
+    "WiFi-Share/Metallhelfer 2/1_edited_original.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.docx",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Muster.docx",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/PK - Liste.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.docx",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230534.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230434.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230402.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230255.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230230.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230212.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230116.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230050.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611225846.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611225730.png",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer",
+    "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
+    "WiFi-Share/Maschinenelemente",
+    "Untitled.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 10.md",
+    "Untitled 1.md",
+    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md"
   ]
 }
