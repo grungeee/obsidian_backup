@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b7b5b7d0ade80b88",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -152,12 +163,10 @@
       "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "remotely-save:Remotely Save": false
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "7b6fb1bbc639ad09",
+  "active": "b7b5b7d0ade80b88",
   "lastOpenFiles": [
     "Untitled 10.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
