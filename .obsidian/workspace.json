@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7b5b7d0ade80b88",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md"
+                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md"
               }
             }
           }
@@ -163,24 +152,31 @@
       "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "b7b5b7d0ade80b88",
+  "active": "7b6fb1bbc639ad09",
   "lastOpenFiles": [
-    "Untitled 10.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer - Extra.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/PK - Liste.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
     "Untitled 9.md",
-    "Untitled 7.md",
     "Untitled 8.md",
+    "Untitled 10.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "nll.md",
+    "Untitled 7.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "nll.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.html",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.docx",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L4_v.jpg",
@@ -193,12 +189,8 @@
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230212.png",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230116.png",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230050.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
     "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/PK - Liste.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
     "_debug_remotely_save/log_hist_exported_on_1686336138738.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
     "🏡 Home.md",
@@ -210,7 +202,6 @@
     "WiFi/Excalidraw/Linienarten.md",
     "WiFi/Prüfungskoffer Beispiel.md",
     "WiFi/WiFi-Share/Metallhelfer 2/2.md",
-    "WiFi/WiFi-Share/Metallhelfer 2/1.md",
     "WiFi/Werkzeugkoffer 4 von Luca.docx",
     "WiFi/WiFi-Share/Metallhelfer 2/2.mediawiki",
     "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.docx"

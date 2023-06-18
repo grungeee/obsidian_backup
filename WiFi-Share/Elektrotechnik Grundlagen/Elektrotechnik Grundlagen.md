@@ -123,7 +123,7 @@ Das Ohmsche Gesetz bildet die Grundlage vieler Berechnungen und Analysen in der 
 
 -- -
 
-- Das ohmsche Gesetz gibt und den Zusammenhang zwischen Strom, Spannung und Widerstand in einem Stromkreis an.
+- Das ohmsche Gesetz gibt an den Zusammenhang zwischen Strom, Spannung und Widerstand in einem Stromkreis an.
 - Die **Spannung** ist direkt proportional zum Produkt von Stromstärke und Widerstand
 
 - Der **Strom** ist indirekt proportional zum
