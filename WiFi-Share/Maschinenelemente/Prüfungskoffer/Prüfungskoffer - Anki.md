@@ -38,8 +38,7 @@ Erklären Sie, was auf der Abbildung zu sehen ist!
 ![Pasted image 20230611220725.png](https://lh6.googleusercontent.com/1Qouxjr5ayyZdvr9p-Lgy4GAw7Xt5YfN53nFMw6FLCdsv_cBMFhy1sJjcNNaQFTtSSBiHi5F3MAgIlSCTGZjjd6HoVlTf1qkiXnsRUqdsDPFi0WLfjbbQkIONiOg0jxnOl_I4t4_cAvJtRbrEx82gg) #card 
 ### T-Stück
 
-
-Ein T-Stück ist ein Verbindungsglied, das in den meisten Fällen eine Abzweigung an eine bestehende Verbindung ermöglicht. T-Stücke gibt es für Tragwerke, Rohr- und Schlauchverbindungen sowie für verschiedene Datenübertragungskabel.
+Ein T-Stück ist ein **Verbindungsglied**, das in den meisten Fällen **eine Abzweigung** an eine bestehende Verbindung ermöglicht. T-Stücke gibt es für Tragwerke, Rohr- und Schlauchverbindungen 
 
 Dieses T-Stück wird für Pneumatik verwendet.
 
@@ -69,7 +68,8 @@ Geeignet zum Abdichten von Druckluftverschraubungen im Pneumatikbereich, oder im
 Sehr hitzebeständig.
 
 Erklären Sie, was auf der Abbildung zu sehen ist! 
-![Pasted image 20230611221035.png](https://lh4.googleusercontent.com/WEtcbcgeX5eM0qJOPX9w_nCDQf-vx9tokxTHetH1N72mlh7xcEMBPx6d7RwyfZ-u-J6ZZMG_EPfQ4kfOP3EfwIPpf1NXtGewmWwrtH_-P2oi9CKwMZhaoeW0AQTTtdhxxnES6eT2ejRfjy05GlI3UQ) Geeignet zum Abdichten von Druckluft und Dampfleitungen. Sehr Hitzebeständig. Verwendung: Motoren-Bereich (LKW/KFZ), Pumpen, Ölablass Schrauben, Armaturen #card 
+![Pasted image 20230611221035.png](https://lh4.googleusercontent.com/WEtcbcgeX5eM0qJOPX9w_nCDQf-vx9tokxTHetH1N72mlh7xcEMBPx6d7RwyfZ-u-J6ZZMG_EPfQ4kfOP3EfwIPpf1NXtGewmWwrtH_-P2oi9CKwMZhaoeW0AQTTtdhxxnES6eT2ejRfjy05GlI3UQ) #card
+Geeignet zum Abdichten von Druckluft und Dampfleitungen. Sehr Hitzebeständig. Verwendung: Motoren-Bereich (LKW/KFZ), Pumpen, Ölablass Schrauben, Armaturen 
 ### Kupferdichtring DIN 7603 Form A
 
 
