@@ -227,6 +227,114 @@ Diese Informationen helfen dabei, ein Gewinde eindeutig zu beschreiben und seine
 ## Verzahnungsarten
 
 ## Bohreraufbau 
+ ## Reibungsarten
 
-## Reibungsarten
+## MAG
+### Erkennungsmerkamalle
+- Gelbe Schlacke (Goldener See)
+- Spritezer
+- Niedrig/ -hoachleg Baustaehle
+## MAG - Einaging
+### Autogen
+- Form
+- 
+ 
+# Bläche
+## Chrom - Nikelstahl
+- WIG
+- MIG (geht auch, dickere Naht)
+## Aluminium
+- Passivschicht (Bildet passiv auf der Oberflaeche)
 
+## Baustahl
+- 2 Platten uebereinander, Hartgelötet
+- Schweißen -> Gefuege veraenderung
+- Löten -> Gefuege unverandert
+	- Vorteil: Bei hohen Vibrationen weniger zu Rissen anfällig
+
+## Lötzusaetze
+- Messing
+- Stahl
+- Alu
+- Chrom-Nikel (WIG - Schwießen)
+- Umhüllter Stahl (Elektrode) -> Übernimmt die Funkion von Gasschweißen
+- Karolötzinn (Sn63) -> Karoseriebau 
+	- Geschliefene Obrflache
+	- Lotzusatz (Reinigt die Oberflaeche, bindet den Lot)
+	 - Nochmall verschleifen
+
+## Messing
+- Kupfer + Zink 
+- Bronse = Kupfer + Zinn 
+
+S235JR **N**
+N -> Normalisiert ->  Feinkorn -> Waermebechandelt -> 
+
+### Rautenbläch 
+### Tränenblech
+- Rutchige Oberflaeche
+
+## Radialwellendichtring
+- Dichtlippe (Innen fuer Oelkammer) Bauform: A
+- Staublippe Bauform: AS (+)
+
+!!! Dichtungsen: Bewegliche und Unbewegliche
+
+## Lager
+### Wälzlager
+- Lauter
+- Schmutzanfaelling
+#### Aufbau
+- Aussenring 
+- Innenring
+- Wälzkörper
+	- Zylinder
+	- Nadel
+	- Tonen
+	- Kugel
+	- Kegel
+- Käfig
+> Wenn Mehrreihig sein -> Kann den axialen Versatz usgleichen
+
+Bsp:
+- Axialringkugellager
+- Nadellager(mit einer Schmiernut)
+### Gleitlager
+>Kann aus Messing oder Bronse hergestellt werden
+#### Aufbau
+
+##### Gleitlagerbuchsen
+- Notlaufeigenschaft: Wen es nictausreichend geschmiert ist kann es noch eine kurze zeit funktionieren
+-
+
+- Kann besser die Kraefte aufnehmen
+- Auf lebensdauer geschmiert 
+- Langsamer drehen???
+- 
+
+## Federn
+- Druck
+- Zug 
+
+### Klauenkupplung
+- Damit man einfacher die Bauelemente warten kann wird bei Wellen Klauenkupplungen eingebaut
+- Treibngsdaempfer
+- Schort (Haertegrad)
+
+Natürlich! Hier ist eine Aufteilung der genannten Riemenprofile in kraft- und formschlüssige Formen und Verbindungen:
+
+Kraftschlüssige Formen und Verbindungen:
+- Flachriemen: Flachriemen nutzen den Reibungseffekt zwischen dem Riemen und der Riemenscheibe, um die Kraft zu übertragen. Die Haftreibung sorgt für den Kraftschluss.
+
+- Keilriemen: Keilriemen nutzen die Keilform des Riemens und der Riemenscheiben, um die Kraftübertragung zu gewährleisten. Die Keilform erzeugt eine größere Kontaktfläche und erhöht den Kraftschluss durch Klemmung.
+
+- Rippenriemen: Rippenriemen basieren auf dem Keilriemenprinzip und nutzen die längs verlaufenden Rippen, um eine größere Kontaktfläche und einen besseren Kraftschluss zu erzielen.
+
+Formschlüssige Formen und Verbindungen:
+- Zahnriemen: Zahnriemen verwenden Zähne auf dem Riemen und Zahnriemenscheiben mit passenden Rillen, um die Kraftübertragung zu gewährleisten. Die Zahnform der Verbindung gewährleistet eine formschlüssige Verbindung.
+
+- Synchronriemen: Synchronriemen funktionieren ähnlich wie Zahnriemen, verwenden jedoch geradere Zähne für eine formschlüssige Verbindung.
+
+Es ist wichtig anzumerken, dass einige Riemenprofile sowohl kraft- als auch formschlüssige Elemente aufweisen können. Zum Beispiel haben Zahnriemen sowohl eine formschlüssige Verbindung durch die Zähne als auch eine gewisse Reibung für den Kraftschluss.
+
+Die Auswahl der richtigen Riemenform und -verbindung hängt von verschiedenen Faktoren ab, wie der Art der Anwendung, den Drehmomentanforderungen, der Geschwindigkeit, der Präzision und anderen spezifischen Anforderungen. Es ist immer ratsam, die Herstellerempfehlungen und die Anforderungen der spezifischen Anwendung zu beachten.
