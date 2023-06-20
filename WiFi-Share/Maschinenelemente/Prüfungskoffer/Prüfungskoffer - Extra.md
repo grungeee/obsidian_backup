@@ -278,7 +278,7 @@ N -> Normalisiert ->  Feinkorn -> Waermebechandelt ->
 - Dichtlippe (Innen fuer Oelkammer) Bauform: A
 - Staublippe Bauform: AS (+)
 
-!!! Dichtungsen: Bewegliche und Unbewegliche
+!!! Dichtungsen: Bewegliche und Ruhende (Unbewegliche)
 
 ## Lager
 ### Wälzlager
@@ -321,20 +321,64 @@ Bsp:
 - Treibngsdaempfer
 - Schort (Haertegrad)
 
-Natürlich! Hier ist eine Aufteilung der genannten Riemenprofile in kraft- und formschlüssige Formen und Verbindungen:
-
-Kraftschlüssige Formen und Verbindungen:
+## Riemen
+#### Kraftschlüssige Formen und Verbindungen:
 - Flachriemen: Flachriemen nutzen den Reibungseffekt zwischen dem Riemen und der Riemenscheibe, um die Kraft zu übertragen. Die Haftreibung sorgt für den Kraftschluss.
-
 - Keilriemen: Keilriemen nutzen die Keilform des Riemens und der Riemenscheiben, um die Kraftübertragung zu gewährleisten. Die Keilform erzeugt eine größere Kontaktfläche und erhöht den Kraftschluss durch Klemmung.
-
 - Rippenriemen: Rippenriemen basieren auf dem Keilriemenprinzip und nutzen die längs verlaufenden Rippen, um eine größere Kontaktfläche und einen besseren Kraftschluss zu erzielen.
 
-Formschlüssige Formen und Verbindungen:
+#### Formschlüssige Formen und Verbindungen:
 - Zahnriemen: Zahnriemen verwenden Zähne auf dem Riemen und Zahnriemenscheiben mit passenden Rillen, um die Kraftübertragung zu gewährleisten. Die Zahnform der Verbindung gewährleistet eine formschlüssige Verbindung.
-
 - Synchronriemen: Synchronriemen funktionieren ähnlich wie Zahnriemen, verwenden jedoch geradere Zähne für eine formschlüssige Verbindung.
 
 Es ist wichtig anzumerken, dass einige Riemenprofile sowohl kraft- als auch formschlüssige Elemente aufweisen können. Zum Beispiel haben Zahnriemen sowohl eine formschlüssige Verbindung durch die Zähne als auch eine gewisse Reibung für den Kraftschluss.
 
-Die Auswahl der richtigen Riemenform und -verbindung hängt von verschiedenen Faktoren ab, wie der Art der Anwendung, den Drehmomentanforderungen, der Geschwindigkeit, der Präzision und anderen spezifischen Anforderungen. Es ist immer ratsam, die Herstellerempfehlungen und die Anforderungen der spezifischen Anwendung zu beachten.
+Die Auswahl der richtigen Riemenform und -verbindung hängt von verschiedenen Faktoren ab, wie der **Art der Anwendung**, den Drehmomentanforderungen, der Geschwindigkeit, der Präzision und anderen spezifischen Anforderungen. Es ist immer ratsam, die Herstellerempfehlungen und die Anforderungen der spezifischen Anwendung zu beachten.
+
+## Kette
+### Rollengliderkette
+### Kettenschloss
+
+- Aussenlasche
+- Federsplint oder Sischerungssplint
+- Vernietet -> Kette in einem Endleossbauform
+
+## Bohrer
+#### Schnittgeschwindigkeit
+- Material
+	- Bohrere
+	- Werkstueck
+- Formel
+
+## Reibahle
+
+- Anschnitt vorne 
+- Davor Ansenken
+- Schmieren
+- Spannendes Feinbearbeitungs verfahren mit geringer Spanntiefe für Passgenaue Bohrungen
+- 
+## Sicherungsringe
+> Axialsicherungsring
+> Sichert Bauteile in axiale Richtung gegen Verschub
+### Aussen
+### Innen 
+
+
+## Zahnraeder
+### Verzahnungsart
+- Geradeverzahntes Zahngetriebe mit eine Evolvent
+- Gerade
+- Bogen
+- Schraeg
+- Pfeil
+### Zahnform
+
+### Ubersetzung
+### Reduktion
+Evolventen
+
+## Passstifte
+
+
+## Nieten
+- es git keinen gefuegeveraenderung
