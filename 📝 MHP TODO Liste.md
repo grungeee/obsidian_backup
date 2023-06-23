@@ -1,0 +1,65 @@
+- ## NAWI
+	- Physikalische Grundgrößen und Einheiten
+	- SI-System
+	- Grundbegriffe der Kinematik und Dynamik
+	- Die wichtigsten Symbole für chemische Elemente
+	- Physikalische Grundlagen des elektrischen Strom
+	- Leiter, Halbleiter und Nichtleiter (Isolatoren)
+- ## Maschinenelemente
+	- Lösbare und unlösbare Verbindungen
+	- Verbindungselemente: Schrauben, Nieten
+	- Arten von Gewinden
+	- Keile, Federn
+	- Lager: Wälz- und Gleitlager (grundlegende Unterscheidung, Materialien)
+	- Sicherungselemente
+- ## Mathe
+	- Grundrechnungsarten
+	- Rechnen mit Vorzeichen und Klammern
+	- Vorrangsregeln 
+	- Rechnen mit Brüchen
+	- Rechnen mit Variablen
+	- Einfach Formelumwandlungen
+	- Prozentrechnungen
+	- SI-Vorsätze und Zehnerpotenzen
+	- Umrechnen von Einheiten, Flächen- und Volumenberechnung
+- ## Fertigungstechnik & Werkstoffkunde
+	- ### Werkstoffkunde
+	- Eisen- und Stahlherstellung
+		- Werkstofftechnik **S. 332**
+			- Metalle
+				- Eisen-Werkstoffe
+					- Stähle
+					- Eisen-Gusswerkstoffe
+			- Nichtmetalle
+			- Verbund-Werkstoffe
+	- Übersicht über Wärmebehandlungsverfahren (Glühen, Härten, Anlassen, Vergüten)
+	- Materialien kennen und erkennen
+	- ### Fertigungstechnik
+	- Überblick über Bearbeitungsverfahren (spanend und spanlos) 
+	- Elemente einer konventionellen Dreh- und Fräsmaschine
+	- Winkel an der Schneide (Span-, Keil-, Freiwinkel)
+	- Technologie des Schweißens
+- ## Technisches Zeichnen
+	- Grundlagen des technischen Zeichnens
+	- Ebene und räumliche Darstellung
+	- Händisches Erstellen von Skizzen
+	- Bemaßung einfacher Werkstücke
+	- Toleranzangaben und Oberflächenzeichen, Passungen
+	- Darstellung von Gewinden und Schnitten, Bezeichnungen von Gewinden
+	- Lesen von Plänen und technischen 2 — Zeichnungen
+	- Schweißtechnik
+- ## Metallhandwerkstätte
+	- Spanende Bearbeitungsverfahren  — Arbeitsabläufe:
+		- Schneiden von Gewinden, 
+		- Ziehen von Nieten, 
+		- Anreißen
+		- Längenmessung, 
+		- Messwerkzeuge, 
+		- Noniusarten
+		- Lehren
+- ## Elektrotechnik
+	- Aufbau eines Stromkreises
+	- Begriffe Gleichstrom / Wechselstrom
+	- Elektrische Grundgrößen: Stromstärke, Spannung, Widerstand Ohm'sches Gesetz
+	- Elektrische Arbeit und Leistung Schaltsymbole
+	- Zeichnen einfacher er Lampenschaltungen
