@@ -1,3 +1,10 @@
+# WICHTIG!!! - Zu Prüfung mitnehmen
+- ## Arbeitsberichte
+- ## Bewerbungsmappe
+- ## Zeichenzeug
+- ## Kugelschreiber
+- ## Timer / Uhr
+# Lernstoff
 - ## NAWI
 	- Physikalische Grundgrößen und Einheiten
 	- SI-System
@@ -29,6 +36,7 @@
 			- Metalle
 				- Eisen-Werkstoffe
 					- Stähle
+						- Was ist Stahl und welche Stähle gibt es?
 					- Eisen-Gusswerkstoffe
 				- Nichteisen-Metalle
 					- Schwermetalle
@@ -68,6 +76,7 @@
 		- Noniusarten
 		- Lehren
 - ## Elektrotechnik
+	- ***5 Sicherheitsregeln!!!***
 	- Aufbau eines Stromkreises
 	- Begriffe Gleichstrom / Wechselstrom
 	- Elektrische Grundgrößen: Stromstärke, Spannung, Widerstand Ohm'sches Gesetz
