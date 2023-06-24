@@ -30,8 +30,18 @@
 				- Eisen-Werkstoffe
 					- Stähle
 					- Eisen-Gusswerkstoffe
+				- Nichteisen-Metalle
+					- Schwermetalle
+					- Leichtmetalle
 			- Nichtmetalle
+				- Künstliche Nichtmetallwerkstoffe
+					- z.B. Kunststoffe, Glas  Keramik
+				- Naturwerkstoffe
+					- z.B. Granitstein
+					- Grafit
+					-  Holz
 			- Verbund-Werkstoffe
+				- 
 	- Übersicht über Wärmebehandlungsverfahren (Glühen, Härten, Anlassen, Vergüten)
 	- Materialien kennen und erkennen
 	- ### Fertigungstechnik
