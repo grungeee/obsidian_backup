@@ -7,7 +7,7 @@
 # Lernstoff
 - ## NAWI
 	- Physikalische Grundgrößen und Einheiten
-	- SI-System ii
+	- SI-System 
 	- Grundbegriffe der Kinematik und Dynamik
 	- Die wichtigsten Symbole für chemische Elemente
 	- Physikalische Grundlagen des elektrischen Strom
