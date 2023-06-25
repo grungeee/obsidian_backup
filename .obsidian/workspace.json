@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MHP Fragen.md",
-                "mode": "preview",
+                "file": "Fertigungsverfahren.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ferti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MHP Fragen.md",
+                "file": "Fertigungsverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MHP Fragen.md",
+                "file": "Fertigungsverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MHP Fragen.md"
+                "file": "Fertigungsverfahren.md"
               }
             }
           }
@@ -171,8 +172,10 @@
   },
   "active": "3c21f0d6d7892776",
   "lastOpenFiles": [
-    "📝 MHP TODO Liste.md",
+    "WiFi-Share/Werkstofftechnik/Stack/⁉️ Anki Fragen und Antworten.md",
+    "Fertigungsverfahren.md",
     "MHP Fragen.md",
+    "📝 MHP TODO Liste.md",
     "🏡 Home.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Extra.md",
     "🔥 MHP",
@@ -212,8 +215,6 @@
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
     "Untitled 1",
     "WiFi/publish.css",
-    "WiFi/🏡 Home.md",
-    "WiFi/misc/Obsidian Git.md",
     "WiFi/Werkzeugkoffer 4 von Luca.docx",
     "WiFi/WiFi-Share/Metallhelfer 2/2.mediawiki",
     "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.docx"
