@@ -131,6 +131,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
       "flashcards-obsidian:Generate flashcards": false,
