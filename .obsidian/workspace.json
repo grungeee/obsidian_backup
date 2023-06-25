@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "MHP Fragen.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "895c979acc94c757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "📝 MHP TODO Liste.md",
                 "mode": "source",
                 "source": false
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 MHP TODO Liste.md",
+                "file": "MHP Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 MHP TODO Liste.md",
+                "file": "MHP Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 MHP TODO Liste.md"
+                "file": "MHP Fragen.md"
               }
             }
           }
@@ -159,8 +171,9 @@
   },
   "active": "3c21f0d6d7892776",
   "lastOpenFiles": [
-    "🏡 Home.md",
     "📝 MHP TODO Liste.md",
+    "MHP Fragen.md",
+    "🏡 Home.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Extra.md",
     "🔥 MHP",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Anki.md",
@@ -201,7 +214,6 @@
     "WiFi/publish.css",
     "WiFi/🏡 Home.md",
     "WiFi/misc/Obsidian Git.md",
-    "WiFi/Excalidraw/Linienarten.md",
     "WiFi/Werkzeugkoffer 4 von Luca.docx",
     "WiFi/WiFi-Share/Metallhelfer 2/2.mediawiki",
     "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.docx"
