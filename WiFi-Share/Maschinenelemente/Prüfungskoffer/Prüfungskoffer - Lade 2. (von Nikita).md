@@ -1,6 +1,6 @@
 
 ## 1. Lade
-
+![[PK_L1.jpg|1000]]
 ## 2. Lade
 
 ![[PK_L2.jpg|1000]]
@@ -25,11 +25,12 @@ Das Gewinde im oberen Beriech ist Oval, also wir die Schraube durch Quetschverfo
 
 
 ## 3. Lade
-## 4. Lade
-![[PK_L4_v.jpg|100]]
-
-![[PK_L1.jpg|100]]
-
 ![[PK_L3.jpg|1000]]
+## 4. Lade
 
-![[PK_L4_h.jpg|100]]
+![[PK_L4_h.jpg|1000]]
+
+
+
+
+
