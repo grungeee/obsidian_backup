@@ -1,51 +1,35 @@
 {
   "main": {
-    "id": "40dde09076e06442",
+    "id": "7b480826afe49784",
     "type": "split",
     "children": [
       {
-        "id": "c20c22e717c2d444",
+        "id": "b33f674bf8e39700",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6fb1bbc639ad09",
+            "id": "8f3c128dabeabdee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7b5b7d0ade80b88",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ed406a15b82618ed",
+    "id": "fa564e27f105d8fc",
     "type": "split",
     "children": [
       {
-        "id": "dea9b041f1449870",
+        "id": "8d4defd99022bbc2",
         "type": "tabs",
         "children": [
           {
-            "id": "b535e0da02c25386",
+            "id": "9c395e19948df6a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +39,7 @@
             }
           },
           {
-            "id": "bcbbe707ddb2819d",
+            "id": "20b7cee859c33d60",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +54,7 @@
             }
           },
           {
-            "id": "ddbd341c4e50609f",
+            "id": "357311b9c10009fb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "d6fabc8829228524",
+    "id": "7a4f192ae49982e7",
     "type": "split",
     "children": [
       {
-        "id": "153619249b46bd70",
+        "id": "97642828da6eb12c",
         "type": "tabs",
         "children": [
           {
-            "id": "93595132daf572e4",
+            "id": "7bd68f2f68f8b7b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +92,7 @@
             }
           },
           {
-            "id": "3e5f1fc7a7beb189",
+            "id": "cd446edebb74dd83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +103,7 @@
             }
           },
           {
-            "id": "8c84dd6b487bc116",
+            "id": "a5307d70a644383e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,15 +114,14 @@
             }
           },
           {
-            "id": "963d7618d8b025e8",
+            "id": "45f56daa2abe88c8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,6 +132,7 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
+      "flashcards-obsidian:Generate flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -156,59 +140,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "publish:Publish changes...": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b7b5b7d0ade80b88",
+  "active": "8f3c128dabeabdee",
   "lastOpenFiles": [
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
-    "Untitled 10.md",
+    "nll.md",
+    "Untitled.md",
     "Untitled 9.md",
-    "Untitled 7.md",
     "Untitled 8.md",
+    "Untitled 7.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
+    "Untitled 10.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "nll.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.html",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.docx",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L4_v.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/PK_L1.jpg",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230534.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230434.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230402.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230255.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230230.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230212.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230116.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230050.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
-    "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/PK - Liste.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
-    "_debug_remotely_save/log_hist_exported_on_1686336138738.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
-    "🏡 Home.md",
-    "Untitled 1",
-    "Untitled",
-    "WiFi/publish.css",
-    "WiFi/🏡 Home.md",
-    "WiFi/misc/Obsidian Git.md",
-    "WiFi/Excalidraw/Linienarten.md",
-    "WiFi/Prüfungskoffer Beispiel.md",
-    "WiFi/WiFi-Share/Metallhelfer 2/2.md",
-    "WiFi/WiFi-Share/Metallhelfer 2/1.md",
-    "WiFi/Werkzeugkoffer 4 von Luca.docx",
-    "WiFi/WiFi-Share/Metallhelfer 2/2.mediawiki",
-    "WiFi/WiFi-Share/Metallhelfer 2/Fragen INPUT.docx"
+    "📝 MHP TODO Liste.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Extra.md",
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Anki.md",
+    "MHP Fragen.md",
+    "Fertigungsverfahren.md"
   ]
 }
