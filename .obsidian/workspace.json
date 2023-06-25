@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b7b5b7d0ade80b88",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -144,6 +155,7 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
+<<<<<<< HEAD
       "publish:Publish changes...": false
     }
   },
@@ -151,6 +163,25 @@
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
+=======
+      "flashcards-obsidian:Generate flashcards": false
+    }
+  },
+  "active": "b7b5b7d0ade80b88",
+  "lastOpenFiles": [
+    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
+    "Untitled 10.md",
+    "Untitled 9.md",
+    "Untitled 7.md",
+    "Untitled 8.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+>>>>>>> senpai
     "nll.md",
     "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
     "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
