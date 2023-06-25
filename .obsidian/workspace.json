@@ -1,47 +1,35 @@
 {
   "main": {
-    "id": "60226efe2e792e8c",
+    "id": "7b480826afe49784",
     "type": "split",
     "children": [
       {
-        "id": "45cba697f029a9ca",
+        "id": "b33f674bf8e39700",
         "type": "tabs",
         "children": [
           {
-            "id": "6e052192110c4ded",
+            "id": "8f3c128dabeabdee",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "b7b5b7d0ade80b88",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1c873573cd127208",
+    "id": "fa564e27f105d8fc",
     "type": "split",
     "children": [
       {
-        "id": "2c818851daf30c7c",
+        "id": "8d4defd99022bbc2",
         "type": "tabs",
         "children": [
           {
-            "id": "7fbaa0a30bf49504",
+            "id": "9c395e19948df6a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +39,7 @@
             }
           },
           {
-            "id": "886864b75660450b",
+            "id": "20b7cee859c33d60",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +54,7 @@
             }
           },
           {
-            "id": "825f2e0b6591f867",
+            "id": "357311b9c10009fb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "dcd264b8596d0e70",
+    "id": "7a4f192ae49982e7",
     "type": "split",
     "children": [
       {
-        "id": "94df5ead23cc72f1",
+        "id": "97642828da6eb12c",
         "type": "tabs",
         "children": [
           {
-            "id": "8aeade125b6c5400",
+            "id": "7bd68f2f68f8b7b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,7 +92,7 @@
             }
           },
           {
-            "id": "762281100681485d",
+            "id": "cd446edebb74dd83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +103,7 @@
             }
           },
           {
-            "id": "e9944e9890c88825",
+            "id": "a5307d70a644383e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,7 +114,7 @@
             }
           },
           {
-            "id": "2248b907cdf7286c",
+            "id": "45f56daa2abe88c8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -142,7 +130,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
       "flashcards-obsidian:Generate flashcards": false,
@@ -155,74 +142,10 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-<<<<<<< HEAD
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6e052192110c4ded",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik ANKI(1).md",
-=======
-      "flashcards-obsidian:Generate flashcards": false
-    }
-  },
-  "active": "b7b5b7d0ade80b88",
-  "lastOpenFiles": [
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
-    "Untitled 10.md",
-    "Untitled 9.md",
-    "Untitled 7.md",
-    "Untitled 8.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
->>>>>>> senpai
-    "nll.md",
-    "WiFi-Share/Metallhelfer 2/Fragen OUTPUT.md",
-    "WiFi-Share/Metallhelfer 2/Fragen INPUT.md",
-    "WiFi-Share/Metallhelfer 2/Fragen INPUT.docx",
-    "WiFi-Share/Metallhelfer 2/1_edited_original.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO/Prüfungskoffer Muster.docx",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer_komplett_Original-WKO.pdf",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Muster.docx",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer Komplett.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 4. (von Luca).md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Lade 2. (von Nikita).md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/PK - Liste.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.md",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Prüfungskoffer Muster.docx",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230534.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230434.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230402.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230255.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230230.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230212.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230116.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611230050.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611225846.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images/Pasted image 20230611225730.png",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer/Images",
-    "WiFi-Share/Maschinenelemente/Prüfungskoffer",
-    "WiFi-Share/Maschinenelemente/Maschinenelemente.md",
-    "WiFi-Share/Maschinenelemente",
-    "Untitled.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 10.md",
-    "Untitled 1.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
-    "WiFi-Share/Elektrotechnik Grundlagen/Stack/ET - Test Vorbereitung.md"
-  ]
+  "active": "8f3c128dabeabdee",
+  "lastOpenFiles": []
 }
