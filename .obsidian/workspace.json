@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "22a4828852c329fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,13 +147,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "22a4828852c329fa",
+  "active": "8f3c128dabeabdee",
   "lastOpenFiles": [
+    "Fertigungsverfahren.md",
+    "MHP Fragen.md",
     "📝 MHP TODO Liste.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Extra.md",
     "WiFi-Share/Maschinenelemente/Prüfungskoffer/Prüfungskoffer - Anki.md",
-    "MHP Fragen.md",
-    "Fertigungsverfahren.md",
     "nll.md",
     "Untitled.md",
     "Untitled 9.md",
