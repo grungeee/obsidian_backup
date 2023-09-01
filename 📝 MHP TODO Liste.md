@@ -1,4 +1,4 @@
-		# WICHTIG!!! - Zu Prüfung mitnehmen
+# WICHTIG!!! - Zu Prüfung mitnehmen
 - ## Arbeitsberichte
 - ## Bewerbungsmappe
 - ## Zeichenzeug
